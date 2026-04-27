@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large data files
+*.pkl
+*.h5ad
+
+# Backup model directories
+sae_dictionary-learning_v*/
+sae_backup_*/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Credentials
+.env
