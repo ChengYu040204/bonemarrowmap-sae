@@ -1,0 +1,78 @@
+feature_id,programme_name,cluster,sub_cluster_activation
+0,Plasma cell immunoglobulin secretion programme,2,2.1
+12,Plasma cell ER/secretory programme,2,2.1
+14,Plasma cell immunoglobulin secretion programme,2,2.1
+16,Plasma cell immunoglobulin secretion programme,2,2.1
+254,Plasma cell immunoglobulin secretion programme,2,2.1
+470,Plasma cell immunoglobulin secretion programme,2,2.1
+484,Plasma cell immunoglobulin secretion programme,2,2.1
+816,Plasma cell immunoglobulin secretion programme,2,2.1
+1149,Plasma cell immunoglobulin secretion programme,2,2.1
+1269,Plasma cell immunoglobulin secretion programme,2,2.1
+1665,Plasma cell immunoglobulin secretion programme,2,2.1
+1,Plasma cell immunoglobulin secretion programme,2,2.2
+6,Plasma cell immunoglobulin secretion programme,2,2.2
+7,Plasma cell immunoglobulin secretion programme,2,2.2
+8,Plasma cell immunoglobulin secretion programme,2,2.2
+9,Plasma cell immunoglobulin secretion programme,2,2.2
+13,Plasma cell immunoglobulin secretion programme,2,2.2
+19,Plasma cell immunoglobulin secretion programme,2,2.2
+24,Plasma cell immunoglobulin secretion programme,2,2.2
+56,Plasma cell immunoglobulin secretion programme,2,2.2
+73,Plasma cell immunoglobulin secretion programme,2,2.2
+75,Plasma cell immunoglobulin secretion programme,2,2.2
+574,Plasma cell immunoglobulin secretion programme,2,2.2
+987,Plasma cell secretory/UPR programme,2,2.2
+1428,Plasma cell immunoglobulin secretion programme,2,2.2
+1434,Plasma cell immunoglobulin secretory programme,2,2.2
+1481,Plasma cell immunoglobulin secretion programme,2,2.2
+1552,Plasma cell unfolded protein response,2,2.2
+2032,Plasma cell immunoglobulin secretion programme,2,2.2
+5,Plasma cell ER/secretory immunoglobulin programme,2,2.3
+355,Plasma cell immunoglobulin secretion programme,2,2.3
+575,Plasma cell immunoglobulin secretion programme,2,2.3
+979,Plasma cell immunoglobulin secretion programme,2,2.3
+1357,Plasma cell immunoglobulin secretion programme,2,2.3
+90,Plasma cell immunoglobulin secretion programme,2,2.4
+548,Plasma cell immunoglobulin secretion programme,2,2.4
+576,Plasma cell immunoglobulin secretion programme,2,2.4
+837,Plasma cell ER/secretory programme,2,2.4
+1460,Plasma cell ER protein secretion,2,2.4
+1581,Plasma cell immunoglobulin secretion programme,2,2.4
+1825,Plasma cell immunoglobulin secretion programme,2,2.4
+40,Early erythro-megakaryocytic progenitor proliferation,8,8.1
+64,Erythro-megakaryocytic progenitor ribosome biogenesis,8,8.1
+123,Bone marrow stromal niche signalling,8,8.1
+419,Early erythroid progenitor proliferation programme,8,8.1
+654,Early erythroblast proliferative biosynthesis,8,8.1
+850,Proliferating early erythro-megakaryocyte progenitors,8,8.1
+944,Erythro-megakaryocytic progenitor proliferation programme,8,8.1
+1678,Early erythroid progenitor proliferation programme,8,8.1
+1839,Proliferating megakaryocyte-erythroid progenitor programme,8,8.1
+81,Early B-cell / Pre-B cell differentiation,8,8.2
+118,Mixed lymphoid-erythroid progenitor state,8,8.2
+51,Erythro-megakaryocytic progenitor proliferation programme,8,8.3
+58,Proliferating progenitor cell cycling programme,8,8.3
+65,Dendritic/megakaryocyte precursor metabolic priming,8,8.3
+76,Megakaryocyte precursor proliferative programme,8,8.3
+88,Proliferating progenitor metabolic/cell-cycle programme,8,8.3
+89,Cell cycle / mitotic proliferation programme,8,8.3
+108,Proliferating progenitor chromatin remodeling programme,8,8.3
+179,Large Pre-B cell translational burst,8,8.3
+221,Proliferating progenitor chromatin/metabolic programme,8,8.3
+296,Proliferating progenitor biosynthetic programme,8,8.3
+528,Erythro-megakaryocytic progenitor proliferation programme,8,8.3
+570,Translational burst in proliferating progenitors,8,8.3
+739,Ribosome biogenesis in erythro-megakaryocytic progenitors,8,8.3
+799,Proliferating B-cell precursor programme,8,8.3
+1079,Metabolically active progenitor biosynthesis programme,8,8.3
+1150,Progenitor cell proliferation and RNA processing,8,8.3
+1202,Proliferative progenitor translational/splicing programme,8,8.3
+1340,Erythroblast proliferative biosynthetic programme,8,8.3
+1471,Metabolically active proliferating progenitor state,8,8.3
+1579,Cycling B-cell precursor chromatin remodeling,8,8.3
+1742,Proliferating megakaryocyte-erythroid progenitor programme,8,8.3
+1760,Proliferating megakaryocyte precursor programme,8,8.3
+1865,Proliferative megakaryocyte-erythroid progenitor programme,8,8.3
+2005,Erythro-megakaryocyte progenitor proliferative programme,8,8.3
+2012,Early erythroid progenitor proliferative programme,8,8.3
