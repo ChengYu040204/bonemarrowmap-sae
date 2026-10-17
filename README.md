@@ -2,7 +2,7 @@
 
 **FP-Decode: Sparse Autoencoder-based Functional Programme Discovery and RAG-LLM Annotation in Human Haematopoiesis**
 
-Zhuocheng (Cheng) Yu, BSDB Gurdon Summer Studentship, UCL Research Department of Structural and Molecular Biology. Supervisor: Dr Joseph Ng (Single-cell AI and Interpretability).
+Zhuocheng (Cheng) Yu, UCL Research Department of Structural and Molecular Biology. Supervisor: Dr Joseph Ng (Single-cell AI and Interpretability).
 
 ## What this repository does
 
