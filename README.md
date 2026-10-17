@@ -77,4 +77,4 @@ Marks S. et al. dictionary_learning. https://github.com/saprmarks/dictionary_lea
 
 ## Acknowledgements
 
-Dr Joseph Ng (UCL) for supervision and the original activation-extraction and SAE-training templates; the British Society for Developmental Biology for the Gurdon Summer Studentship.
+Dr Joseph Ng (UCL) for supervision and the original activation-extraction and SAE-training templates
