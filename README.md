@@ -9,18 +9,20 @@ Zhuocheng (Cheng) Yu, BSDB Gurdon Summer Studentship, UCL Research Department of
 Deep generative models such as scVI integrate single-cell atlases well, but their latent dimensions mix many biological signals and cannot be read directly. This project borrows sparse autoencoders (SAEs) from mechanistic interpretability of language models and applies them to the scVI encoder of the BoneMarrowMap human bone-marrow atlas (Zeng et al. 2025; 263,159 cells × 34,009 genes; 161,604 cells × 4,000 highly variable genes used for training). The SAE unmixes the 128-dimensional encoder activations into 2,048 sparse features; each active feature is a candidate "functional programme" (a co-regulated gene set). A retrieval-augmented LLM pipeline names each programme, external pathway databases validate the names, and the programmes are organised into a cross-lineage "FP-Tree" that is then used to test whether progenitors activate their future lineage's programmes before they show the phenotype.
 
 ```
-BoneMarrowMap h5ad (161,604 × 4,000)
+BoneMarrowMap h5ad (161,604 cells × 4,000 genes)
   → scVI encoder activations (128-dim, forward hook)
-  → normalisation (centre + 95th-percentile L2 scale)        activation_norm_params.pt
-  → Sparse Autoencoder 128 → 2,048, l1 = 5e-4               ae.pt, config.json
+  → normalisation: centre + 95th-percentile L2 scale
+  → sparse autoencoder 128 → 2,048, l1 = 5e-4
   → ANOVA feature selection (209 active features)
-  → gene signatures (top-200 cells vs background, Welch t-test)
+  → gene signatures: top-200 cells vs background, Welch t-test
   → LLM annotation: zero-shot → RAG (MyGene.info) → few-shot → background-conditional
   → validation: manual comparison + GSEA/ORA (MSigDB Hallmark, Reactome)
   → TF-IDF clustering → FP-Tree
   → lineage-specific SAEs (T/NK, DC, monocyte) → cross-lineage FP-Tree (1,015 programmes)
   → progenitor commitment scoring along the haematopoietic hierarchy
 ```
+
+Saved artefacts of the first model: `activation_norm_params.pt`, `ae.pt`, `config.json` (repository root).
 
 ## Key results
 
@@ -35,19 +37,15 @@ BoneMarrowMap h5ad (161,604 × 4,000)
 
 ## Repository layout
 
-```
-root/            Phase 1 files uploaded in April to May 2026 (first SAE notebooks, zero-shot / RAG / few-shot
-                 annotations, GSEA workbook, ae.pt and config.json of the first model); kept for provenance
-code/            Phase 1 t-test series and Phase 2 scripts: task7c to task14a, Route A (task10), Route B extraction,
-                 training and annotation for T/NK, DC and monocytes, cross-lineage FP-Tree, destiny programmes
-notebooks/       Route B training notebooks (T/NK, DC, monocyte), FP-Tree analysis, progenitor commitment (Step A, Step B)
-models/          final SAE weights and configs (full atlas l1 = 5e-4, T/NK, DC, monocyte), per-lineage normalisation
-                 parameters and global cell indices, plus the config of every ablation run (ablation_configs/)
-annotations/     LLM annotations per strategy: global t-test, contrastive, B-cell restricted, hybrid, Route A, Route B
-signatures/      gene signatures per strategy, the MyGene.info gene-function cache (about 1,500 genes), destiny gene sets
-outputs/         anova/ rankings, fp_tree/ assignments and sunburst, commitment/ matrices and heatmaps,
-                 datasheets/ evaluation workbooks, figures/
-```
+| Location | Contents |
+|---|---|
+| root | Phase 1 files uploaded in April to May 2026 (first SAE notebooks, zero-shot / RAG / few-shot annotations, GSEA workbook, `ae.pt` and `config.json` of the first model), kept in place for provenance |
+| `code/` | Phase 1 t-test series and all Phase 2 scripts: `task7c` to `task14a`, Route A (`task10`), Route B extraction, training and annotation for T/NK, DC and monocytes, cross-lineage FP-Tree, destiny programmes |
+| `notebooks/` | Route B training notebooks (T/NK, DC, monocyte), FP-Tree analysis, progenitor commitment (Step A and Step B) |
+| `models/` | final SAE weights and configs (full atlas l1 = 5e-4, T/NK, DC, monocyte), per-lineage normalisation parameters and global cell indices, and the config of every ablation run in `ablation_configs/` |
+| `annotations/` | LLM annotations per strategy: global t-test, contrastive, B-cell restricted, hybrid, Route A, Route B |
+| `signatures/` | gene signatures per strategy, the MyGene.info gene-function cache (about 1,500 genes), destiny gene sets |
+| `outputs/` | `anova/` rankings, `fp_tree/` assignments and sunburst, `commitment/` matrices and heatmaps, `datasheets/` evaluation workbooks, `figures/` |
 
 Large intermediate matrices (activation matrices and SAE feature matrices, 30 MB to 1.4 GB each) are not tracked; the extraction and training scripts regenerate them. The two h5ad files are not tracked either; see Data below.
 
@@ -69,11 +67,11 @@ Phase 1 (full-atlas SAE, annotation, validation, FP-Tree prototype) and Phase 2 
 
 ## References
 
-Zeng A. G. X. et al. (2025). Single-cell transcriptional atlas of human hematopoiesis reveals genetic and hierarchy-based determinants of aberrant AML differentiation. Blood Cancer Discovery 6:307 to 324. doi:10.1158/2643-3230.BCD-24-0342.
-Hsung E. et al. (2024). InterPLM: discovering interpretable features in protein language models via sparse autoencoders.
-Bricken T. et al. (2023). Towards Monosemanticity: decomposing language models with dictionary learning. Anthropic.
-Lopez R. et al. (2018). Deep generative modeling for single-cell transcriptomics. Nature Methods.
-Marks S. et al. dictionary_learning. https://github.com/saprmarks/dictionary_learning
+1. Zeng A. G. X. et al. (2025). Single-cell transcriptional atlas of human hematopoiesis reveals genetic and hierarchy-based determinants of aberrant AML differentiation. Blood Cancer Discovery 6: 307 to 324. doi:10.1158/2643-3230.BCD-24-0342.
+2. Hsung E. et al. (2024). InterPLM: discovering interpretable features in protein language models via sparse autoencoders.
+3. Bricken T. et al. (2023). Towards Monosemanticity: decomposing language models with dictionary learning. Anthropic.
+4. Lopez R. et al. (2018). Deep generative modeling for single-cell transcriptomics. Nature Methods.
+5. Marks S. et al. dictionary_learning. https://github.com/saprmarks/dictionary_learning
 
 ## Acknowledgements
 
