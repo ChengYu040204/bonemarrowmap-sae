@@ -230,3 +230,9 @@ sae_backup_*/
 
 # Credentials
 .env
+
+*.pkl
+*.h5ad
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
