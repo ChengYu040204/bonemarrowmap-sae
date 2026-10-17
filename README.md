@@ -45,7 +45,8 @@ Saved artefacts of the first model: `activation_norm_params.pt`, `ae.pt`, `confi
 | `models/` | final SAE weights and configs (full atlas l1 = 5e-4, T/NK, DC, monocyte), per-lineage normalisation parameters and global cell indices, and the config of every ablation run in `ablation_configs/` |
 | `annotations/` | LLM annotations per strategy: global t-test, contrastive, B-cell restricted, hybrid, Route A, Route B |
 | `signatures/` | gene signatures per strategy, the MyGene.info gene-function cache (about 1,500 genes), destiny gene sets |
-| `outputs/` | `anova/` rankings, `fp_tree/` assignments and sunburst, `commitment/` matrices and heatmaps, `datasheets/` evaluation workbooks, `figures/` | | `docs/` | `FP-Decode_Final_Project_Presentation_20260518.pdf`: slides of the final project presentation (15-minute talk, UCL, 18 May 2026, 13 slides); covers Phase 1 up to the FP-Tree prototype, the Phase 2 lineage SAEs and commitment results are summarised in Key results above |
+| `outputs/` | `anova/` rankings, `fp_tree/` assignments and sunburst, `commitment/` matrices and heatmaps, `datasheets/` evaluation workbooks, `figures/` |
+| `docs/` | `FP-Decode_Final_Project_Presentation_20260518.pdf`: slides of the final project presentation (15-minute talk, UCL, 18 May 2026, 13 slides); covers Phase 1 up to the FP-Tree prototype, the Phase 2 lineage SAEs and commitment results are summarised in Key results above |
 
 Large intermediate matrices (activation matrices and SAE feature matrices, 30 MB to 1.4 GB each) are not tracked; the extraction and training scripts regenerate them. The two h5ad files are not tracked either; see Data below.
 
