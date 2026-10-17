@@ -1,0 +1,5099 @@
+{
+  "148": {
+    "genes": [
+      "IGLV3-27",
+      "JCHAIN",
+      "HBD",
+      "HBM",
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "CA1",
+      "AHSP",
+      "CCND1",
+      "FKBP2",
+      "JSRP1",
+      "ALAS2",
+      "FRZB",
+      "MZB1"
+    ],
+    "celltype_composition": {
+      "Mature B": 58.5,
+      "Plasma Cell": 34.0,
+      "Immature B": 7.5
+    }
+  },
+  "244": {
+    "genes": [
+      "NUCB2",
+      "PDIA6",
+      "DAD1",
+      "P4HB",
+      "BSG",
+      "RPS26",
+      "PRDX2",
+      "GSTP1",
+      "TMEM14C",
+      "GYPC",
+      "CISD2",
+      "CALR",
+      "MGST3",
+      "UQCRQ",
+      "UBB"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 43.0,
+      "Large Pre-B": 37.5,
+      "LMPP": 9.5,
+      "Pro-B Cycling": 8.5,
+      "MLP": 1.0
+    }
+  },
+  "249": {
+    "genes": [
+      "IGHG1",
+      "SSR4",
+      "IGHG3",
+      "FKBP11",
+      "IGLL5",
+      "CD27",
+      "PSAP",
+      "PLPP5",
+      "S100A6",
+      "PRDX4",
+      "SLAMF7",
+      "SEC11C",
+      "MZB1",
+      "SELENOM",
+      "CTSS"
+    ],
+    "celltype_composition": {
+      "Mature B": 48.5,
+      "Plasma Cell": 42.5,
+      "Immature B": 8.5
+    }
+  },
+  "332": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "IGKC",
+      "PRDX4",
+      "S100A6",
+      "SEC11C",
+      "MZB1",
+      "PSAP",
+      "SELENOM",
+      "FKBP2",
+      "FCRL5",
+      "SDF2L1",
+      "CD63",
+      "MYDGF",
+      "IGHD"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 53.0,
+      "Mature B": 40.0,
+      "Immature B": 7.0
+    }
+  },
+  "621": {
+    "genes": [
+      "SSR4",
+      "SEC11C",
+      "JCHAIN",
+      "IGHM",
+      "S100A6",
+      "FKBP11",
+      "PLPP5",
+      "ISG20",
+      "MZB1",
+      "TNFRSF13B",
+      "DERL3",
+      "FKBP2",
+      "SLAMF7",
+      "FCRL5",
+      "PSAP"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 53.5,
+      "Mature B": 40.5,
+      "Immature B": 6.0
+    }
+  },
+  "708": {
+    "genes": [
+      "IGLV3-27",
+      "MZB1",
+      "FKBP2",
+      "HBB",
+      "HBD",
+      "HBM",
+      "HBA2",
+      "JCHAIN",
+      "JSRP1",
+      "HBA1",
+      "SSR4",
+      "CA1",
+      "AHSP",
+      "MANF",
+      "DERL3"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 47.0,
+      "Mature B": 44.5,
+      "Immature B": 8.5
+    }
+  },
+  "1284": {
+    "genes": [
+      "SSR4",
+      "DAD1",
+      "CD63",
+      "MANF",
+      "PRDX4",
+      "PDIA6",
+      "GNG7",
+      "SDF2L1",
+      "HSP90B1",
+      "ACADVL",
+      "P4HB",
+      "BSG",
+      "FKBP11",
+      "PABPC4",
+      "CD59"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 56.0,
+      "Large Pre-B": 24.0,
+      "Mature B": 16.5,
+      "Immature B": 3.5
+    }
+  },
+  "1501": {
+    "genes": [
+      "IGHA1",
+      "SSR4",
+      "SLAMF7",
+      "ISG20",
+      "CD27",
+      "DERL3",
+      "S100A6",
+      "SEC11C",
+      "FKBP11",
+      "MANF",
+      "HSP90B1",
+      "PLPP5",
+      "HERPUD1",
+      "MZB1",
+      "IGLL5"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 48.0,
+      "Mature B": 43.5,
+      "Immature B": 8.5
+    }
+  },
+  "1722": {
+    "genes": [
+      "IGHG2",
+      "S100A6",
+      "SSR4",
+      "ZBP1",
+      "FKBP11",
+      "ISG20",
+      "SEC11C",
+      "CD27",
+      "PSAP",
+      "MZB1",
+      "ERLEC1",
+      "DERL3",
+      "IGLC2",
+      "TNFRSF13B",
+      "PLPP5"
+    ],
+    "celltype_composition": {
+      "Mature B": 50.0,
+      "Plasma Cell": 39.5,
+      "Immature B": 10.0
+    }
+  },
+  "0": {
+    "genes": [
+      "IGLC2",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "PRDX4",
+      "MZB1",
+      "MYDGF",
+      "PSAP",
+      "PDIA6",
+      "FKBP2",
+      "ITM2C",
+      "CD63",
+      "XBP1",
+      "P4HB",
+      "S100A6"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "CD63",
+      "MZB1",
+      "PSAP",
+      "PDIA6",
+      "MYDGF",
+      "P4HB",
+      "FKBP2",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "5": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "IGLC3",
+      "SEC11C",
+      "PSAP",
+      "PRDX4",
+      "MZB1",
+      "PLPP5",
+      "FKBP2",
+      "CHPF",
+      "XBP1",
+      "CD27",
+      "DERL3",
+      "CD63",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "6": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "CD63",
+      "XBP1",
+      "MZB1",
+      "PSAP",
+      "PDIA6",
+      "DAD1",
+      "FKBP2",
+      "MYDGF",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "7": {
+    "genes": [
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "IGKC",
+      "XBP1",
+      "CD63",
+      "PDIA6",
+      "MZB1",
+      "PSAP",
+      "DAD1",
+      "MYDGF",
+      "FKBP2",
+      "P4HB"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "8": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "XBP1",
+      "ITM2C",
+      "CD63",
+      "PSAP",
+      "PDIA6",
+      "DAD1",
+      "MZB1",
+      "P4HB",
+      "MYDGF",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "9": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "CD63",
+      "XBP1",
+      "MZB1",
+      "PDIA6",
+      "PSAP",
+      "FKBP2",
+      "P4HB",
+      "DAD1",
+      "MYDGF"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "12": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "PRDX4",
+      "MZB1",
+      "FKBP2",
+      "PDIA6",
+      "MYDGF",
+      "PSAP",
+      "CD63",
+      "P4HB",
+      "XBP1",
+      "IGLC2",
+      "DAD1",
+      "ITM2C"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "13": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "CD63",
+      "MZB1",
+      "HERPUD1",
+      "MYDGF",
+      "PSAP",
+      "ERLEC1",
+      "PDIA6",
+      "DAD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "14": {
+    "genes": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "PSAP",
+      "MZB1",
+      "FKBP2",
+      "PRDX4",
+      "XBP1",
+      "CD63",
+      "PLPP5",
+      "CD27",
+      "DAD1",
+      "SDF2L1",
+      "ITM2C"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "16": {
+    "genes": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "FKBP11",
+      "PRDX4",
+      "MZB1",
+      "MYDGF",
+      "ITM2C",
+      "PDIA6",
+      "PSAP",
+      "CD63",
+      "FKBP2",
+      "P4HB",
+      "DAD1",
+      "PLPP5"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "19": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "CD63",
+      "XBP1",
+      "PSAP",
+      "MZB1",
+      "PDIA6",
+      "DAD1",
+      "FKBP2",
+      "P4HB",
+      "MYDGF"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "24": {
+    "genes": [
+      "SSR4",
+      "IGKC",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "CD63",
+      "XBP1",
+      "PSAP",
+      "DAD1",
+      "PDIA6",
+      "MZB1",
+      "P4HB",
+      "FKBP2",
+      "HERPUD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "56": {
+    "genes": [
+      "SSR4",
+      "IGKC",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "CD63",
+      "DAD1",
+      "PSAP",
+      "MZB1",
+      "PDIA6",
+      "P4HB",
+      "MYDGF",
+      "FKBP2"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "73": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "CD63",
+      "PSAP",
+      "PDIA6",
+      "DAD1",
+      "MZB1",
+      "MYDGF",
+      "ERLEC1",
+      "P4HB"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "75": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "CD63",
+      "PSAP",
+      "PDIA6",
+      "DAD1",
+      "MZB1",
+      "P4HB",
+      "ERLEC1",
+      "MYDGF"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "90": {
+    "genes": [
+      "IGHG3",
+      "SSR4",
+      "SEC11C",
+      "IGHG1",
+      "FKBP11",
+      "PRDX4",
+      "CD63",
+      "PSAP",
+      "IGKC",
+      "MZB1",
+      "MYDGF",
+      "XBP1",
+      "ITM2C",
+      "HERPUD1",
+      "PLPP5"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "254": {
+    "genes": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "PRDX4",
+      "PSAP",
+      "XBP1",
+      "PLPP5",
+      "CRELD2",
+      "SDF2L1",
+      "CD27",
+      "DERL3",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "355": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "PRDX4",
+      "IGHG2",
+      "PSAP",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "CD63",
+      "S100A6",
+      "XBP1",
+      "HERPUD1",
+      "PLPP5",
+      "ITM2C",
+      "CD27"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "470": {
+    "genes": [
+      "SSR4",
+      "IGHA1",
+      "SEC11C",
+      "FKBP11",
+      "FKBP2",
+      "MZB1",
+      "PRDX4",
+      "MANF",
+      "MYDGF",
+      "CD63",
+      "PSAP",
+      "PLPP5",
+      "CRELD2",
+      "DAD1",
+      "ITM2C"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "484": {
+    "genes": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "FKBP2",
+      "MZB1",
+      "PRDX4",
+      "PSAP",
+      "CD63",
+      "XBP1",
+      "PLPP5",
+      "CD27",
+      "CRELD2",
+      "HERPUD1",
+      "ITM2C"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "548": {
+    "genes": [
+      "SSR4",
+      "IGKC",
+      "IGHG1",
+      "SEC11C",
+      "FKBP11",
+      "IGHG3",
+      "PSAP",
+      "ITM2C",
+      "MZB1",
+      "PRDX4",
+      "CD63",
+      "XBP1",
+      "IGHG4",
+      "HERPUD1",
+      "MYDGF"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "574": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "FKBP2",
+      "IGHA1",
+      "PRDX4",
+      "MZB1",
+      "MYDGF",
+      "DAD1",
+      "CD63",
+      "ERLEC1",
+      "HSP90B1",
+      "ITM2C",
+      "PLPP5",
+      "PSAP"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "575": {
+    "genes": [
+      "SSR4",
+      "JCHAIN",
+      "SEC11C",
+      "IGKC",
+      "FKBP11",
+      "FKBP2",
+      "MZB1",
+      "XBP1",
+      "ITM2C",
+      "CHPF",
+      "PRDX4",
+      "ISG20",
+      "PLPP5",
+      "UBE2J1",
+      "MYDGF"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "576": {
+    "genes": [
+      "SSR4",
+      "IGHG3",
+      "FKBP11",
+      "IGHG1",
+      "SEC11C",
+      "IGLC2",
+      "MZB1",
+      "FKBP2",
+      "PRDX4",
+      "PSAP",
+      "CD63",
+      "HERPUD1",
+      "XBP1",
+      "DERL3",
+      "PLPP5"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 85.0,
+      "Mature B": 12.0,
+      "Immature B": 3.0
+    }
+  },
+  "816": {
+    "genes": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PSAP",
+      "PRDX4",
+      "FKBP2",
+      "CD27",
+      "PLPP5",
+      "CD63",
+      "SDF2L1",
+      "ERLEC1",
+      "XBP1",
+      "DERL3"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "837": {
+    "genes": [
+      "SSR4",
+      "MZB1",
+      "JCHAIN",
+      "SEC11C",
+      "DERL3",
+      "SDF2L1",
+      "PLPP5",
+      "HERPUD1",
+      "IGLL5",
+      "FKBP11",
+      "FKBP2",
+      "MANF",
+      "MYDGF",
+      "HSP90B1",
+      "PRDX4"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 82.5,
+      "Mature B": 15.5,
+      "Immature B": 2.0
+    }
+  },
+  "979": {
+    "genes": [
+      "SSR4",
+      "IGKC",
+      "FKBP11",
+      "PRDX4",
+      "SEC11C",
+      "PSAP",
+      "CD63",
+      "XBP1",
+      "PLPP5",
+      "S100A6",
+      "HERPUD1",
+      "ITM2C",
+      "MZB1",
+      "MYDGF",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "987": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "PRDX4",
+      "MZB1",
+      "IGLC2",
+      "MYDGF",
+      "FKBP2",
+      "CD63",
+      "ITM2C",
+      "XBP1",
+      "PDIA6",
+      "P4HB",
+      "DAD1",
+      "PSAP"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1149": {
+    "genes": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "IGHA1",
+      "FKBP2",
+      "MYDGF",
+      "PLPP5",
+      "HSP90B1",
+      "MANF",
+      "ERLEC1",
+      "CD63",
+      "ITM2C"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1269": {
+    "genes": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "MZB1",
+      "FKBP11",
+      "PRDX4",
+      "ITM2C",
+      "FKBP2",
+      "XBP1",
+      "CD27",
+      "ERLEC1",
+      "PLPP5",
+      "PSAP",
+      "CD59",
+      "UBE2J1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1357": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "IGHG2",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "XBP1",
+      "ITM2C",
+      "HERPUD1",
+      "FKBP2",
+      "CD63",
+      "PSAP",
+      "MYDGF",
+      "PLPP5"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 87.5,
+      "Pro-B Cycling": 11.0,
+      "Pro-B VDJ": 1.0
+    }
+  },
+  "1428": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "MZB1",
+      "CD63",
+      "XBP1",
+      "MYDGF",
+      "FKBP2",
+      "ERLEC1",
+      "PSAP",
+      "PLPP5",
+      "DAD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1434": {
+    "genes": [
+      "SSR4",
+      "IGKC",
+      "FKBP11",
+      "SEC11C",
+      "CD63",
+      "XBP1",
+      "MZB1",
+      "PRDX4",
+      "HERPUD1",
+      "PSAP",
+      "ITM2C",
+      "DAD1",
+      "IGHA1",
+      "FKBP2",
+      "PLPP5"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1460": {
+    "genes": [
+      "SSR4",
+      "SEC11C",
+      "MZB1",
+      "DERL3",
+      "IGLL5",
+      "PRDX4",
+      "FKBP11",
+      "SLAMF7",
+      "PLPP5",
+      "HERPUD1",
+      "PSAP",
+      "HSP90B1",
+      "CD63",
+      "CD27",
+      "MYDGF"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 69.5,
+      "Mature B": 26.0,
+      "Immature B": 4.5
+    }
+  },
+  "1481": {
+    "genes": [
+      "IGHA1",
+      "SSR4",
+      "IGKC",
+      "FKBP11",
+      "SEC11C",
+      "FKBP2",
+      "MZB1",
+      "PRDX4",
+      "XBP1",
+      "HSP90B1",
+      "DAD1",
+      "MANF",
+      "PLPP5",
+      "MYDGF",
+      "PSAP"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1552": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "PRDX4",
+      "MZB1",
+      "FKBP2",
+      "XBP1",
+      "MYDGF",
+      "CD63",
+      "PSAP",
+      "ITM2C",
+      "PDIA6",
+      "ERLEC1",
+      "SDF2L1",
+      "HERPUD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1581": {
+    "genes": [
+      "IGHG1",
+      "IGKC",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "PSAP",
+      "CD63",
+      "PRDX4",
+      "XBP1",
+      "ITM2C",
+      "MZB1",
+      "PDIA6",
+      "MYDGF",
+      "SPAG4",
+      "HERPUD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1665": {
+    "genes": [
+      "IGLC2",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PRDX4",
+      "CD63",
+      "PSAP",
+      "FKBP2",
+      "S100A6",
+      "XBP1",
+      "ITM2C",
+      "ERLEC1",
+      "CD27",
+      "MYDGF"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1825": {
+    "genes": [
+      "IGHG1",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "CD63",
+      "PSAP",
+      "PRDX4",
+      "MZB1",
+      "XBP1",
+      "HERPUD1",
+      "FKBP2",
+      "ITM2C",
+      "PLPP5",
+      "PDIA6",
+      "IGHG3"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "2032": {
+    "genes": [
+      "IGHA1",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MYDGF",
+      "PRDX4",
+      "MZB1",
+      "FKBP2",
+      "HSP90B1",
+      "MANF",
+      "PLPP5",
+      "DAD1",
+      "PSAP",
+      "CD63",
+      "XBP1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "15": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "38": {
+    "genes": [
+      "H3F3A",
+      "STMN1",
+      "HMGN2",
+      "TUBA1B",
+      "PTMA",
+      "UBB",
+      "H2AFZ",
+      "HMGB1",
+      "HMGB2",
+      "H2AFV",
+      "HMGN1",
+      "TUBB",
+      "H2AFY",
+      "RPS24",
+      "DEK"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 90.5,
+      "Pro-B Cycling": 7.0,
+      "MLP": 1.5
+    }
+  },
+  "45": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "46": {
+    "genes": [
+      "MS4A1",
+      "HLA-DQA1",
+      "HLA-DQB1",
+      "LTB",
+      "HLA-DRB1",
+      "BANK1",
+      "LINC01781",
+      "CD74",
+      "HLA-DPA1",
+      "LINC00926",
+      "LINC01857",
+      "ARHGAP24",
+      "HLA-DPB1",
+      "HLA-DMB",
+      "GPR183"
+    ],
+    "celltype_composition": {
+      "Mature B": 69.0,
+      "Immature B": 16.5,
+      "Small Pre-B": 13.5
+    }
+  },
+  "55": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "HLA-DQB1",
+      "BANK1",
+      "HLA-DPB1",
+      "LINC00926",
+      "HLA-DRA",
+      "LINC01781",
+      "CD79A",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 79.0,
+      "Immature B": 18.5,
+      "Small Pre-B": 2.0
+    }
+  },
+  "57": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "59": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "63": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "HLA-DQB1",
+      "BANK1",
+      "HLA-DPB1",
+      "LINC01781",
+      "LINC00926",
+      "HLA-DMB",
+      "CD79A",
+      "HLA-DRA",
+      "GPR183"
+    ],
+    "celltype_composition": {
+      "Mature B": 78.0,
+      "Immature B": 17.5,
+      "Small Pre-B": 3.5
+    }
+  },
+  "84": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.5,
+      "Immature B": 18.5
+    }
+  },
+  "86": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.5,
+      "Immature B": 18.5
+    }
+  },
+  "92": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "93": {
+    "genes": [
+      "RPS24",
+      "RPS17",
+      "RPS23",
+      "RPL37A",
+      "RPLP0",
+      "RPL7A",
+      "EEF1B2",
+      "RPS2",
+      "MT-CO3",
+      "MT-CO2",
+      "RPL4",
+      "HNRNPA1",
+      "UQCRH",
+      "H3F3A",
+      "GAPDH"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 78.5,
+      "LMPP": 13.5,
+      "MLP": 3.5,
+      "Plasma Cell": 2.0,
+      "Pro-B Cycling": 1.5,
+      "Mature B": 1.0
+    }
+  },
+  "94": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "CD79A",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 18.0,
+      "Small Pre-B": 1.5
+    }
+  },
+  "99": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "CD79A",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 18.0,
+      "Small Pre-B": 1.5
+    }
+  },
+  "112": {
+    "genes": [
+      "MS4A1",
+      "LTB",
+      "HLA-DQA1",
+      "ARHGAP24",
+      "HLA-DRB1",
+      "HLA-DQB1",
+      "LINC01781",
+      "BANK1",
+      "LINC01857",
+      "HLA-DMB",
+      "LINC00926",
+      "GPR183",
+      "CD74",
+      "CCDC191",
+      "HCK"
+    ],
+    "celltype_composition": {
+      "Mature B": 65.0,
+      "Small Pre-B": 17.0,
+      "Immature B": 16.0,
+      "Pro-B VDJ": 1.0
+    }
+  },
+  "116": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "HLA-DPA1",
+      "BANK1",
+      "CD79A",
+      "HLA-DQB1",
+      "LINC01781",
+      "LINC00926",
+      "HLA-DPB1",
+      "GPR183",
+      "ARHGAP24",
+      "TNFRSF13C"
+    ],
+    "celltype_composition": {
+      "Mature B": 75.5,
+      "Immature B": 17.0,
+      "Plasma Cell": 7.5
+    }
+  },
+  "137": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "HLA-DRA",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.5,
+      "Immature B": 18.0,
+      "Plasma Cell": 1.5
+    }
+  },
+  "164": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "HLA-DQB1",
+      "BANK1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "GPR183",
+      "HLA-DRA",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 79.0,
+      "Immature B": 18.5,
+      "Plasma Cell": 2.5
+    }
+  },
+  "193": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "LINC01781",
+      "GPR183",
+      "HLA-DRA",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 79.5,
+      "Immature B": 17.5,
+      "Plasma Cell": 3.0
+    }
+  },
+  "208": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "HLA-DQB1",
+      "BANK1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "GPR183",
+      "HLA-DRA",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 79.0,
+      "Immature B": 18.5,
+      "Plasma Cell": 2.5
+    }
+  },
+  "209": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "368": {
+    "genes": [
+      "MS4A1",
+      "HLA-DQA1",
+      "CD74",
+      "HLA-DQB1",
+      "LTB",
+      "BANK1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "GPR183",
+      "LINC01857",
+      "LINC00926",
+      "TNFRSF13C",
+      "LINC01781",
+      "ARHGAP24",
+      "HLA-DOB"
+    ],
+    "celltype_composition": {
+      "Mature B": 75.0,
+      "Immature B": 15.5,
+      "Plasma Cell": 9.5
+    }
+  },
+  "378": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DQB1",
+      "LINC00926",
+      "HLA-DPB1",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "418": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DQB1",
+      "LINC00926",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC01781",
+      "GPR183",
+      "HLA-DRA",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 17.5,
+      "Plasma Cell": 2.5
+    }
+  },
+  "479": {
+    "genes": [
+      "PTMA",
+      "HMGN2",
+      "HMGB1",
+      "H2AFZ",
+      "H3F3A",
+      "HMGN1",
+      "STMN1",
+      "TUBA1B",
+      "RPLP0",
+      "SLC25A5",
+      "HNRNPA2B1",
+      "HNRNPA1",
+      "RPS24",
+      "ANP32B",
+      "HNRNPC"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 88.0,
+      "Pro-B Cycling": 7.5,
+      "Plasma Cell": 4.0
+    }
+  },
+  "583": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "588": {
+    "genes": [
+      "CD74",
+      "LTB",
+      "MS4A1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.5,
+      "Immature B": 18.5,
+      "Plasma Cell": 1.0
+    }
+  },
+  "664": {
+    "genes": [
+      "CD74",
+      "LTB",
+      "MS4A1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "HLA-DRA",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 18.5,
+      "Plasma Cell": 1.5
+    }
+  },
+  "729": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "757": {
+    "genes": [
+      "CD74",
+      "LTB",
+      "MS4A1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "763": {
+    "genes": [
+      "CD74",
+      "LTB",
+      "MS4A1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "CD79A",
+      "HLA-DPB1",
+      "LINC00926",
+      "LINC01781",
+      "HLA-DRA",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 18.5,
+      "Plasma Cell": 1.5
+    }
+  },
+  "795": {
+    "genes": [
+      "CD74",
+      "LTB",
+      "MS4A1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "890": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DQB1",
+      "LINC00926",
+      "HLA-DPB1",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "902": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "913": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "LINC00926",
+      "HLA-DPB1",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.5,
+      "Immature B": 18.0,
+      "Plasma Cell": 1.5
+    }
+  },
+  "992": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "HLA-DRA",
+      "CD79A",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.0
+    }
+  },
+  "999": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "CD79A",
+      "LINC01781",
+      "HLA-DPB1",
+      "LINC00926",
+      "GPR183",
+      "HLA-DMB",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 78.5,
+      "Immature B": 18.0,
+      "Plasma Cell": 3.5
+    }
+  },
+  "1015": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "CD79A",
+      "HLA-DPB1",
+      "LINC00926",
+      "LINC01781",
+      "HLA-DRA",
+      "GPR183",
+      "COTL1"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 17.5,
+      "Plasma Cell": 2.5
+    }
+  },
+  "1099": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "LINC01781",
+      "GPR183",
+      "HLA-DRA",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.5,
+      "Immature B": 17.5,
+      "Plasma Cell": 2.0
+    }
+  },
+  "1159": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "GPR183",
+      "HLA-DRA",
+      "LINC01781",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.5,
+      "Immature B": 18.0,
+      "Plasma Cell": 1.5
+    }
+  },
+  "1165": {
+    "genes": [
+      "MS4A1",
+      "CD74",
+      "HLA-DQA1",
+      "CD79A",
+      "HLA-DRB1",
+      "HLA-DPA1",
+      "GPR183",
+      "IGHM",
+      "LTB",
+      "ARHGAP24",
+      "CTSH",
+      "TNFRSF13C",
+      "HLA-DQB1",
+      "COTL1",
+      "BANK1"
+    ],
+    "celltype_composition": {
+      "Mature B": 67.5,
+      "Plasma Cell": 17.5,
+      "Immature B": 15.0
+    }
+  },
+  "1171": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DQB1",
+      "LINC00926",
+      "HLA-DPB1",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "1190": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "GPR183",
+      "LINC01781",
+      "CD79A",
+      "ARHGAP24",
+      "HLA-DRA"
+    ],
+    "celltype_composition": {
+      "Mature B": 79.5,
+      "Immature B": 17.5,
+      "Plasma Cell": 3.0
+    }
+  },
+  "1207": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DQB1",
+      "LINC00926",
+      "HLA-DPB1",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "1286": {
+    "genes": [
+      "MS4A1",
+      "CD74",
+      "LTB",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DPA1",
+      "HLA-DQB1",
+      "CD79A",
+      "GPR183",
+      "LINC01781",
+      "LINC00926",
+      "HLA-DPB1",
+      "ARHGAP24",
+      "LINC01857"
+    ],
+    "celltype_composition": {
+      "Mature B": 75.5,
+      "Immature B": 15.5,
+      "Plasma Cell": 8.5
+    }
+  },
+  "1287": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "1353": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DQA1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DQB1",
+      "LINC01781",
+      "CD79A",
+      "LINC00926",
+      "HLA-DPB1",
+      "GPR183",
+      "LINC01857",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 76.5,
+      "Immature B": 16.5,
+      "Plasma Cell": 7.0
+    }
+  },
+  "1417": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "1462": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "HLA-DQB1",
+      "BANK1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "GPR183",
+      "HLA-DRA",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 79.0,
+      "Immature B": 18.5,
+      "Plasma Cell": 2.5
+    }
+  },
+  "1508": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "ARHGAP24",
+      "GPR183",
+      "HLA-DRA"
+    ],
+    "celltype_composition": {
+      "Mature B": 78.0,
+      "Immature B": 18.5,
+      "Plasma Cell": 3.5
+    }
+  },
+  "1527": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "HLA-DPA1",
+      "LTB",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "HLA-DRA",
+      "GPR183",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 18.0,
+      "Plasma Cell": 2.0
+    }
+  },
+  "1532": {
+    "genes": [
+      "MS4A1",
+      "CD74",
+      "LTB",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DPA1",
+      "HLA-DQB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "HLA-DPB1",
+      "ARHGAP24",
+      "GPR183",
+      "LINC01857"
+    ],
+    "celltype_composition": {
+      "Mature B": 76.0,
+      "Immature B": 16.5,
+      "Plasma Cell": 7.5
+    }
+  },
+  "1549": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "GPR183",
+      "COTL1",
+      "HLA-DRA"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 17.0,
+      "Plasma Cell": 3.0
+    }
+  },
+  "1564": {
+    "genes": [
+      "IGHG1",
+      "CD79A",
+      "IGLL5",
+      "MS4A1",
+      "LINC01781",
+      "PNOC",
+      "ZBP1",
+      "CD27",
+      "FCRL5",
+      "SLAMF7",
+      "SSR4",
+      "LINC01857",
+      "SELENOM",
+      "HLA-DOB",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 57.5,
+      "Plasma Cell": 28.5,
+      "Immature B": 13.0
+    }
+  },
+  "1605": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DRB1",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "LINC01781",
+      "HLA-DRA",
+      "ARHGAP24",
+      "LINC01857"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 17.5,
+      "Plasma Cell": 2.5
+    }
+  },
+  "1607": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "GPR183",
+      "COTL1",
+      "HLA-DRA"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 17.0,
+      "Plasma Cell": 3.0
+    }
+  },
+  "1659": {
+    "genes": [
+      "CD74",
+      "LTB",
+      "MS4A1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.5,
+      "Immature B": 18.5,
+      "Plasma Cell": 1.0
+    }
+  },
+  "1693": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "LINC01781",
+      "GPR183",
+      "HLA-DRA",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.5,
+      "Immature B": 17.5,
+      "Plasma Cell": 2.0
+    }
+  },
+  "1777": {
+    "genes": [
+      "CD74",
+      "LTB",
+      "MS4A1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 18.5,
+      "Plasma Cell": 1.5
+    }
+  },
+  "1917": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "HLA-DQB1",
+      "BANK1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "GPR183",
+      "HLA-DRA",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 79.0,
+      "Immature B": 18.5,
+      "Plasma Cell": 2.5
+    }
+  },
+  "2": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "17": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "HLA-DPA1",
+      "LTB",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DPB1",
+      "HLA-DQB1",
+      "HLA-DRA",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "ARHGAP24",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 79.0,
+      "Immature B": 17.0,
+      "Large Pre-B": 2.0,
+      "Pro-B Cycling": 1.0
+    }
+  },
+  "22": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "31": {
+    "genes": [
+      "CD74",
+      "LTB",
+      "MS4A1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "HLA-DRA",
+      "CD79A",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.5,
+      "Immature B": 18.5
+    }
+  },
+  "37": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPLP0",
+      "RPL37A",
+      "RPS26",
+      "RPS17",
+      "EEF1B2",
+      "RPL4",
+      "TALDO1",
+      "RPL7A",
+      "EBPL",
+      "AIF1",
+      "RPS2",
+      "HNRNPA1",
+      "GYPC"
+    ],
+    "celltype_composition": {
+      "LMPP": 38.5,
+      "Large Pre-B": 23.5,
+      "Mature B": 12.0,
+      "HSC": 11.5,
+      "MLP": 5.0,
+      "Immature B": 3.0,
+      "Pro-B Cycling": 2.5,
+      "Plasma Cell": 2.0,
+      "Pro-B VDJ": 1.5
+    }
+  },
+  "39": {
+    "genes": [
+      "RPS26",
+      "HBD",
+      "HBM",
+      "AHSP",
+      "HBA2",
+      "CA1",
+      "RPS23",
+      "HBB",
+      "RPS24",
+      "HBA1",
+      "BLVRB",
+      "C11orf31",
+      "RP11-620J15.3",
+      "RPS17",
+      "FAM26F"
+    ],
+    "celltype_composition": {
+      "HSC": 23.5,
+      "Mature B": 22.5,
+      "LMPP": 14.5,
+      "Large Pre-B": 13.0,
+      "CLP": 7.5,
+      "Immature B": 5.0,
+      "Pro-B Cycling": 4.0,
+      "Pro-B VDJ": 4.0,
+      "MLP": 3.0,
+      "Small Pre-B": 2.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "47": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "60": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "202": {
+    "genes": [
+      "RPS24",
+      "RPL37A",
+      "RPS23",
+      "RPLP0",
+      "RPS17",
+      "RPL4",
+      "EEF1B2",
+      "H3F3A",
+      "RPL7A",
+      "RPS26",
+      "RPS2",
+      "UQCRH",
+      "HNRNPA1",
+      "PPIA",
+      "ACTG1"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 63.5,
+      "Mature B": 11.5,
+      "LMPP": 8.5,
+      "Pro-B Cycling": 7.5,
+      "HSC": 4.5,
+      "Plasma Cell": 1.5,
+      "MLP": 1.5,
+      "Immature B": 1.5
+    }
+  },
+  "552": {
+    "genes": [
+      "H3F3A",
+      "UBB",
+      "STMN1",
+      "TUBB",
+      "HMGB2",
+      "HMGN2",
+      "TUBA1B",
+      "HMGN1",
+      "CALM2",
+      "RPS24",
+      "H2AFZ",
+      "PTMA",
+      "H2AFY",
+      "H2AFV",
+      "ANP32B"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 67.0,
+      "Pro-B Cycling": 16.0,
+      "LMPP": 9.0,
+      "HSC": 6.5,
+      "MLP": 1.0
+    }
+  },
+  "611": {
+    "genes": [
+      "UBB",
+      "STMN1",
+      "H2AFZ",
+      "TUBA1B",
+      "HMGB1",
+      "HMGN2",
+      "TUBB",
+      "H3F3A",
+      "HMGB2",
+      "PTMA",
+      "HMGN1",
+      "H2AFV",
+      "CALM2",
+      "HNRNPA2B1",
+      "H2AFY"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 62.5,
+      "Pro-B Cycling": 24.5,
+      "Plasma Cell": 13.0
+    }
+  },
+  "612": {
+    "genes": [
+      "PTMA",
+      "UBB",
+      "UQCRQ",
+      "H2AFZ",
+      "RPLP0",
+      "UQCRH",
+      "LSM5",
+      "GSTP1",
+      "HMGB1",
+      "RPL37A",
+      "TMSB4X",
+      "PDIA6",
+      "RPS17",
+      "ERH",
+      "RPS24"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 74.0,
+      "Plasma Cell": 21.0,
+      "Pro-B Cycling": 4.0
+    }
+  },
+  "721": {
+    "genes": [
+      "PDIA6",
+      "DAD1",
+      "UQCRQ",
+      "GSTP1",
+      "NUCB2",
+      "BSG",
+      "P4HB",
+      "CD63",
+      "TRMT112",
+      "MLEC",
+      "PRDX2",
+      "UQCRH",
+      "ACADVL",
+      "NDUFB9",
+      "COX5A"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 55.0,
+      "Plasma Cell": 44.5
+    }
+  },
+  "858": {
+    "genes": [
+      "HMGB1",
+      "STMN1",
+      "PTMA",
+      "TUBA1B",
+      "HMGN2",
+      "H3F3A",
+      "H2AFZ",
+      "TUBB",
+      "HMGN1",
+      "HNRNPA2B1",
+      "PPIA",
+      "ANP32B",
+      "H2AFY",
+      "GAPDH",
+      "H2AFV"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 70.0,
+      "Pro-B Cycling": 29.0
+    }
+  },
+  "995": {
+    "genes": [
+      "NUCB2",
+      "GSTP1",
+      "FTH1",
+      "MGST3",
+      "GYPC",
+      "GPX1",
+      "PRDX2",
+      "S100A4",
+      "RPLP0",
+      "RPS26",
+      "CALR",
+      "TXN",
+      "BSG",
+      "PDIA6",
+      "TMEM14C"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 37.0,
+      "Large Pre-B": 25.0,
+      "MLP": 12.0,
+      "MLP-II": 11.0,
+      "LMPP": 9.5,
+      "Pro-B Cycling": 2.5,
+      "CLP": 2.0,
+      "HSC": 1.0
+    }
+  },
+  "1638": {
+    "genes": [
+      "PDIA6",
+      "UQCRQ",
+      "CALR",
+      "UBB",
+      "RPLP0",
+      "DAD1",
+      "BSG",
+      "RPS17",
+      "UQCRH",
+      "H2AFZ",
+      "P4HB",
+      "TRMT112",
+      "RPL7A",
+      "RPL37A",
+      "GSTP1"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 71.0,
+      "Plasma Cell": 25.0,
+      "Pro-B Cycling": 4.0
+    }
+  },
+  "1754": {
+    "genes": [
+      "MT-CO2",
+      "UBB",
+      "HMGN1",
+      "H2AFZ",
+      "MT-CO3",
+      "UQCRH",
+      "STMN1",
+      "HMGB1",
+      "H3F3A",
+      "UQCRQ",
+      "DAD1",
+      "RBX1",
+      "RPA3",
+      "RPL37A",
+      "H2AFV"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 67.0,
+      "Plasma Cell": 25.0,
+      "Pro-B Cycling": 5.0,
+      "Mature B": 2.0
+    }
+  },
+  "3": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 17.5,
+      "Plasma Cell": 1.0,
+      "Large Pre-B": 1.0
+    }
+  },
+  "10": {
+    "genes": [
+      "SSR4",
+      "CD63",
+      "PRDX4",
+      "PSAP",
+      "DAD1",
+      "NUCB2",
+      "BSG",
+      "MZB1",
+      "PRDX2",
+      "HBD",
+      "BLVRB",
+      "HBM",
+      "AHSP",
+      "JUN",
+      "FOSB"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 70.0,
+      "LMPP": 13.0,
+      "Large Pre-B": 9.0,
+      "HSC": 5.5,
+      "MLP": 1.5
+    }
+  },
+  "18": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "LTB",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "HLA-DRA",
+      "CD79A",
+      "LINC01781",
+      "ARHGAP24",
+      "LINC01857"
+    ],
+    "celltype_composition": {
+      "Mature B": 76.5,
+      "Immature B": 17.0,
+      "Large Pre-B": 3.0,
+      "Plasma Cell": 2.0,
+      "Pro-B Cycling": 1.0
+    }
+  },
+  "20": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "HLA-DRA",
+      "GPR183",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 78.0,
+      "Immature B": 17.5,
+      "Plasma Cell": 2.0,
+      "Large Pre-B": 1.5,
+      "Pro-B Cycling": 1.0
+    }
+  },
+  "23": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "CD63",
+      "MZB1",
+      "PDIA6",
+      "PSAP",
+      "P4HB",
+      "MYDGF",
+      "DAD1",
+      "FKBP2"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "25": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "HLA-DRA",
+      "LINC01781",
+      "ARHGAP24",
+      "GPR183"
+    ],
+    "celltype_composition": {
+      "Mature B": 77.5,
+      "Immature B": 17.0,
+      "Large Pre-B": 2.0,
+      "Plasma Cell": 2.0,
+      "Pro-B Cycling": 1.0
+    }
+  },
+  "33": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "HLA-DPA1",
+      "LTB",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "CD79A",
+      "LINC00926",
+      "LINC01781",
+      "HLA-DRA",
+      "GPR183",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 78.5,
+      "Immature B": 17.0,
+      "Plasma Cell": 2.0,
+      "Large Pre-B": 1.5,
+      "Pro-B Cycling": 1.0
+    }
+  },
+  "34": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "PRDX4",
+      "SEC11C",
+      "ITM2C",
+      "CD63",
+      "XBP1",
+      "PDIA6",
+      "MZB1",
+      "IGKC",
+      "DAD1",
+      "MYDGF",
+      "P4HB",
+      "FKBP2",
+      "PSAP"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "35": {
+    "genes": [
+      "RPS26",
+      "RPS23",
+      "RPL37A",
+      "S100A4",
+      "RPS24",
+      "RPLP0",
+      "RPS17",
+      "EEF1B2",
+      "GYPC",
+      "RPL4",
+      "PRDX2",
+      "FTH1",
+      "TALDO1",
+      "RPL7A",
+      "BLVRB"
+    ],
+    "celltype_composition": {
+      "Mature B": 31.0,
+      "LMPP": 17.5,
+      "Large Pre-B": 15.5,
+      "Plasma Cell": 11.0,
+      "HSC": 9.0,
+      "Immature B": 5.0,
+      "Pro-B Cycling": 4.0,
+      "MLP": 4.0,
+      "Pro-B VDJ": 1.5,
+      "CLP": 1.5
+    }
+  },
+  "41": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "MZB1",
+      "CD63",
+      "DAD1",
+      "XBP1",
+      "PDIA6",
+      "MYDGF",
+      "PSAP",
+      "FKBP2",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "43": {
+    "genes": [
+      "MS4A1",
+      "CD74",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "LTB",
+      "HLA-DQB1",
+      "BANK1",
+      "HLA-DPB1",
+      "LINC00926",
+      "LINC01781",
+      "HLA-DRA",
+      "GPR183",
+      "LINC01857",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 75.5,
+      "Immature B": 16.0,
+      "Plasma Cell": 4.5,
+      "Large Pre-B": 2.5,
+      "Pro-B Cycling": 1.0
+    }
+  },
+  "50": {
+    "genes": [
+      "RPS26",
+      "RPS23",
+      "S100A4",
+      "RPS24",
+      "NGFRAP1",
+      "AHSP",
+      "EEF1B2",
+      "CA1",
+      "RPL37A",
+      "BLVRB",
+      "RPS17",
+      "RPLP0",
+      "HEMGN",
+      "RPL4",
+      "RP11-620J15.3"
+    ],
+    "celltype_composition": {
+      "Mature B": 29.5,
+      "HSC": 25.5,
+      "LMPP": 15.5,
+      "Large Pre-B": 10.5,
+      "Plasma Cell": 5.5,
+      "Pro-B Cycling": 5.0,
+      "CLP": 2.5,
+      "Immature B": 2.5,
+      "MLP": 2.0,
+      "Pro-B VDJ": 1.0
+    }
+  },
+  "66": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "HLA-DRA",
+      "GPR183",
+      "CD79A",
+      "LINC01781",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.5,
+      "Immature B": 17.5,
+      "Large Pre-B": 1.0
+    }
+  },
+  "69": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "79": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "CD63",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "PSAP",
+      "DAD1",
+      "FKBP2",
+      "PDIA6",
+      "ERLEC1",
+      "MYDGF"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "80": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "82": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "HLA-DRA",
+      "LINC01781",
+      "CD79A",
+      "ARHGAP24",
+      "LINC01857"
+    ],
+    "celltype_composition": {
+      "Mature B": 77.5,
+      "Immature B": 17.0,
+      "Plasma Cell": 2.0,
+      "Large Pre-B": 2.0,
+      "Pro-B Cycling": 1.0
+    }
+  },
+  "85": {
+    "genes": [
+      "SSR4",
+      "IGHG1",
+      "IGKC",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PRDX4",
+      "PSAP",
+      "CD63",
+      "XBP1",
+      "ITM2C",
+      "PDIA6",
+      "MYDGF",
+      "FKBP2",
+      "HERPUD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "475": {
+    "genes": [
+      "RPS26",
+      "RPS24",
+      "RPS23",
+      "RPS17",
+      "RPL37A",
+      "RPLP0",
+      "AIF1",
+      "EEF1B2",
+      "RPL7A",
+      "RPL4",
+      "RPS2",
+      "TALDO1",
+      "FTH1",
+      "EBPL",
+      "GSTP1"
+    ],
+    "celltype_composition": {
+      "HSC": 52.0,
+      "LMPP": 24.0,
+      "Plasma Cell": 10.0,
+      "Large Pre-B": 10.0,
+      "Pro-B VDJ": 1.5,
+      "MLP": 1.5
+    }
+  },
+  "1236": {
+    "genes": [
+      "HMGB1",
+      "HMGN2",
+      "STMN1",
+      "H2AFZ",
+      "PTMA",
+      "TUBA1B",
+      "UBB",
+      "HMGN1",
+      "ANP32B",
+      "H3F3A",
+      "H2AFV",
+      "HNRNPA1",
+      "H2AFY",
+      "TMSB4X",
+      "HNRNPA2B1"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 53.0,
+      "Pro-B Cycling": 31.5,
+      "Plasma Cell": 12.0,
+      "Pro-B VDJ": 1.5
+    }
+  },
+  "1841": {
+    "genes": [
+      "HMGB1",
+      "HMGN2",
+      "HNRNPA2B1",
+      "H2AFZ",
+      "PTMA",
+      "TMSB4X",
+      "TUBA1B",
+      "HMGN1",
+      "ANP32B",
+      "STMN1",
+      "PDIA6",
+      "UBB",
+      "HNRNPA1",
+      "RPLP0",
+      "H3F3A"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 58.5,
+      "Pro-B Cycling": 21.0,
+      "Plasma Cell": 20.5
+    }
+  },
+  "1849": {
+    "genes": [
+      "UBB",
+      "TUBB",
+      "TUBA1B",
+      "STMN1",
+      "HMGN2",
+      "HMGB2",
+      "H2AFZ",
+      "H3F3A",
+      "PTMA",
+      "H2AFV",
+      "NUSAP1",
+      "PRDX2",
+      "CARHSP1",
+      "DEK",
+      "MKI67"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 63.5,
+      "Plasma Cell": 26.0,
+      "Pro-B Cycling": 10.5
+    }
+  },
+  "11": {
+    "genes": [
+      "RPS24",
+      "RPLP0",
+      "RPS17",
+      "RPL37A",
+      "RPS23",
+      "MT-CO3",
+      "RPL7A",
+      "MT-CO2",
+      "RPS2",
+      "EEF1B2",
+      "RPL4",
+      "HNRNPA1",
+      "UQCRH",
+      "H3F3A",
+      "GAPDH"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 80.5,
+      "LMPP": 11.5,
+      "MLP": 2.5,
+      "Plasma Cell": 2.5,
+      "Pro-B Cycling": 1.5,
+      "Mature B": 1.5
+    }
+  },
+  "26": {
+    "genes": [
+      "STMN1",
+      "H2AFY",
+      "H2AFZ",
+      "HMGN2",
+      "HMGB1",
+      "RPS23",
+      "HNRNPA1",
+      "RPLP0",
+      "ANP32B",
+      "RPS24",
+      "HMGN1",
+      "PTMA",
+      "RPS17",
+      "TUBA1B",
+      "RPS26"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 65.5,
+      "Pro-B Cycling": 22.0,
+      "LMPP": 8.0,
+      "MLP": 1.5,
+      "HSC": 1.5
+    }
+  },
+  "32": {
+    "genes": [
+      "RPS23",
+      "RPS24",
+      "RPS17",
+      "AIF1",
+      "RPL7A",
+      "RPL37A",
+      "RPLP0",
+      "RPS2",
+      "EEF1B2",
+      "RPL4",
+      "RPS26",
+      "FTH1",
+      "EBPL",
+      "SPINK2",
+      "TALDO1"
+    ],
+    "celltype_composition": {
+      "HSC": 47.5,
+      "LMPP": 31.5,
+      "Large Pre-B": 7.0,
+      "Mature B": 7.0,
+      "MLP": 5.5,
+      "Plasma Cell": 1.0
+    }
+  },
+  "42": {
+    "genes": [
+      "CD74",
+      "HLA-DRB1",
+      "MS4A1",
+      "MT-CO3",
+      "HLA-DQB1",
+      "MT-CO2",
+      "HLA-DRA",
+      "CD79A",
+      "MT-ND1",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "MT-ND5",
+      "TMSB4X",
+      "LY86",
+      "BANK1"
+    ],
+    "celltype_composition": {
+      "Mature B": 57.0,
+      "Large Pre-B": 27.5,
+      "Immature B": 11.0,
+      "Plasma Cell": 2.5,
+      "Pro-B Cycling": 1.0
+    }
+  },
+  "44": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPLP0",
+      "RPL37A",
+      "RPS17",
+      "EEF1B2",
+      "RPL7A",
+      "RPL4",
+      "TALDO1",
+      "RPS2",
+      "AIF1",
+      "EBPL",
+      "GYPC",
+      "HNRNPA1",
+      "CDK6"
+    ],
+    "celltype_composition": {
+      "LMPP": 59.5,
+      "Large Pre-B": 25.5,
+      "MLP": 7.0,
+      "HSC": 3.5,
+      "Pro-B Cycling": 2.5,
+      "Pro-B VDJ": 1.5
+    }
+  },
+  "62": {
+    "genes": [
+      "RPLP0",
+      "MT-CO2",
+      "UQCRH",
+      "RPL37A",
+      "MT-CO3",
+      "RPS24",
+      "RPL7A",
+      "RPL4",
+      "RPS17",
+      "RPS2",
+      "FTH1",
+      "UQCRQ",
+      "RPS23",
+      "DAD1",
+      "EEF1B2"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 53.5,
+      "Large Pre-B": 21.0,
+      "LMPP": 14.0,
+      "HSC": 6.0,
+      "MLP": 3.0,
+      "Pro-B Cycling": 1.5
+    }
+  },
+  "68": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPL37A",
+      "RPS17",
+      "RPLP0",
+      "EEF1B2",
+      "RPL7A",
+      "RPL4",
+      "TALDO1",
+      "GPX1",
+      "HNRNPA1",
+      "RPS2",
+      "GSTP1",
+      "RPS26",
+      "EBPL"
+    ],
+    "celltype_composition": {
+      "LMPP": 50.0,
+      "Large Pre-B": 41.0,
+      "MLP": 6.5,
+      "Pro-B Cycling": 1.0,
+      "HSC": 1.0
+    }
+  },
+  "74": {
+    "genes": [
+      "CD74",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "MS4A1",
+      "HLA-DPB1",
+      "HLA-DQA1",
+      "LTB",
+      "HLA-DQB1",
+      "BANK1",
+      "HLA-DRA",
+      "LINC01781",
+      "LINC00926",
+      "GPR183",
+      "ARHGAP24",
+      "COTL1"
+    ],
+    "celltype_composition": {
+      "Mature B": 74.5,
+      "Immature B": 16.0,
+      "LMPP": 6.5,
+      "MLP": 1.5
+    }
+  },
+  "109": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPS2",
+      "RPLP0",
+      "EEF1B2",
+      "RPS17",
+      "RPL7A",
+      "RPL37A",
+      "RPL4",
+      "AIF1",
+      "TALDO1",
+      "EBPL",
+      "H2AFY",
+      "HNRNPA1",
+      "NPM1"
+    ],
+    "celltype_composition": {
+      "LMPP": 34.5,
+      "HSC": 26.0,
+      "Large Pre-B": 25.0,
+      "Plasma Cell": 9.0,
+      "MLP": 3.5,
+      "Pro-B Cycling": 1.0
+    }
+  },
+  "121": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "AIF1",
+      "RPL37A",
+      "RPS17",
+      "RPLP0",
+      "SPINK2",
+      "RPL7A",
+      "TALDO1",
+      "EEF1B2",
+      "SERPINB1",
+      "EBPL",
+      "RPS2",
+      "SMIM24",
+      "RPL4"
+    ],
+    "celltype_composition": {
+      "LMPP": 79.5,
+      "Large Pre-B": 8.0,
+      "HSC": 6.5,
+      "MLP": 3.0,
+      "Plasma Cell": 2.5
+    }
+  },
+  "298": {
+    "genes": [
+      "RPS24",
+      "MT-CO2",
+      "RPL37A",
+      "RPS17",
+      "MT-CO3",
+      "RPS23",
+      "RPLP0",
+      "EEF1B2",
+      "RPL7A",
+      "RPL4",
+      "MT-ND1",
+      "UQCRH",
+      "HNRNPA1",
+      "H3F3A",
+      "RPS26"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 54.5,
+      "LMPP": 15.0,
+      "Plasma Cell": 14.5,
+      "Mature B": 4.5,
+      "Pro-B Cycling": 4.5,
+      "Pro-B VDJ": 2.0,
+      "HSC": 2.0,
+      "MLP": 1.5,
+      "Immature B": 1.0
+    }
+  },
+  "453": {
+    "genes": [
+      "TMSB4X",
+      "STMN1",
+      "HMGN2",
+      "HMGB1",
+      "MT-CO2",
+      "HMGB2",
+      "H2AFV",
+      "SMC4",
+      "MT-CO3",
+      "HNRNPA3",
+      "LSM5",
+      "ANP32B",
+      "HMGN1",
+      "CALM2",
+      "HNRNPA2B1"
+    ],
+    "celltype_composition": {
+      "Pro-B Cycling": 33.0,
+      "Large Pre-B": 21.5,
+      "Mature B": 17.5,
+      "Pro-B VDJ": 9.0,
+      "Plasma Cell": 7.0,
+      "MLP-II": 3.0,
+      "MLP": 2.5,
+      "Immature B": 2.0,
+      "Small Pre-B": 1.5,
+      "LMPP": 1.0,
+      "HSC": 1.0,
+      "CLP": 1.0
+    }
+  },
+  "488": {
+    "genes": [
+      "RPS24",
+      "RPLP0",
+      "RPS17",
+      "RPS23",
+      "EEF1B2",
+      "HMGN1",
+      "RPL37A",
+      "RPS26",
+      "RPS2",
+      "RPL4",
+      "HNRNPA1",
+      "RPL7A",
+      "H2AFZ",
+      "H3F3A",
+      "H2AFV"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 72.5,
+      "Plasma Cell": 12.5,
+      "LMPP": 9.0,
+      "Pro-B Cycling": 3.0,
+      "MLP": 1.5,
+      "HSC": 1.0
+    }
+  },
+  "640": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPS2",
+      "RPLP0",
+      "RPS17",
+      "RPL37A",
+      "RPL7A",
+      "EEF1B2",
+      "RPL4",
+      "TALDO1",
+      "HNRNPA1",
+      "H2AFY",
+      "NPM1",
+      "RPS26",
+      "GPX1"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 53.0,
+      "LMPP": 34.5,
+      "HSC": 9.0,
+      "MLP": 1.5
+    }
+  },
+  "771": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPL37A",
+      "RPLP0",
+      "RPS17",
+      "EEF1B2",
+      "RPL7A",
+      "RPS26",
+      "RPL4",
+      "HNRNPA1",
+      "AIF1",
+      "MT-ND1",
+      "NPM1",
+      "FBL",
+      "FOSB"
+    ],
+    "celltype_composition": {
+      "HSC": 31.0,
+      "LMPP": 24.0,
+      "Large Pre-B": 22.0,
+      "CLP": 7.5,
+      "Pro-B Cycling": 6.0,
+      "MLP": 4.5,
+      "Pro-B VDJ": 3.5,
+      "Mature B": 1.0
+    }
+  },
+  "1921": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPLP0",
+      "RPL37A",
+      "RPS17",
+      "RPL4",
+      "HNRNPA1",
+      "EEF1B2",
+      "RPS2",
+      "RPL7A",
+      "H3F3A",
+      "UBB",
+      "HMGN1",
+      "UQCRH",
+      "ANP32B"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 48.5,
+      "LMPP": 13.0,
+      "Plasma Cell": 11.0,
+      "MLP": 11.0,
+      "HSC": 8.5,
+      "Pro-B Cycling": 7.5
+    }
+  },
+  "1963": {
+    "genes": [
+      "MT-CO2",
+      "UQCRQ",
+      "MT-CO3",
+      "UQCRH",
+      "DAD1",
+      "CANX",
+      "BSG",
+      "COX5A",
+      "PEBP1",
+      "NOP10",
+      "NDUFV2",
+      "GADD45GIP1",
+      "MRPL51",
+      "TMSB4X",
+      "MT-ND5"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 57.5,
+      "Large Pre-B": 37.5,
+      "Mature B": 3.5
+    }
+  },
+  "562": {
+    "genes": [
+      "HLA-DQB1",
+      "GPR183",
+      "RUBCNL",
+      "ACSM3",
+      "CD83",
+      "NEIL1",
+      "CFAP73",
+      "LINC01857",
+      "RGS2",
+      "CCDC191",
+      "BCL7A",
+      "CHPT1",
+      "TCL1A",
+      "TNFRSF13C",
+      "CCDC112"
+    ],
+    "celltype_composition": {
+      "Mature B": 44.0,
+      "Small Pre-B": 29.0,
+      "Large Pre-B": 10.0,
+      "Immature B": 7.5,
+      "Plasma Cell": 3.0,
+      "Pro-B VDJ": 2.0,
+      "MLP": 1.5,
+      "HSC": 1.0,
+      "LMPP": 1.0
+    }
+  },
+  "1321": {
+    "genes": [
+      "RPS24",
+      "RPL37A",
+      "RPS23",
+      "RPS17",
+      "RPLP0",
+      "CD74",
+      "HLA-DRA",
+      "RPL7A",
+      "RPL4",
+      "GPX1",
+      "UQCRH",
+      "EEF1B2",
+      "RPS2",
+      "GAPDH",
+      "H3F3A"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 29.0,
+      "Pro-B Cycling": 20.0,
+      "LMPP": 16.0,
+      "Mature B": 14.5,
+      "Plasma Cell": 12.0,
+      "MLP": 4.0,
+      "MLP-II": 3.0,
+      "HSC": 1.5
+    }
+  },
+  "1366": {
+    "genes": [
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DPB1",
+      "CD74",
+      "HLA-DRA",
+      "RPS17",
+      "HLA-DQB1",
+      "RPS23",
+      "RPS2",
+      "RPL37A",
+      "HLA-DQA1",
+      "RPL4",
+      "RPL7A",
+      "HLA-DMA",
+      "FTH1"
+    ],
+    "celltype_composition": {
+      "Mature B": 41.5,
+      "HSC": 37.0,
+      "Immature B": 21.0
+    }
+  },
+  "1433": {
+    "genes": [
+      "H3F3A",
+      "HMGB1",
+      "RPS24",
+      "H2AFZ",
+      "PTMA",
+      "STMN1",
+      "HMGN2",
+      "HMGN1",
+      "RPS17",
+      "HNRNPA1",
+      "TUBA1B",
+      "RPLP0",
+      "PPIA",
+      "SLC25A5",
+      "RPL7A"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 93.5,
+      "Pro-B Cycling": 4.0,
+      "HSC": 1.5
+    }
+  },
+  "1811": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPLP0",
+      "RPS17",
+      "RPL37A",
+      "AIF1",
+      "H2AFY",
+      "HNRNPA1",
+      "EEF1B2",
+      "RPL7A",
+      "RPL4",
+      "RPS2",
+      "H3F3A",
+      "GPX1",
+      "EBPL"
+    ],
+    "celltype_composition": {
+      "Pro-B Cycling": 35.0,
+      "LMPP": 18.0,
+      "Large Pre-B": 15.5,
+      "HSC": 14.5,
+      "MLP": 7.5,
+      "MLP-II": 5.0,
+      "CLP": 2.0,
+      "Plasma Cell": 1.5,
+      "Pro-B VDJ": 1.0
+    }
+  },
+  "1958": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPS17",
+      "RPLP0",
+      "RPL37A",
+      "RPL7A",
+      "EEF1B2",
+      "RPS2",
+      "FTH1",
+      "RPL4",
+      "FBL",
+      "H2AFY",
+      "TALDO1",
+      "AIF1",
+      "HSP90AB1"
+    ],
+    "celltype_composition": {
+      "HSC": 44.0,
+      "Large Pre-B": 37.5,
+      "Pro-B Cycling": 7.0,
+      "Plasma Cell": 5.5,
+      "LMPP": 3.5,
+      "Mature B": 2.5
+    }
+  },
+  "1959": {
+    "genes": [
+      "TMSB4X",
+      "HMGB1",
+      "H2AFZ",
+      "CALM2",
+      "HMGN2",
+      "CD74",
+      "HLA-DRA",
+      "RANBP1",
+      "PSMA4",
+      "SNRPG",
+      "YBX1",
+      "ANP32B",
+      "STMN1",
+      "MT-CO2",
+      "ERH"
+    ],
+    "celltype_composition": {
+      "Mature B": 41.0,
+      "Large Pre-B": 36.5,
+      "Pro-B Cycling": 13.5,
+      "Pro-B VDJ": 3.5,
+      "Immature B": 3.0,
+      "MLP-II": 1.0,
+      "MLP": 1.0
+    }
+  },
+  "40": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "51": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPLP0",
+      "RPL37A",
+      "RPS17",
+      "RPS26",
+      "RPL4",
+      "EEF1B2",
+      "RPL7A",
+      "HNRNPA1",
+      "EBPL",
+      "TALDO1",
+      "UQCRH",
+      "RPS2",
+      "SOD1"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 27.5,
+      "LMPP": 21.0,
+      "Pro-B Cycling": 18.0,
+      "HSC": 15.0,
+      "Pro-B VDJ": 5.5,
+      "MLP": 4.5,
+      "CLP": 3.5,
+      "Mature B": 2.5,
+      "MLP-II": 2.0
+    }
+  },
+  "58": {
+    "genes": [
+      "PTMA",
+      "H3F3A",
+      "HMGB1",
+      "STMN1",
+      "HMGN2",
+      "H2AFZ",
+      "TUBA1B",
+      "HMGN1",
+      "TUBB",
+      "ANP32B",
+      "UBB",
+      "RPS24",
+      "HNRNPA2B1",
+      "PPIA",
+      "RPLP0"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 83.0,
+      "Pro-B Cycling": 13.5,
+      "Plasma Cell": 3.5
+    }
+  },
+  "64": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "65": {
+    "genes": [
+      "TMSB4X",
+      "HMGB1",
+      "HMGN2",
+      "STMN1",
+      "HMGN1",
+      "H2AFZ",
+      "PTMA",
+      "ANP32B",
+      "LSM5",
+      "HNRNPA2B1",
+      "SLC25A5",
+      "PSMA4",
+      "GAPDH",
+      "ERH",
+      "RBX1"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 53.0,
+      "Pro-B Cycling": 22.5,
+      "Mature B": 13.5,
+      "Plasma Cell": 5.5,
+      "Pro-B VDJ": 3.5,
+      "MLP-II": 2.0
+    }
+  },
+  "76": {
+    "genes": [
+      "TMSB4X",
+      "HMGB1",
+      "HMGN2",
+      "HMGN1",
+      "PTMA",
+      "STMN1",
+      "ANP32B",
+      "HNRNPA1",
+      "RPS24",
+      "RPLP0",
+      "HNRNPA2B1",
+      "H2AFZ",
+      "GAPDH",
+      "H3F3A",
+      "RPS23"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 69.5,
+      "Pro-B Cycling": 22.5,
+      "Mature B": 3.5,
+      "Pro-B VDJ": 3.0,
+      "MLP": 1.0
+    }
+  },
+  "81": {
+    "genes": [
+      "CCDC191",
+      "NEIL1",
+      "HCK",
+      "ACSM3",
+      "RUBCNL",
+      "HIST1H2AC",
+      "FCRLA",
+      "CCDC112",
+      "LAMP5",
+      "HLA-DMB",
+      "FAM129C",
+      "PCDH9",
+      "HRK",
+      "CD79B",
+      "HIST1H1C"
+    ],
+    "celltype_composition": {
+      "Mature B": 48.0,
+      "Small Pre-B": 35.5,
+      "Immature B": 10.5,
+      "Pro-B VDJ": 5.0
+    }
+  },
+  "88": {
+    "genes": [
+      "DNTT",
+      "AKAP12",
+      "TMSB4X",
+      "SOCS2",
+      "VPREB1",
+      "LINC01013",
+      "TCF4",
+      "RAG2",
+      "CD79B",
+      "HMGN2",
+      "GLRX",
+      "MYB",
+      "SOX4",
+      "TOP2B",
+      "MT1X"
+    ],
+    "celltype_composition": {
+      "Pro-B VDJ": 42.0,
+      "Large Pre-B": 17.5,
+      "Pro-B Cycling": 15.5,
+      "Mature B": 11.5,
+      "Small Pre-B": 6.5,
+      "Immature B": 3.5,
+      "CLP": 2.0,
+      "MLP": 1.0
+    }
+  },
+  "89": {
+    "genes": [
+      "STMN1",
+      "HMGN2",
+      "HMGB2",
+      "TUBA1B",
+      "H3F3A",
+      "TUBB",
+      "HMGB1",
+      "UBB",
+      "H2AFZ",
+      "H2AFV",
+      "NUSAP1",
+      "HMGN1",
+      "PTMA",
+      "CALM2",
+      "SMC4"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 70.0,
+      "Pro-B Cycling": 30.0
+    }
+  },
+  "108": {
+    "genes": [
+      "H3F3A",
+      "STMN1",
+      "HMGN2",
+      "PTMA",
+      "HMGB1",
+      "TUBA1B",
+      "H2AFZ",
+      "HMGN1",
+      "DEK",
+      "UBB",
+      "H2AFV",
+      "TUBB",
+      "TYMS",
+      "ANP32B",
+      "H2AFY"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 92.5,
+      "Pro-B Cycling": 6.5
+    }
+  },
+  "118": {
+    "genes": [
+      "MS4A1",
+      "HLA-DQA1",
+      "ARHGAP24",
+      "CCDC191",
+      "LTB",
+      "LINC01781",
+      "HCK",
+      "LINC01857",
+      "LINC00926",
+      "HLA-DQB1",
+      "RUBCNL",
+      "BANK1",
+      "HLA-DMB",
+      "GPR183",
+      "HLA-DRB1"
+    ],
+    "celltype_composition": {
+      "Mature B": 62.5,
+      "Small Pre-B": 20.5,
+      "Immature B": 14.5,
+      "Large Pre-B": 1.0
+    }
+  },
+  "123": {
+    "genes": [
+      "HMGB2",
+      "HMGN2",
+      "STMN1",
+      "TUBB",
+      "TUBA1B",
+      "NUSAP1",
+      "H2AFZ",
+      "HMGB1",
+      "UBB",
+      "PTMA",
+      "H2AFV",
+      "CD79B",
+      "SMC4",
+      "MKI67",
+      "CALM2"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 53.5,
+      "Pro-B Cycling": 30.5,
+      "Pro-B VDJ": 9.0,
+      "Plasma Cell": 4.5,
+      "Small Pre-B": 1.0
+    }
+  },
+  "179": {
+    "genes": [
+      "RPS24",
+      "RPS17",
+      "HMGN1",
+      "RPLP0",
+      "H2AFZ",
+      "PTMA",
+      "RPS2",
+      "YBX1",
+      "RPL7A",
+      "PPIA",
+      "RPS23",
+      "HMGB1",
+      "RPL37A",
+      "GAPDH",
+      "EEF1B2"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 96.0,
+      "Pro-B Cycling": 3.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "221": {
+    "genes": [
+      "TMSB4X",
+      "HMGB1",
+      "HMGN2",
+      "STMN1",
+      "H2AFZ",
+      "HMGN1",
+      "PTMA",
+      "ANP32B",
+      "HNRNPA2B1",
+      "H3F3A",
+      "TUBA1B",
+      "HNRNPA1",
+      "GAPDH",
+      "LSM5",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 69.0,
+      "Pro-B Cycling": 22.5,
+      "Mature B": 5.0,
+      "Pro-B VDJ": 1.5,
+      "Plasma Cell": 1.5
+    }
+  },
+  "296": {
+    "genes": [
+      "HMGB1",
+      "PTMA",
+      "HMGN2",
+      "H2AFZ",
+      "HMGN1",
+      "HNRNPA1",
+      "TMSB4X",
+      "STMN1",
+      "HNRNPA2B1",
+      "RPS24",
+      "H3F3A",
+      "RPLP0",
+      "ANP32B",
+      "RPS17",
+      "RPS23"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 84.5,
+      "Pro-B Cycling": 14.5
+    }
+  },
+  "419": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "528": {
+    "genes": [
+      "NUCB2",
+      "TMSB4X",
+      "RPLP0",
+      "SOD1",
+      "PRDX2",
+      "BSG",
+      "UBB",
+      "UQCRQ",
+      "PDIA6",
+      "DAD1",
+      "UQCRH",
+      "P4HB",
+      "TRMT112",
+      "RPL37A",
+      "GLRX"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 34.5,
+      "Plasma Cell": 32.0,
+      "Pro-B Cycling": 11.5,
+      "Mature B": 8.0,
+      "LMPP": 6.0,
+      "Pro-B VDJ": 4.0,
+      "MLP": 2.0,
+      "CLP": 1.0
+    }
+  },
+  "570": {
+    "genes": [
+      "TMSB4X",
+      "HMGN2",
+      "HMGB1",
+      "PTMA",
+      "RPS24",
+      "HMGN1",
+      "HNRNPA1",
+      "RPLP0",
+      "RPS17",
+      "RPS23",
+      "HNRNPA2B1",
+      "ANP32B",
+      "RPL37A",
+      "H3F3A",
+      "STMN1"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 76.0,
+      "Pro-B Cycling": 14.5,
+      "Pro-B VDJ": 5.0,
+      "MLP": 1.5,
+      "MLP-II": 1.5,
+      "CLP": 1.0
+    }
+  },
+  "654": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "739": {
+    "genes": [
+      "RPS26",
+      "RPS24",
+      "RPS23",
+      "RPS17",
+      "RPL37A",
+      "RPLP0",
+      "RPL7A",
+      "RPL4",
+      "EEF1B2",
+      "AIF1",
+      "HNRNPA1",
+      "NPM1",
+      "GSTP1",
+      "GPX1",
+      "SPINK2"
+    ],
+    "celltype_composition": {
+      "LMPP": 43.0,
+      "HSC": 27.5,
+      "Large Pre-B": 9.0,
+      "MLP": 7.5,
+      "Pro-B Cycling": 4.0,
+      "Mature B": 4.0,
+      "Pro-B VDJ": 2.0,
+      "CLP": 1.5,
+      "Plasma Cell": 1.0
+    }
+  },
+  "799": {
+    "genes": [
+      "STMN1",
+      "H3F3A",
+      "PTMA",
+      "HMGN2",
+      "TUBA1B",
+      "HMGB1",
+      "TYMS",
+      "TUBB",
+      "DEK",
+      "H2AFZ",
+      "H2AFY",
+      "PCLAF",
+      "HMGB2",
+      "UBB",
+      "H2AFV"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 70.0,
+      "Pro-B Cycling": 29.5
+    }
+  },
+  "850": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "944": {
+    "genes": [
+      "CD74",
+      "LTB",
+      "MS4A1",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "BANK1",
+      "HLA-DQB1",
+      "CD79A",
+      "HLA-DPB1",
+      "LINC00926",
+      "LINC01781",
+      "HLA-DRA",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 80.0,
+      "Immature B": 18.5,
+      "Plasma Cell": 1.5
+    }
+  },
+  "1079": {
+    "genes": [
+      "TMSB4X",
+      "HLA-DRA",
+      "CD74",
+      "H3F3A",
+      "GAPDH",
+      "HLA-DRB1",
+      "HMGB1",
+      "HLA-DPA1",
+      "TUBA1B",
+      "STMN1",
+      "ANP32B",
+      "HMGN2",
+      "H2AFY",
+      "PPIA",
+      "HMGN1"
+    ],
+    "celltype_composition": {
+      "Pro-B Cycling": 41.0,
+      "Large Pre-B": 30.0,
+      "Mature B": 21.5,
+      "Plasma Cell": 3.0,
+      "MLP-II": 2.0,
+      "CLP": 1.0
+    }
+  },
+  "1150": {
+    "genes": [
+      "H3F3A",
+      "STMN1",
+      "HMGN2",
+      "PTMA",
+      "TUBA1B",
+      "UBB",
+      "H2AFZ",
+      "HMGB2",
+      "HMGB1",
+      "TUBB",
+      "DEK",
+      "TYMS",
+      "HMGN1",
+      "H2AFV",
+      "ANP32B"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 86.0,
+      "Pro-B Cycling": 13.5
+    }
+  },
+  "1202": {
+    "genes": [
+      "HMGB1",
+      "TMSB4X",
+      "HMGN2",
+      "H2AFZ",
+      "PTMA",
+      "ANP32B",
+      "RPLP0",
+      "HMGN1",
+      "RPS24",
+      "HNRNPA1",
+      "RPS17",
+      "HNRNPA2B1",
+      "STMN1",
+      "ERH",
+      "RPS23"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 59.5,
+      "Pro-B Cycling": 21.5,
+      "Plasma Cell": 14.0,
+      "Pro-B VDJ": 3.0,
+      "CLP": 1.0
+    }
+  },
+  "1340": {
+    "genes": [
+      "HMGN2",
+      "STMN1",
+      "PTMA",
+      "HMGB1",
+      "HMGB2",
+      "H2AFZ",
+      "UBB",
+      "HNRNPA2B1",
+      "HMGN1",
+      "DEK",
+      "TUBA1B",
+      "H3F3A",
+      "ANP32B",
+      "HNRNPA3",
+      "H2AFV"
+    ],
+    "celltype_composition": {
+      "Pro-B Cycling": 55.5,
+      "Large Pre-B": 26.5,
+      "Pro-B VDJ": 10.5,
+      "HSC": 3.0,
+      "LMPP": 2.5,
+      "CLP": 1.0
+    }
+  },
+  "1471": {
+    "genes": [
+      "TMSB4X",
+      "HMGN2",
+      "HMGB1",
+      "HMGN1",
+      "STMN1",
+      "PSMA4",
+      "GAPDH",
+      "HNRNPA2B1",
+      "HLA-DRA",
+      "ANP32B",
+      "LSM5",
+      "GLRX",
+      "HNRNPA1",
+      "PTMA",
+      "H2AFY"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 40.0,
+      "Pro-B Cycling": 29.5,
+      "Mature B": 18.0,
+      "Pro-B VDJ": 6.5,
+      "MLP-II": 3.0,
+      "LMPP": 1.5,
+      "Plasma Cell": 1.0
+    }
+  },
+  "1579": {
+    "genes": [
+      "HMGN2",
+      "STMN1",
+      "H3F3A",
+      "HMGB2",
+      "H2AFZ",
+      "HMGB1",
+      "HMGN1",
+      "PTMA",
+      "TUBA1B",
+      "TUBB",
+      "HNRNPA1",
+      "UBB",
+      "H2AFV",
+      "ANP32B",
+      "HNRNPA2B1"
+    ],
+    "celltype_composition": {
+      "Pro-B Cycling": 48.5,
+      "Large Pre-B": 48.0,
+      "Pro-B VDJ": 2.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "1678": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "LTB",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DRA",
+      "LINC01781",
+      "GPR183",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "Mature B": 81.0,
+      "Immature B": 18.5
+    }
+  },
+  "1742": {
+    "genes": [
+      "STMN1",
+      "HMGN2",
+      "HMGB1",
+      "TUBA1B",
+      "H3F3A",
+      "H2AFZ",
+      "TUBB",
+      "HMGB2",
+      "HMGN1",
+      "PTMA",
+      "H2AFV",
+      "UBB",
+      "H2AFY",
+      "GAPDH",
+      "ANP32B"
+    ],
+    "celltype_composition": {
+      "Pro-B Cycling": 83.5,
+      "Large Pre-B": 13.0,
+      "Plasma Cell": 2.0,
+      "Pro-B VDJ": 1.5
+    }
+  },
+  "1760": {
+    "genes": [
+      "HMGB1",
+      "STMN1",
+      "HMGN2",
+      "HMGB2",
+      "TMSB4X",
+      "TUBA1B",
+      "H2AFZ",
+      "UBB",
+      "PTMA",
+      "HMGN1",
+      "H2AFV",
+      "H3F3A",
+      "H2AFY",
+      "TUBB",
+      "HNRNPA2B1"
+    ],
+    "celltype_composition": {
+      "Pro-B Cycling": 63.5,
+      "Large Pre-B": 23.0,
+      "Plasma Cell": 8.0,
+      "Pro-B VDJ": 4.0
+    }
+  },
+  "1839": {
+    "genes": [
+      "CD74",
+      "MS4A1",
+      "HLA-DPA1",
+      "LTB",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "BANK1",
+      "HLA-DQB1",
+      "LINC00926",
+      "CD79A",
+      "HLA-DPB1",
+      "LINC01781",
+      "HLA-DRA",
+      "GPR183",
+      "ARHGAP24"
+    ],
+    "celltype_composition": {
+      "Mature B": 79.5,
+      "Immature B": 17.0,
+      "Plasma Cell": 3.5
+    }
+  },
+  "1865": {
+    "genes": [
+      "PDIA6",
+      "DAD1",
+      "BSG",
+      "SSR4",
+      "SDF2L1",
+      "TRMT112",
+      "CALR",
+      "HSPA5",
+      "HSP90B1",
+      "UQCRQ",
+      "P4HB",
+      "CISD2",
+      "UBE2J1",
+      "ACADVL",
+      "TMSB4X"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 57.0,
+      "Pro-B Cycling": 20.5,
+      "Large Pre-B": 14.0,
+      "Mature B": 7.0,
+      "Pro-B VDJ": 1.0
+    }
+  },
+  "2005": {
+    "genes": [
+      "RPLP0",
+      "UBB",
+      "H2AFZ",
+      "UQCRQ",
+      "PTMA",
+      "DUT",
+      "RPS17",
+      "UQCRH",
+      "RPL37A",
+      "H3F3A",
+      "RPS24",
+      "HMGB1",
+      "RPS23",
+      "STMN1",
+      "TMSB4X"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 64.0,
+      "Plasma Cell": 20.5,
+      "Pro-B Cycling": 15.5
+    }
+  },
+  "2012": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPS2",
+      "AIF1",
+      "RPS17",
+      "RPL37A",
+      "RPL7A",
+      "HSP90AB1",
+      "RPLP0",
+      "EEF1B2",
+      "EBPL",
+      "RPL4",
+      "NPM1",
+      "CYTL1",
+      "FTH1"
+    ],
+    "celltype_composition": {
+      "HSC": 88.0,
+      "LMPP": 8.0,
+      "Plasma Cell": 1.5,
+      "CLP": 1.0
+    }
+  }
+}

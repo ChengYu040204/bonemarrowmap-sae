@@ -1,0 +1,3349 @@
+{
+  "88": {
+    "genes": [
+      "PSMA4",
+      "HMGN2",
+      "CALM3",
+      "STMN1",
+      "ACTG1",
+      "TMSB4X",
+      "YWHAQ",
+      "HNRNPA2B1",
+      "SNRPG",
+      "LDHA",
+      "H2AFV",
+      "PSMA5",
+      "LSM5",
+      "COTL1",
+      "IL32"
+    ],
+    "celltype_composition": {
+      "T Proliferating": 43.0,
+      "Megakaryocyte Precursor": 38.5,
+      "CD4 Regulatory": 9.0,
+      "cDC1": 4.0,
+      "BFU-E": 3.0
+    }
+  },
+  "108": {
+    "genes": [
+      "HMGN2",
+      "H3F3A",
+      "DEK",
+      "H2AFZ",
+      "TUBA1B",
+      "RPS24",
+      "H2AFY",
+      "TUBB",
+      "HMGB2",
+      "CKS1B",
+      "TALDO1",
+      "ANP32B",
+      "HNRNPA2B1",
+      "YBX1",
+      "CALM2"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 33.0,
+      "Pre-cDC": 26.5,
+      "Pro-Erythroblast": 22.0,
+      "Basophilic Erythroblast": 8.0,
+      "Large Pre-B": 2.5,
+      "GMP-Mono": 2.0,
+      "EoBasoMast Precursor": 1.0,
+      "Cycling Progenitor": 1.0,
+      "CFU-E": 1.0
+    }
+  },
+  "562": {
+    "genes": [
+      "HLA-DRA",
+      "CD74",
+      "HLA-DQB1",
+      "SOX4",
+      "TCF4",
+      "CD79A",
+      "FAM129C",
+      "AFF3",
+      "HLA-DMA",
+      "PHACTR1",
+      "HLA-DMB",
+      "PLD4",
+      "TCL1A",
+      "IRF4",
+      "SPIB"
+    ],
+    "celltype_composition": {
+      "Mature B": 25.0,
+      "pDC": 17.0,
+      "Small Pre-B": 14.5,
+      "Pre-pDC Cycling": 9.0,
+      "Early ProMono": 7.0,
+      "Cycling Progenitor": 4.5,
+      "Large Pre-B": 4.5,
+      "Immature B": 4.0,
+      "Plasma Cell": 3.0,
+      "GMP-Mono": 2.0,
+      "CD4 Naive": 1.5,
+      "Pro-B VDJ": 1.5,
+      "Early GMP": 1.0,
+      "BFU-E": 1.0,
+      "LMPP": 1.0
+    }
+  },
+  "1958": {
+    "genes": [
+      "FTH1",
+      "SAT1",
+      "BID",
+      "PSAP",
+      "NAMPT",
+      "TIMP1",
+      "COTL1",
+      "TYROBP",
+      "SPI1",
+      "CXCL16",
+      "LST1",
+      "STX11",
+      "AIF1",
+      "CST3",
+      "HLA-DRA"
+    ],
+    "celltype_composition": {
+      "CD16 Mono": 30.5,
+      "cDC2": 20.0,
+      "CD14 Mono": 13.0,
+      "Pre-cDC": 9.5,
+      "CFU-E": 8.0,
+      "Pro-Erythroblast": 8.0,
+      "Plasma Cell": 2.5,
+      "HSC": 2.5,
+      "Large Pre-B": 2.5,
+      "Basophilic Erythroblast": 2.0
+    }
+  },
+  "58": {
+    "genes": [
+      "PTMA",
+      "HMGN2",
+      "STMN1",
+      "TUBA1B",
+      "HMGB1",
+      "PPIA",
+      "TUBB",
+      "HNRNPA2B1",
+      "RPS24",
+      "H2AFY",
+      "H2AFZ",
+      "HNRNPA3",
+      "HNRNPA1",
+      "HMGB2",
+      "SRSF3"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 57.5,
+      "Pre-cDC": 12.0,
+      "Megakaryocyte Precursor": 8.5,
+      "Pro-B Cycling": 8.5,
+      "Pro-Erythroblast": 4.5,
+      "Plasma Cell": 3.5,
+      "cDC1": 2.5,
+      "CD14 Mono": 1.5
+    }
+  },
+  "1811": {
+    "genes": [
+      "FTH1",
+      "LST1",
+      "AIF1",
+      "PSAP",
+      "SAT1",
+      "S100A4",
+      "TYROBP",
+      "S100A11",
+      "SERPINA1",
+      "IFITM3",
+      "CST3",
+      "CTSS",
+      "COTL1",
+      "FCGR3A",
+      "SPI1"
+    ],
+    "celltype_composition": {
+      "CD16 Mono": 66.5,
+      "Megakaryocyte Precursor": 19.5,
+      "CD14 Mono": 4.5,
+      "Pro-Erythroblast": 3.0,
+      "Basophilic Erythroblast": 3.0,
+      "Megakaryocyte": 2.5
+    }
+  },
+  "1433": {
+    "genes": [
+      "S100A9",
+      "S100A8",
+      "S100A6",
+      "CSTA",
+      "TYROBP",
+      "FCN1",
+      "S100A4",
+      "VCAN",
+      "LST1",
+      "S100A11",
+      "FCER1G",
+      "MNDA",
+      "LYZ",
+      "GPX1",
+      "MS4A6A"
+    ],
+    "celltype_composition": {
+      "CD14 Mono": 58.5,
+      "Early ProMono": 22.0,
+      "Late ProMono": 15.0,
+      "Pre-cDC": 4.5
+    }
+  },
+  "721": {
+    "genes": [
+      "HBB",
+      "AHSP",
+      "PRDX2",
+      "HMGB2",
+      "RBX1",
+      "UROD",
+      "FBXO7",
+      "CAT",
+      "UBB",
+      "SLC25A39",
+      "RAD23A",
+      "BLVRB",
+      "FECH",
+      "HAGH",
+      "HMBS"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 37.0,
+      "Basophilic Erythroblast": 32.0,
+      "Pro-Erythroblast": 21.0,
+      "Plasma Cell": 7.0,
+      "Orthochromatic Erythroblast": 2.0
+    }
+  },
+  "203": {
+    "genes": [
+      "LYZ",
+      "GSTP1",
+      "HMGN2",
+      "H2AFY",
+      "AIF1",
+      "RPS24",
+      "STMN1",
+      "CSTA",
+      "ANXA2",
+      "IGFBP7",
+      "HLA-DMA",
+      "GRN",
+      "SPI1",
+      "DEK",
+      "PTMA"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 50.0,
+      "Early ProMono": 19.0,
+      "Megakaryocyte Precursor": 12.5,
+      "GMP-Mono": 9.0,
+      "Large Pre-B": 2.5,
+      "Plasma Cell": 1.0,
+      "CD14 Mono": 1.0,
+      "cDC2": 1.0,
+      "cDC1": 1.0
+    }
+  },
+  "612": {
+    "genes": [
+      "H3F3A",
+      "RBX1",
+      "YBX1",
+      "TUBA1B",
+      "PRDX2",
+      "BLVRB",
+      "ANP32B",
+      "TUBB",
+      "UROD",
+      "BSG",
+      "SNRPG",
+      "RPLP0",
+      "RPA3",
+      "RPS24",
+      "FTH1"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 33.0,
+      "Basophilic Erythroblast": 28.0,
+      "Pro-Erythroblast": 27.5,
+      "CFU-E": 6.5,
+      "Large Pre-B": 4.0
+    }
+  },
+  "121": {
+    "genes": [
+      "RPS24",
+      "RPL7A",
+      "EEF1B2",
+      "RPS23",
+      "HNRNPA1",
+      "RPLP0",
+      "RPS17",
+      "RPS2",
+      "RPL4",
+      "RPL37A",
+      "PTMA",
+      "STMN1",
+      "LDHB",
+      "NPM1",
+      "H3F3A"
+    ],
+    "celltype_composition": {
+      "CFU-E": 53.0,
+      "Pro-Erythroblast": 24.0,
+      "BFU-E": 9.5,
+      "Cycling Progenitor": 7.0,
+      "Plasma Cell": 1.5,
+      "Early GMP": 1.5,
+      "EoBasoMast Precursor": 1.0,
+      "Megakaryocyte Precursor": 1.0
+    }
+  },
+  "1321": {
+    "genes": [
+      "CD74",
+      "HLA-DRA",
+      "HLA-DPA1",
+      "HLA-DPB1",
+      "HLA-DMA",
+      "HLA-DRB1",
+      "HLA-DQB1",
+      "HLA-DQA1",
+      "CST3",
+      "GRN",
+      "HLA-DMB",
+      "FCGRT",
+      "SPI1",
+      "CPVL",
+      "AIF1"
+    ],
+    "celltype_composition": {
+      "cDC1": 62.0,
+      "Pre-cDC": 19.5,
+      "cDC2": 13.0,
+      "Megakaryocyte Precursor": 5.0
+    }
+  },
+  "65": {
+    "genes": [
+      "GSTP1",
+      "RPS24",
+      "H2AFY",
+      "PSAP",
+      "AIF1",
+      "ENO1",
+      "PPA1",
+      "COX5A",
+      "VDAC1",
+      "PTMA",
+      "RPS23",
+      "ATG3",
+      "LDHA",
+      "SLC25A5",
+      "YBX1"
+    ],
+    "celltype_composition": {
+      "Megakaryocyte Precursor": 40.5,
+      "cDC1": 31.0,
+      "Pre-cDC": 22.5,
+      "cDC2": 3.5,
+      "T Proliferating": 1.5,
+      "Plasma Cell": 1.0
+    }
+  },
+  "1742": {
+    "genes": [
+      "HMGB1",
+      "RANBP1",
+      "ANP32B",
+      "DEK",
+      "SRSF3",
+      "YBX1",
+      "YWHAQ",
+      "ERH",
+      "SRSF2",
+      "RPS24",
+      "PTGES3",
+      "PTMA",
+      "SNRPB",
+      "TUBA1B",
+      "YWHAE"
+    ],
+    "celltype_composition": {
+      "Megakaryocyte Precursor": 41.0,
+      "Polychromatic Erythroblast": 22.0,
+      "Pro-Erythroblast": 17.5,
+      "Basophilic Erythroblast": 12.0,
+      "Pro-B Cycling": 5.5
+    }
+  },
+  "1841": {
+    "genes": [
+      "HBA1",
+      "HBA2",
+      "HBB",
+      "SNCA",
+      "UBB",
+      "SLC25A39",
+      "BSG",
+      "ALAS2",
+      "MAP2K3",
+      "FECH",
+      "RAD23A",
+      "SLC25A37",
+      "CAT",
+      "AHSP",
+      "FBXO7"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 54.0,
+      "Orthochromatic Erythroblast": 20.0,
+      "Pro-Erythroblast": 10.0,
+      "Megakaryocyte Precursor": 7.0,
+      "Plasma Cell": 5.5,
+      "Basophilic Erythroblast": 3.5
+    }
+  },
+  "2005": {
+    "genes": [
+      "YBX1",
+      "HMGB1",
+      "RPLP0",
+      "RPS17",
+      "RPS24",
+      "RPL37A",
+      "RANBP1",
+      "YWHAQ",
+      "SNRPG",
+      "SOD1",
+      "SRSF3",
+      "SLBP",
+      "PTGES3",
+      "RPS2",
+      "RPL7A"
+    ],
+    "celltype_composition": {
+      "Basophilic Erythroblast": 37.0,
+      "Megakaryocyte Precursor": 29.0,
+      "Polychromatic Erythroblast": 19.5,
+      "Pro-Erythroblast": 10.5,
+      "Orthochromatic Erythroblast": 1.5,
+      "Plasma Cell": 1.0,
+      "CFU-E": 1.0
+    }
+  },
+  "11": {
+    "genes": [
+      "MT-CO3",
+      "MT-ND1",
+      "MT-CO2",
+      "RPLP0",
+      "YBX1",
+      "RPS23",
+      "RPS17",
+      "RPS2",
+      "RPL4",
+      "EEF1B2",
+      "RPS24",
+      "RPL37A",
+      "RPL7A",
+      "FTH1",
+      "NME4"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 64.0,
+      "Basophilic Erythroblast": 29.0,
+      "CFU-E": 3.5,
+      "Megakaryocyte Precursor": 1.5,
+      "Polychromatic Erythroblast": 1.5
+    }
+  },
+  "23": {
+    "genes": [
+      "HBB",
+      "HBA1",
+      "HBA2",
+      "ALAS2",
+      "SNCA",
+      "SLC25A39",
+      "UBB",
+      "EPB42",
+      "BSG",
+      "AHSP",
+      "STRADB",
+      "HEMGN",
+      "SLC4A1",
+      "FECH",
+      "RAD23A"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 66.5,
+      "Orthochromatic Erythroblast": 15.0,
+      "Pro-Erythroblast": 11.5,
+      "Basophilic Erythroblast": 7.0
+    }
+  },
+  "1202": {
+    "genes": [
+      "RPS24",
+      "PTMA",
+      "RPS23",
+      "SRSF2",
+      "YBX1",
+      "SNRPB",
+      "RPS17",
+      "SRSF3",
+      "PPIA",
+      "RPLP0",
+      "SLC25A3",
+      "YWHAQ",
+      "COX5A",
+      "HNRNPC",
+      "ERH"
+    ],
+    "celltype_composition": {
+      "Megakaryocyte Precursor": 44.0,
+      "Pro-Erythroblast": 27.0,
+      "cDC1": 10.5,
+      "Basophilic Erythroblast": 4.5,
+      "CFU-E": 3.5,
+      "Polychromatic Erythroblast": 3.5,
+      "Plasma Cell": 2.5,
+      "Pre-cDC": 2.0,
+      "Megakaryocyte": 1.5
+    }
+  },
+  "611": {
+    "genes": [
+      "HMGB2",
+      "PRDX2",
+      "FTH1",
+      "BLVRB",
+      "YBX1",
+      "TUBB",
+      "HMGN2",
+      "H3F3A",
+      "ANP32B",
+      "TUBA1B",
+      "GYPC",
+      "AHSP",
+      "RBX1",
+      "DEK",
+      "IDH2"
+    ],
+    "celltype_composition": {
+      "Basophilic Erythroblast": 41.0,
+      "Polychromatic Erythroblast": 34.5,
+      "Pro-Erythroblast": 24.0
+    }
+  },
+  "296": {
+    "genes": [
+      "PTMA",
+      "HMGB1",
+      "HNRNPA2B1",
+      "HNRNPA1",
+      "PPIA",
+      "ERH",
+      "YWHAQ",
+      "RANBP1",
+      "HMGN2",
+      "SLC25A5",
+      "HNRNPC",
+      "HNRNPA3",
+      "SLC25A3",
+      "TUBA1B",
+      "PEBP1"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 49.5,
+      "Pro-Erythroblast": 23.5,
+      "Megakaryocyte Precursor": 7.5,
+      "Pro-B Cycling": 7.0,
+      "Basophilic Erythroblast": 4.0,
+      "CFU-E": 2.5,
+      "Polychromatic Erythroblast": 2.0,
+      "T Proliferating": 1.5,
+      "Pre-cDC": 1.0
+    }
+  },
+  "858": {
+    "genes": [
+      "AHSP",
+      "BLVRB",
+      "PRDX2",
+      "GYPC",
+      "UBB",
+      "HBB",
+      "CAT",
+      "RBX1",
+      "UROD",
+      "FECH",
+      "TUBA1B",
+      "HMGB2",
+      "SLC25A39",
+      "H3F3A",
+      "HMBS"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 46.0,
+      "Basophilic Erythroblast": 44.5,
+      "Pro-Erythroblast": 6.5,
+      "Orthochromatic Erythroblast": 2.5
+    }
+  },
+  "1754": {
+    "genes": [
+      "HBB",
+      "HBA1",
+      "ALAS2",
+      "SLC25A39",
+      "UBB",
+      "BSG",
+      "EPB42",
+      "FBXO7",
+      "FECH",
+      "CAT",
+      "AHSP",
+      "STRADB",
+      "HMBS",
+      "RAD23A",
+      "BLVRB"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 41.5,
+      "Basophilic Erythroblast": 24.5,
+      "Orthochromatic Erythroblast": 20.0,
+      "Pro-Erythroblast": 10.0,
+      "Plasma Cell": 2.0,
+      "Megakaryocyte Precursor": 2.0
+    }
+  },
+  "479": {
+    "genes": [
+      "FTH1",
+      "RPLP0",
+      "RPS2",
+      "RPL4",
+      "RPS17",
+      "YBX1",
+      "MT-CO3",
+      "RPS23",
+      "RPS24",
+      "RPL37A",
+      "RPL7A",
+      "NME4",
+      "PRDX2",
+      "TMEM14B",
+      "EEF1B2"
+    ],
+    "celltype_composition": {
+      "Basophilic Erythroblast": 63.0,
+      "Pro-Erythroblast": 25.5,
+      "Polychromatic Erythroblast": 10.5,
+      "Plasma Cell": 1.0
+    }
+  },
+  "298": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "MT-ND1",
+      "RPL37A",
+      "RPS24",
+      "RPS23",
+      "UQCRH",
+      "NDUFS5",
+      "RPLP0",
+      "PTMA",
+      "MT-ND5",
+      "RPL7A",
+      "UQCRQ",
+      "S100A6",
+      "RPS17"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 72.0,
+      "CFU-E": 12.5,
+      "Basophilic Erythroblast": 10.5,
+      "Megakaryocyte Precursor": 2.0,
+      "CD14 Mono": 1.5
+    }
+  },
+  "10": {
+    "genes": [
+      "HBA1",
+      "HBA2",
+      "HBB",
+      "SNCA",
+      "UBB",
+      "ALAS2",
+      "BNIP3L",
+      "STRADB",
+      "MKRN1",
+      "FBXO7",
+      "BPGM",
+      "BSG",
+      "SLC25A39",
+      "NCOA4",
+      "PITHD1"
+    ],
+    "celltype_composition": {
+      "Orthochromatic Erythroblast": 61.0,
+      "Polychromatic Erythroblast": 19.0,
+      "Megakaryocyte Precursor": 8.5,
+      "Pro-Erythroblast": 7.5,
+      "Basophilic Erythroblast": 3.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "995": {
+    "genes": [
+      "BLVRB",
+      "PRDX2",
+      "AHSP",
+      "GYPC",
+      "FTH1",
+      "RPS17",
+      "H3F3A",
+      "TUBA1B",
+      "YBX1",
+      "RPLP0",
+      "HBB",
+      "ANP32B",
+      "TUBB",
+      "RPS24",
+      "RPL7A"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 60.0,
+      "Basophilic Erythroblast": 21.5,
+      "Pro-Erythroblast": 18.5
+    }
+  },
+  "34": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "ALAS2",
+      "SNCA",
+      "UBB",
+      "SLC25A39",
+      "BSG",
+      "STRADB",
+      "FECH",
+      "FBXO7",
+      "EPB42",
+      "HBD",
+      "HBM",
+      "MAP2K3"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 62.0,
+      "Orthochromatic Erythroblast": 31.0,
+      "Basophilic Erythroblast": 4.0,
+      "Pro-Erythroblast": 2.0
+    }
+  },
+  "62": {
+    "genes": [
+      "YBX1",
+      "RPLP0",
+      "MT-CO3",
+      "RPS17",
+      "FTH1",
+      "RPL4",
+      "RPS2",
+      "RPL7A",
+      "RPS24",
+      "RPS23",
+      "RPL37A",
+      "EEF1B2",
+      "RANBP1",
+      "NME4",
+      "HMGB1"
+    ],
+    "celltype_composition": {
+      "Basophilic Erythroblast": 43.5,
+      "Pro-Erythroblast": 41.5,
+      "Polychromatic Erythroblast": 11.0,
+      "Megakaryocyte Precursor": 3.5
+    }
+  },
+  "202": {
+    "genes": [
+      "BLVRB",
+      "PRDX2",
+      "AHSP",
+      "GYPC",
+      "BSG",
+      "SLC25A39",
+      "H3F3A",
+      "HBB",
+      "RBX1",
+      "UROD",
+      "FTH1",
+      "UBB",
+      "HMBS",
+      "FECH",
+      "CAT"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 51.0,
+      "Basophilic Erythroblast": 22.0,
+      "Pro-Erythroblast": 18.5,
+      "Orthochromatic Erythroblast": 7.0
+    }
+  },
+  "37": {
+    "genes": [
+      "HBB",
+      "ALAS2",
+      "HBA1",
+      "SNCA",
+      "SLC25A39",
+      "AHSP",
+      "UBB",
+      "BSG",
+      "EPB42",
+      "FECH",
+      "STRADB",
+      "CAT",
+      "RAD23A",
+      "FBXO7",
+      "HBA2"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 58.5,
+      "Pro-Erythroblast": 18.5,
+      "Basophilic Erythroblast": 12.5,
+      "Orthochromatic Erythroblast": 10.5
+    }
+  },
+  "1236": {
+    "genes": [
+      "HBB",
+      "HBA1",
+      "ALAS2",
+      "UBB",
+      "HBA2",
+      "SLC25A39",
+      "BSG",
+      "FBXO7",
+      "FECH",
+      "EPB42",
+      "STRADB",
+      "HEMGN",
+      "CAT",
+      "RAD23A",
+      "TOP1"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 35.5,
+      "Orthochromatic Erythroblast": 31.5,
+      "Basophilic Erythroblast": 19.5,
+      "Pro-Erythroblast": 9.0,
+      "Megakaryocyte Precursor": 4.5
+    }
+  },
+  "1921": {
+    "genes": [
+      "FTH1",
+      "RPL4",
+      "YBX1",
+      "RPLP0",
+      "RPS2",
+      "RPS24",
+      "RPS23",
+      "RPS17",
+      "MT-CO3",
+      "MT-CO2",
+      "RPL7A",
+      "PTMA",
+      "RPL37A",
+      "HMGB1",
+      "EEF1B2"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 58.0,
+      "Basophilic Erythroblast": 38.0,
+      "CFU-E": 2.5,
+      "Plasma Cell": 1.0
+    }
+  },
+  "79": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "ALAS2",
+      "SLC25A39",
+      "SNCA",
+      "BSG",
+      "UBB",
+      "STRADB",
+      "FBXO7",
+      "FECH",
+      "EPB42",
+      "MAP2K3",
+      "HBD",
+      "HBM"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 61.5,
+      "Orthochromatic Erythroblast": 30.5,
+      "Basophilic Erythroblast": 4.0,
+      "Megakaryocyte Precursor": 2.0,
+      "Pro-Erythroblast": 1.5
+    }
+  },
+  "1865": {
+    "genes": [
+      "YBX1",
+      "YWHAQ",
+      "DEK",
+      "RBX1",
+      "IDH2",
+      "SRSF3",
+      "SNRPG",
+      "HNRNPA2B1",
+      "LSM5",
+      "HMGB1",
+      "UBB",
+      "SOD1",
+      "ERH",
+      "UQCRQ",
+      "SRI"
+    ],
+    "celltype_composition": {
+      "Megakaryocyte Precursor": 51.0,
+      "Polychromatic Erythroblast": 16.0,
+      "Plasma Cell": 6.5,
+      "cDC1": 6.0,
+      "T Proliferating": 5.0,
+      "Basophilic Erythroblast": 5.0,
+      "Pro-Erythroblast": 3.5,
+      "Megakaryocyte": 3.0,
+      "Orthochromatic Erythroblast": 1.5,
+      "Pre-cDC": 1.5
+    }
+  },
+  "93": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "MT-ND1",
+      "RPLP0",
+      "RPS23",
+      "YBX1",
+      "RPS17",
+      "RPL4",
+      "RPS2",
+      "RPS24",
+      "RPL37A",
+      "EEF1B2",
+      "H3F3A",
+      "RPL7A",
+      "UQCRH"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 72.5,
+      "Basophilic Erythroblast": 21.5,
+      "CFU-E": 5.0
+    }
+  },
+  "488": {
+    "genes": [
+      "RPLP0",
+      "MT-CO3",
+      "YBX1",
+      "RPS2",
+      "RPL4",
+      "MT-CO2",
+      "RPS17",
+      "RPS23",
+      "RPS24",
+      "EEF1B2",
+      "RPL37A",
+      "RPL7A",
+      "HNRNPA1",
+      "H3F3A",
+      "MT-ND1"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 64.0,
+      "CFU-E": 28.5,
+      "Basophilic Erythroblast": 5.5,
+      "Large Pre-B": 1.0
+    }
+  },
+  "552": {
+    "genes": [
+      "PRDX2",
+      "AHSP",
+      "BLVRB",
+      "FTH1",
+      "MT-CO3",
+      "GYPC",
+      "RPS24",
+      "HMGB2",
+      "TUBB",
+      "RPS17",
+      "YBX1",
+      "RPLP0",
+      "HMGN2",
+      "H3F3A",
+      "RPL4"
+    ],
+    "celltype_composition": {
+      "Basophilic Erythroblast": 36.0,
+      "Polychromatic Erythroblast": 34.5,
+      "Pro-Erythroblast": 29.5
+    }
+  },
+  "41": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "SNCA",
+      "ALAS2",
+      "UBB",
+      "SLC25A39",
+      "BSG",
+      "STRADB",
+      "FECH",
+      "FBXO7",
+      "EPB42",
+      "HBD",
+      "DMTN",
+      "MAP2K3"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 61.0,
+      "Orthochromatic Erythroblast": 33.5,
+      "Basophilic Erythroblast": 4.0,
+      "Pro-Erythroblast": 1.5
+    }
+  },
+  "1638": {
+    "genes": [
+      "HBB",
+      "HBA1",
+      "ALAS2",
+      "BSG",
+      "SLC25A39",
+      "AHSP",
+      "SNCA",
+      "FECH",
+      "BLVRB",
+      "PRDX2",
+      "HBA2",
+      "SLC25A37",
+      "FBXO7",
+      "STRADB",
+      "CAT"
+    ],
+    "celltype_composition": {
+      "Basophilic Erythroblast": 30.0,
+      "Polychromatic Erythroblast": 30.0,
+      "Pro-Erythroblast": 20.5,
+      "Orthochromatic Erythroblast": 19.5
+    }
+  },
+  "35": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "ALAS2",
+      "SNCA",
+      "SLC25A39",
+      "UBB",
+      "STRADB",
+      "BSG",
+      "EPB42",
+      "HBM",
+      "FECH",
+      "HBD",
+      "HEMGN",
+      "SLC4A1"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 66.0,
+      "Orthochromatic Erythroblast": 24.0,
+      "Basophilic Erythroblast": 5.5,
+      "Pro-Erythroblast": 4.5
+    }
+  },
+  "1963": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "MT-ND1",
+      "MT-ND5",
+      "UQCRQ",
+      "NDUFS5",
+      "NDUFB9",
+      "SPN",
+      "HMGB1",
+      "RPL37A",
+      "GADD45GIP1",
+      "PTMA",
+      "HNRNPAB",
+      "BANF1",
+      "SNRPF"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 59.5,
+      "CFU-E": 13.5,
+      "Basophilic Erythroblast": 9.5,
+      "Megakaryocyte Precursor": 7.0,
+      "Plasma Cell": 2.5,
+      "Polychromatic Erythroblast": 2.5,
+      "CD14 Mono": 2.0,
+      "Large Pre-B": 1.0,
+      "Orthochromatic Erythroblast": 1.0
+    }
+  },
+  "50": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "SNCA",
+      "ALAS2",
+      "UBB",
+      "SLC25A39",
+      "STRADB",
+      "BSG",
+      "FECH",
+      "FBXO7",
+      "EPB42",
+      "HBD",
+      "HBM",
+      "DMTN"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 62.5,
+      "Orthochromatic Erythroblast": 30.5,
+      "Basophilic Erythroblast": 4.5,
+      "Pro-Erythroblast": 2.5
+    }
+  },
+  "18": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "SNCA",
+      "ALAS2",
+      "SLC25A39",
+      "UBB",
+      "STRADB",
+      "BSG",
+      "FECH",
+      "EPB42",
+      "HBM",
+      "HBD",
+      "HEMGN",
+      "SLC4A1"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 68.5,
+      "Orthochromatic Erythroblast": 23.5,
+      "Basophilic Erythroblast": 5.5,
+      "Pro-Erythroblast": 2.5
+    }
+  },
+  "570": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPS17",
+      "RPL37A",
+      "HNRNPA1",
+      "GSTP1",
+      "RPLP0",
+      "EEF1B2",
+      "HMGN2",
+      "PPIA",
+      "MT-CO2",
+      "GAPDH",
+      "RPL4",
+      "GPX1",
+      "H2AFY"
+    ],
+    "celltype_composition": {
+      "Megakaryocyte Precursor": 49.0,
+      "Pre-cDC": 17.0,
+      "Large Pre-B": 13.0,
+      "GMP-Mono": 4.5,
+      "BFU-E": 3.0,
+      "cDC2": 3.0,
+      "cDC1": 2.5,
+      "Pro-B Cycling": 1.5,
+      "GMP-Cycle": 1.5,
+      "Early ProMono": 1.5,
+      "MEP": 1.0,
+      "Pro-B VDJ": 1.0,
+      "T Proliferating": 1.0
+    }
+  },
+  "17": {
+    "genes": [
+      "BLVRB",
+      "PRDX2",
+      "HBB",
+      "GYPC",
+      "AHSP",
+      "FTH1",
+      "YBX1",
+      "RPS17",
+      "HMGB2",
+      "RPLP0",
+      "RPS24",
+      "TMEM14C",
+      "H3F3A",
+      "RBX1",
+      "MT-CO3"
+    ],
+    "celltype_composition": {
+      "Basophilic Erythroblast": 41.0,
+      "Polychromatic Erythroblast": 40.0,
+      "Pro-Erythroblast": 19.0
+    }
+  },
+  "528": {
+    "genes": [
+      "RBX1",
+      "UBB",
+      "EIF2AK1",
+      "RPIA",
+      "RAD23A",
+      "YBX1",
+      "DEK",
+      "IDH2",
+      "BSG",
+      "AP2M1",
+      "ANP32B",
+      "POLR2I",
+      "YWHAQ",
+      "HMGB2",
+      "CAT"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 43.5,
+      "Megakaryocyte Precursor": 38.5,
+      "Pro-Erythroblast": 7.5,
+      "Megakaryocyte": 3.5,
+      "Basophilic Erythroblast": 3.0,
+      "Orthochromatic Erythroblast": 1.5,
+      "Pre-cDC": 1.0
+    }
+  },
+  "2002": {
+    "genes": [
+      "MT-CO2",
+      "MT-CO3",
+      "MT-ND1",
+      "MT-ND5",
+      "RPS24",
+      "YBX1",
+      "SNRPB",
+      "RPS23",
+      "RPL7A",
+      "RPL37A",
+      "RPS2",
+      "RPS17",
+      "RPLP0",
+      "HNRNPA1",
+      "SRSF2"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 37.5,
+      "Megakaryocyte Precursor": 31.5,
+      "Basophilic Erythroblast": 12.5,
+      "Large Pre-B": 8.0,
+      "CFU-E": 5.0,
+      "CD14 Mono": 1.5,
+      "Pre-cDC": 1.5,
+      "T Proliferating": 1.5
+    }
+  },
+  "43": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "ALAS2",
+      "SNCA",
+      "SLC25A39",
+      "UBB",
+      "STRADB",
+      "BSG",
+      "FECH",
+      "EPB42",
+      "HBD",
+      "HBM",
+      "FBXO7",
+      "DMTN"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 65.5,
+      "Orthochromatic Erythroblast": 28.0,
+      "Basophilic Erythroblast": 4.5,
+      "Pro-Erythroblast": 2.0
+    }
+  },
+  "33": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "ALAS2",
+      "SNCA",
+      "UBB",
+      "SLC25A39",
+      "STRADB",
+      "BSG",
+      "FECH",
+      "EPB42",
+      "HBM",
+      "FBXO7",
+      "HBD",
+      "DMTN"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 63.5,
+      "Orthochromatic Erythroblast": 27.0,
+      "Pro-Erythroblast": 5.0,
+      "Basophilic Erythroblast": 4.5
+    }
+  },
+  "82": {
+    "genes": [
+      "HBA2",
+      "HBB",
+      "HBA1",
+      "SNCA",
+      "ALAS2",
+      "UBB",
+      "SLC25A39",
+      "BSG",
+      "STRADB",
+      "FECH",
+      "FBXO7",
+      "EPB42",
+      "DMTN",
+      "SLC25A37",
+      "MAP2K3"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 57.0,
+      "Orthochromatic Erythroblast": 39.0,
+      "Basophilic Erythroblast": 3.5
+    }
+  },
+  "51": {
+    "genes": [
+      "YBX1",
+      "ANP32B",
+      "NDUFB9",
+      "RANBP1",
+      "SOD1",
+      "RPS24",
+      "PPIA",
+      "RPS17",
+      "HMGB1",
+      "PTMA",
+      "YWHAQ",
+      "RPLP0",
+      "MT-CO3",
+      "SLC25A3",
+      "ERH"
+    ],
+    "celltype_composition": {
+      "Basophilic Erythroblast": 38.5,
+      "Megakaryocyte Precursor": 25.0,
+      "Pro-Erythroblast": 23.0,
+      "Polychromatic Erythroblast": 13.5
+    }
+  },
+  "25": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "SNCA",
+      "ALAS2",
+      "SLC25A39",
+      "UBB",
+      "STRADB",
+      "BSG",
+      "EPB42",
+      "FECH",
+      "HBM",
+      "HBD",
+      "MAP2K3",
+      "FBXO7"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 65.5,
+      "Orthochromatic Erythroblast": 27.5,
+      "Basophilic Erythroblast": 4.0,
+      "Pro-Erythroblast": 3.0
+    }
+  },
+  "44": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPS17",
+      "EEF1B2",
+      "RPLP0",
+      "RPL37A",
+      "RPL7A",
+      "HNRNPA1",
+      "RPS2",
+      "GAPDH",
+      "RPL4",
+      "H2AFZ",
+      "FBL",
+      "LDHB",
+      "HMGN1"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 27.5,
+      "CFU-E": 26.5,
+      "Cycling Progenitor": 14.5,
+      "Early GMP": 13.5,
+      "Basophilic Erythroblast": 3.5,
+      "GMP-Cycle": 3.0,
+      "BFU-E": 3.0,
+      "Large Pre-B": 2.0,
+      "Pre-pDC": 2.0,
+      "GMP-Mono": 1.0,
+      "Megakaryocyte Precursor": 1.0
+    }
+  },
+  "475": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "ALAS2",
+      "HBA1",
+      "SNCA",
+      "UBB",
+      "BNIP3L",
+      "SLC25A39",
+      "FECH",
+      "BPGM",
+      "FBXO7",
+      "NCOA4",
+      "BSG",
+      "STRADB",
+      "SELENBP1"
+    ],
+    "celltype_composition": {
+      "Orthochromatic Erythroblast": 87.5,
+      "Polychromatic Erythroblast": 11.5
+    }
+  },
+  "68": {
+    "genes": [
+      "RPS17",
+      "RPS23",
+      "RPS24",
+      "RPL37A",
+      "MT-CO3",
+      "RPLP0",
+      "RPL4",
+      "EEF1B2",
+      "RPL7A",
+      "MT-CO2",
+      "HNRNPA1",
+      "YBX1",
+      "UQCRH",
+      "H3F3A",
+      "MT-ND1"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 76.5,
+      "CFU-E": 16.0,
+      "Basophilic Erythroblast": 7.5
+    }
+  },
+  "2012": {
+    "genes": [
+      "LEPROT",
+      "LMNA",
+      "TXN",
+      "PTMA",
+      "TPM1",
+      "DNAJA1",
+      "MIR4435-2HG",
+      "RPL37A",
+      "SOD1",
+      "CD63",
+      "RPS23",
+      "HMGB1",
+      "DDX21",
+      "NDUFS5",
+      "HSP90B1"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 46.5,
+      "CFU-E": 25.0,
+      "Stromal": 20.0,
+      "Basophilic Erythroblast": 2.5,
+      "BFU-E": 1.5,
+      "CD14 Mono": 1.0,
+      "T Proliferating": 1.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "3": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "ALAS2",
+      "SNCA",
+      "SLC25A39",
+      "UBB",
+      "STRADB",
+      "BSG",
+      "EPB42",
+      "HBM",
+      "FECH",
+      "HBD",
+      "HEMGN",
+      "SLC4A1"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 68.5,
+      "Orthochromatic Erythroblast": 24.0,
+      "Basophilic Erythroblast": 5.5,
+      "Pro-Erythroblast": 2.0
+    }
+  },
+  "179": {
+    "genes": [
+      "RPS17",
+      "RPS2",
+      "RPLP0",
+      "RPL7A",
+      "GAPDH",
+      "RPS24",
+      "EEF1B2",
+      "H2AFZ",
+      "RPL37A",
+      "RPL4",
+      "RPS23",
+      "HNRNPA1",
+      "HMGN1",
+      "ENO1",
+      "UQCRH"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 70.5,
+      "Cycling Progenitor": 9.5,
+      "Early GMP": 5.5,
+      "GMP-Cycle": 4.5,
+      "Pre-pDC": 3.0,
+      "T Proliferating": 2.0,
+      "Pro-B Cycling": 2.0,
+      "BFU-E": 1.5
+    }
+  },
+  "20": {
+    "genes": [
+      "HBA2",
+      "HBB",
+      "HBA1",
+      "SNCA",
+      "ALAS2",
+      "UBB",
+      "SLC25A39",
+      "STRADB",
+      "BSG",
+      "FECH",
+      "FBXO7",
+      "DMTN",
+      "EPB42",
+      "SLC25A37",
+      "MAP2K3"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 57.0,
+      "Orthochromatic Erythroblast": 39.0,
+      "Basophilic Erythroblast": 3.5
+    }
+  },
+  "66": {
+    "genes": [
+      "HBA2",
+      "HBA1",
+      "HBB",
+      "SNCA",
+      "ALAS2",
+      "UBB",
+      "SLC25A39",
+      "STRADB",
+      "BSG",
+      "FECH",
+      "FBXO7",
+      "DMTN",
+      "MAP2K3",
+      "EPB42",
+      "SLC25A37"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 48.0,
+      "Orthochromatic Erythroblast": 48.0,
+      "Basophilic Erythroblast": 2.5,
+      "Pro-Erythroblast": 1.5
+    }
+  },
+  "1366": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DPB1",
+      "HLA-DMA",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQB1",
+      "CD74",
+      "HLA-DQA1",
+      "HLA-DMB",
+      "RPS24",
+      "FCGRT",
+      "FTH1",
+      "COTL1",
+      "CST3",
+      "SPI1"
+    ],
+    "celltype_composition": {
+      "cDC2": 50.0,
+      "cDC1": 42.5,
+      "CD14 Mono": 5.5,
+      "Pre-cDC": 2.0
+    }
+  },
+  "39": {
+    "genes": [
+      "RPS24",
+      "RPS17",
+      "FTH1",
+      "YBX1",
+      "RPLP0",
+      "RPL7A",
+      "RPS23",
+      "RPL4",
+      "PRDX2",
+      "BLVRB",
+      "RPL37A",
+      "AHSP",
+      "GYPC",
+      "MT-CO3",
+      "H3F3A"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 44.0,
+      "Polychromatic Erythroblast": 34.5,
+      "Basophilic Erythroblast": 21.5
+    }
+  },
+  "1428": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "MZB1",
+      "MYDGF",
+      "PLPP5",
+      "XBP1",
+      "FKBP2",
+      "PDIA6",
+      "SDF2L1",
+      "ERLEC1",
+      "HERPUD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 96.5,
+      "Basophilic Erythroblast": 1.0,
+      "Stromal": 1.0
+    }
+  },
+  "1481": {
+    "genes": [
+      "IGHA1",
+      "SSR4",
+      "IGKC",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "XBP1",
+      "PLPP5",
+      "ITM2C",
+      "HERPUD1",
+      "ERLEC1",
+      "HSP90B1",
+      "MANF",
+      "PRDX4",
+      "FKBP2"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 98.5
+    }
+  },
+  "109": {
+    "genes": [
+      "RPS2",
+      "YBX1",
+      "RPLP0",
+      "FTH1",
+      "RPL4",
+      "RPS23",
+      "RPS17",
+      "RPS24",
+      "EEF1B2",
+      "HNRNPA1",
+      "RPL37A",
+      "RPL7A",
+      "NME4",
+      "HMGA1",
+      "HMGB1"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 64.0,
+      "Basophilic Erythroblast": 25.5,
+      "CFU-E": 5.0,
+      "Polychromatic Erythroblast": 2.5,
+      "Plasma Cell": 1.5
+    }
+  },
+  "31": {
+    "genes": [
+      "PRDX2",
+      "BLVRB",
+      "MT-CO3",
+      "FTH1",
+      "RPS17",
+      "HBB",
+      "YBX1",
+      "HMGB2",
+      "GYPC",
+      "ANP32B",
+      "AHSP",
+      "RPL4",
+      "RPLP0",
+      "RPS24",
+      "H3F3A"
+    ],
+    "celltype_composition": {
+      "Basophilic Erythroblast": 61.5,
+      "Pro-Erythroblast": 20.5,
+      "Polychromatic Erythroblast": 18.0
+    }
+  },
+  "26": {
+    "genes": [
+      "MT-CO3",
+      "RPS17",
+      "PTMA",
+      "YBX1",
+      "FTH1",
+      "RPL37A",
+      "RPS24",
+      "RPS23",
+      "RPLP0",
+      "RPL4",
+      "RPL7A",
+      "EEF1B2",
+      "H3F3A",
+      "HMGB1",
+      "MT-CO2"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 74.0,
+      "Basophilic Erythroblast": 24.5,
+      "CFU-E": 1.5
+    }
+  },
+  "987": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "PRDX4",
+      "MZB1",
+      "ITM2C",
+      "MYDGF",
+      "FKBP2",
+      "XBP1",
+      "IGLC2",
+      "PDIA6",
+      "PLPP5",
+      "DAD1",
+      "SDF2L1",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "355": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "PRDX4",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "IGHG2",
+      "PLPP5",
+      "ITM2C",
+      "XBP1",
+      "HERPUD1",
+      "GNG7",
+      "PSAP",
+      "CD27",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.0,
+      "Stromal": 1.0
+    }
+  },
+  "69": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "SNCA",
+      "ALAS2",
+      "UBB",
+      "SLC25A39",
+      "BSG",
+      "STRADB",
+      "FECH",
+      "FBXO7",
+      "EPB42",
+      "DMTN",
+      "SLC25A37",
+      "HBD"
+    ],
+    "celltype_composition": {
+      "Polychromatic Erythroblast": 63.0,
+      "Orthochromatic Erythroblast": 31.5,
+      "Basophilic Erythroblast": 5.0
+    }
+  },
+  "7": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "PRDX4",
+      "IGKC",
+      "XBP1",
+      "MZB1",
+      "PLPP5",
+      "GNG7",
+      "HERPUD1",
+      "CRELD2",
+      "FKBP2",
+      "ISG20",
+      "SDF2L1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 98.5,
+      "Megakaryocyte Precursor": 1.0
+    }
+  },
+  "19": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "PDIA6",
+      "FKBP2",
+      "ERLEC1",
+      "MYDGF",
+      "HERPUD1",
+      "DAD1",
+      "PLPP5"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "1150": {
+    "genes": [
+      "PTMA",
+      "HMGN2",
+      "SRSF3",
+      "HNRNPC",
+      "DEK",
+      "RPS24",
+      "HNRNPA1",
+      "HMGB1",
+      "YWHAQ",
+      "HNRNPA2B1",
+      "H2AFY",
+      "ERH",
+      "SRSF2",
+      "HNRNPR",
+      "RPLP0"
+    ],
+    "celltype_composition": {
+      "Megakaryocyte Precursor": 55.5,
+      "Large Pre-B": 27.0,
+      "EoBasoMast Precursor": 6.5,
+      "BFU-E": 3.5,
+      "T Proliferating": 3.0,
+      "Pro-B Cycling": 2.5,
+      "CFU-E": 1.0
+    }
+  },
+  "1959": {
+    "genes": [
+      "S100A8",
+      "S100A9",
+      "S100A6",
+      "FCN1",
+      "CSTA",
+      "AIF1",
+      "TYROBP",
+      "S100A4",
+      "MNDA",
+      "AP1S2",
+      "LST1",
+      "S100A12",
+      "VCAN",
+      "GRN",
+      "S100A11"
+    ],
+    "celltype_composition": {
+      "CD14 Mono": 55.0,
+      "Megakaryocyte Precursor": 25.0,
+      "Late ProMono": 13.0,
+      "Early ProMono": 5.0,
+      "Megakaryocyte": 1.5
+    }
+  },
+  "89": {
+    "genes": [
+      "STMN1",
+      "HMGN2",
+      "HMGB2",
+      "TUBB",
+      "HNRNPA2B1",
+      "TUBA1B",
+      "HMGB1",
+      "UBB",
+      "RPS24",
+      "TOP2A",
+      "CALM2",
+      "H2AFY",
+      "AURKB",
+      "HNRNPA1",
+      "NUSAP1"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 41.5,
+      "Pro-B Cycling": 11.5,
+      "Megakaryocyte Precursor": 10.0,
+      "Cycling Progenitor": 10.0,
+      "BFU-E": 8.0,
+      "Pro-Erythroblast": 6.0,
+      "Pre-pDC": 4.0,
+      "Pre-cDC": 3.5,
+      "Pre-pDC Cycling": 3.0,
+      "T Proliferating": 1.0
+    }
+  },
+  "1849": {
+    "genes": [
+      "HBA2",
+      "HBA1",
+      "HBB",
+      "SNCA",
+      "ALAS2",
+      "UBB",
+      "BNIP3L",
+      "BPGM",
+      "FECH",
+      "BSG",
+      "SLC25A39",
+      "FBXO7",
+      "DCAF12",
+      "MKRN1",
+      "SLC25A37"
+    ],
+    "celltype_composition": {
+      "Orthochromatic Erythroblast": 82.0,
+      "Polychromatic Erythroblast": 16.5,
+      "Plasma Cell": 1.0
+    }
+  },
+  "24": {
+    "genes": [
+      "SSR4",
+      "IGKC",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "PDIA6",
+      "MZB1",
+      "FKBP2",
+      "HERPUD1",
+      "DAD1",
+      "PLPP5",
+      "MYDGF",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "574": {
+    "genes": [
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "FKBP2",
+      "MZB1",
+      "MYDGF",
+      "PRDX4",
+      "IGHA1",
+      "PLPP5",
+      "ITM2C",
+      "HSP90B1",
+      "ERLEC1",
+      "MANF",
+      "PDIA6",
+      "DAD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 98.5,
+      "Basophilic Erythroblast": 1.0
+    }
+  },
+  "221": {
+    "genes": [
+      "HMGN2",
+      "PTMA",
+      "HNRNPA2B1",
+      "H2AFY",
+      "GAPDH",
+      "DEK",
+      "ENO1",
+      "GSTP1",
+      "YBX1",
+      "LSM5",
+      "HMGB1",
+      "RPS24",
+      "SRSF3",
+      "YWHAQ",
+      "LDHA"
+    ],
+    "celltype_composition": {
+      "Megakaryocyte Precursor": 56.5,
+      "Pre-cDC": 24.0,
+      "T Proliferating": 9.5,
+      "Early ProMono": 4.5,
+      "cDC1": 2.0,
+      "Megakaryocyte": 1.5,
+      "BFU-E": 1.0
+    }
+  },
+  "799": {
+    "genes": [
+      "STMN1",
+      "H3F3A",
+      "PTMA",
+      "HMGN2",
+      "HMGB1",
+      "TUBA1B",
+      "TYMS",
+      "TUBB",
+      "H2AFY",
+      "DEK",
+      "H2AFZ",
+      "HMGB2",
+      "PCLAF",
+      "CARHSP1",
+      "UBB"
+    ],
+    "celltype_composition": {
+      "Large Pre-B": 70.0,
+      "Pro-B Cycling": 29.5
+    }
+  },
+  "38": {
+    "genes": [
+      "PTMA",
+      "RPS17",
+      "RPS24",
+      "RPL7A",
+      "RPL4",
+      "RPLP0",
+      "YBX1",
+      "RPS23",
+      "MT-CO3",
+      "RPS2",
+      "EEF1B2",
+      "HMGB1",
+      "ERH",
+      "H3F3A",
+      "RPL37A"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 81.0,
+      "CFU-E": 14.0,
+      "Basophilic Erythroblast": 5.0
+    }
+  },
+  "56": {
+    "genes": [
+      "SSR4",
+      "IGKC",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "PDIA6",
+      "PLPP5",
+      "DAD1",
+      "MYDGF",
+      "FKBP2",
+      "HERPUD1",
+      "UBE2J1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "76": {
+    "genes": [
+      "PTMA",
+      "YWHAQ",
+      "GAPDH",
+      "VDAC1",
+      "HMGN2",
+      "ERH",
+      "DEK",
+      "SRSF3",
+      "YBX1",
+      "HNRNPC",
+      "RANBP1",
+      "ENO1",
+      "YWHAE",
+      "HNRNPA2B1",
+      "SLC25A5"
+    ],
+    "celltype_composition": {
+      "Megakaryocyte Precursor": 81.5,
+      "T Proliferating": 6.5,
+      "Megakaryocyte": 4.0,
+      "Pro-Erythroblast": 2.5,
+      "cDC1": 2.0,
+      "BFU-E": 1.5,
+      "Pre-cDC": 1.0
+    }
+  },
+  "244": {
+    "genes": [
+      "NUCB2",
+      "CALR",
+      "RPS26",
+      "RPLP0",
+      "RPS24",
+      "PDIA6",
+      "P4HB",
+      "RPS17",
+      "HSPB1",
+      "RPS23",
+      "HSP90B1",
+      "GSTP1",
+      "RPL37A",
+      "TXN",
+      "EEF1B2"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 29.5,
+      "Cycling Progenitor": 20.0,
+      "GMP-Cycle": 14.0,
+      "Early GMP": 9.0,
+      "Megakaryocyte Precursor": 7.5,
+      "Pro-Erythroblast": 6.0,
+      "Large Pre-B": 2.5,
+      "Basophilic Erythroblast": 1.5,
+      "Polychromatic Erythroblast": 1.5,
+      "CFU-E": 1.5,
+      "GMP-Neut": 1.5,
+      "Pre-cDC": 1.5,
+      "Orthochromatic Erythroblast": 1.0,
+      "cDC1": 1.0
+    }
+  },
+  "42": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "MT-ND1",
+      "MT-ND5",
+      "NDUFS5",
+      "UQCRQ",
+      "S100A6",
+      "GADD45GIP1",
+      "HMGB1",
+      "RPL37A",
+      "PTMA",
+      "SPN",
+      "TFR2",
+      "HNRNPAB",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 68.5,
+      "CFU-E": 13.5,
+      "Basophilic Erythroblast": 9.5,
+      "Megakaryocyte Precursor": 3.0,
+      "CD14 Mono": 2.0,
+      "Polychromatic Erythroblast": 2.0
+    }
+  },
+  "8": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "XBP1",
+      "ITM2C",
+      "MZB1",
+      "PDIA6",
+      "ERLEC1",
+      "FKBP2",
+      "HERPUD1",
+      "MYDGF",
+      "PLPP5",
+      "DAD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "640": {
+    "genes": [
+      "RPS24",
+      "EEF1B2",
+      "HNRNPA1",
+      "RPLP0",
+      "RPS17",
+      "RPS23",
+      "RPS2",
+      "RPL4",
+      "RPL7A",
+      "RPL37A",
+      "H3F3A",
+      "UQCRH",
+      "IMPDH2",
+      "HMGN1",
+      "NPM1"
+    ],
+    "celltype_composition": {
+      "CFU-E": 37.5,
+      "Pro-Erythroblast": 29.0,
+      "Basophilic Erythroblast": 10.5,
+      "BFU-E": 9.5,
+      "Cycling Progenitor": 4.5,
+      "Large Pre-B": 4.0,
+      "Early GMP": 2.5,
+      "Polychromatic Erythroblast": 1.5
+    }
+  },
+  "1149": {
+    "genes": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "PLPP5",
+      "FKBP2",
+      "MYDGF",
+      "IGHA1",
+      "HSP90B1",
+      "ITM2C",
+      "MANF",
+      "ERLEC1",
+      "UBE2J1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.0,
+      "Megakaryocyte Precursor": 1.0
+    }
+  },
+  "771": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPS17",
+      "RPLP0",
+      "RPL37A",
+      "HNRNPA1",
+      "RPL7A",
+      "EEF1B2",
+      "UQCRH",
+      "GAPDH",
+      "H3F3A",
+      "RPL4",
+      "RPS26",
+      "LDHB",
+      "SNRPE"
+    ],
+    "celltype_composition": {
+      "CFU-E": 32.5,
+      "Pro-Erythroblast": 17.5,
+      "Cycling Progenitor": 14.5,
+      "BFU-E": 10.0,
+      "Early GMP": 9.0,
+      "GMP-Cycle": 4.5,
+      "LMPP": 4.5,
+      "Pre-pDC": 1.5,
+      "HSC": 1.0,
+      "MEP": 1.0,
+      "EoBasoMast Precursor": 1.0
+    }
+  },
+  "73": {
+    "genes": [
+      "SSR4",
+      "IGKC",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "PDIA6",
+      "MZB1",
+      "FKBP2",
+      "MYDGF",
+      "HERPUD1",
+      "PLPP5",
+      "ERLEC1",
+      "SDF2L1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "75": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "PDIA6",
+      "MZB1",
+      "MYDGF",
+      "FKBP2",
+      "PLPP5",
+      "ERLEC1",
+      "HERPUD1",
+      "DAD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "1760": {
+    "genes": [
+      "PTMA",
+      "YWHAQ",
+      "YBX1",
+      "SRSF3",
+      "GAPDH",
+      "ENO1",
+      "RANBP1",
+      "VDAC1",
+      "HMGN2",
+      "ERH",
+      "SLC25A5",
+      "HMGB1",
+      "HNRNPC",
+      "LDHA",
+      "DEK"
+    ],
+    "celltype_composition": {
+      "Megakaryocyte Precursor": 79.0,
+      "T Proliferating": 13.0,
+      "Plasma Cell": 2.5,
+      "BFU-E": 1.5,
+      "Megakaryocyte": 1.5,
+      "Pre-cDC": 1.5
+    }
+  },
+  "1": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "PDIA6",
+      "MYDGF",
+      "FKBP2",
+      "ERLEC1",
+      "HERPUD1",
+      "PLPP5",
+      "GNG7"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "6": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "PDIA6",
+      "FKBP2",
+      "MYDGF",
+      "ERLEC1",
+      "HERPUD1",
+      "PLPP5",
+      "SDF2L1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "1079": {
+    "genes": [
+      "GSTP1",
+      "RPS24",
+      "ENO1",
+      "H2AFY",
+      "VDAC1",
+      "COX5A",
+      "RPS23",
+      "PTMA",
+      "EEF1B2",
+      "SLC25A3",
+      "YBX1",
+      "PPIA",
+      "SLC25A5",
+      "RPL4",
+      "PSAP"
+    ],
+    "celltype_composition": {
+      "Megakaryocyte Precursor": 51.0,
+      "cDC1": 30.5,
+      "Pre-cDC": 8.5,
+      "T Proliferating": 5.0,
+      "Megakaryocyte": 2.0,
+      "cDC2": 2.0
+    }
+  },
+  "453": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "MT-ND1",
+      "MT-ND5",
+      "MT-ND6",
+      "SPN",
+      "CCDC14",
+      "METAP2",
+      "ATP5IF1",
+      "SFPQ",
+      "HNRNPAB",
+      "AC084033.3",
+      "EIF3B",
+      "CDK6",
+      "IARS"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 34.5,
+      "Megakaryocyte Precursor": 23.5,
+      "CFU-E": 13.0,
+      "Basophilic Erythroblast": 9.0,
+      "Polychromatic Erythroblast": 6.5,
+      "CD14 Mono": 4.5,
+      "Orthochromatic Erythroblast": 3.0,
+      "CD4 Naive": 1.5,
+      "Early ProMono": 1.0,
+      "GMP-Mono": 1.0
+    }
+  },
+  "16": {
+    "genes": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "FKBP11",
+      "PRDX4",
+      "MZB1",
+      "ITM2C",
+      "MYDGF",
+      "FKBP2",
+      "PLPP5",
+      "XBP1",
+      "HERPUD1",
+      "SDF2L1",
+      "CRELD2",
+      "GNG7"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "32": {
+    "genes": [
+      "MT-CO2",
+      "MT-CO3",
+      "RPS23",
+      "MT-ND1",
+      "RPS24",
+      "RPLP0",
+      "RPL37A",
+      "RPS17",
+      "RPL7A",
+      "MT-ND5",
+      "RPS2",
+      "HNRNPA1",
+      "EEF1B2",
+      "UQCRH",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "Pro-Erythroblast": 49.5,
+      "CFU-E": 25.5,
+      "Cycling Progenitor": 11.5,
+      "GMP-Mono": 3.0,
+      "GMP-Cycle": 2.5,
+      "Early GMP": 2.5,
+      "Basophilic Erythroblast": 2.0,
+      "CD14 Mono": 1.5,
+      "BFU-E": 1.0
+    }
+  },
+  "9": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "MZB1",
+      "XBP1",
+      "PDIA6",
+      "FKBP2",
+      "MYDGF",
+      "ERLEC1",
+      "PLPP5",
+      "SDF2L1",
+      "HERPUD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "85": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "UBB",
+      "SNCA",
+      "ALAS2",
+      "BSG",
+      "SLC25A39",
+      "STRADB",
+      "CD59",
+      "CISD2",
+      "FECH",
+      "SELENBP1",
+      "HBD",
+      "FBXO7"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 43.0,
+      "Polychromatic Erythroblast": 31.0,
+      "Orthochromatic Erythroblast": 25.5
+    }
+  },
+  "80": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "HBA1",
+      "SNCA",
+      "ALAS2",
+      "UBB",
+      "STRADB",
+      "SLC25A39",
+      "FECH",
+      "BSG",
+      "FBXO7",
+      "SLC25A37",
+      "SELENBP1",
+      "EPB42",
+      "MAP2K3"
+    ],
+    "celltype_composition": {
+      "Orthochromatic Erythroblast": 51.0,
+      "Polychromatic Erythroblast": 46.5,
+      "Basophilic Erythroblast": 2.5
+    }
+  },
+  "57": {
+    "genes": [
+      "FTH1",
+      "PRDX2",
+      "PTMA",
+      "HBB",
+      "BLVRB",
+      "RPLP0",
+      "AHSP",
+      "RPS24",
+      "HMGB1",
+      "RPS17",
+      "RPS2",
+      "RPS23",
+      "ANP32B",
+      "SOD1",
+      "RPL4"
+    ],
+    "celltype_composition": {
+      "Basophilic Erythroblast": 69.5,
+      "Pro-Erythroblast": 28.0,
+      "Polychromatic Erythroblast": 2.5
+    }
+  },
+  "1825": {
+    "genes": [
+      "IGHG1",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PRDX4",
+      "XBP1",
+      "CD63",
+      "ITM2C",
+      "PLPP5",
+      "HERPUD1",
+      "FKBP2",
+      "PDIA6",
+      "UBE2J1",
+      "PSAP"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1434": {
+    "genes": [
+      "SSR4",
+      "IGKC",
+      "FKBP11",
+      "SEC11C",
+      "XBP1",
+      "MZB1",
+      "ITM2C",
+      "PRDX4",
+      "HERPUD1",
+      "PLPP5",
+      "FKBP2",
+      "HSP90B1",
+      "MYDGF",
+      "DAD1",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 93.5,
+      "Basophilic Erythroblast": 1.5,
+      "Stromal": 1.0,
+      "Orthochromatic Erythroblast": 1.0,
+      "CFU-E": 1.0,
+      "Pro-Erythroblast": 1.0
+    }
+  },
+  "979": {
+    "genes": [
+      "SSR4",
+      "IGKC",
+      "FKBP11",
+      "SEC11C",
+      "PRDX4",
+      "PLPP5",
+      "ITM2C",
+      "XBP1",
+      "HERPUD1",
+      "MZB1",
+      "FCRL5",
+      "MYDGF",
+      "GNG7",
+      "FKBP2",
+      "ERLEC1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 98.0,
+      "Orthochromatic Erythroblast": 1.0
+    }
+  },
+  "13": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "HERPUD1",
+      "PLPP5",
+      "PDIA6",
+      "MYDGF",
+      "ERLEC1",
+      "SDF2L1",
+      "FKBP2"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "12": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PRDX4",
+      "FKBP2",
+      "PDIA6",
+      "ITM2C",
+      "XBP1",
+      "UBE2J1",
+      "MYDGF",
+      "PLPP5",
+      "IGLC2",
+      "HERPUD1",
+      "CRELD2"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "2032": {
+    "genes": [
+      "IGHA1",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "MYDGF",
+      "PRDX4",
+      "FKBP2",
+      "PLPP5",
+      "HSP90B1",
+      "MANF",
+      "XBP1",
+      "ITM2C",
+      "UBE2J1",
+      "PDIA6"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "0": {
+    "genes": [
+      "IGLC2",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "MYDGF",
+      "ITM2C",
+      "PDIA6",
+      "XBP1",
+      "UBE2J1",
+      "FKBP2",
+      "PLPP5",
+      "HERPUD1",
+      "CD63"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1340": {
+    "genes": [
+      "RPLP0",
+      "PTMA",
+      "RANBP1",
+      "RPS17",
+      "UQCRH",
+      "SNRPG",
+      "SNRPD1",
+      "RPS23",
+      "PA2G4",
+      "UQCRQ",
+      "HMGB1",
+      "PPIA",
+      "NDUFS5",
+      "HNRNPC",
+      "SNRPE"
+    ],
+    "celltype_composition": {
+      "Basophilic Erythroblast": 49.5,
+      "Pro-Erythroblast": 28.0,
+      "Polychromatic Erythroblast": 7.5,
+      "CFU-E": 7.0,
+      "Megakaryocyte Precursor": 3.5,
+      "Large Pre-B": 1.0,
+      "Early ProMono": 1.0
+    }
+  },
+  "1552": {
+    "genes": [
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "FKBP2",
+      "XBP1",
+      "MYDGF",
+      "ITM2C",
+      "PDIA6",
+      "HERPUD1",
+      "ERLEC1",
+      "PLPP5",
+      "SDF2L1",
+      "CD27"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.0,
+      "Orthochromatic Erythroblast": 1.0
+    }
+  },
+  "1269": {
+    "genes": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "MZB1",
+      "FKBP11",
+      "ITM2C",
+      "PRDX4",
+      "XBP1",
+      "PLPP5",
+      "FKBP2",
+      "CD27",
+      "ERLEC1",
+      "UBE2J1",
+      "ISG20",
+      "HERPUD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "90": {
+    "genes": [
+      "IGHG3",
+      "SSR4",
+      "SEC11C",
+      "IGHG1",
+      "FKBP11",
+      "PRDX4",
+      "MZB1",
+      "IGKC",
+      "PLPP5",
+      "MYDGF",
+      "ITM2C",
+      "XBP1",
+      "UBE2J1",
+      "HERPUD1",
+      "CD63"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1665": {
+    "genes": [
+      "IGLC2",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "FKBP2",
+      "XBP1",
+      "ITM2C",
+      "CD63",
+      "PLPP5",
+      "CD27",
+      "ERLEC1",
+      "HERPUD1",
+      "MYDGF"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "484": {
+    "genes": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "PRDX4",
+      "PLPP5",
+      "XBP1",
+      "ITM2C",
+      "GNG7",
+      "CD27",
+      "HERPUD1",
+      "CRELD2",
+      "CD63"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "470": {
+    "genes": [
+      "SSR4",
+      "IGHA1",
+      "SEC11C",
+      "FKBP11",
+      "FKBP2",
+      "MZB1",
+      "PRDX4",
+      "PLPP5",
+      "ITM2C",
+      "MANF",
+      "UBE2J1",
+      "MYDGF",
+      "CRELD2",
+      "XBP1",
+      "PDIA6"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "1581": {
+    "genes": [
+      "IGHG1",
+      "IGKC",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "ITM2C",
+      "PRDX4",
+      "XBP1",
+      "MZB1",
+      "CD63",
+      "PDIA6",
+      "PLPP5",
+      "MYDGF",
+      "PSAP",
+      "FKBP2"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 100.0
+    }
+  },
+  "14": {
+    "genes": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "XBP1",
+      "FKBP2",
+      "PLPP5",
+      "PRDX4",
+      "UBE2J1",
+      "ITM2C",
+      "CD27",
+      "HERPUD1",
+      "PDIA6",
+      "SDF2L1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.5
+    }
+  },
+  "74": {
+    "genes": [
+      "RPS24",
+      "RPS2",
+      "RPS23",
+      "RPS17",
+      "RPLP0",
+      "RPL7A",
+      "RPL37A",
+      "EEF1B2",
+      "HNRNPA1",
+      "RPL4",
+      "LDHB",
+      "NPM1",
+      "SNRPE",
+      "GAPDH",
+      "UQCRH"
+    ],
+    "celltype_composition": {
+      "CFU-E": 30.5,
+      "Cycling Progenitor": 27.0,
+      "Early GMP": 22.5,
+      "BFU-E": 10.5,
+      "Pro-Erythroblast": 2.5,
+      "EoBasoMast Precursor": 1.5,
+      "GMP-Cycle": 1.5,
+      "MLP": 1.0
+    }
+  },
+  "1579": {
+    "genes": [
+      "HMGN2",
+      "STMN1",
+      "HNRNPA1",
+      "HMGB2",
+      "H3F3A",
+      "PTMA",
+      "H2AFZ",
+      "HMGB1",
+      "H2AFY",
+      "HMGN1",
+      "TUBB",
+      "PPIA",
+      "UBB",
+      "TUBA1B",
+      "RPS24"
+    ],
+    "celltype_composition": {
+      "Pro-B Cycling": 35.0,
+      "Large Pre-B": 30.0,
+      "Pre-cDC": 9.0,
+      "Megakaryocyte Precursor": 7.5,
+      "Cycling Progenitor": 5.0,
+      "Pre-pDC": 2.0,
+      "BFU-E": 2.0,
+      "Pre-pDC Cycling": 1.5,
+      "Pro-B VDJ": 1.5,
+      "EoBasoMast Precursor": 1.0,
+      "Pre-ProB": 1.0,
+      "Plasma Cell": 1.0
+    }
+  },
+  "5": {
+    "genes": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "IGLC3",
+      "PLPP5",
+      "MZB1",
+      "PRDX4",
+      "FKBP2",
+      "XBP1",
+      "GNG7",
+      "CHPF",
+      "ITM2C",
+      "TNFRSF13B",
+      "UBE2J1",
+      "DERL3"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 98.5,
+      "Stromal": 1.5
+    }
+  },
+  "1471": {
+    "genes": [
+      "HMGN2",
+      "VDAC1",
+      "GSTP1",
+      "TMSB4X",
+      "PSMA4",
+      "COX5A",
+      "LDHA",
+      "ENO1",
+      "HNRNPC",
+      "LSM5",
+      "DEK",
+      "SNRPG",
+      "PTMA",
+      "COTL1",
+      "SLC25A5"
+    ],
+    "celltype_composition": {
+      "Megakaryocyte Precursor": 39.0,
+      "cDC1": 23.5,
+      "T Proliferating": 13.5,
+      "CD4 Regulatory": 11.5,
+      "Pre-cDC": 4.0,
+      "cDC2": 3.0,
+      "CD16 Mono": 1.5,
+      "Megakaryocyte": 1.0,
+      "CD4 Central Memory": 1.0
+    }
+  },
+  "123": {
+    "genes": [
+      "CXCL12",
+      "IFITM3",
+      "LEPR",
+      "CFD",
+      "MARCKS",
+      "APOE",
+      "CP",
+      "GAS6",
+      "APP",
+      "MDK",
+      "SERPING1",
+      "GGT5",
+      "PCOLCE",
+      "TFPI",
+      "SELENOP"
+    ],
+    "celltype_composition": {
+      "Stromal": 72.5,
+      "Megakaryocyte": 18.5,
+      "Megakaryocyte Precursor": 9.0
+    }
+  },
+  "816": {
+    "genes": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PRDX4",
+      "PLPP5",
+      "FKBP2",
+      "UBE2J1",
+      "GNG7",
+      "XBP1",
+      "CD27",
+      "ISG20",
+      "ERLEC1",
+      "DERL3"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 98.5,
+      "Stromal": 1.0
+    }
+  },
+  "1357": {
+    "genes": [
+      "IGKC",
+      "SSR4",
+      "MZB1",
+      "SEC11C",
+      "IGHG2",
+      "FKBP11",
+      "ITM2C",
+      "FKBP2",
+      "PRDX4",
+      "XBP1",
+      "GNG7",
+      "PLPP5",
+      "HERPUD1",
+      "MYDGF",
+      "PDIA6"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 87.0,
+      "Pro-B Cycling": 7.5,
+      "Pro-B VDJ": 1.0,
+      "CD4 Naive": 1.0,
+      "Pre-pDC Cycling": 1.0
+    }
+  },
+  "254": {
+    "genes": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "PLPP5",
+      "XBP1",
+      "PRDX4",
+      "ITM2C",
+      "ISG20",
+      "CRELD2",
+      "DERL3",
+      "ERLEC1",
+      "CD27"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 99.0
+    }
+  },
+  "548": {
+    "genes": [
+      "SSR4",
+      "IGKC",
+      "SEC11C",
+      "FKBP11",
+      "ITM2C",
+      "IGHG1",
+      "MZB1",
+      "IGHG3",
+      "PRDX4",
+      "XBP1",
+      "PLPP5",
+      "HERPUD1",
+      "IGHG4",
+      "GNG7",
+      "CD27"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 98.5
+    }
+  },
+  "837": {
+    "genes": [
+      "SSR4",
+      "PLPP5",
+      "SEC11C",
+      "HSP90B1",
+      "SDF2L1",
+      "MZB1",
+      "PRDX4",
+      "PDIA6",
+      "DERL3",
+      "FKBP11",
+      "HERPUD1",
+      "MYDGF",
+      "MANF",
+      "JCHAIN",
+      "DAD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 82.5,
+      "Basophilic Erythroblast": 6.0,
+      "Pro-Erythroblast": 3.5,
+      "EoBasoMast Precursor": 2.5,
+      "Pre-cDC": 1.0,
+      "Early GMP": 1.0,
+      "Polychromatic Erythroblast": 1.0
+    }
+  },
+  "576": {
+    "genes": [
+      "SSR4",
+      "IGHG3",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "IGHG1",
+      "PRDX4",
+      "PLPP5",
+      "IGLC2",
+      "UBE2J1",
+      "XBP1",
+      "DERL3",
+      "ITM2C",
+      "HERPUD1"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 85.0,
+      "Pro-Erythroblast": 6.5,
+      "Basophilic Erythroblast": 5.5,
+      "Polychromatic Erythroblast": 1.5
+    }
+  },
+  "575": {
+    "genes": [
+      "SSR4",
+      "JCHAIN",
+      "SEC11C",
+      "FKBP11",
+      "IGKC",
+      "FKBP2",
+      "PLPP5",
+      "MZB1",
+      "ITM2C",
+      "XBP1",
+      "GNG7",
+      "TNFRSF13B",
+      "PRDX4",
+      "UBE2J1",
+      "ISG20"
+    ],
+    "celltype_composition": {
+      "Plasma Cell": 92.5,
+      "Stromal": 1.0,
+      "Megakaryocyte Precursor": 1.0,
+      "CD4 Naive": 1.0
+    }
+  }
+}

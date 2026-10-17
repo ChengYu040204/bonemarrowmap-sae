@@ -1,0 +1,3929 @@
+{
+  "1654": {
+    "genes": [
+      "ITM2C",
+      "C12orf75",
+      "JCHAIN",
+      "LILRA4",
+      "APP",
+      "TCF4",
+      "PLD4",
+      "IRF7",
+      "SSR4",
+      "SERPINF1",
+      "TSPAN13",
+      "CCDC50",
+      "MZB1",
+      "PLAC8",
+      "IRF8"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 3.5,
+      "pDC": 79.0,
+      "Pre-pDC Cycling": 5.0,
+      "ASDC": 12.0
+    },
+    "anova_rank": 1,
+    "f_stat": 5762.67
+  },
+  "1990": {
+    "genes": [
+      "HLA-DRA",
+      "CD74",
+      "HLA-DPA1",
+      "HLA-DPB1",
+      "HLA-DRB1",
+      "HLA-DMA",
+      "HLA-DQB1",
+      "HLA-DQA1",
+      "TMSB4X",
+      "CST3",
+      "HLA-DMB",
+      "RPL4",
+      "RPS24",
+      "FTH1",
+      "RPS2"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 27.5,
+      "cDC1": 42.5,
+      "cDC2": 30.0
+    },
+    "anova_rank": 2,
+    "f_stat": 4472.37
+  },
+  "1860": {
+    "genes": [
+      "JCHAIN",
+      "GZMB",
+      "TCF4",
+      "IRF7",
+      "MZB1",
+      "LRRC26",
+      "CLIC3",
+      "UGCG",
+      "DERL3",
+      "CLEC4C",
+      "SERPINF1",
+      "SMPD3",
+      "LILRA4",
+      "PTPRS",
+      "PPP1R14B"
+    ],
+    "celltype_composition": {
+      "pDC": 98.5,
+      "Pre-cDC": 1.0
+    },
+    "anova_rank": 3,
+    "f_stat": 3493.61
+  },
+  "508": {
+    "genes": [
+      "HMGN2",
+      "TUBA1B",
+      "HMGB2",
+      "HMGB1",
+      "STMN1",
+      "TUBB",
+      "CKS1B",
+      "H2AFZ",
+      "H2AFV",
+      "H3F3A",
+      "HMGN1",
+      "ANP32B",
+      "NUSAP1",
+      "CALM2",
+      "HNRNPA2B1"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 7.5,
+      "Pre-pDC Cycling": 32.0,
+      "Pre-cDC": 60.0
+    },
+    "anova_rank": 4,
+    "f_stat": 3013.6
+  },
+  "1254": {
+    "genes": [
+      "CD74",
+      "HLA-DRA",
+      "HLA-DPA1",
+      "HLA-DPB1",
+      "HLA-DQB1",
+      "TMSB4X",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "HLA-DMA",
+      "CPVL",
+      "C1orf54",
+      "CST3",
+      "HLA-DMB",
+      "CLEC9A",
+      "PSAP"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 11.0,
+      "cDC1": 68.5,
+      "cDC2": 20.5
+    },
+    "anova_rank": 5,
+    "f_stat": 2653.6
+  },
+  "76": {
+    "genes": [
+      "JCHAIN",
+      "UGCG",
+      "ITM2C",
+      "APP",
+      "BCL11A",
+      "MZB1",
+      "PTPRS",
+      "PPP1R14B",
+      "CXXC5",
+      "C12orf75",
+      "GAB1",
+      "SERPINF1",
+      "CDKN2D",
+      "DERL3",
+      "KCNK17"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 9.0,
+      "Pre-cDC": 3.0,
+      "ASDC": 3.0,
+      "Pre-pDC": 2.5,
+      "cDC2": 4.0,
+      "pDC": 78.5
+    },
+    "anova_rank": 6,
+    "f_stat": 2566.59
+  },
+  "953": {
+    "genes": [
+      "STMN1",
+      "HMGB1",
+      "HMGN2",
+      "TUBB",
+      "TUBA1B",
+      "H2AFZ",
+      "HMGB2",
+      "CKS1B",
+      "H3F3A",
+      "PTMA",
+      "HMGN1",
+      "UBB",
+      "HNRNPA2B1",
+      "HNRNPA3",
+      "ANP32B"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 38.5,
+      "Pre-pDC Cycling": 58.5,
+      "Pre-pDC": 2.0,
+      "ASDC": 1.0
+    },
+    "anova_rank": 7,
+    "f_stat": 2223.06
+  },
+  "1523": {
+    "genes": [
+      "RPS24",
+      "TMSB4X",
+      "RPS17",
+      "HLA-DRA",
+      "H3F3A",
+      "PTMA",
+      "GAPDH",
+      "GSTP1",
+      "MT-CO3",
+      "LYZ",
+      "RPL37A",
+      "TPI1",
+      "PPIA",
+      "EEF1B2",
+      "RPS23"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 65.0,
+      "cDC1": 30.5,
+      "cDC2": 4.5
+    },
+    "anova_rank": 8,
+    "f_stat": 2022.49
+  },
+  "98": {
+    "genes": [
+      "TCF4",
+      "SPIB",
+      "CCDC50",
+      "SOX4",
+      "SCT",
+      "PLAC8",
+      "IRF7",
+      "APP",
+      "MZB1",
+      "HIST1H2BG",
+      "STMN1",
+      "C12orf75",
+      "HMGN2",
+      "CLEC4C",
+      "IRF8"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 17.5,
+      "Pre-pDC Cycling": 22.0,
+      "pDC": 43.0,
+      "ASDC": 10.5,
+      "Pre-pDC": 5.5,
+      "cDC2": 1.5
+    },
+    "anova_rank": 9,
+    "f_stat": 1925.83
+  },
+  "284": {
+    "genes": [
+      "GZMB",
+      "JCHAIN",
+      "SERPINF1",
+      "ITM2C",
+      "LILRA4",
+      "IRF7",
+      "TSPAN13",
+      "C12orf75",
+      "PLD4",
+      "CLIC3",
+      "TCF4",
+      "DERL3",
+      "PPP1R14B",
+      "CCDC50",
+      "UGCG"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 2.0,
+      "pDC": 91.0,
+      "cDC2": 1.5,
+      "cDC1": 3.5,
+      "ASDC": 2.0
+    },
+    "anova_rank": 10,
+    "f_stat": 1833.73
+  },
+  "1073": {
+    "genes": [
+      "RPS23",
+      "H3F3A",
+      "PLAC8",
+      "RPS24",
+      "RPL4",
+      "RPLP0",
+      "RPS17",
+      "EEF1B2",
+      "RPS2",
+      "ITM2C",
+      "GPX1",
+      "PPIA",
+      "HNRNPA1",
+      "H2AFY",
+      "DUT"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 20.5,
+      "Pre-pDC Cycling": 29.0,
+      "Pre-pDC": 23.5,
+      "pDC": 14.0,
+      "ASDC": 9.0,
+      "cDC2": 3.0,
+      "cDC1": 1.0
+    },
+    "anova_rank": 11,
+    "f_stat": 1768.56
+  },
+  "1971": {
+    "genes": [
+      "TMSB4X",
+      "CD74",
+      "HLA-DRA",
+      "HLA-DPA1",
+      "HLA-DPB1",
+      "HLA-DQB1",
+      "HLA-DQA1",
+      "HLA-DRB1",
+      "HLA-DMA",
+      "C1orf54",
+      "CST3",
+      "CPVL",
+      "COTL1",
+      "RPS23",
+      "RPL4"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 20.0,
+      "cDC1": 57.5,
+      "cDC2": 21.5
+    },
+    "anova_rank": 12,
+    "f_stat": 1688.65
+  },
+  "1901": {
+    "genes": [
+      "CD74",
+      "HLA-DPA1",
+      "HLA-DRA",
+      "HLA-DPB1",
+      "HLA-DQB1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "HLA-DMA",
+      "TMSB4X",
+      "CPVL",
+      "C1orf54",
+      "RPL4",
+      "EEF1B2",
+      "FCGRT",
+      "CST3"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 7.5,
+      "cDC1": 69.0,
+      "cDC2": 22.5
+    },
+    "anova_rank": 13,
+    "f_stat": 1608.23
+  },
+  "426": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DPB1",
+      "CD74",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQB1",
+      "HLA-DQA1",
+      "TMSB4X",
+      "HLA-DMA",
+      "CST3",
+      "CPVL",
+      "HLA-DMB",
+      "C1orf54",
+      "RPL4",
+      "RPS24"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 11.5,
+      "cDC1": 59.5,
+      "cDC2": 28.5
+    },
+    "anova_rank": 14,
+    "f_stat": 1360.13
+  },
+  "1741": {
+    "genes": [
+      "TMSB4X",
+      "RPL4",
+      "CD74",
+      "HLA-DRA",
+      "RPS24",
+      "RPS17",
+      "RPS2",
+      "RPS23",
+      "HLA-DPA1",
+      "HLA-DPB1",
+      "HLA-DMA",
+      "HLA-DQB1",
+      "RPL7A",
+      "EEF1B2",
+      "HLA-DRB1"
+    ],
+    "celltype_composition": {
+      "cDC1": 41.0,
+      "Pre-cDC": 19.0,
+      "cDC2": 37.0,
+      "Pre-pDC": 2.5
+    },
+    "anova_rank": 15,
+    "f_stat": 1323.83
+  },
+  "1080": {
+    "genes": [
+      "HLA-DRA",
+      "CD74",
+      "RPS24",
+      "RPS23",
+      "EEF1B2",
+      "HLA-DRB1",
+      "H3F3A",
+      "HLA-DMA",
+      "RPL4",
+      "HLA-DPA1",
+      "CST3",
+      "GSTP1",
+      "RPS17",
+      "MT-CO3",
+      "HLA-DPB1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 54.0,
+      "cDC1": 35.0,
+      "cDC2": 7.5,
+      "Pre-pDC": 1.5,
+      "Pre-pDC Cycling": 2.0
+    },
+    "anova_rank": 16,
+    "f_stat": 1268.15
+  },
+  "2007": {
+    "genes": [
+      "TMSB4X",
+      "CD74",
+      "HLA-DRA",
+      "HLA-DPB1",
+      "HLA-DQB1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "C1orf54",
+      "CST3",
+      "CPVL",
+      "HLA-DMA",
+      "FGL2",
+      "CLEC9A",
+      "TMEM14A"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 20.5,
+      "cDC1": 54.5,
+      "cDC2": 21.5,
+      "ASDC": 1.0,
+      "Pre-pDC": 1.5
+    },
+    "anova_rank": 17,
+    "f_stat": 1249.1
+  },
+  "381": {
+    "genes": [
+      "HLA-DRA",
+      "CD74",
+      "HLA-DPA1",
+      "HLA-DPB1",
+      "HLA-DRB1",
+      "HLA-DQB1",
+      "HLA-DMA",
+      "TMSB4X",
+      "HLA-DQA1",
+      "CST3",
+      "RPL4",
+      "HLA-DMB",
+      "CPVL",
+      "FCGRT",
+      "GRN"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 17.0,
+      "cDC1": 58.0,
+      "cDC2": 22.5,
+      "Pre-pDC Cycling": 1.0,
+      "Pre-pDC": 1.5
+    },
+    "anova_rank": 18,
+    "f_stat": 1117.81
+  },
+  "824": {
+    "genes": [
+      "JCHAIN",
+      "IRF7",
+      "ITM2C",
+      "TCF4",
+      "IL3RA",
+      "CCDC50",
+      "SCT",
+      "PLAC8",
+      "PLD4",
+      "APP",
+      "IRF8",
+      "MZB1",
+      "SPIB",
+      "DERL3",
+      "BCL11A"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 20.0,
+      "cDC1": 2.0,
+      "pDC": 48.0,
+      "Pre-cDC": 13.0,
+      "Pre-pDC": 4.5,
+      "ASDC": 6.0,
+      "cDC2": 6.5
+    },
+    "anova_rank": 19,
+    "f_stat": 1006.23
+  },
+  "1953": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DPB1",
+      "HLA-DRB1",
+      "HLA-DMA",
+      "HLA-DPA1",
+      "CD74",
+      "HLA-DQB1",
+      "FTH1",
+      "HLA-DQA1",
+      "CST3",
+      "RPS2",
+      "RPS24",
+      "RPL4",
+      "FCGRT",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "cDC1": 29.0,
+      "Pre-cDC": 22.0,
+      "cDC2": 48.5
+    },
+    "anova_rank": 20,
+    "f_stat": 914.62
+  },
+  "1067": {
+    "genes": [
+      "TMSB4X",
+      "CD74",
+      "RPL4",
+      "HLA-DMA",
+      "HLA-DPB1",
+      "ACTG1",
+      "HLA-DPA1",
+      "HLA-DRA",
+      "RPS23",
+      "RPS24",
+      "EEF1B2",
+      "RPS26",
+      "NDUFV2",
+      "RPS17",
+      "HLA-DQB1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 13.5,
+      "Pre-pDC Cycling": 8.0,
+      "cDC1": 50.0,
+      "Pre-pDC": 6.5,
+      "cDC2": 13.5,
+      "ASDC": 4.5,
+      "pDC": 4.0
+    },
+    "anova_rank": 21,
+    "f_stat": 884.68
+  },
+  "1811": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "EEF1B2",
+      "RPL4",
+      "TMSB4X",
+      "RPS17",
+      "AIF1",
+      "RPL37A",
+      "RPLP0",
+      "RPL7A",
+      "GSTP1",
+      "MT-CO2",
+      "CD74",
+      "COX5A",
+      "H3F3A"
+    ],
+    "celltype_composition": {
+      "cDC1": 35.0,
+      "Pre-cDC": 33.5,
+      "cDC2": 17.0,
+      "Pre-pDC": 11.5,
+      "Pre-pDC Cycling": 3.0
+    },
+    "anova_rank": 22,
+    "f_stat": 878.8
+  },
+  "404": {
+    "genes": [
+      "HLA-DRA",
+      "FTH1",
+      "HLA-DQB1",
+      "HLA-DMA",
+      "HLA-DPA1",
+      "HLA-DPB1",
+      "HLA-DRB1",
+      "RPS2",
+      "CXCL16",
+      "CD83",
+      "HLA-DQA1",
+      "CD74",
+      "HLA-DRB5",
+      "SAT1",
+      "MARCKSL1"
+    ],
+    "celltype_composition": {
+      "cDC1": 21.5,
+      "cDC2": 74.5,
+      "Pre-cDC": 4.0
+    },
+    "anova_rank": 23,
+    "f_stat": 860.96
+  },
+  "627": {
+    "genes": [
+      "PTMA",
+      "GAPDH",
+      "YBX1",
+      "TPI1",
+      "RPS2",
+      "GSTP1",
+      "ENO1",
+      "HLA-DRA",
+      "ANXA2",
+      "H3F3A",
+      "NPM1",
+      "RPS24",
+      "COTL1",
+      "PPIA",
+      "PKM"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 57.5,
+      "cDC1": 31.0,
+      "Pre-pDC Cycling": 2.5,
+      "cDC2": 8.0,
+      "ASDC": 1.0
+    },
+    "anova_rank": 24,
+    "f_stat": 738.31
+  },
+  "941": {
+    "genes": [
+      "TMSB4X",
+      "HNRNPA1",
+      "LGALS1",
+      "HNRNPC",
+      "HMGN2",
+      "RPS24",
+      "HMGN1",
+      "ACTG1",
+      "RPS23",
+      "MT-CO3",
+      "YWHAE",
+      "PTMA",
+      "RPS17",
+      "YBX1",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 59.5,
+      "cDC1": 24.0,
+      "cDC2": 9.5,
+      "Pre-pDC": 3.5,
+      "ASDC": 2.0,
+      "Pre-pDC Cycling": 1.5
+    },
+    "anova_rank": 25,
+    "f_stat": 722.9
+  },
+  "1949": {
+    "genes": [
+      "TMSB4X",
+      "RPS24",
+      "RPS23",
+      "CD74",
+      "PPIA",
+      "H3F3A",
+      "RPS17",
+      "PTMA",
+      "COTL1",
+      "YBX1",
+      "HLA-DRA",
+      "CST3",
+      "GSTP1",
+      "RPL37A",
+      "MT-CO3"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 54.0,
+      "cDC1": 29.0,
+      "cDC2": 11.5,
+      "Pre-pDC Cycling": 3.5,
+      "ASDC": 2.0
+    },
+    "anova_rank": 26,
+    "f_stat": 687.99
+  },
+  "1608": {
+    "genes": [
+      "TMSB4X",
+      "MT-CO3",
+      "RPS24",
+      "H3F3A",
+      "RPL4",
+      "RPS23",
+      "MT-CO2",
+      "ACTG1",
+      "CD74",
+      "GAPDH",
+      "YBX1",
+      "RPS2",
+      "MT-ND1",
+      "PPIA",
+      "EEF1B2"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 57.5,
+      "cDC1": 25.5,
+      "Pre-pDC Cycling": 7.5,
+      "Pre-pDC": 3.0,
+      "cDC2": 6.0
+    },
+    "anova_rank": 27,
+    "f_stat": 656.62
+  },
+  "1098": {
+    "genes": [
+      "LYZ",
+      "GAPDH",
+      "S100A4",
+      "MT-CO3",
+      "PTMA",
+      "HMGN2",
+      "TPI1",
+      "CSTA",
+      "MT-CO2",
+      "S100A6",
+      "TMSB4X",
+      "H3F3A",
+      "GSTP1",
+      "RNASE2",
+      "H2AFZ"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 95.0,
+      "cDC2": 4.5
+    },
+    "anova_rank": 28,
+    "f_stat": 655.45
+  },
+  "320": {
+    "genes": [
+      "JCHAIN",
+      "IRF7",
+      "MZB1",
+      "LILRA4",
+      "ITM2C",
+      "GZMB",
+      "PLD4",
+      "DERL3",
+      "APP",
+      "IL3RA",
+      "PLAC8",
+      "CCDC50",
+      "TCF4",
+      "UGCG",
+      "FAM129C"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 10.5,
+      "pDC": 88.5,
+      "ASDC": 1.0
+    },
+    "anova_rank": 29,
+    "f_stat": 645.34
+  },
+  "1388": {
+    "genes": [
+      "ANXA2",
+      "HMGN2",
+      "TMSB4X",
+      "HNRNPA2B1",
+      "HMGB1",
+      "PTMA",
+      "LDHA",
+      "HNRNPA1",
+      "YBX1",
+      "H2AFV",
+      "YWHAE",
+      "RAN",
+      "GAPDH",
+      "HSP90B1",
+      "PSMA4"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 78.5,
+      "cDC1": 16.5,
+      "cDC2": 3.5,
+      "ASDC": 1.0
+    },
+    "anova_rank": 30,
+    "f_stat": 645.31
+  },
+  "185": {
+    "genes": [
+      "RPL4",
+      "RPS2",
+      "RPS24",
+      "RPS17",
+      "RPS23",
+      "RPL37A",
+      "RPS26",
+      "EEF1B2",
+      "RPLP0",
+      "RPL7A",
+      "GAPDH",
+      "H3F3A",
+      "UQCRH",
+      "YBX1",
+      "SLC25A3"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 19.5,
+      "Pre-pDC": 24.5,
+      "cDC1": 14.5,
+      "cDC2": 36.5,
+      "Pre-pDC Cycling": 2.5,
+      "ASDC": 1.5,
+      "pDC": 1.0
+    },
+    "anova_rank": 31,
+    "f_stat": 615.8
+  },
+  "1153": {
+    "genes": [
+      "PTMA",
+      "HMGN1",
+      "HMGB1",
+      "HNRNPA1",
+      "GAPDH",
+      "HMGN2",
+      "HNRNPA2B1",
+      "RPS24",
+      "YBX1",
+      "RPS23",
+      "PPIA",
+      "HNRNPC",
+      "ANP32B",
+      "H3F3A",
+      "H2AFZ"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 57.0,
+      "cDC1": 17.5,
+      "Pre-pDC": 15.5,
+      "ASDC": 3.0,
+      "Pre-pDC Cycling": 5.0,
+      "cDC2": 1.5
+    },
+    "anova_rank": 32,
+    "f_stat": 589.17
+  },
+  "1171": {
+    "genes": [
+      "GZMB",
+      "JCHAIN",
+      "SERPINF1",
+      "C12orf75",
+      "ITM2C",
+      "LILRA4",
+      "IRF7",
+      "PLD4",
+      "TSPAN13",
+      "CLIC3",
+      "UGCG",
+      "SMPD3",
+      "PPP1R14B",
+      "TPM2",
+      "DERL3"
+    ],
+    "celltype_composition": {
+      "pDC": 99.0
+    },
+    "anova_rank": 33,
+    "f_stat": 582.29
+  },
+  "1682": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DRB1",
+      "HLA-DPB1",
+      "HLA-DPA1",
+      "CD74",
+      "HLA-DQB1",
+      "HLA-DQA1",
+      "HLA-DMA",
+      "CST3",
+      "CPVL",
+      "LGALS2",
+      "FCGRT",
+      "TMSB4X",
+      "HLA-DMB",
+      "CLEC7A"
+    ],
+    "celltype_composition": {
+      "cDC1": 46.0,
+      "cDC2": 45.5,
+      "Pre-cDC": 7.0,
+      "ASDC": 1.0
+    },
+    "anova_rank": 34,
+    "f_stat": 546.32
+  },
+  "1819": {
+    "genes": [
+      "FTH1",
+      "LST1",
+      "TYROBP",
+      "S100A6",
+      "NAMPT",
+      "STX11",
+      "TIMP1",
+      "LGALS3",
+      "SAT1",
+      "CD83",
+      "CST3",
+      "S100A4",
+      "S100A11",
+      "HLA-DMA",
+      "CEBPD"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 19.5,
+      "cDC2": 75.5,
+      "ASDC": 4.0
+    },
+    "anova_rank": 35,
+    "f_stat": 541.4
+  },
+  "1322": {
+    "genes": [
+      "RPS26",
+      "RPS17",
+      "ATP5J2",
+      "ATP5G3",
+      "ATP5A1",
+      "RPS24",
+      "TMSB4X",
+      "ATP5F1",
+      "RPL4",
+      "ATP5C1",
+      "COTL1",
+      "ATP5B",
+      "C11orf31",
+      "RPS23",
+      "RPL7A"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 32.0,
+      "cDC1": 8.5,
+      "cDC2": 55.0,
+      "ASDC": 3.0,
+      "Pre-pDC": 1.5
+    },
+    "anova_rank": 36,
+    "f_stat": 513.17
+  },
+  "169": {
+    "genes": [
+      "JCHAIN",
+      "GZMB",
+      "SERPINF1",
+      "C12orf75",
+      "ITM2C",
+      "LILRA4",
+      "IRF7",
+      "TSPAN13",
+      "UGCG",
+      "CCDC50",
+      "PLD4",
+      "PPP1R14B",
+      "MZB1",
+      "TCF4",
+      "CLIC3"
+    ],
+    "celltype_composition": {
+      "pDC": 99.5
+    },
+    "anova_rank": 37,
+    "f_stat": 506.59
+  },
+  "1703": {
+    "genes": [
+      "RPS2",
+      "YBX1",
+      "GAPDH",
+      "NPM1",
+      "TPI1",
+      "RPLP0",
+      "ANXA2",
+      "HMGN1",
+      "GSTP1",
+      "RPS24",
+      "H2AFY",
+      "RPS17",
+      "PPIA",
+      "COTL1",
+      "PTMA"
+    ],
+    "celltype_composition": {
+      "cDC1": 25.5,
+      "Pre-cDC": 59.5,
+      "cDC2": 12.5,
+      "Pre-pDC Cycling": 2.0
+    },
+    "anova_rank": 38,
+    "f_stat": 498.67
+  },
+  "1843": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DPB1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DMA",
+      "CD74",
+      "HLA-DQB1",
+      "HLA-DQA1",
+      "HLA-DMB",
+      "CPVL",
+      "LGALS2",
+      "CST3",
+      "TMSB4X",
+      "AIF1",
+      "FCGRT"
+    ],
+    "celltype_composition": {
+      "cDC2": 39.0,
+      "cDC1": 39.5,
+      "Pre-cDC": 15.0,
+      "Pre-pDC Cycling": 3.5,
+      "Pre-pDC": 2.5
+    },
+    "anova_rank": 39,
+    "f_stat": 489.3
+  },
+  "1079": {
+    "genes": [
+      "YBX1",
+      "RPS24",
+      "RPS23",
+      "HNRNPA1",
+      "PTMA",
+      "RPL4",
+      "HMGN1",
+      "RPS17",
+      "RPS2",
+      "RPLP0",
+      "ACTG1",
+      "MT-CO3",
+      "MT-CO2",
+      "RPL37A",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 33.0,
+      "Pre-pDC": 27.0,
+      "Pre-pDC Cycling": 7.0,
+      "cDC2": 8.5,
+      "cDC1": 18.5,
+      "ASDC": 5.0,
+      "pDC": 1.0
+    },
+    "anova_rank": 40,
+    "f_stat": 480.61
+  },
+  "314": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DPB1",
+      "HLA-DPA1",
+      "CD74",
+      "HLA-DMA",
+      "HLA-DRB1",
+      "HLA-DQB1",
+      "HLA-DQA1",
+      "HLA-DMB",
+      "RPL4",
+      "TMSB4X",
+      "CST3",
+      "FTH1",
+      "RPS24",
+      "RPS23"
+    ],
+    "celltype_composition": {
+      "cDC1": 29.5,
+      "cDC2": 37.5,
+      "Pre-cDC": 22.5,
+      "Pre-pDC Cycling": 9.5
+    },
+    "anova_rank": 41,
+    "f_stat": 472.94
+  },
+  "391": {
+    "genes": [
+      "TMSB4X",
+      "CD74",
+      "MT-CO2",
+      "COTL1",
+      "YBX1",
+      "UQCRQ",
+      "H3F3A",
+      "MT-CO3",
+      "PPIA",
+      "GSTP1",
+      "RBX1",
+      "RPS23",
+      "CST3",
+      "TPI1",
+      "SRSF3"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 51.5,
+      "cDC1": 25.5,
+      "cDC2": 18.5,
+      "ASDC": 1.0,
+      "Pre-pDC": 3.0
+    },
+    "anova_rank": 42,
+    "f_stat": 470.96
+  },
+  "1919": {
+    "genes": [
+      "JCHAIN",
+      "GZMB",
+      "C12orf75",
+      "SERPINF1",
+      "ITM2C",
+      "UGCG",
+      "TSPAN13",
+      "DERL3",
+      "LILRA4",
+      "CCDC50",
+      "TPM2",
+      "SMPD3",
+      "PPP1R14B",
+      "PTGDS",
+      "IRF7"
+    ],
+    "celltype_composition": {
+      "pDC": 99.0,
+      "ASDC": 1.0
+    },
+    "anova_rank": 43,
+    "f_stat": 460.18
+  },
+  "66": {
+    "genes": [
+      "PTMA",
+      "H3F3A",
+      "HMGB1",
+      "GAPDH",
+      "PCLAF",
+      "H2AFZ",
+      "TUBA1B",
+      "YBX1",
+      "TUBB",
+      "HMGN2",
+      "HMGB2",
+      "DEK",
+      "HLA-DRA",
+      "ANP32B",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 73.5,
+      "cDC1": 8.5,
+      "cDC2": 12.0,
+      "Pre-pDC Cycling": 6.0
+    },
+    "anova_rank": 44,
+    "f_stat": 438.04
+  },
+  "1790": {
+    "genes": [
+      "S100A4",
+      "S100A6",
+      "CD74",
+      "HLA-DRA",
+      "HLA-DRB1",
+      "COTL1",
+      "ANXA2",
+      "SPI1",
+      "FCER1G",
+      "HLA-DPA1",
+      "LST1",
+      "FCER1A",
+      "HLA-DPB1",
+      "RPL4",
+      "CTSH"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 23.5,
+      "cDC2": 66.5,
+      "ASDC": 4.0,
+      "Pre-pDC": 5.0
+    },
+    "anova_rank": 45,
+    "f_stat": 431.85
+  },
+  "1606": {
+    "genes": [
+      "TMSB4X",
+      "MT-CO2",
+      "YBX1",
+      "H2AFZ",
+      "HMGN2",
+      "H2AFV",
+      "PTMA",
+      "SNRPG",
+      "TPI1",
+      "HMGB1",
+      "UQCRQ",
+      "RAN",
+      "RBX1",
+      "MT-CO3",
+      "H2AFY"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 66.5,
+      "cDC1": 19.0,
+      "cDC2": 8.5,
+      "Pre-pDC Cycling": 2.0,
+      "ASDC": 1.0,
+      "Pre-pDC": 3.0
+    },
+    "anova_rank": 46,
+    "f_stat": 424.27
+  },
+  "1929": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DPB1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQB1",
+      "CD74",
+      "HLA-DMA",
+      "HLA-DQA1",
+      "LGALS2",
+      "CST3",
+      "HLA-DMB",
+      "FCGRT",
+      "CPVL",
+      "FTH1",
+      "RPS2"
+    ],
+    "celltype_composition": {
+      "cDC1": 41.5,
+      "cDC2": 57.5,
+      "Pre-cDC": 1.0
+    },
+    "anova_rank": 47,
+    "f_stat": 415.6
+  },
+  "140": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DRB1",
+      "HLA-DPB1",
+      "HLA-DQA1",
+      "HLA-DPA1",
+      "CD74",
+      "HLA-DQB1",
+      "TMSB4X",
+      "CST3",
+      "HLA-DMA",
+      "CPVL",
+      "LGALS2",
+      "C1orf54",
+      "HLA-DMB",
+      "FGL2"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 24.5,
+      "cDC1": 46.0,
+      "cDC2": 29.5
+    },
+    "anova_rank": 48,
+    "f_stat": 409.43
+  },
+  "552": {
+    "genes": [
+      "JCHAIN",
+      "ITM2C",
+      "MZB1",
+      "APP",
+      "C12orf75",
+      "SERPINF1",
+      "SMPD3",
+      "PPP1R14B",
+      "DERL3",
+      "PLD4",
+      "LILRA4",
+      "UGCG",
+      "GZMB",
+      "TSPAN13",
+      "IRF7"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 4.5,
+      "Pre-pDC Cycling": 8.0,
+      "pDC": 85.0,
+      "Pre-cDC": 1.5,
+      "ASDC": 1.0
+    },
+    "anova_rank": 49,
+    "f_stat": 401.65
+  },
+  "383": {
+    "genes": [
+      "HLA-DRA",
+      "CD74",
+      "HLA-DRB1",
+      "HLA-DMA",
+      "HLA-DPA1",
+      "CST3",
+      "HLA-DPB1",
+      "RPS24",
+      "HLA-DQB1",
+      "RPS2",
+      "H3F3A",
+      "COTL1",
+      "RPL4",
+      "AIF1",
+      "EEF1B2"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 56.5,
+      "cDC1": 26.5,
+      "cDC2": 17.0
+    },
+    "anova_rank": 50,
+    "f_stat": 401.52
+  },
+  "260": {
+    "genes": [
+      "CD74",
+      "RPS23",
+      "TMSB4X",
+      "ACTG1",
+      "IRF8",
+      "HLA-DPA1",
+      "HLA-DMA",
+      "TRMT112",
+      "HLA-DPB1",
+      "LGMN",
+      "RPS24",
+      "UCP2",
+      "NDUFV2",
+      "EEF1B2",
+      "HLA-DRA"
+    ],
+    "celltype_composition": {
+      "cDC1": 37.0,
+      "Pre-pDC Cycling": 27.0,
+      "cDC2": 11.5,
+      "Pre-cDC": 9.0,
+      "ASDC": 8.0,
+      "pDC": 7.0
+    },
+    "anova_rank": 51,
+    "f_stat": 380.75
+  },
+  "1180": {
+    "genes": [
+      "RPL4",
+      "RPS24",
+      "RPS26",
+      "RPS23",
+      "RPS17",
+      "ACTG1",
+      "HLA-DMA",
+      "TMSB4X",
+      "RPLP0",
+      "H3F3A",
+      "CD74",
+      "SLC25A3",
+      "EEF1B2",
+      "HLA-DRA",
+      "RPL37A"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 10.5,
+      "cDC1": 27.5,
+      "cDC2": 35.5,
+      "Pre-pDC": 15.0,
+      "Pre-pDC Cycling": 7.0,
+      "ASDC": 4.5
+    },
+    "anova_rank": 52,
+    "f_stat": 378.6
+  },
+  "1214": {
+    "genes": [
+      "GAPDH",
+      "HNRNPA1",
+      "H3F3A",
+      "YBX1",
+      "MT-CO3",
+      "HMGN1",
+      "HMGN2",
+      "MT-CO2",
+      "PPIA",
+      "ACTG1",
+      "MT-ND1",
+      "PTMA",
+      "SLC25A5",
+      "H2AFV",
+      "RPL4"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 60.0,
+      "Pre-pDC": 14.0,
+      "cDC1": 14.0,
+      "Pre-pDC Cycling": 6.5,
+      "cDC2": 3.5,
+      "ASDC": 1.5
+    },
+    "anova_rank": 53,
+    "f_stat": 374.94
+  },
+  "1276": {
+    "genes": [
+      "JCHAIN",
+      "ITM2C",
+      "TCF4",
+      "MZB1",
+      "PPP1R14B",
+      "APP",
+      "DERL3",
+      "UGCG",
+      "BCL11A",
+      "C12orf75",
+      "FAM129C",
+      "GZMB",
+      "TSPAN13",
+      "MAP1A",
+      "LAIR1"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 10.5,
+      "Pre-pDC": 11.0,
+      "pDC": 78.5
+    },
+    "anova_rank": 54,
+    "f_stat": 362.39
+  },
+  "1290": {
+    "genes": [
+      "PTMA",
+      "GAPDH",
+      "H3F3A",
+      "TPI1",
+      "YBX1",
+      "H2AFZ",
+      "RPS24",
+      "PPIA",
+      "RPS17",
+      "RPS2",
+      "MT-CO3",
+      "GSTP1",
+      "HMGB1",
+      "SNRPB",
+      "RANBP1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 89.5,
+      "cDC1": 6.5,
+      "cDC2": 3.5
+    },
+    "anova_rank": 55,
+    "f_stat": 356.78
+  },
+  "1776": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DPA1",
+      "HLA-DPB1",
+      "CD74",
+      "CST3",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "HLA-DQB1",
+      "HLA-DMA",
+      "TMSB4X",
+      "CPVL",
+      "C1orf54",
+      "HLA-DMB",
+      "HLA-DRB5",
+      "FCGRT"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 7.0,
+      "Pre-cDC": 12.5,
+      "cDC1": 37.5,
+      "cDC2": 33.5,
+      "ASDC": 4.5,
+      "pDC": 4.0,
+      "Pre-pDC": 1.0
+    },
+    "anova_rank": 56,
+    "f_stat": 351.93
+  },
+  "1594": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "GAPDH",
+      "RPS24",
+      "RPL37A",
+      "S100A4",
+      "RPS17",
+      "MT-ND1",
+      "UQCRH",
+      "GSTP1",
+      "RPS2",
+      "TPI1",
+      "AIF1",
+      "RPL7A",
+      "CSTA"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 50.0,
+      "cDC2": 38.5,
+      "Pre-pDC": 8.0,
+      "ASDC": 3.0
+    },
+    "anova_rank": 57,
+    "f_stat": 345.51
+  },
+  "1903": {
+    "genes": [
+      "PTMA",
+      "H2AFZ",
+      "H3F3A",
+      "HMGB1",
+      "PPIA",
+      "TUBA1B",
+      "GAPDH",
+      "TUBB",
+      "HMGN2",
+      "HNRNPA3",
+      "SNRPB",
+      "MT-CO2",
+      "YBX1",
+      "MT-CO3",
+      "DEK"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 83.5,
+      "cDC1": 4.5,
+      "Pre-pDC Cycling": 10.5,
+      "Pre-pDC": 1.0
+    },
+    "anova_rank": 58,
+    "f_stat": 345.12
+  },
+  "1532": {
+    "genes": [
+      "MT-CO2",
+      "RPS23",
+      "TMSB4X",
+      "RPS24",
+      "MT-CO3",
+      "RPS26",
+      "YBX1",
+      "RPL4",
+      "UQCRH",
+      "RPS17",
+      "EEF1B2",
+      "RPLP0",
+      "ATP5J2",
+      "H3F3A",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 47.0,
+      "cDC1": 18.5,
+      "cDC2": 21.0,
+      "Pre-pDC Cycling": 1.5,
+      "Pre-pDC": 10.5,
+      "ASDC": 1.5
+    },
+    "anova_rank": 59,
+    "f_stat": 334.71
+  },
+  "168": {
+    "genes": [
+      "TMSB4X",
+      "YBX1",
+      "TPI1",
+      "COTL1",
+      "ANXA2",
+      "H2AFZ",
+      "HMGN2",
+      "GAPDH",
+      "PKM",
+      "MT-CO2",
+      "PTMA",
+      "HMGN1",
+      "YWHAE",
+      "PPIA",
+      "ENO1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 61.5,
+      "cDC1": 23.5,
+      "cDC2": 14.0
+    },
+    "anova_rank": 60,
+    "f_stat": 331.63
+  },
+  "382": {
+    "genes": [
+      "TMSB4X",
+      "CSTA",
+      "S100A4",
+      "S100A6",
+      "MNDA",
+      "FCN1",
+      "S100A11",
+      "LYZ",
+      "S100A9",
+      "S100A8",
+      "FCER1G",
+      "LGALS1",
+      "ANXA2",
+      "AIF1",
+      "RNASE2"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 65.0,
+      "cDC2": 34.5
+    },
+    "anova_rank": 61,
+    "f_stat": 328.12
+  },
+  "1810": {
+    "genes": [
+      "LYZ",
+      "GAPDH",
+      "H3F3A",
+      "HLA-DRA",
+      "MT-CO3",
+      "S100A6",
+      "S100A11",
+      "YBX1",
+      "SPI1",
+      "ANXA2",
+      "TPI1",
+      "RPS2",
+      "HLA-DRB1",
+      "MT-CO2",
+      "PSAP"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 64.0,
+      "cDC2": 27.5,
+      "cDC1": 8.5
+    },
+    "anova_rank": 62,
+    "f_stat": 319.02
+  },
+  "869": {
+    "genes": [
+      "MT-CO3",
+      "RPS24",
+      "RPS23",
+      "MT-CO2",
+      "H3F3A",
+      "RPS17",
+      "PPIA",
+      "GAPDH",
+      "RPL4",
+      "HNRNPA1",
+      "EEF1B2",
+      "YBX1",
+      "HMGN1",
+      "MT-ND1",
+      "SLC25A3"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 70.5,
+      "Pre-pDC": 7.0,
+      "cDC1": 6.0,
+      "Pre-pDC Cycling": 4.5,
+      "cDC2": 8.5,
+      "ASDC": 3.5
+    },
+    "anova_rank": 63,
+    "f_stat": 313.95
+  },
+  "2002": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "GAPDH",
+      "H3F3A",
+      "MT-ND1",
+      "PPIA",
+      "GSTP1",
+      "PTMA",
+      "HMGN2",
+      "RPS24",
+      "H2AFZ",
+      "AIF1",
+      "HMGB1",
+      "TUBA1B",
+      "H2AFV"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 20.0,
+      "Pre-cDC": 59.5,
+      "Pre-pDC Cycling": 5.0,
+      "cDC2": 14.5,
+      "ASDC": 1.0
+    },
+    "anova_rank": 64,
+    "f_stat": 310.19
+  },
+  "842": {
+    "genes": [
+      "FTH1",
+      "HLA-DRA",
+      "HLA-DMA",
+      "HLA-DPA1",
+      "HLA-DQB1",
+      "HLA-DRB5",
+      "NAMPT",
+      "HLA-DPB1",
+      "SAT1",
+      "STX11",
+      "CEBPD",
+      "PLAUR",
+      "RPS4Y1",
+      "RPS2",
+      "BID"
+    ],
+    "celltype_composition": {
+      "cDC1": 3.5,
+      "cDC2": 83.0,
+      "Pre-cDC": 12.0,
+      "ASDC": 1.0
+    },
+    "anova_rank": 65,
+    "f_stat": 286.19
+  },
+  "1285": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "MT-ND1",
+      "MT-ND5",
+      "NUCKS1",
+      "PTMA",
+      "HMGB1",
+      "PPIA",
+      "HNRNPD",
+      "H2AFZ",
+      "STMN1",
+      "HMGB2",
+      "SNRPG",
+      "H2AFV",
+      "HNRNPA3"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 19.0,
+      "Pre-cDC": 74.0,
+      "cDC2": 3.0,
+      "Pre-pDC Cycling": 2.5,
+      "pDC": 1.0
+    },
+    "anova_rank": 66,
+    "f_stat": 278.34
+  },
+  "2010": {
+    "genes": [
+      "TMSB4X",
+      "LGALS1",
+      "SLIRP",
+      "FGL2",
+      "ATP5J2",
+      "HLA-DQB1",
+      "CD74",
+      "HLA-DPB1",
+      "SPI1",
+      "ATP5F1",
+      "C1orf54",
+      "COTL1",
+      "HLA-DQA1",
+      "ATPIF1",
+      "PAK1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 34.0,
+      "cDC1": 29.5,
+      "ASDC": 3.0,
+      "cDC2": 30.0,
+      "Pre-pDC": 3.0
+    },
+    "anova_rank": 67,
+    "f_stat": 276.31
+  },
+  "710": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DPB1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQB1",
+      "HLA-DMA",
+      "HLA-DQA1",
+      "CD74",
+      "CST3",
+      "HLA-DMB",
+      "FTH1",
+      "CPVL",
+      "FCGRT",
+      "LGALS2",
+      "RPS2"
+    ],
+    "celltype_composition": {
+      "cDC1": 32.5,
+      "cDC2": 58.5,
+      "ASDC": 1.5,
+      "pDC": 6.5
+    },
+    "anova_rank": 68,
+    "f_stat": 276.22
+  },
+  "65": {
+    "genes": [
+      "HLA-DQB1",
+      "HLA-DRA",
+      "HLA-DRB1",
+      "HLA-DQA1",
+      "TMSB4X",
+      "HLA-DPA1",
+      "HLA-DPB1",
+      "CD74",
+      "MT-CO2",
+      "MT-CO3",
+      "FGL2",
+      "HLA-DMB",
+      "CST3",
+      "HLA-DMA",
+      "CPVL"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 40.0,
+      "Pre-pDC Cycling": 1.0,
+      "cDC2": 31.5,
+      "cDC1": 23.0,
+      "Pre-pDC": 3.5
+    },
+    "anova_rank": 69,
+    "f_stat": 266.61
+  },
+  "1674": {
+    "genes": [
+      "HNRNPA1",
+      "GAPDH",
+      "RPS24",
+      "RPS2",
+      "RPS23",
+      "HMGN1",
+      "PTMA",
+      "MT-CO2",
+      "MT-CO3",
+      "RPLP0",
+      "RPL37A",
+      "RPS17",
+      "H3F3A",
+      "RPL4",
+      "YBX1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 56.0,
+      "Pre-pDC": 26.0,
+      "cDC1": 6.5,
+      "Pre-pDC Cycling": 7.5,
+      "cDC2": 2.0,
+      "ASDC": 1.5
+    },
+    "anova_rank": 70,
+    "f_stat": 260.36
+  },
+  "1418": {
+    "genes": [
+      "ITM2C",
+      "JCHAIN",
+      "PLD4",
+      "PLAC8",
+      "MZB1",
+      "CCDC50",
+      "IL3RA",
+      "TCF4",
+      "APP",
+      "C12orf75",
+      "IRF7",
+      "NUCB2",
+      "FAM129C",
+      "STMN1",
+      "LILRA4"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 33.0,
+      "Pre-cDC": 7.0,
+      "pDC": 50.0,
+      "Pre-pDC": 7.0,
+      "cDC2": 1.0,
+      "ASDC": 2.0
+    },
+    "anova_rank": 71,
+    "f_stat": 257.57
+  },
+  "402": {
+    "genes": [
+      "S100A9",
+      "S100A8",
+      "S100A6",
+      "VCAN",
+      "FCN1",
+      "TYROBP",
+      "CSTA",
+      "S100A4",
+      "S100A12",
+      "SERPINA1",
+      "CTSS",
+      "CD14",
+      "NAMPT",
+      "CFD",
+      "CD36"
+    ],
+    "celltype_composition": {
+      "cDC2": 87.5,
+      "Pre-cDC": 12.0
+    },
+    "anova_rank": 72,
+    "f_stat": 249.34
+  },
+  "1092": {
+    "genes": [
+      "HLA-DRA",
+      "RPS2",
+      "CD74",
+      "RPS24",
+      "HLA-DMA",
+      "RPS17",
+      "RPS23",
+      "RPL4",
+      "HLA-DRB1",
+      "H3F3A",
+      "GSTP1",
+      "TMSB4X",
+      "LYZ",
+      "AIF1",
+      "PTMA"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 57.5,
+      "cDC1": 20.0,
+      "cDC2": 18.0,
+      "Pre-pDC Cycling": 3.5
+    },
+    "anova_rank": 73,
+    "f_stat": 246.84
+  },
+  "680": {
+    "genes": [
+      "ITM2C",
+      "PLAC8",
+      "RPLP0",
+      "RPS23",
+      "RPL37A",
+      "RPS17",
+      "EEF1B2",
+      "SSR4",
+      "RPL4",
+      "RPL7A",
+      "IRF8",
+      "PLD4",
+      "RPS2",
+      "HNRNPA1",
+      "LDHB"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 47.5,
+      "Pre-pDC Cycling": 3.5,
+      "Pre-cDC": 4.5,
+      "pDC": 42.5,
+      "ASDC": 1.0
+    },
+    "anova_rank": 74,
+    "f_stat": 242.26
+  },
+  "563": {
+    "genes": [
+      "CD74",
+      "HLA-DPA1",
+      "HLA-DQB1",
+      "HLA-DQA1",
+      "HLA-DPB1",
+      "HLA-DRB1",
+      "TMSB4X",
+      "HLA-DRA",
+      "UCP2",
+      "C1orf54",
+      "CPVL",
+      "DNASE1L3",
+      "CST3",
+      "HLA-DMB",
+      "LGALS2"
+    ],
+    "celltype_composition": {
+      "cDC1": 34.5,
+      "cDC2": 24.0,
+      "Pre-cDC": 1.0,
+      "pDC": 36.5,
+      "ASDC": 3.0,
+      "Pre-pDC Cycling": 1.0
+    },
+    "anova_rank": 75,
+    "f_stat": 236.81
+  },
+  "1639": {
+    "genes": [
+      "FTH1",
+      "STX11",
+      "RPS4Y1",
+      "GAPDH",
+      "S100A6",
+      "NAMPT",
+      "TIMP1",
+      "RAB31",
+      "YBX1",
+      "CEBPD",
+      "BID",
+      "RPS2",
+      "SAT1",
+      "MKRN1",
+      "PLAUR"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 43.5,
+      "cDC2": 50.5,
+      "ASDC": 4.0,
+      "Pre-pDC": 1.5
+    },
+    "anova_rank": 76,
+    "f_stat": 232.13
+  },
+  "1492": {
+    "genes": [
+      "JCHAIN",
+      "GZMB",
+      "C12orf75",
+      "ITM2C",
+      "SERPINF1",
+      "TSPAN13",
+      "LILRA4",
+      "IRF7",
+      "PLD4",
+      "DERL3",
+      "TCF4",
+      "CCDC50",
+      "MZB1",
+      "UGCG",
+      "PTGDS"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 2.5,
+      "Pre-cDC": 3.5,
+      "pDC": 87.0,
+      "Pre-pDC": 4.5,
+      "ASDC": 2.0
+    },
+    "anova_rank": 77,
+    "f_stat": 231.68
+  },
+  "1769": {
+    "genes": [
+      "CLEC7A",
+      "PSAP",
+      "LGALS2",
+      "FGL2",
+      "C1orf54",
+      "SERPINA1",
+      "CPVL",
+      "CST3",
+      "TMSB4X",
+      "SAT1",
+      "ZFP36L1",
+      "CTSS",
+      "CLEC9A",
+      "TYMP",
+      "DNASE1L3"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 8.0,
+      "Pre-pDC Cycling": 4.0,
+      "cDC2": 60.0,
+      "cDC1": 27.0
+    },
+    "anova_rank": 78,
+    "f_stat": 229.58
+  },
+  "520": {
+    "genes": [
+      "H2AFZ",
+      "HMGN2",
+      "HMGB1",
+      "STMN1",
+      "HMGB2",
+      "TUBA1B",
+      "H2AFV",
+      "TUBB",
+      "CALM2",
+      "PTMA",
+      "CKS1B",
+      "H3F3A",
+      "HNRNPA2B1",
+      "ANP32B",
+      "NUSAP1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 88.5,
+      "Pre-pDC Cycling": 8.0,
+      "Pre-pDC": 3.0
+    },
+    "anova_rank": 79,
+    "f_stat": 228.98
+  },
+  "679": {
+    "genes": [
+      "GAPDH",
+      "PTMA",
+      "YBX1",
+      "RPS2",
+      "PPIA",
+      "MT-CO3",
+      "H3F3A",
+      "HMGN1",
+      "MT-CO2",
+      "TPI1",
+      "H2AFY",
+      "RPS17",
+      "RANBP1",
+      "SLC25A5",
+      "RPS24"
+    ],
+    "celltype_composition": {
+      "cDC1": 5.5,
+      "Pre-pDC": 33.0,
+      "Pre-pDC Cycling": 6.5,
+      "Pre-cDC": 53.0,
+      "cDC2": 2.0
+    },
+    "anova_rank": 80,
+    "f_stat": 224.36
+  },
+  "753": {
+    "genes": [
+      "PSAP",
+      "CLEC7A",
+      "FGL2",
+      "LGALS2",
+      "S100A9",
+      "SERPINA1",
+      "C1orf54",
+      "VCAN",
+      "CLEC9A",
+      "FCN1",
+      "MPEG1",
+      "CPVL",
+      "S100A8",
+      "CTSS",
+      "IDO1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 10.0,
+      "cDC1": 19.5,
+      "Pre-pDC Cycling": 3.5,
+      "cDC2": 48.0,
+      "pDC": 18.0,
+      "Pre-pDC": 1.0
+    },
+    "anova_rank": 81,
+    "f_stat": 215.56
+  },
+  "472": {
+    "genes": [
+      "S100A6",
+      "S100A4",
+      "S100A9",
+      "S100A8",
+      "CSTA",
+      "S100A11",
+      "FCN1",
+      "VCAN",
+      "LST1",
+      "TYROBP",
+      "LYZ",
+      "MT-CO3",
+      "GAPDH",
+      "PSAP",
+      "BLVRB"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 40.5,
+      "cDC2": 57.0,
+      "cDC1": 2.0
+    },
+    "anova_rank": 82,
+    "f_stat": 215.5
+  },
+  "1729": {
+    "genes": [
+      "PTMA",
+      "HMGN1",
+      "ACTG1",
+      "HNRNPA1",
+      "HNRNPA2B1",
+      "HMGN2",
+      "HNRNPC",
+      "ANP32B",
+      "PSMA4",
+      "HMGB1",
+      "YWHAE",
+      "RPS24",
+      "SLC25A5",
+      "SRSF3",
+      "H2AFY"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 29.0,
+      "cDC1": 13.0,
+      "Pre-pDC": 37.5,
+      "Pre-pDC Cycling": 9.0,
+      "cDC2": 4.5,
+      "ASDC": 3.5,
+      "pDC": 3.5
+    },
+    "anova_rank": 83,
+    "f_stat": 197.98
+  },
+  "2016": {
+    "genes": [
+      "RPS24",
+      "RPS23",
+      "RPL37A",
+      "RPS17",
+      "RPLP0",
+      "EEF1B2",
+      "RPL7A",
+      "RPL4",
+      "RPS2",
+      "HNRNPA1",
+      "NPM1",
+      "GAPDH",
+      "LDHB",
+      "ACTG1",
+      "UQCRH"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 69.0,
+      "Pre-pDC Cycling": 11.5,
+      "Pre-cDC": 17.0,
+      "ASDC": 1.5
+    },
+    "anova_rank": 84,
+    "f_stat": 197.81
+  },
+  "1411": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "HMGB1",
+      "HMGB2",
+      "PTMA",
+      "STMN1",
+      "HMGN2",
+      "H2AFZ",
+      "PPIA",
+      "H2AFV",
+      "MT-ND5",
+      "H3F3A",
+      "HNRNPA2B1",
+      "NUCKS1",
+      "TUBA1B"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 94.5,
+      "cDC1": 2.5,
+      "cDC2": 1.5,
+      "Pre-pDC Cycling": 1.5
+    },
+    "anova_rank": 85,
+    "f_stat": 197.29
+  },
+  "1202": {
+    "genes": [
+      "RPS23",
+      "RPS24",
+      "RPL4",
+      "AIF1",
+      "RPS17",
+      "RPLP0",
+      "RPL37A",
+      "YBX1",
+      "HMGN1",
+      "EEF1B2",
+      "RPS2",
+      "MT-CO2",
+      "PTMA",
+      "H3F3A",
+      "HNRNPA1"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 38.5,
+      "Pre-cDC": 21.0,
+      "cDC2": 17.0,
+      "Pre-pDC Cycling": 11.0,
+      "cDC1": 11.0,
+      "ASDC": 1.0
+    },
+    "anova_rank": 86,
+    "f_stat": 186.16
+  },
+  "1743": {
+    "genes": [
+      "S100A6",
+      "LYZ",
+      "S100A4",
+      "CSTA",
+      "MT-CO3",
+      "RPS24",
+      "LST1",
+      "TYROBP",
+      "GAPDH",
+      "CTSS",
+      "S100A9",
+      "MT-CO2",
+      "BLVRB",
+      "S100A11",
+      "GRN"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 41.0,
+      "cDC2": 56.0,
+      "cDC1": 2.5
+    },
+    "anova_rank": 87,
+    "f_stat": 181.18
+  },
+  "1525": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DPB1",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DQB1",
+      "HLA-DMA",
+      "FTH1",
+      "CD74",
+      "HLA-DQA1",
+      "CST3",
+      "CXCL16",
+      "FCGRT",
+      "LGALS2",
+      "CPVL",
+      "HLA-DMB"
+    ],
+    "celltype_composition": {
+      "cDC1": 27.5,
+      "cDC2": 70.0,
+      "pDC": 1.0,
+      "ASDC": 1.0
+    },
+    "anova_rank": 88,
+    "f_stat": 177.05
+  },
+  "1209": {
+    "genes": [
+      "TMSB4X",
+      "HLA-DQA1",
+      "FGL2",
+      "HLA-DPB1",
+      "S100A8",
+      "HLA-DQB1",
+      "HLA-DRA",
+      "HLA-DRB1",
+      "C1orf54",
+      "DYNLL1",
+      "CPVL",
+      "S100A9",
+      "HLA-DPA1",
+      "MNDA",
+      "CLEC9A"
+    ],
+    "celltype_composition": {
+      "cDC2": 42.0,
+      "Pre-cDC": 13.5,
+      "cDC1": 26.5,
+      "Pre-pDC": 2.0,
+      "Pre-pDC Cycling": 8.0,
+      "pDC": 7.0,
+      "ASDC": 1.0
+    },
+    "anova_rank": 89,
+    "f_stat": 173.67
+  },
+  "418": {
+    "genes": [
+      "JCHAIN",
+      "MZB1",
+      "IRF7",
+      "PLAC8",
+      "LILRA4",
+      "APP",
+      "IL3RA",
+      "DERL3",
+      "UGCG",
+      "TCF4",
+      "ITM2C",
+      "SMPD3",
+      "GZMB",
+      "SPIB",
+      "CCDC50"
+    ],
+    "celltype_composition": {
+      "pDC": 97.0,
+      "Pre-pDC": 1.0,
+      "Pre-pDC Cycling": 2.0
+    },
+    "anova_rank": 90,
+    "f_stat": 167.87
+  },
+  "315": {
+    "genes": [
+      "HLA-DRB1",
+      "HLA-DRA",
+      "CD74",
+      "HLA-DPA1",
+      "HLA-DQA1",
+      "CST3",
+      "HLA-DPB1",
+      "HLA-DQB1",
+      "TMSB4X",
+      "HLA-DMB",
+      "CPVL",
+      "HLA-DMA",
+      "SPI1",
+      "GRN",
+      "FGL2"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 26.5,
+      "cDC2": 37.0,
+      "cDC1": 23.0,
+      "Pre-pDC Cycling": 2.0,
+      "ASDC": 2.5,
+      "pDC": 9.0
+    },
+    "anova_rank": 91,
+    "f_stat": 159.41
+  },
+  "1510": {
+    "genes": [
+      "RPS2",
+      "FTH1",
+      "RPL4",
+      "RPS24",
+      "RPS23",
+      "RPS17",
+      "YBX1",
+      "H3F3A",
+      "EEF1B2",
+      "HLA-DMA",
+      "RPLP0",
+      "RPL37A",
+      "RPL7A",
+      "GAPDH",
+      "SLC25A3"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 20.5,
+      "Pre-pDC Cycling": 5.5,
+      "Pre-pDC": 17.5,
+      "cDC2": 47.5,
+      "cDC1": 6.5,
+      "pDC": 1.0,
+      "ASDC": 1.5
+    },
+    "anova_rank": 92,
+    "f_stat": 147.61
+  },
+  "206": {
+    "genes": [
+      "RPS2",
+      "RPL37A",
+      "RPS23",
+      "RPS17",
+      "EEF1B2",
+      "RPL7A",
+      "RPL4",
+      "RPLP0",
+      "RPS24",
+      "HNRNPA1",
+      "NPM1",
+      "FBL",
+      "GAPDH",
+      "LDHB",
+      "UQCRH"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 38.0,
+      "Pre-cDC": 20.0,
+      "Pre-pDC Cycling": 5.0,
+      "cDC2": 15.0,
+      "pDC": 20.0,
+      "ASDC": 2.0
+    },
+    "anova_rank": 93,
+    "f_stat": 140.48
+  },
+  "1696": {
+    "genes": [
+      "GZMB",
+      "LILRA4",
+      "SERPINF1",
+      "JCHAIN",
+      "PPP1R14B",
+      "IRF7",
+      "TPM2",
+      "RGS1",
+      "CLIC3",
+      "RPS26",
+      "LRRC26",
+      "FOSB",
+      "DERL3",
+      "MZB1",
+      "ITM2C"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 19.5,
+      "pDC": 48.5,
+      "cDC2": 29.0,
+      "ASDC": 2.5
+    },
+    "anova_rank": 94,
+    "f_stat": 136.51
+  },
+  "1349": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DRB1",
+      "HLA-DPB1",
+      "HLA-DQA1",
+      "HLA-DQB1",
+      "LGALS2",
+      "HLA-DPA1",
+      "HLA-DMA",
+      "CD74",
+      "FTH1",
+      "FCGRT",
+      "HLA-DMB",
+      "TYMP",
+      "CST3",
+      "TMSB4X"
+    ],
+    "celltype_composition": {
+      "pDC": 6.5,
+      "cDC1": 15.5,
+      "cDC2": 76.5,
+      "Pre-cDC": 1.5
+    },
+    "anova_rank": 95,
+    "f_stat": 136.25
+  },
+  "537": {
+    "genes": [
+      "HLA-DRA",
+      "HLA-DPA1",
+      "HLA-DRB1",
+      "HLA-DPB1",
+      "CD74",
+      "HLA-DQB1",
+      "HLA-DMA",
+      "RPS2",
+      "RPL4",
+      "RPS24",
+      "HLA-DMB",
+      "TMSB4X",
+      "HLA-DQA1",
+      "SPI1",
+      "RPS23"
+    ],
+    "celltype_composition": {
+      "cDC1": 27.5,
+      "Pre-pDC": 6.0,
+      "Pre-cDC": 20.0,
+      "cDC2": 42.0,
+      "Pre-pDC Cycling": 2.0,
+      "ASDC": 2.0
+    },
+    "anova_rank": 96,
+    "f_stat": 136.02
+  },
+  "1246": {
+    "genes": [
+      "HLA-DRA",
+      "CD74",
+      "HLA-DRB1",
+      "HLA-DMA",
+      "HLA-DPB1",
+      "HLA-DPA1",
+      "HLA-DQB1",
+      "RPS2",
+      "RPS17",
+      "RPL4",
+      "HLA-DQA1",
+      "HLA-DMB",
+      "CST3",
+      "SPI1",
+      "AIF1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 26.5,
+      "cDC1": 21.5,
+      "cDC2": 47.5,
+      "pDC": 4.0
+    },
+    "anova_rank": 97,
+    "f_stat": 130.21
+  },
+  "863": {
+    "genes": [
+      "HLA-DQA1",
+      "HLA-DPB1",
+      "HLA-DQB1",
+      "HLA-DRA",
+      "HLA-DPA1",
+      "TMSB4X",
+      "ATP5J2",
+      "ATP5G3",
+      "HLA-DRB5",
+      "ATP5F1",
+      "HLA-DRB1",
+      "C11orf31",
+      "ATP5B",
+      "ATP5A1",
+      "FOSB"
+    ],
+    "celltype_composition": {
+      "cDC1": 22.0,
+      "Pre-cDC": 9.0,
+      "cDC2": 65.0,
+      "pDC": 3.0
+    },
+    "anova_rank": 98,
+    "f_stat": 130.06
+  },
+  "1731": {
+    "genes": [
+      "GZMB",
+      "JCHAIN",
+      "SERPINF1",
+      "IRF7",
+      "DERL3",
+      "CLIC3",
+      "MZB1",
+      "UGCG",
+      "LILRA4",
+      "TCF4",
+      "PTCRA",
+      "LRRC26",
+      "TSPAN13",
+      "ITM2C",
+      "IL3RA"
+    ],
+    "celltype_composition": {
+      "pDC": 98.5,
+      "Pre-pDC Cycling": 1.0
+    },
+    "anova_rank": 99,
+    "f_stat": 128.67
+  },
+  "339": {
+    "genes": [
+      "JCHAIN",
+      "GZMB",
+      "IRF7",
+      "MZB1",
+      "SERPINF1",
+      "LILRA4",
+      "ITM2C",
+      "DERL3",
+      "UGCG",
+      "CLIC3",
+      "SMPD3",
+      "PLD4",
+      "TSPAN13",
+      "CCDC50",
+      "IRF8"
+    ],
+    "celltype_composition": {
+      "pDC": 98.0,
+      "cDC2": 1.5
+    },
+    "anova_rank": 100,
+    "f_stat": 128.18
+  },
+  "1624": {
+    "genes": [
+      "HLA-DRB1",
+      "CST3",
+      "HLA-DRA",
+      "HLA-DPB1",
+      "HLA-DQA1",
+      "CD74",
+      "FTH1",
+      "HLA-DPA1",
+      "HLA-DQB1",
+      "HLA-DMA",
+      "RPS26",
+      "LGALS2",
+      "FCGRT",
+      "HLA-DMB",
+      "CXCL16"
+    ],
+    "celltype_composition": {
+      "cDC1": 20.5,
+      "cDC2": 56.0,
+      "Pre-cDC": 1.5,
+      "ASDC": 8.0,
+      "pDC": 14.0
+    },
+    "anova_rank": 101,
+    "f_stat": 122.76
+  },
+  "99": {
+    "genes": [
+      "S100A4",
+      "GAPDH",
+      "S100A6",
+      "YBX1",
+      "FTH1",
+      "COTL1",
+      "TPI1",
+      "RPS2",
+      "H3F3A",
+      "GSTP1",
+      "ANXA2",
+      "RPS17",
+      "TALDO1",
+      "SNRPB",
+      "PKM"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 3.0,
+      "Pre-cDC": 47.5,
+      "cDC2": 42.5,
+      "Pre-pDC": 2.5,
+      "ASDC": 4.0
+    },
+    "anova_rank": 102,
+    "f_stat": 118.81
+  },
+  "1164": {
+    "genes": [
+      "H2AFZ",
+      "PTMA",
+      "MT-CO2",
+      "PPIA",
+      "RPS23",
+      "RPS24",
+      "H3F3A",
+      "MT-CO3",
+      "YBX1",
+      "HMGN1",
+      "HMGB1",
+      "GAPDH",
+      "ERH",
+      "SNRPD1",
+      "ANP32B"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 75.0,
+      "Pre-pDC Cycling": 8.5,
+      "cDC1": 6.0,
+      "Pre-pDC": 7.0,
+      "cDC2": 1.5,
+      "ASDC": 2.0
+    },
+    "anova_rank": 103,
+    "f_stat": 117.67
+  },
+  "1128": {
+    "genes": [
+      "JCHAIN",
+      "GZMB",
+      "IRF7",
+      "MZB1",
+      "LILRA4",
+      "ITM2C",
+      "SERPINF1",
+      "PLD4",
+      "SMPD3",
+      "IRF8",
+      "UGCG",
+      "CLIC3",
+      "DERL3",
+      "TCF4",
+      "PPP1R14B"
+    ],
+    "celltype_composition": {
+      "pDC": 99.5
+    },
+    "anova_rank": 104,
+    "f_stat": 114.13
+  },
+  "886": {
+    "genes": [
+      "HMGN1",
+      "H3F3A",
+      "HNRNPA1",
+      "ACTG1",
+      "HMGN2",
+      "HMGB1",
+      "ANP32B",
+      "SRSF3",
+      "H2AFZ",
+      "H2AFV",
+      "RPS24",
+      "HMGB2",
+      "H2AFY",
+      "STMN1",
+      "HNRNPA2B1"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 27.0,
+      "Pre-cDC": 47.0,
+      "Pre-pDC Cycling": 16.5,
+      "cDC1": 7.0,
+      "cDC2": 2.5
+    },
+    "anova_rank": 105,
+    "f_stat": 111.01
+  },
+  "1287": {
+    "genes": [
+      "CLEC7A",
+      "PSAP",
+      "LGALS2",
+      "HLA-DRA",
+      "HLA-DRB1",
+      "SERPINA1",
+      "CPVL",
+      "TYMP",
+      "NAMPT",
+      "FCGRT",
+      "HLA-DPB1",
+      "TYROBP",
+      "HLA-DPA1",
+      "FTH1",
+      "CTSS"
+    ],
+    "celltype_composition": {
+      "cDC1": 18.5,
+      "cDC2": 68.5,
+      "pDC": 10.0,
+      "Pre-cDC": 2.5
+    },
+    "anova_rank": 106,
+    "f_stat": 105.27
+  },
+  "366": {
+    "genes": [
+      "HNRNPA1",
+      "ACTG1",
+      "HMGN1",
+      "H3F3A",
+      "RPS24",
+      "RPS23",
+      "RPL4",
+      "HMGN2",
+      "PTMA",
+      "HMGB1",
+      "RPLP0",
+      "ANP32B",
+      "SLC25A5",
+      "SRSF3",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 40.0,
+      "Pre-pDC Cycling": 24.0,
+      "Pre-cDC": 24.5,
+      "cDC1": 4.0,
+      "pDC": 1.5,
+      "cDC2": 4.5,
+      "ASDC": 1.5
+    },
+    "anova_rank": 107,
+    "f_stat": 103.77
+  },
+  "251": {
+    "genes": [
+      "S100A9",
+      "S100A8",
+      "VCAN",
+      "S100A6",
+      "FCN1",
+      "CSTA",
+      "S100A4",
+      "MNDA",
+      "TYROBP",
+      "LYZ",
+      "S100A11",
+      "RNASE2",
+      "S100A12",
+      "CD14",
+      "MGST1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 43.5,
+      "cDC2": 56.5
+    },
+    "anova_rank": 108,
+    "f_stat": 100.71
+  },
+  "1748": {
+    "genes": [
+      "ITM2C",
+      "JCHAIN",
+      "C12orf75",
+      "TCF4",
+      "MZB1",
+      "PLD4",
+      "PLAC8",
+      "GZMB",
+      "LILRA4",
+      "IRF8",
+      "SERPINF1",
+      "IRF7",
+      "FAM129C",
+      "SSR4",
+      "APP"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 8.5,
+      "Pre-pDC Cycling": 10.0,
+      "Pre-pDC": 9.5,
+      "pDC": 67.0,
+      "ASDC": 4.5
+    },
+    "anova_rank": 109,
+    "f_stat": 98.67
+  },
+  "194": {
+    "genes": [
+      "ITM2C",
+      "JCHAIN",
+      "TCF4",
+      "IGHM",
+      "C12orf75",
+      "PPP1R14B",
+      "SERPINF1",
+      "MZB1",
+      "APP",
+      "SSR4",
+      "RPS26",
+      "DERL3",
+      "BCL11A",
+      "COBLL1",
+      "PLAC8"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 23.0,
+      "Pre-pDC Cycling": 4.0,
+      "pDC": 69.0,
+      "Pre-cDC": 2.5,
+      "ASDC": 1.5
+    },
+    "anova_rank": 110,
+    "f_stat": 94.99
+  },
+  "1167": {
+    "genes": [
+      "CD74",
+      "TMSB4X",
+      "HLA-DRA",
+      "HLA-DRB1",
+      "HLA-DMA",
+      "GRN",
+      "HLA-DQB1",
+      "CST3",
+      "HLA-DMB",
+      "HLA-DQA1",
+      "HLA-DPB1",
+      "RPS26",
+      "RPS17",
+      "HLA-DPA1",
+      "RPS24"
+    ],
+    "celltype_composition": {
+      "cDC1": 15.0,
+      "cDC2": 48.5,
+      "Pre-cDC": 23.5,
+      "ASDC": 7.0,
+      "Pre-pDC Cycling": 3.5,
+      "pDC": 2.0
+    },
+    "anova_rank": 111,
+    "f_stat": 92.92
+  },
+  "758": {
+    "genes": [
+      "JCHAIN",
+      "ITM2C",
+      "IRF7",
+      "TCF4",
+      "C12orf75",
+      "LILRA4",
+      "MZB1",
+      "SERPINF1",
+      "GZMB",
+      "PLD4",
+      "UGCG",
+      "APP",
+      "RPS26",
+      "CCDC50",
+      "PLAC8"
+    ],
+    "celltype_composition": {
+      "pDC": 89.0,
+      "Pre-pDC": 2.5,
+      "ASDC": 4.5,
+      "Pre-pDC Cycling": 3.0,
+      "cDC2": 1.0
+    },
+    "anova_rank": 112,
+    "f_stat": 92.14
+  },
+  "1019": {
+    "genes": [
+      "RPS24",
+      "RPL37A",
+      "RPS23",
+      "RPS2",
+      "RPS17",
+      "RPLP0",
+      "EEF1B2",
+      "RPL7A",
+      "RPL4",
+      "HNRNPA1",
+      "ACTG1",
+      "NPM1",
+      "GAPDH",
+      "GPX1",
+      "LDHB"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 71.5,
+      "Pre-cDC": 20.5,
+      "Pre-pDC Cycling": 7.5
+    },
+    "anova_rank": 113,
+    "f_stat": 88.35
+  },
+  "288": {
+    "genes": [
+      "RPS26",
+      "ATP5J2",
+      "ATP5A1",
+      "RPS23",
+      "C11orf31",
+      "ATP5G3",
+      "RPS17",
+      "ATP5B",
+      "RPL4",
+      "ATPIF1",
+      "ATP5G1",
+      "ATP5F1",
+      "ATP5C1",
+      "PSMA2",
+      "RPLP0"
+    ],
+    "celltype_composition": {
+      "cDC1": 17.5,
+      "Pre-pDC": 14.5,
+      "Pre-cDC": 7.0,
+      "cDC2": 31.5,
+      "ASDC": 5.5,
+      "pDC": 20.5,
+      "Pre-pDC Cycling": 3.5
+    },
+    "anova_rank": 114,
+    "f_stat": 86.94
+  },
+  "1123": {
+    "genes": [
+      "S100A4",
+      "RPS26",
+      "ATP5J2",
+      "LGALS1",
+      "TMSB4X",
+      "ATP5G3",
+      "ATP5C1",
+      "ATP5F1",
+      "C11orf31",
+      "ATP5A1",
+      "S100A6",
+      "ATP5B",
+      "HNRNPA1",
+      "ATPIF1",
+      "NAA38"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 56.5,
+      "cDC1": 6.5,
+      "cDC2": 28.5,
+      "ASDC": 4.0,
+      "Pre-pDC": 2.5,
+      "Pre-pDC Cycling": 2.0
+    },
+    "anova_rank": 115,
+    "f_stat": 84.33
+  },
+  "241": {
+    "genes": [
+      "ITM2C",
+      "SIVA1",
+      "UBE2J1",
+      "ODC1",
+      "RPS23",
+      "EEF1B2",
+      "MARCKSL1",
+      "STMN1",
+      "RPS2",
+      "NUCB2",
+      "TYMS",
+      "HMGA1",
+      "PTMA",
+      "DUT",
+      "IDH2"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 30.5,
+      "cDC1": 7.5,
+      "Pre-pDC": 14.5,
+      "Pre-cDC": 7.0,
+      "cDC2": 9.0,
+      "pDC": 31.0
+    },
+    "anova_rank": 116,
+    "f_stat": 82.5
+  },
+  "1751": {
+    "genes": [
+      "HNRNPA1",
+      "RPS24",
+      "GPX1",
+      "RPLP0",
+      "HNRNPC",
+      "HMGN1",
+      "RPS23",
+      "EEF1B2",
+      "ACTG1",
+      "GAPDH",
+      "SLC25A5",
+      "RPL37A",
+      "H3F3A",
+      "PTMA",
+      "RPS2"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 34.0,
+      "Pre-pDC Cycling": 20.0,
+      "Pre-pDC": 20.5,
+      "pDC": 13.0,
+      "cDC2": 4.0,
+      "ASDC": 8.5
+    },
+    "anova_rank": 117,
+    "f_stat": 81.33
+  },
+  "1818": {
+    "genes": [
+      "RPS26",
+      "TMSB4X",
+      "ATP5J2",
+      "RPS17",
+      "RPS24",
+      "RPL4",
+      "RPS23",
+      "ATP5G3",
+      "ATP5F1",
+      "ATP5A1",
+      "COTL1",
+      "ATP5B",
+      "C11orf31",
+      "FOSB",
+      "ATP5G1"
+    ],
+    "celltype_composition": {
+      "cDC1": 12.5,
+      "cDC2": 51.0,
+      "Pre-cDC": 27.5,
+      "ASDC": 6.5,
+      "Pre-pDC": 1.5,
+      "Pre-pDC Cycling": 1.0
+    },
+    "anova_rank": 118,
+    "f_stat": 81.32
+  },
+  "1526": {
+    "genes": [
+      "CD74",
+      "HLA-DRA",
+      "HLA-DRB1",
+      "TMSB4X",
+      "HLA-DMA",
+      "CALM2",
+      "H3F3A",
+      "HNRNPA2B1",
+      "CST3",
+      "MT-CO2",
+      "HMGB2",
+      "HLA-DPB1",
+      "HLA-DMB",
+      "MT-CO3",
+      "HLA-DPA1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 41.0,
+      "Pre-pDC Cycling": 14.0,
+      "Pre-pDC": 4.5,
+      "cDC2": 28.5,
+      "cDC1": 11.0,
+      "ASDC": 1.0
+    },
+    "anova_rank": 119,
+    "f_stat": 81.25
+  },
+  "90": {
+    "genes": [
+      "JCHAIN",
+      "GZMB",
+      "IRF7",
+      "LILRA4",
+      "MZB1",
+      "SERPINF1",
+      "DERL3",
+      "UGCG",
+      "ITM2C",
+      "CLIC3",
+      "PPP1R14B",
+      "SMPD3",
+      "PLD4",
+      "IL3RA",
+      "IRF8"
+    ],
+    "celltype_composition": {
+      "pDC": 95.0,
+      "cDC2": 4.5
+    },
+    "anova_rank": 120,
+    "f_stat": 78.16
+  },
+  "1849": {
+    "genes": [
+      "GZMB",
+      "JCHAIN",
+      "SERPINF1",
+      "IRF7",
+      "CLIC3",
+      "DERL3",
+      "LILRA4",
+      "TSPAN13",
+      "IL3RA",
+      "MZB1",
+      "SMPD3",
+      "ITM2C",
+      "PLD4",
+      "UGCG",
+      "TPM2"
+    ],
+    "celltype_composition": {
+      "pDC": 93.5,
+      "cDC2": 5.5
+    },
+    "anova_rank": 121,
+    "f_stat": 73.45
+  },
+  "1621": {
+    "genes": [
+      "FTH1",
+      "HLA-DRA",
+      "HLA-DMA",
+      "HLA-DQB1",
+      "HLA-DPA1",
+      "HLA-DPB1",
+      "HLA-DRB1",
+      "RPS2",
+      "MARCKSL1",
+      "BID",
+      "HLA-DQA1",
+      "RAB31",
+      "RPS4Y1",
+      "CD74",
+      "PLAUR"
+    ],
+    "celltype_composition": {
+      "cDC1": 9.0,
+      "cDC2": 74.5,
+      "Pre-cDC": 6.0,
+      "pDC": 2.5,
+      "ASDC": 7.0
+    },
+    "anova_rank": 122,
+    "f_stat": 70.15
+  },
+  "1002": {
+    "genes": [
+      "S100A9",
+      "CLEC7A",
+      "SERPINA1",
+      "FCN1",
+      "TYROBP",
+      "VCAN",
+      "CTSS",
+      "S100A8",
+      "PSAP",
+      "S100A6",
+      "NAMPT",
+      "TYMP",
+      "CD14",
+      "LGALS2",
+      "CFD"
+    ],
+    "celltype_composition": {
+      "cDC2": 86.0,
+      "cDC1": 8.5,
+      "Pre-cDC": 5.0
+    },
+    "anova_rank": 123,
+    "f_stat": 69.96
+  },
+  "1980": {
+    "genes": [
+      "JCHAIN",
+      "C12orf75",
+      "SERPINF1",
+      "UGCG",
+      "CDKN2D",
+      "ITM2C",
+      "PPP1R14B",
+      "DERL3",
+      "TPM2",
+      "AC119428.2",
+      "GZMB",
+      "PTPRS",
+      "PTCRA",
+      "CXXC5",
+      "TSPAN13"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 2.5,
+      "ASDC": 1.5,
+      "Pre-pDC Cycling": 10.0,
+      "pDC": 75.5,
+      "cDC2": 10.5
+    },
+    "anova_rank": 124,
+    "f_stat": 69.9
+  },
+  "894": {
+    "genes": [
+      "JCHAIN",
+      "ITM2C",
+      "SERPINF1",
+      "GZMB",
+      "MZB1",
+      "UGCG",
+      "IRF7",
+      "TCF4",
+      "C12orf75",
+      "TSPAN13",
+      "PPP1R14B",
+      "LILRA4",
+      "DERL3",
+      "BCL11A",
+      "CLIC3"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 2.5,
+      "Pre-pDC Cycling": 2.0,
+      "pDC": 91.0,
+      "cDC2": 2.5,
+      "ASDC": 1.5
+    },
+    "anova_rank": 125,
+    "f_stat": 68.05
+  },
+  "1507": {
+    "genes": [
+      "GZMB",
+      "JCHAIN",
+      "MZB1",
+      "IRF7",
+      "TCF4",
+      "SERPINF1",
+      "LILRA4",
+      "CLIC3",
+      "DERL3",
+      "UGCG",
+      "SMPD3",
+      "PPP1R14B",
+      "TPM2",
+      "CLEC4C",
+      "APP"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 1.5,
+      "Pre-cDC": 1.0,
+      "pDC": 97.5
+    },
+    "anova_rank": 126,
+    "f_stat": 67.94
+  },
+  "914": {
+    "genes": [
+      "MT-CO2",
+      "HMGB1",
+      "PTMA",
+      "H2AFZ",
+      "HMGB2",
+      "STMN1",
+      "HMGN2",
+      "MT-CO3",
+      "H2AFV",
+      "NUCKS1",
+      "ANP32B",
+      "PCLAF",
+      "TUBA1B",
+      "HNRNPA3",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 62.5,
+      "Pre-pDC": 13.5,
+      "Pre-pDC Cycling": 24.0
+    },
+    "anova_rank": 127,
+    "f_stat": 64.32
+  },
+  "1415": {
+    "genes": [
+      "H2AFZ",
+      "PTMA",
+      "HMGB1",
+      "HMGN2",
+      "H3F3A",
+      "TUBA1B",
+      "ANP32B",
+      "TUBB",
+      "HMGB2",
+      "GAPDH",
+      "STMN1",
+      "PCLAF",
+      "MT-CO2",
+      "PPIA",
+      "MT-CO3"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 88.0,
+      "Pre-pDC Cycling": 9.5,
+      "cDC1": 1.0,
+      "Pre-pDC": 1.0
+    },
+    "anova_rank": 128,
+    "f_stat": 63.46
+  },
+  "1920": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "MT-ND1",
+      "RPS26",
+      "AIF1",
+      "UQCRH",
+      "S100A4",
+      "GSTP1",
+      "BLVRB",
+      "RPS24",
+      "PTMA",
+      "TPI1",
+      "TMSB4X",
+      "PPIA",
+      "RPS17"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 63.5,
+      "cDC1": 9.0,
+      "Pre-pDC": 5.0,
+      "cDC2": 22.0
+    },
+    "anova_rank": 129,
+    "f_stat": 63.05
+  },
+  "1136": {
+    "genes": [
+      "GZMB",
+      "JCHAIN",
+      "IRF7",
+      "SERPINF1",
+      "CLIC3",
+      "DERL3",
+      "UGCG",
+      "SMPD3",
+      "LRRC26",
+      "LILRA4",
+      "PTCRA",
+      "TSPAN13",
+      "MZB1",
+      "LINC00996",
+      "IL3RA"
+    ],
+    "celltype_composition": {
+      "pDC": 69.5,
+      "cDC2": 26.0,
+      "Pre-cDC": 4.5
+    },
+    "anova_rank": 130,
+    "f_stat": 62.5
+  },
+  "788": {
+    "genes": [
+      "CLEC7A",
+      "S100A9",
+      "CTSS",
+      "SERPINA1",
+      "TYROBP",
+      "FCN1",
+      "VCAN",
+      "PSAP",
+      "S100A8",
+      "LGALS2",
+      "NAMPT",
+      "CD14",
+      "CFD",
+      "TYMP",
+      "S100A6"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 6.5,
+      "cDC1": 10.0,
+      "cDC2": 79.5,
+      "pDC": 3.5
+    },
+    "anova_rank": 131,
+    "f_stat": 62.35
+  },
+  "1793": {
+    "genes": [
+      "FTH1",
+      "HLA-DRA",
+      "HLA-DPA1",
+      "RPS4Y1",
+      "HLA-DQB1",
+      "HLA-DPB1",
+      "HLA-DMA",
+      "RPS2",
+      "BID",
+      "S100A6",
+      "HLA-DRB5",
+      "TYROBP",
+      "HLA-DRB1",
+      "TIMP1",
+      "RAB31"
+    ],
+    "celltype_composition": {
+      "cDC2": 79.5,
+      "pDC": 2.5,
+      "Pre-cDC": 7.5,
+      "ASDC": 8.5,
+      "cDC1": 2.0
+    },
+    "anova_rank": 132,
+    "f_stat": 60.8
+  },
+  "1234": {
+    "genes": [
+      "JCHAIN",
+      "GZMB",
+      "SERPINF1",
+      "UGCG",
+      "PTCRA",
+      "DERL3",
+      "CLIC3",
+      "IRF4",
+      "PPP1R14B",
+      "DUSP5",
+      "SMPD3",
+      "PTGDS",
+      "LINC00996",
+      "TSPAN13",
+      "PTPRS"
+    ],
+    "celltype_composition": {
+      "pDC": 69.0,
+      "cDC2": 30.0
+    },
+    "anova_rank": 133,
+    "f_stat": 60.63
+  },
+  "1013": {
+    "genes": [
+      "PTMA",
+      "GAPDH",
+      "H3F3A",
+      "MT-CO3",
+      "HMGN1",
+      "YBX1",
+      "H2AFY",
+      "RPS2",
+      "RPS24",
+      "MT-CO2",
+      "PPIA",
+      "RPS23",
+      "ANP32B",
+      "H2AFZ",
+      "HMGB1"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 79.0,
+      "Pre-pDC": 7.0,
+      "cDC1": 3.0,
+      "Pre-pDC Cycling": 4.0,
+      "cDC2": 5.0,
+      "ASDC": 2.0
+    },
+    "anova_rank": 134,
+    "f_stat": 59.38
+  },
+  "995": {
+    "genes": [
+      "JCHAIN",
+      "MZB1",
+      "ITM2C",
+      "IRF7",
+      "APP",
+      "TCF4",
+      "PLAC8",
+      "LILRA4",
+      "SPIB",
+      "IL3RA",
+      "FAM129C",
+      "DERL3",
+      "BCL11A",
+      "PLD4",
+      "SOX4"
+    ],
+    "celltype_composition": {
+      "Pre-pDC": 5.0,
+      "ASDC": 4.0,
+      "pDC": 78.5,
+      "Pre-pDC Cycling": 2.5,
+      "cDC2": 9.5
+    },
+    "anova_rank": 135,
+    "f_stat": 58.32
+  },
+  "992": {
+    "genes": [
+      "GZMB",
+      "SERPINF1",
+      "JCHAIN",
+      "CLIC3",
+      "IRF7",
+      "TCL1A",
+      "PTGDS",
+      "LRRC26",
+      "TPM2",
+      "SMPD3",
+      "TSPAN13",
+      "LILRA4",
+      "PPP1R14B",
+      "PTCRA",
+      "LINC00996"
+    ],
+    "celltype_composition": {
+      "cDC1": 12.0,
+      "cDC2": 30.5,
+      "pDC": 56.5
+    },
+    "anova_rank": 136,
+    "f_stat": 58.14
+  },
+  "1039": {
+    "genes": [
+      "CST3",
+      "HLA-DRA",
+      "HLA-DRB1",
+      "CD74",
+      "HLA-DMA",
+      "COTL1",
+      "GAPDH",
+      "YBX1",
+      "H3F3A",
+      "PTMA",
+      "S100A4",
+      "RPS24",
+      "GSTP1",
+      "S100A6",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 61.5,
+      "cDC2": 30.0,
+      "cDC1": 3.5,
+      "ASDC": 2.5,
+      "Pre-pDC Cycling": 2.5
+    },
+    "anova_rank": 137,
+    "f_stat": 57.65
+  },
+  "665": {
+    "genes": [
+      "ACTG1",
+      "RPS2",
+      "RPL4",
+      "RPS24",
+      "H3F3A",
+      "RPS23",
+      "EEF1B2",
+      "SLC25A3",
+      "RPLP0",
+      "RPL7A",
+      "RPS17",
+      "HNRNPA1",
+      "RPL37A",
+      "NPM1",
+      "H2AFY"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 21.5,
+      "Pre-pDC": 30.0,
+      "Pre-pDC Cycling": 12.5,
+      "cDC1": 10.0,
+      "cDC2": 17.0,
+      "pDC": 7.5,
+      "ASDC": 1.5
+    },
+    "anova_rank": 138,
+    "f_stat": 55.17
+  },
+  "1074": {
+    "genes": [
+      "JCHAIN",
+      "GZMB",
+      "SERPINF1",
+      "MZB1",
+      "TCF4",
+      "UGCG",
+      "IRF7",
+      "APP",
+      "PPP1R14B",
+      "DERL3",
+      "LILRA4",
+      "FAM129C",
+      "LRRC26",
+      "IL3RA",
+      "SMPD3"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 9.5,
+      "pDC": 79.5,
+      "Pre-cDC": 3.0,
+      "Pre-pDC": 2.0,
+      "ASDC": 1.0,
+      "cDC2": 5.0
+    },
+    "anova_rank": 139,
+    "f_stat": 55.15
+  },
+  "1436": {
+    "genes": [
+      "RPS17",
+      "RPS24",
+      "RPS26",
+      "RPS23",
+      "RPL37A",
+      "ATP5G3",
+      "ATP5J2",
+      "MT-CO2",
+      "EEF1B2",
+      "MT-ND1",
+      "UQCRH",
+      "RPL7A",
+      "MIF",
+      "C11orf31",
+      "RPLP0"
+    ],
+    "celltype_composition": {
+      "Pre-pDC Cycling": 7.5,
+      "Pre-pDC": 23.5,
+      "Pre-cDC": 35.0,
+      "cDC2": 26.0,
+      "cDC1": 4.5,
+      "ASDC": 3.5
+    },
+    "anova_rank": 140,
+    "f_stat": 54.63
+  },
+  "761": {
+    "genes": [
+      "JCHAIN",
+      "MZB1",
+      "GZMB",
+      "SERPINF1",
+      "ITM2C",
+      "TCF4",
+      "IRF7",
+      "LILRA4",
+      "UGCG",
+      "C12orf75",
+      "CCDC50",
+      "APP",
+      "TSPAN13",
+      "DERL3",
+      "PLD4"
+    ],
+    "celltype_composition": {
+      "cDC2": 6.0,
+      "Pre-pDC Cycling": 2.5,
+      "pDC": 90.0,
+      "Pre-pDC": 1.0
+    },
+    "anova_rank": 141,
+    "f_stat": 50.67
+  },
+  "119": {
+    "genes": [
+      "ATP5J2",
+      "RPS26",
+      "ATP5F1",
+      "ATP5C1",
+      "ATP5G3",
+      "C11orf31",
+      "TMSB4X",
+      "ATP5A1",
+      "ATP5B",
+      "PSMA2",
+      "ATPIF1",
+      "CTSS",
+      "GRN",
+      "S100A11",
+      "FOSB"
+    ],
+    "celltype_composition": {
+      "Pre-cDC": 28.5,
+      "Pre-pDC Cycling": 2.5,
+      "cDC1": 7.5,
+      "cDC2": 51.0,
+      "ASDC": 4.0,
+      "Pre-pDC": 4.0,
+      "pDC": 2.5
+    },
+    "anova_rank": 142,
+    "f_stat": 50.51
+  },
+  "893": {
+    "genes": [
+      "JCHAIN",
+      "GZMB",
+      "LILRA4",
+      "SERPINF1",
+      "IRF7",
+      "CLIC3",
+      "TSPAN13",
+      "MZB1",
+      "TPM2",
+      "PLD4",
+      "UGCG",
+      "LRRC26",
+      "C12orf75",
+      "ITM2C",
+      "CCDC50"
+    ],
+    "celltype_composition": {
+      "ASDC": 6.0,
+      "cDC2": 15.0,
+      "pDC": 78.5
+    },
+    "anova_rank": 143,
+    "f_stat": 50.23
+  }
+}

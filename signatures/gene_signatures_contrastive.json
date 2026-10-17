@@ -1,0 +1,1053 @@
+{
+  "0": {
+    "genes": [
+      "IGLC2",
+      "UBE2J1",
+      "CD63"
+    ],
+    "n_unique": 3,
+    "raw": [
+      "IGLC2",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "MYDGF",
+      "ITM2C",
+      "PDIA6",
+      "UBE2J1",
+      "XBP1",
+      "FKBP2",
+      "PLPP5",
+      "HERPUD1",
+      "CD63"
+    ]
+  },
+  "1": {
+    "genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "PDIA6",
+      "MYDGF",
+      "FKBP2",
+      "ERLEC1",
+      "HERPUD1",
+      "PLPP5",
+      "DAD1"
+    ]
+  },
+  "5": {
+    "genes": [
+      "IGLC3",
+      "GNG7",
+      "CHPF",
+      "DERL3",
+      "UBE2J1",
+      "TNFRSF13B"
+    ],
+    "n_unique": 6,
+    "raw": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "IGLC3",
+      "PLPP5",
+      "MZB1",
+      "PRDX4",
+      "FKBP2",
+      "XBP1",
+      "GNG7",
+      "ITM2C",
+      "CHPF",
+      "DERL3",
+      "UBE2J1",
+      "TNFRSF13B"
+    ]
+  },
+  "6": {
+    "genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "PDIA6",
+      "FKBP2",
+      "MYDGF",
+      "ERLEC1",
+      "HERPUD1",
+      "PLPP5",
+      "DAD1"
+    ]
+  },
+  "7": {
+    "genes": [
+      "IGKC",
+      "GNG7",
+      "CRELD2",
+      "SDF2L1"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "PRDX4",
+      "IGKC",
+      "XBP1",
+      "MZB1",
+      "PLPP5",
+      "GNG7",
+      "HERPUD1",
+      "CRELD2",
+      "FKBP2",
+      "SDF2L1",
+      "ERLEC1"
+    ]
+  },
+  "8": {
+    "genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "PDIA6",
+      "MZB1",
+      "MYDGF",
+      "ERLEC1",
+      "FKBP2",
+      "HERPUD1",
+      "PLPP5",
+      "DAD1"
+    ]
+  },
+  "9": {
+    "genes": [
+      "IGKC",
+      "DAD1",
+      "SDF2L1"
+    ],
+    "n_unique": 3,
+    "raw": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "MZB1",
+      "XBP1",
+      "PDIA6",
+      "FKBP2",
+      "MYDGF",
+      "ERLEC1",
+      "PLPP5",
+      "DAD1",
+      "SDF2L1"
+    ]
+  },
+  "12": {
+    "genes": [
+      "UBE2J1",
+      "IGLC2",
+      "GNG7"
+    ],
+    "n_unique": 3,
+    "raw": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PRDX4",
+      "FKBP2",
+      "PDIA6",
+      "ITM2C",
+      "XBP1",
+      "MYDGF",
+      "UBE2J1",
+      "PLPP5",
+      "IGLC2",
+      "HERPUD1",
+      "GNG7"
+    ]
+  },
+  "13": {
+    "genes": [
+      "IGKC",
+      "SDF2L1"
+    ],
+    "n_unique": 2,
+    "raw": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "HERPUD1",
+      "PDIA6",
+      "PLPP5",
+      "MYDGF",
+      "ERLEC1",
+      "SDF2L1",
+      "FKBP2"
+    ]
+  },
+  "14": {
+    "genes": [
+      "IGLC3",
+      "UBE2J1",
+      "CD27",
+      "SDF2L1"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "XBP1",
+      "PRDX4",
+      "PLPP5",
+      "UBE2J1",
+      "ITM2C",
+      "CD27",
+      "PDIA6",
+      "HERPUD1",
+      "SDF2L1"
+    ]
+  },
+  "16": {
+    "genes": [
+      "IGLC2",
+      "SDF2L1",
+      "CRELD2",
+      "GNG7"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "ITM2C",
+      "MYDGF",
+      "FKBP2",
+      "PLPP5",
+      "XBP1",
+      "HERPUD1",
+      "SDF2L1",
+      "CRELD2",
+      "GNG7"
+    ]
+  },
+  "19": {
+    "genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "PDIA6",
+      "FKBP2",
+      "ERLEC1",
+      "MYDGF",
+      "HERPUD1",
+      "PLPP5",
+      "DAD1"
+    ]
+  },
+  "24": {
+    "genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw": [
+      "SSR4",
+      "IGKC",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "PDIA6",
+      "MZB1",
+      "FKBP2",
+      "HERPUD1",
+      "PLPP5",
+      "DAD1",
+      "MYDGF",
+      "ERLEC1"
+    ]
+  },
+  "56": {
+    "genes": [
+      "IGKC",
+      "DAD1",
+      "UBE2J1"
+    ],
+    "n_unique": 3,
+    "raw": [
+      "SSR4",
+      "IGKC",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "PDIA6",
+      "PLPP5",
+      "DAD1",
+      "FKBP2",
+      "MYDGF",
+      "HERPUD1",
+      "UBE2J1"
+    ]
+  },
+  "73": {
+    "genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw": [
+      "SSR4",
+      "IGKC",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "PDIA6",
+      "MZB1",
+      "FKBP2",
+      "PLPP5",
+      "MYDGF",
+      "ERLEC1",
+      "HERPUD1",
+      "DAD1"
+    ]
+  },
+  "75": {
+    "genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "PDIA6",
+      "MZB1",
+      "DAD1",
+      "FKBP2",
+      "MYDGF",
+      "PLPP5",
+      "ERLEC1",
+      "HERPUD1"
+    ]
+  },
+  "90": {
+    "genes": [
+      "IGHG3",
+      "IGHG1",
+      "IGKC",
+      "UBE2J1"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "IGHG3",
+      "SSR4",
+      "SEC11C",
+      "IGHG1",
+      "FKBP11",
+      "PRDX4",
+      "MZB1",
+      "IGKC",
+      "PLPP5",
+      "MYDGF",
+      "ITM2C",
+      "XBP1",
+      "UBE2J1",
+      "HERPUD1",
+      "PDIA6"
+    ]
+  },
+  "254": {
+    "genes": [
+      "IGLC3",
+      "CRELD2",
+      "DERL3",
+      "ISG20",
+      "CD27"
+    ],
+    "n_unique": 5,
+    "raw": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "PLPP5",
+      "XBP1",
+      "PRDX4",
+      "ITM2C",
+      "CRELD2",
+      "DERL3",
+      "ISG20",
+      "ERLEC1",
+      "CD27"
+    ]
+  },
+  "355": {
+    "genes": [
+      "IGHG2",
+      "GNG7",
+      "CD27",
+      "PSAP"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "SSR4",
+      "FKBP11",
+      "PRDX4",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "IGHG2",
+      "PLPP5",
+      "ITM2C",
+      "XBP1",
+      "HERPUD1",
+      "GNG7",
+      "CD27",
+      "PSAP",
+      "ERLEC1"
+    ]
+  },
+  "470": {
+    "genes": [
+      "IGHA1",
+      "MANF",
+      "UBE2J1",
+      "CRELD2"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "SSR4",
+      "IGHA1",
+      "SEC11C",
+      "FKBP11",
+      "FKBP2",
+      "MZB1",
+      "PRDX4",
+      "PLPP5",
+      "ITM2C",
+      "MANF",
+      "UBE2J1",
+      "MYDGF",
+      "CRELD2",
+      "XBP1",
+      "PDIA6"
+    ]
+  },
+  "484": {
+    "genes": [
+      "IGLC3",
+      "CD27",
+      "GNG7",
+      "CD63",
+      "CRELD2"
+    ],
+    "n_unique": 5,
+    "raw": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "PRDX4",
+      "PLPP5",
+      "XBP1",
+      "ITM2C",
+      "CD27",
+      "GNG7",
+      "CD63",
+      "HERPUD1",
+      "CRELD2"
+    ]
+  },
+  "548": {
+    "genes": [
+      "IGKC",
+      "IGHG1",
+      "IGHG3",
+      "IGHG4",
+      "GNG7"
+    ],
+    "n_unique": 5,
+    "raw": [
+      "SSR4",
+      "IGKC",
+      "SEC11C",
+      "FKBP11",
+      "ITM2C",
+      "IGHG1",
+      "MZB1",
+      "IGHG3",
+      "XBP1",
+      "PRDX4",
+      "PLPP5",
+      "HERPUD1",
+      "IGHG4",
+      "MYDGF",
+      "GNG7"
+    ]
+  },
+  "574": {
+    "genes": [
+      "IGHA1",
+      "HSP90B1",
+      "MANF",
+      "DAD1"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "FKBP2",
+      "MZB1",
+      "MYDGF",
+      "PRDX4",
+      "IGHA1",
+      "PLPP5",
+      "ITM2C",
+      "HSP90B1",
+      "ERLEC1",
+      "MANF",
+      "DAD1",
+      "PDIA6"
+    ]
+  },
+  "575": {
+    "genes": [
+      "JCHAIN",
+      "IGKC",
+      "GNG7",
+      "TNFRSF13B",
+      "UBE2J1",
+      "ISG20"
+    ],
+    "n_unique": 6,
+    "raw": [
+      "SSR4",
+      "JCHAIN",
+      "SEC11C",
+      "FKBP11",
+      "IGKC",
+      "PLPP5",
+      "FKBP2",
+      "ITM2C",
+      "MZB1",
+      "XBP1",
+      "GNG7",
+      "TNFRSF13B",
+      "PRDX4",
+      "UBE2J1",
+      "ISG20"
+    ]
+  },
+  "576": {
+    "genes": [
+      "IGHG3",
+      "IGHG1",
+      "IGLC2",
+      "UBE2J1",
+      "DERL3"
+    ],
+    "n_unique": 5,
+    "raw": [
+      "SSR4",
+      "IGHG3",
+      "FKBP11",
+      "SEC11C",
+      "FKBP2",
+      "MZB1",
+      "PRDX4",
+      "IGHG1",
+      "PLPP5",
+      "IGLC2",
+      "UBE2J1",
+      "XBP1",
+      "ITM2C",
+      "HERPUD1",
+      "DERL3"
+    ]
+  },
+  "816": {
+    "genes": [
+      "IGLC3",
+      "UBE2J1",
+      "GNG7",
+      "CD27",
+      "ISG20"
+    ],
+    "n_unique": 5,
+    "raw": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PRDX4",
+      "PLPP5",
+      "FKBP2",
+      "UBE2J1",
+      "GNG7",
+      "XBP1",
+      "CD27",
+      "ISG20",
+      "ITM2C",
+      "ERLEC1"
+    ]
+  },
+  "837": {
+    "genes": [
+      "HSP90B1",
+      "SDF2L1",
+      "DERL3",
+      "DAD1",
+      "MANF",
+      "JCHAIN"
+    ],
+    "n_unique": 6,
+    "raw": [
+      "SSR4",
+      "SEC11C",
+      "HSP90B1",
+      "PLPP5",
+      "SDF2L1",
+      "MZB1",
+      "PRDX4",
+      "DERL3",
+      "PDIA6",
+      "FKBP11",
+      "HERPUD1",
+      "MYDGF",
+      "DAD1",
+      "MANF",
+      "JCHAIN"
+    ]
+  },
+  "979": {
+    "genes": [
+      "IGKC",
+      "FCRL5",
+      "GNG7"
+    ],
+    "n_unique": 3,
+    "raw": [
+      "SSR4",
+      "IGKC",
+      "FKBP11",
+      "SEC11C",
+      "PRDX4",
+      "PLPP5",
+      "ITM2C",
+      "XBP1",
+      "MZB1",
+      "HERPUD1",
+      "FCRL5",
+      "MYDGF",
+      "FKBP2",
+      "GNG7",
+      "ERLEC1"
+    ]
+  },
+  "987": {
+    "genes": [
+      "IGLC2",
+      "DAD1",
+      "SDF2L1"
+    ],
+    "n_unique": 3,
+    "raw": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "PRDX4",
+      "MZB1",
+      "ITM2C",
+      "MYDGF",
+      "FKBP2",
+      "XBP1",
+      "IGLC2",
+      "PDIA6",
+      "PLPP5",
+      "DAD1",
+      "SDF2L1",
+      "ERLEC1"
+    ]
+  },
+  "1149": {
+    "genes": [
+      "IGLC2",
+      "IGHA1",
+      "HSP90B1",
+      "MANF",
+      "UBE2J1"
+    ],
+    "n_unique": 5,
+    "raw": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "PLPP5",
+      "FKBP2",
+      "MYDGF",
+      "IGHA1",
+      "HSP90B1",
+      "ITM2C",
+      "MANF",
+      "ERLEC1",
+      "UBE2J1"
+    ]
+  },
+  "1269": {
+    "genes": [
+      "IGLC2",
+      "CD27",
+      "UBE2J1",
+      "ISG20"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "MZB1",
+      "FKBP11",
+      "ITM2C",
+      "PRDX4",
+      "XBP1",
+      "PLPP5",
+      "FKBP2",
+      "CD27",
+      "ERLEC1",
+      "UBE2J1",
+      "ISG20",
+      "HERPUD1"
+    ]
+  },
+  "1357": {
+    "genes": [
+      "IGKC",
+      "IGHG2",
+      "GNG7"
+    ],
+    "n_unique": 3,
+    "raw": [
+      "IGKC",
+      "SSR4",
+      "MZB1",
+      "SEC11C",
+      "FKBP11",
+      "IGHG2",
+      "ITM2C",
+      "FKBP2",
+      "GNG7",
+      "PRDX4",
+      "XBP1",
+      "PLPP5",
+      "HERPUD1",
+      "PDIA6",
+      "MYDGF"
+    ]
+  },
+  "1428": {
+    "genes": [
+      "IGKC",
+      "SDF2L1"
+    ],
+    "n_unique": 2,
+    "raw": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "MZB1",
+      "MYDGF",
+      "PLPP5",
+      "XBP1",
+      "FKBP2",
+      "SDF2L1",
+      "PDIA6",
+      "ERLEC1",
+      "HERPUD1"
+    ]
+  },
+  "1434": {
+    "genes": [
+      "IGKC",
+      "HSP90B1",
+      "SDF2L1"
+    ],
+    "n_unique": 3,
+    "raw": [
+      "SSR4",
+      "IGKC",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "XBP1",
+      "ITM2C",
+      "PRDX4",
+      "HERPUD1",
+      "PLPP5",
+      "FKBP2",
+      "HSP90B1",
+      "MYDGF",
+      "ERLEC1",
+      "SDF2L1"
+    ]
+  },
+  "1460": {
+    "genes": [
+      "HSP90B1",
+      "SDF2L1",
+      "CD63",
+      "DAD1",
+      "DERL3",
+      "UBE2J1"
+    ],
+    "n_unique": 6,
+    "raw": [
+      "SSR4",
+      "PRDX4",
+      "HSP90B1",
+      "PDIA6",
+      "SEC11C",
+      "SDF2L1",
+      "MYDGF",
+      "CD63",
+      "DAD1",
+      "DERL3",
+      "MZB1",
+      "PLPP5",
+      "HERPUD1",
+      "FKBP11",
+      "UBE2J1"
+    ]
+  },
+  "1481": {
+    "genes": [
+      "IGHA1",
+      "IGKC",
+      "HSP90B1",
+      "MANF"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "IGHA1",
+      "SSR4",
+      "IGKC",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "XBP1",
+      "PLPP5",
+      "ITM2C",
+      "HERPUD1",
+      "ERLEC1",
+      "HSP90B1",
+      "MANF",
+      "FKBP2",
+      "PRDX4"
+    ]
+  },
+  "1552": {
+    "genes": [
+      "SDF2L1",
+      "HSP90B1"
+    ],
+    "n_unique": 2,
+    "raw": [
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "FKBP2",
+      "XBP1",
+      "MYDGF",
+      "ITM2C",
+      "PDIA6",
+      "HERPUD1",
+      "ERLEC1",
+      "SDF2L1",
+      "PLPP5",
+      "HSP90B1"
+    ]
+  },
+  "1581": {
+    "genes": [
+      "IGHG1",
+      "IGKC",
+      "CD63",
+      "PSAP"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "IGHG1",
+      "IGKC",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "ITM2C",
+      "PRDX4",
+      "XBP1",
+      "MZB1",
+      "PDIA6",
+      "CD63",
+      "PLPP5",
+      "MYDGF",
+      "PSAP",
+      "HERPUD1"
+    ]
+  },
+  "1665": {
+    "genes": [
+      "IGLC2",
+      "CD63",
+      "CD27"
+    ],
+    "n_unique": 3,
+    "raw": [
+      "IGLC2",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "FKBP2",
+      "CD63",
+      "XBP1",
+      "ITM2C",
+      "PLPP5",
+      "CD27",
+      "ERLEC1",
+      "MYDGF",
+      "HERPUD1"
+    ]
+  },
+  "1825": {
+    "genes": [
+      "IGHG1",
+      "CD63",
+      "UBE2J1",
+      "PSAP"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "IGHG1",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PRDX4",
+      "XBP1",
+      "CD63",
+      "ITM2C",
+      "PLPP5",
+      "HERPUD1",
+      "FKBP2",
+      "PDIA6",
+      "UBE2J1",
+      "PSAP"
+    ]
+  },
+  "2032": {
+    "genes": [
+      "IGHA1",
+      "HSP90B1",
+      "MANF",
+      "UBE2J1"
+    ],
+    "n_unique": 4,
+    "raw": [
+      "IGHA1",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "MYDGF",
+      "PRDX4",
+      "FKBP2",
+      "PLPP5",
+      "HSP90B1",
+      "MANF",
+      "XBP1",
+      "ITM2C",
+      "UBE2J1",
+      "ERLEC1"
+    ]
+  }
+}

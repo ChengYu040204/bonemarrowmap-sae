@@ -1,0 +1,1012 @@
+[
+  {
+    "feature_id": 0,
+    "anova_rank": null,
+    "programme_name": "IgLambda2 light chain secretion programme",
+    "sub_programme_layer": "IgLambda_secretion",
+    "rag_name": "ER protein translocation and immunoglobulin secretion",
+    "unique_genes": [
+      "IGLC2",
+      "UBE2J1",
+      "CD63"
+    ],
+    "n_unique": 3,
+    "raw_top8": [
+      "IGLC2",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "MYDGF",
+      "ITM2C"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "Endoplasmic reticulum protein folding and quality control",
+    "unique_genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw_top8": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 5,
+    "anova_rank": null,
+    "programme_name": "IgLambda3 ERAD-coupled quality control",
+    "sub_programme_layer": "ERAD_quality_control",
+    "rag_name": "Immunoglobulin synthesis and ER-associated protein quality control",
+    "unique_genes": [
+      "IGLC3",
+      "GNG7",
+      "CHPF",
+      "DERL3",
+      "UBE2J1",
+      "TNFRSF13B"
+    ],
+    "n_unique": 6,
+    "raw_top8": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "IGLC3",
+      "PLPP5",
+      "MZB1",
+      "PRDX4",
+      "FKBP2"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 6,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "ER protein translocation and UPR for Ig secretion",
+    "unique_genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw_top8": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 7,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "Plasma cell immunoglobulin secretion programme",
+    "unique_genes": [
+      "IGKC",
+      "GNG7",
+      "CRELD2",
+      "SDF2L1"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "PRDX4",
+      "IGKC",
+      "XBP1",
+      "MZB1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 8,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "ER protein synthesis and UPR in antibody secretion",
+    "unique_genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw_top8": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "PDIA6"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 9,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "ER protein folding and immunoglobulin secretion",
+    "unique_genes": [
+      "IGKC",
+      "DAD1",
+      "SDF2L1"
+    ],
+    "n_unique": 3,
+    "raw_top8": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "MZB1",
+      "XBP1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 12,
+    "anova_rank": null,
+    "programme_name": "IgLambda2 light chain secretion programme",
+    "sub_programme_layer": "IgLambda_secretion",
+    "rag_name": "ER protein quality control and antibody secretion",
+    "unique_genes": [
+      "UBE2J1",
+      "IGLC2",
+      "GNG7"
+    ],
+    "n_unique": 3,
+    "raw_top8": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PRDX4",
+      "FKBP2",
+      "PDIA6",
+      "ITM2C"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 13,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "Endoplasmic reticulum protein processing and quality control",
+    "unique_genes": [
+      "IGKC",
+      "SDF2L1"
+    ],
+    "n_unique": 2,
+    "raw_top8": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 14,
+    "anova_rank": null,
+    "programme_name": "IgLambda3 light chain secretion programme",
+    "sub_programme_layer": "IgLambda_secretion",
+    "rag_name": "ER protein synthesis and UPR in antibody secretion",
+    "unique_genes": [
+      "IGLC3",
+      "UBE2J1",
+      "CD27",
+      "SDF2L1"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "XBP1",
+      "PRDX4"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 16,
+    "anova_rank": null,
+    "programme_name": "IgLambda2 light chain secretion programme",
+    "sub_programme_layer": "IgLambda_secretion",
+    "rag_name": "Immunoglobulin synthesis and ER protein quality control",
+    "unique_genes": [
+      "IGLC2",
+      "SDF2L1",
+      "CRELD2",
+      "GNG7"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "ITM2C",
+      "MYDGF"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 19,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "ER protein synthesis and UPR in antibody secretion",
+    "unique_genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw_top8": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 24,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "ER proteostasis for immunoglobulin secretion",
+    "unique_genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw_top8": [
+      "SSR4",
+      "IGKC",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "PDIA6"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 56,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "ER-resident protein folding quality control",
+    "unique_genes": [
+      "IGKC",
+      "DAD1",
+      "UBE2J1"
+    ],
+    "n_unique": 3,
+    "raw_top8": [
+      "SSR4",
+      "IGKC",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "MZB1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 73,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "ER protein translocation and immunoglobulin folding",
+    "unique_genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw_top8": [
+      "SSR4",
+      "IGKC",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "PDIA6"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 75,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "ER protein synthesis and UPR in antibody secretion",
+    "unique_genes": [
+      "IGKC",
+      "DAD1"
+    ],
+    "n_unique": 2,
+    "raw_top8": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "XBP1",
+      "PDIA6"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 90,
+    "anova_rank": null,
+    "programme_name": "IgG1/IgG3 subclass co-expression programme",
+    "sub_programme_layer": "IgG_isotype",
+    "rag_name": "Immunoglobulin synthesis and ER-to-secretory pathway",
+    "unique_genes": [
+      "IGHG3",
+      "IGHG1",
+      "IGKC",
+      "UBE2J1"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "IGHG3",
+      "SSR4",
+      "SEC11C",
+      "IGHG1",
+      "FKBP11",
+      "PRDX4",
+      "MZB1",
+      "IGKC"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 254,
+    "anova_rank": null,
+    "programme_name": "IgLambda3 ERAD-coupled quality control",
+    "sub_programme_layer": "ERAD_quality_control",
+    "rag_name": "Immunoglobulin translocation and ER-quality control",
+    "unique_genes": [
+      "IGLC3",
+      "CRELD2",
+      "DERL3",
+      "ISG20",
+      "CD27"
+    ],
+    "n_unique": 5,
+    "raw_top8": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "PLPP5",
+      "XBP1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 355,
+    "anova_rank": null,
+    "programme_name": "IgG2 subclass secretion programme",
+    "sub_programme_layer": "IgG_isotype",
+    "rag_name": "Endoplasmic reticulum protein synthesis and quality control",
+    "unique_genes": [
+      "IGHG2",
+      "GNG7",
+      "CD27",
+      "PSAP"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "SSR4",
+      "FKBP11",
+      "PRDX4",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "IGHG2",
+      "PLPP5"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 470,
+    "anova_rank": null,
+    "programme_name": "IgA isotype secretion programme",
+    "sub_programme_layer": "IgA_isotype",
+    "rag_name": "ER protein translocation and immunoglobulin folding",
+    "unique_genes": [
+      "IGHA1",
+      "MANF",
+      "UBE2J1",
+      "CRELD2"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "SSR4",
+      "IGHA1",
+      "SEC11C",
+      "FKBP11",
+      "FKBP2",
+      "MZB1",
+      "PRDX4",
+      "PLPP5"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 484,
+    "anova_rank": null,
+    "programme_name": "IgLambda3 light chain secretion programme",
+    "sub_programme_layer": "IgLambda_secretion",
+    "rag_name": "Plasma cell immunoglobulin secretion programme",
+    "unique_genes": [
+      "IGLC3",
+      "CD27",
+      "GNG7",
+      "CD63",
+      "CRELD2"
+    ],
+    "n_unique": 5,
+    "raw_top8": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "FKBP2",
+      "PRDX4",
+      "PLPP5"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 548,
+    "anova_rank": null,
+    "programme_name": "IgG1/IgG3 subclass co-expression programme",
+    "sub_programme_layer": "IgG_isotype",
+    "rag_name": "Immunoglobulin assembly and ER protein folding",
+    "unique_genes": [
+      "IGKC",
+      "IGHG1",
+      "IGHG3",
+      "IGHG4",
+      "GNG7"
+    ],
+    "n_unique": 5,
+    "raw_top8": [
+      "SSR4",
+      "IGKC",
+      "SEC11C",
+      "FKBP11",
+      "ITM2C",
+      "IGHG1",
+      "MZB1",
+      "IGHG3"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 574,
+    "anova_rank": null,
+    "programme_name": "IgA secretion with GRP94-assisted folding",
+    "sub_programme_layer": "IgA_isotype",
+    "rag_name": "Plasma cell immunoglobulin secretion programme",
+    "unique_genes": [
+      "IGHA1",
+      "HSP90B1",
+      "MANF",
+      "DAD1"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "FKBP2",
+      "MZB1",
+      "MYDGF",
+      "PRDX4",
+      "IGHA1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 575,
+    "anova_rank": null,
+    "programme_name": "Polymeric IgA/IgM JCHAIN assembly programme",
+    "sub_programme_layer": "IgM_IgA_polymerisation",
+    "rag_name": "Immunoglobulin assembly and ER-secretory pathway",
+    "unique_genes": [
+      "JCHAIN",
+      "IGKC",
+      "GNG7",
+      "TNFRSF13B",
+      "UBE2J1",
+      "ISG20"
+    ],
+    "n_unique": 6,
+    "raw_top8": [
+      "SSR4",
+      "JCHAIN",
+      "SEC11C",
+      "FKBP11",
+      "IGKC",
+      "PLPP5",
+      "FKBP2",
+      "ITM2C"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 576,
+    "anova_rank": null,
+    "programme_name": "IgG1/IgG3 subclass co-expression programme",
+    "sub_programme_layer": "IgG_isotype",
+    "rag_name": "Immunoglobulin secretory pathway assembly",
+    "unique_genes": [
+      "IGHG3",
+      "IGHG1",
+      "IGLC2",
+      "UBE2J1",
+      "DERL3"
+    ],
+    "n_unique": 5,
+    "raw_top8": [
+      "SSR4",
+      "IGHG3",
+      "FKBP11",
+      "SEC11C",
+      "FKBP2",
+      "MZB1",
+      "PRDX4",
+      "IGHG1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 816,
+    "anova_rank": null,
+    "programme_name": "IgLambda3 light chain secretion programme",
+    "sub_programme_layer": "IgLambda_secretion",
+    "rag_name": "ER protein quality control in Ig secretion",
+    "unique_genes": [
+      "IGLC3",
+      "UBE2J1",
+      "GNG7",
+      "CD27",
+      "ISG20"
+    ],
+    "n_unique": 5,
+    "raw_top8": [
+      "IGLC3",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PRDX4",
+      "PLPP5",
+      "FKBP2"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 837,
+    "anova_rank": null,
+    "programme_name": "Polymeric IgA/IgM JCHAIN assembly programme",
+    "sub_programme_layer": "IgM_IgA_polymerisation",
+    "rag_name": "Immunoglobulin synthesis and ER quality control",
+    "unique_genes": [
+      "HSP90B1",
+      "SDF2L1",
+      "DERL3",
+      "DAD1",
+      "MANF",
+      "JCHAIN"
+    ],
+    "n_unique": 6,
+    "raw_top8": [
+      "SSR4",
+      "SEC11C",
+      "HSP90B1",
+      "PLPP5",
+      "SDF2L1",
+      "MZB1",
+      "PRDX4",
+      "DERL3"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 979,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "ER protein translocation and unfolded protein response",
+    "unique_genes": [
+      "IGKC",
+      "FCRL5",
+      "GNG7"
+    ],
+    "n_unique": 3,
+    "raw_top8": [
+      "SSR4",
+      "IGKC",
+      "FKBP11",
+      "SEC11C",
+      "PRDX4",
+      "PLPP5",
+      "ITM2C",
+      "XBP1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 987,
+    "anova_rank": null,
+    "programme_name": "IgLambda2 light chain secretion programme",
+    "sub_programme_layer": "IgLambda_secretion",
+    "rag_name": "ER protein translocation and UPR activation",
+    "unique_genes": [
+      "IGLC2",
+      "DAD1",
+      "SDF2L1"
+    ],
+    "n_unique": 3,
+    "raw_top8": [
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "PRDX4",
+      "MZB1",
+      "ITM2C",
+      "MYDGF",
+      "FKBP2"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1149,
+    "anova_rank": null,
+    "programme_name": "IgA secretion with GRP94-assisted folding",
+    "sub_programme_layer": "IgA_isotype",
+    "rag_name": "ER proteostasis and immunoglobulin secretion",
+    "unique_genes": [
+      "IGLC2",
+      "IGHA1",
+      "HSP90B1",
+      "MANF",
+      "UBE2J1"
+    ],
+    "n_unique": 5,
+    "raw_top8": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "PLPP5",
+      "FKBP2"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1269,
+    "anova_rank": null,
+    "programme_name": "IgLambda2 light chain secretion programme",
+    "sub_programme_layer": "IgLambda_secretion",
+    "rag_name": "Immunoglobulin maturation and ER protein quality control",
+    "unique_genes": [
+      "IGLC2",
+      "CD27",
+      "UBE2J1",
+      "ISG20"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "SSR4",
+      "IGLC2",
+      "SEC11C",
+      "MZB1",
+      "FKBP11",
+      "ITM2C",
+      "PRDX4",
+      "XBP1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1357,
+    "anova_rank": null,
+    "programme_name": "IgG2 subclass secretion programme",
+    "sub_programme_layer": "IgG_isotype",
+    "rag_name": "ER stress response in antibody-secreting plasma cells",
+    "unique_genes": [
+      "IGKC",
+      "IGHG2",
+      "GNG7"
+    ],
+    "n_unique": 3,
+    "raw_top8": [
+      "IGKC",
+      "SSR4",
+      "MZB1",
+      "SEC11C",
+      "FKBP11",
+      "IGHG2",
+      "ITM2C",
+      "FKBP2"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1428,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "ER protein folding and immunoglobulin processing",
+    "unique_genes": [
+      "IGKC",
+      "SDF2L1"
+    ],
+    "n_unique": 2,
+    "raw_top8": [
+      "IGKC",
+      "SSR4",
+      "PRDX4",
+      "FKBP11",
+      "SEC11C",
+      "ITM2C",
+      "MZB1",
+      "MYDGF"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1434,
+    "anova_rank": null,
+    "programme_name": "IgKappa light chain secretion programme",
+    "sub_programme_layer": "IgKappa_secretion",
+    "rag_name": "ER protein synthesis and unfolded protein response",
+    "unique_genes": [
+      "IGKC",
+      "HSP90B1",
+      "SDF2L1"
+    ],
+    "n_unique": 3,
+    "raw_top8": [
+      "SSR4",
+      "IGKC",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "XBP1",
+      "ITM2C",
+      "PRDX4"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1460,
+    "anova_rank": null,
+    "programme_name": "GRP94-ERAD coupled Ig quality control",
+    "sub_programme_layer": "ERAD_quality_control",
+    "rag_name": "Immunoglobulin lambda chain synthesis and ER translocation",
+    "unique_genes": [
+      "HSP90B1",
+      "SDF2L1",
+      "CD63",
+      "DAD1",
+      "DERL3",
+      "UBE2J1"
+    ],
+    "n_unique": 6,
+    "raw_top8": [
+      "SSR4",
+      "PRDX4",
+      "HSP90B1",
+      "PDIA6",
+      "SEC11C",
+      "SDF2L1",
+      "MYDGF",
+      "CD63"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1481,
+    "anova_rank": null,
+    "programme_name": "IgA secretion with GRP94-assisted folding",
+    "sub_programme_layer": "IgA_isotype",
+    "rag_name": "ER protein folding and immunoglobulin secretion",
+    "unique_genes": [
+      "IGHA1",
+      "IGKC",
+      "HSP90B1",
+      "MANF"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "IGHA1",
+      "SSR4",
+      "IGKC",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "XBP1",
+      "PLPP5"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1552,
+    "anova_rank": null,
+    "programme_name": "GRP94/SDF2L1 ER chaperone complex programme",
+    "sub_programme_layer": "UPR_stress",
+    "rag_name": "Immunoglobulin synthesis with ER protein quality control",
+    "unique_genes": [
+      "SDF2L1",
+      "HSP90B1"
+    ],
+    "n_unique": 2,
+    "raw_top8": [
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "FKBP2",
+      "XBP1",
+      "MYDGF"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1581,
+    "anova_rank": null,
+    "programme_name": "IgG1 subclass secretion programme",
+    "sub_programme_layer": "IgG_isotype",
+    "rag_name": "ER protein synthesis and UPR in antibody secretion",
+    "unique_genes": [
+      "IGHG1",
+      "IGKC",
+      "CD63",
+      "PSAP"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "IGHG1",
+      "IGKC",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "ITM2C",
+      "PRDX4",
+      "XBP1"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1665,
+    "anova_rank": null,
+    "programme_name": "IgLambda2 light chain secretion programme",
+    "sub_programme_layer": "IgLambda_secretion",
+    "rag_name": "ER protein translocation and disulfide bond maturation",
+    "unique_genes": [
+      "IGLC2",
+      "CD63",
+      "CD27"
+    ],
+    "n_unique": 3,
+    "raw_top8": [
+      "IGLC2",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "PRDX4",
+      "FKBP2",
+      "CD63"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 1825,
+    "anova_rank": null,
+    "programme_name": "IgG1 subclass secretion programme",
+    "sub_programme_layer": "IgG_isotype",
+    "rag_name": "ER protein translocation and immunoglobulin secretion",
+    "unique_genes": [
+      "IGHG1",
+      "CD63",
+      "UBE2J1",
+      "PSAP"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "IGHG1",
+      "SSR4",
+      "FKBP11",
+      "SEC11C",
+      "MZB1",
+      "PRDX4",
+      "XBP1",
+      "CD63"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  },
+  {
+    "feature_id": 2032,
+    "anova_rank": null,
+    "programme_name": "IgA secretion with GRP94-assisted folding",
+    "sub_programme_layer": "IgA_isotype",
+    "rag_name": "ER protein synthesis and unfolded protein response",
+    "unique_genes": [
+      "IGHA1",
+      "HSP90B1",
+      "MANF",
+      "UBE2J1"
+    ],
+    "n_unique": 4,
+    "raw_top8": [
+      "IGHA1",
+      "SSR4",
+      "SEC11C",
+      "FKBP11",
+      "MZB1",
+      "MYDGF",
+      "PRDX4",
+      "FKBP2"
+    ],
+    "method": "contrastive_vocab_rulebased"
+  }
+]

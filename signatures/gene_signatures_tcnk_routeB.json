@@ -1,0 +1,4470 @@
+{
+  "985": {
+    "genes": [
+      "GNLY",
+      "NKG7",
+      "TYROBP",
+      "CTSW",
+      "FCER1G",
+      "HOPX",
+      "KLRD1",
+      "KLRF1",
+      "CST7",
+      "CD63",
+      "PLAC8",
+      "IL2RB",
+      "CMC1",
+      "TRDC",
+      "PRF1"
+    ],
+    "celltype_composition": {
+      "CD8 Effector Memory 2": 1.0,
+      "NK": 41.5,
+      "NK CD56high": 51.0,
+      "T Proliferating": 5.5
+    },
+    "fold_enrichment": 20.50316047668457
+  },
+  "1031": {
+    "genes": [
+      "NKG7",
+      "GNLY",
+      "PRF1",
+      "TYROBP",
+      "CST7",
+      "GZMB",
+      "CCL5",
+      "FGFBP2",
+      "KLRF1",
+      "CTSW",
+      "FCGR3A",
+      "KLRD1",
+      "FCER1G",
+      "SPON2",
+      "GZMA"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 1.0,
+      "CD4 Effector Memory": 1.0,
+      "CD4 Naive": 3.5,
+      "CD8 Effector Memory 2": 3.0,
+      "CD8 Naive": 1.0,
+      "NK": 87.0,
+      "T Proliferating": 3.0
+    },
+    "fold_enrichment": 25.30295181274414
+  },
+  "96": {
+    "genes": [
+      "NKG7",
+      "GNLY",
+      "GZMB",
+      "FGFBP2",
+      "CST7",
+      "TYROBP",
+      "FCER1G",
+      "PRF1",
+      "CTSW",
+      "SPON2",
+      "KLRD1",
+      "GZMA",
+      "KLRF1",
+      "KLRB1",
+      "FCGR3A"
+    ],
+    "celltype_composition": {
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 3.0,
+      "NK": 85.5,
+      "NK CD56high": 10.5
+    },
+    "fold_enrichment": 12.500323295593262
+  },
+  "14": {
+    "genes": [
+      "GNLY",
+      "NKG7",
+      "TYROBP",
+      "CTSW",
+      "HOPX",
+      "FCER1G",
+      "KLRD1",
+      "CST7",
+      "KLRF1",
+      "GZMB",
+      "TRDC",
+      "PRF1",
+      "CD63",
+      "CCL5",
+      "GZMA"
+    ],
+    "celltype_composition": {
+      "CD8 Effector Memory 2": 4.0,
+      "NK": 69.5,
+      "NK CD56high": 25.5,
+      "T Proliferating": 1.0
+    },
+    "fold_enrichment": 50.93708801269531
+  },
+  "1885": {
+    "genes": [
+      "TMSB4X",
+      "ACTG1",
+      "UCP2",
+      "NOP10",
+      "ISG20",
+      "CD27",
+      "COTL1",
+      "H3F3A",
+      "MT-CO3",
+      "GZMK",
+      "MT-CO2",
+      "PSMA4",
+      "MMADHC",
+      "NDUFB9",
+      "RPS24"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 3.0,
+      "CD4 Regulatory": 48.0,
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 3.5,
+      "CD8 Naive": 1.0,
+      "NK": 7.5,
+      "NK CD56high": 12.0,
+      "T Proliferating": 22.5
+    },
+    "fold_enrichment": 16.53655433654785
+  },
+  "1495": {
+    "genes": [
+      "TYROBP",
+      "GNLY",
+      "NKG7",
+      "CTSW",
+      "FCER1G",
+      "KLRD1",
+      "KLRF1",
+      "TRDC",
+      "HOPX",
+      "CD63",
+      "CMC1",
+      "KLRB1",
+      "IL2RB",
+      "PLAC8",
+      "IFITM3"
+    ],
+    "celltype_composition": {
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Effector Memory 2": 6.0,
+      "NK": 32.0,
+      "NK CD56high": 58.0
+    },
+    "fold_enrichment": 51.13792419433594
+  },
+  "224": {
+    "genes": [
+      "NKG7",
+      "GNLY",
+      "CST7",
+      "TYROBP",
+      "FGFBP2",
+      "CTSW",
+      "GZMB",
+      "SPON2",
+      "KLRF1",
+      "PRF1",
+      "KLRB1",
+      "PTMA",
+      "GZMA",
+      "FCER1G",
+      "KLRD1"
+    ],
+    "celltype_composition": {
+      "CD4 Naive": 1.5,
+      "CD8 Effector Memory 1": 1.5,
+      "CD8 Effector Memory 2": 5.5,
+      "NK": 75.0,
+      "NK CD56high": 5.5,
+      "T Proliferating": 10.0
+    },
+    "fold_enrichment": 75.53421020507812
+  },
+  "1701": {
+    "genes": [
+      "NKG7",
+      "TYROBP",
+      "KLRB1",
+      "CTSW",
+      "CST7",
+      "FCER1G",
+      "KLRD1",
+      "CMC1",
+      "GZMA",
+      "KLRF1",
+      "TRDC",
+      "UBB",
+      "HOPX",
+      "PLAC8",
+      "PRF1"
+    ],
+    "celltype_composition": {
+      "CD4 Effector Memory": 2.5,
+      "CD4 Regulatory": 1.5,
+      "CD8 Central Memory": 2.5,
+      "CD8 Effector Memory 1": 3.5,
+      "CD8 Effector Memory 2": 7.0,
+      "NK": 34.0,
+      "NK CD56high": 42.0,
+      "T Proliferating": 6.0
+    },
+    "fold_enrichment": 51.02784729003906
+  },
+  "411": {
+    "genes": [
+      "GNLY",
+      "NKG7",
+      "TYROBP",
+      "GZMB",
+      "CST7",
+      "PRF1",
+      "CTSW",
+      "FCER1G",
+      "KLRF1",
+      "KLRD1",
+      "GZMA",
+      "HOPX",
+      "FGFBP2",
+      "SPON2",
+      "FCGR3A"
+    ],
+    "celltype_composition": {
+      "CD8 Effector Memory 2": 2.5,
+      "NK": 91.0,
+      "NK CD56high": 6.5
+    },
+    "fold_enrichment": 111.45380401611328
+  },
+  "816": {
+    "genes": [
+      "NKG7",
+      "GNLY",
+      "TYROBP",
+      "CTSW",
+      "CMC1",
+      "KLRF1",
+      "HOPX",
+      "CST7",
+      "FCER1G",
+      "KLRD1",
+      "CD63",
+      "PLAC8",
+      "KLRB1",
+      "RPS24",
+      "UBB"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 1.0,
+      "CD4 Effector Memory": 1.0,
+      "CD4 Naive": 5.0,
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Effector Memory 2": 7.5,
+      "CD8 Naive": 1.5,
+      "NK": 36.0,
+      "NK CD56high": 39.0,
+      "T Proliferating": 6.0
+    },
+    "fold_enrichment": 38.921146392822266
+  },
+  "1227": {
+    "genes": [
+      "TYROBP",
+      "KLRB1",
+      "NKG7",
+      "GNLY",
+      "CTSW",
+      "FCER1G",
+      "CMC1",
+      "HOPX",
+      "KLRF1",
+      "KLRD1",
+      "TRDC",
+      "XCL2",
+      "GZMA",
+      "IL2RB",
+      "CD63"
+    ],
+    "celltype_composition": {
+      "CD4 Effector Memory": 5.0,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Effector Memory 2": 4.0,
+      "NK": 23.5,
+      "NK CD56high": 65.0
+    },
+    "fold_enrichment": 58.0489616394043
+  },
+  "6": {
+    "genes": [
+      "NKG7",
+      "GNLY",
+      "CCL5",
+      "FGFBP2",
+      "CST7",
+      "HOPX",
+      "GZMH",
+      "GZMA",
+      "GZMB",
+      "TYROBP",
+      "CTSW",
+      "KLRD1",
+      "MT-CO3",
+      "CD63",
+      "MT-ND1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 1.0,
+      "CD4 Effector Memory": 1.5,
+      "CD4 Naive": 3.5,
+      "CD8 Effector Memory 1": 1.5,
+      "CD8 Effector Memory 2": 45.5,
+      "NK": 33.0,
+      "NK CD56high": 12.5
+    },
+    "fold_enrichment": 17.10407066345215
+  },
+  "51": {
+    "genes": [
+      "TMSB4X",
+      "GNLY",
+      "CTSW",
+      "PRF1",
+      "NKG7",
+      "KLRD1",
+      "GZMB",
+      "FCGR3A",
+      "CST7",
+      "GZMA",
+      "GZMH",
+      "SPON2",
+      "KLRF1",
+      "RAP1B",
+      "FLNA"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.0,
+      "CD4 Effector Memory": 1.5,
+      "CD4 Regulatory": 11.5,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 30.0,
+      "CD8 Naive": 1.0,
+      "NK": 43.0,
+      "NK CD56high": 2.0,
+      "T Proliferating": 5.5
+    },
+    "fold_enrichment": 11.934584617614746
+  },
+  "1840": {
+    "genes": [
+      "NKG7",
+      "GNLY",
+      "CST7",
+      "GZMB",
+      "TYROBP",
+      "CTSW",
+      "GZMA",
+      "CCL5",
+      "FGFBP2",
+      "PRF1",
+      "KLRD1",
+      "SPON2",
+      "FCER1G",
+      "KLRF1",
+      "UBB"
+    ],
+    "celltype_composition": {
+      "CD4 Naive": 1.0,
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 2": 19.5,
+      "CD8 Naive": 1.0,
+      "NK": 69.5,
+      "NK CD56high": 6.0
+    },
+    "fold_enrichment": 47.03044509887695
+  },
+  "1707": {
+    "genes": [
+      "NKG7",
+      "GNLY",
+      "GZMB",
+      "PRF1",
+      "CST7",
+      "FCER1G",
+      "TYROBP",
+      "CTSW",
+      "KLRF1",
+      "HOPX",
+      "FGFBP2",
+      "SPON2",
+      "KLRD1",
+      "CCL5",
+      "FCGR3A"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 1.0,
+      "CD4 Effector Memory": 1.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 9.0,
+      "NK": 74.5,
+      "NK CD56high": 10.0,
+      "T Proliferating": 3.0
+    },
+    "fold_enrichment": 24.437061309814453
+  },
+  "1253": {
+    "genes": [
+      "NKG7",
+      "TYROBP",
+      "CST7",
+      "GZMB",
+      "GNLY",
+      "CTSW",
+      "PRF1",
+      "KLRF1",
+      "FCER1G",
+      "GZMA",
+      "KLRD1",
+      "FGFBP2",
+      "KLRB1",
+      "SPON2",
+      "HOPX"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 1.5,
+      "CD8 Effector Memory 2": 3.0,
+      "NK": 82.0,
+      "NK CD56high": 12.5
+    },
+    "fold_enrichment": 138.3467254638672
+  },
+  "469": {
+    "genes": [
+      "NKG7",
+      "CCL5",
+      "GZMH",
+      "GNLY",
+      "FGFBP2",
+      "CST7",
+      "S100A4",
+      "GZMB",
+      "HOPX",
+      "PRF1",
+      "CTSW",
+      "CD63",
+      "LGALS1",
+      "IL32",
+      "GZMA"
+    ],
+    "celltype_composition": {
+      "CD4 Regulatory": 2.5,
+      "CD8 Effector Memory 2": 72.5,
+      "NK": 15.5,
+      "T Proliferating": 9.0
+    },
+    "fold_enrichment": 14.564169883728027
+  },
+  "1789": {
+    "genes": [
+      "TMSB4X",
+      "ACTG1",
+      "UCP2",
+      "NOP10",
+      "ISG20",
+      "DYNLL1",
+      "H3F3A",
+      "UBB",
+      "CD27",
+      "COTL1",
+      "CD74",
+      "IL32",
+      "TRAC",
+      "LAT",
+      "MT-CO2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 7.5,
+      "CD4 Effector Memory": 1.0,
+      "CD4 Naive": 3.5,
+      "CD4 Regulatory": 43.5,
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 1": 4.5,
+      "CD8 Effector Memory 2": 5.5,
+      "CD8 Naive": 1.5,
+      "NK": 13.5,
+      "NK CD56high": 3.5,
+      "T Proliferating": 15.0
+    },
+    "fold_enrichment": 47.75905990600586
+  },
+  "944": {
+    "genes": [
+      "GNLY",
+      "NKG7",
+      "TYROBP",
+      "CTSW",
+      "KLRD1",
+      "HOPX",
+      "KLRF1",
+      "FCER1G",
+      "GZMA",
+      "CMC1",
+      "CD63",
+      "CST7",
+      "TRDC",
+      "IL2RB",
+      "GZMB"
+    ],
+    "celltype_composition": {
+      "CD8 Effector Memory 2": 13.5,
+      "NK": 35.0,
+      "NK CD56high": 50.5
+    },
+    "fold_enrichment": 135.4229736328125
+  },
+  "1763": {
+    "genes": [
+      "CCL5",
+      "TMSB4X",
+      "NKG7",
+      "IL32",
+      "MT-CO2",
+      "CST7",
+      "UBB",
+      "CTSW",
+      "STMN1",
+      "HMGN2",
+      "H2AFV",
+      "H3F3A",
+      "PRF1",
+      "UCP2",
+      "CALM3"
+    ],
+    "celltype_composition": {
+      "CD4 Naive": 1.0,
+      "CD4 Regulatory": 6.5,
+      "CD8 Effector Memory 2": 16.0,
+      "NK": 25.0,
+      "NK CD56high": 4.0,
+      "T Proliferating": 46.5
+    },
+    "fold_enrichment": 24.67751121520996
+  },
+  "1470": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "TMSB4X",
+      "MT-ND1",
+      "H3F3A",
+      "HMGN2",
+      "NDUFB9",
+      "CALM3",
+      "H2AFV",
+      "IL32",
+      "ACTG1",
+      "PPIA",
+      "RPS24",
+      "DEK",
+      "COX5A"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 2.5,
+      "CD4 Effector Memory": 1.5,
+      "CD4 Naive": 3.5,
+      "CD4 Regulatory": 19.5,
+      "CD8 Central Memory": 1.5,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 5.0,
+      "NK": 5.5,
+      "NK CD56high": 3.0,
+      "T Proliferating": 56.5
+    },
+    "fold_enrichment": 21.774375915527344
+  },
+  "23": {
+    "genes": [
+      "TMSB4X",
+      "ACTG1",
+      "TRAC",
+      "NOP10",
+      "IL32",
+      "CALM3",
+      "ISG20",
+      "MT-CO2",
+      "NDUFB9",
+      "HMGN2",
+      "DYNLL1",
+      "H2AFV",
+      "COTL1",
+      "H3F3A",
+      "UCP2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 2.5,
+      "CD4 Naive": 1.5,
+      "CD4 Regulatory": 44.5,
+      "CD8 Effector Memory 2": 2.0,
+      "CD8 Naive": 1.0,
+      "T Proliferating": 48.0
+    },
+    "fold_enrichment": 30.954750061035156
+  },
+  "711": {
+    "genes": [
+      "MT-CO3",
+      "RPS24",
+      "MT-CO2",
+      "RPL37A",
+      "CTSW",
+      "RPLP0",
+      "RPS2",
+      "FTH1",
+      "MT-ND5",
+      "HNRNPA1",
+      "UBB",
+      "RPS23",
+      "H3F3A",
+      "GNLY",
+      "RPS17"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 7.0,
+      "CD4 Naive": 18.5,
+      "CD8 Central Memory": 9.5,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Effector Memory 2": 4.5,
+      "CD8 Naive": 9.5,
+      "NK": 18.5,
+      "NK CD56high": 26.5,
+      "T Proliferating": 3.5
+    },
+    "fold_enrichment": 24.3482608795166
+  },
+  "1603": {
+    "genes": [
+      "NKG7",
+      "GNLY",
+      "CCL5",
+      "FGFBP2",
+      "CST7",
+      "GZMB",
+      "TYROBP",
+      "CTSW",
+      "GZMH",
+      "PRF1",
+      "SPON2",
+      "GZMA",
+      "FCER1G",
+      "KLRD1",
+      "KLRF1"
+    ],
+    "celltype_composition": {
+      "CD8 Effector Memory 1": 2.5,
+      "CD8 Effector Memory 2": 20.5,
+      "NK": 70.5,
+      "NK CD56high": 5.5
+    },
+    "fold_enrichment": 117.96485900878906
+  },
+  "49": {
+    "genes": [
+      "MT-CO2",
+      "MT-CO3",
+      "NKG7",
+      "MT-ND5",
+      "MT-ND1",
+      "CST7",
+      "CCL5",
+      "CTSW",
+      "GNLY",
+      "TYROBP",
+      "HOPX",
+      "CMC1",
+      "KLRD1",
+      "GZMB",
+      "DONSON"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.5,
+      "CD4 Effector Memory": 4.5,
+      "CD4 Naive": 9.0,
+      "CD4 Regulatory": 3.0,
+      "CD8 Central Memory": 5.5,
+      "CD8 Effector Memory 1": 6.5,
+      "CD8 Effector Memory 2": 20.0,
+      "CD8 Naive": 4.0,
+      "NK": 25.5,
+      "NK CD56high": 10.0,
+      "T Proliferating": 7.5
+    },
+    "fold_enrichment": 52.08347702026367
+  },
+  "360": {
+    "genes": [
+      "RPS26",
+      "RPLP0",
+      "RPS23",
+      "RPS17",
+      "RPS2",
+      "RPL7A",
+      "RPL4",
+      "EEF1B2",
+      "RPL37A",
+      "RPS24",
+      "LTB",
+      "FTH1",
+      "LDHB",
+      "HNRNPA1",
+      "TIMP1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 25.0,
+      "CD4 Effector Memory": 23.5,
+      "CD4 Naive": 26.5,
+      "CD4 Regulatory": 5.0,
+      "CD8 Naive": 16.5,
+      "T Proliferating": 3.0
+    },
+    "fold_enrichment": 8.557656288146973
+  },
+  "1130": {
+    "genes": [
+      "RPS2",
+      "RPL4",
+      "RPS23",
+      "EEF1B2",
+      "RPS17",
+      "RPL7A",
+      "RPS24",
+      "RPLP0",
+      "RPL37A",
+      "RPS26",
+      "LDHB",
+      "GYPC",
+      "HNRNPA1",
+      "FTH1",
+      "LTB"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 15.0,
+      "CD4 Effector Memory": 11.5,
+      "CD4 Naive": 41.5,
+      "CD4 Regulatory": 12.5,
+      "CD8 Naive": 12.5,
+      "T Proliferating": 6.5
+    },
+    "fold_enrichment": 9.361678123474121
+  },
+  "32": {
+    "genes": [
+      "NKG7",
+      "CCL5",
+      "CST7",
+      "GZMH",
+      "CTSW",
+      "FGFBP2",
+      "LYAR",
+      "HLA-DPB1",
+      "CMC1",
+      "GZMA",
+      "TUBA4A",
+      "C12orf75",
+      "CD8A",
+      "HLA-DPA1",
+      "PRF1"
+    ],
+    "celltype_composition": {
+      "CD8 Effector Memory 1": 18.5,
+      "CD8 Effector Memory 2": 58.5,
+      "NK": 10.0,
+      "T Proliferating": 12.5
+    },
+    "fold_enrichment": 23.128299713134766
+  },
+  "1914": {
+    "genes": [
+      "TMSB4X",
+      "MT-CO2",
+      "RPS24",
+      "MT-CO3",
+      "RPS26",
+      "H3F3A",
+      "HNRNPA1",
+      "IL32",
+      "H2AFV",
+      "RPS2",
+      "HMGN2",
+      "UQCRQ",
+      "MT-ND1",
+      "CALM3",
+      "S100A4"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 1.0,
+      "CD4 Regulatory": 12.5,
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 1": 1.5,
+      "CD8 Effector Memory 2": 17.5,
+      "NK": 13.0,
+      "NK CD56high": 3.5,
+      "T Proliferating": 49.5
+    },
+    "fold_enrichment": 29.420427322387695
+  },
+  "1021": {
+    "genes": [
+      "NKG7",
+      "TYROBP",
+      "FCER1G",
+      "KLRB1",
+      "KLRF1",
+      "GNLY",
+      "GZMA",
+      "CTSW",
+      "HOPX",
+      "GZMB",
+      "CLIC3",
+      "KLRD1",
+      "CST7",
+      "IL2RB",
+      "FGFBP2"
+    ],
+    "celltype_composition": {
+      "CD8 Effector Memory 2": 1.0,
+      "NK": 69.5,
+      "NK CD56high": 29.0
+    },
+    "fold_enrichment": 226.61492919921875
+  },
+  "1455": {
+    "genes": [
+      "CCL4",
+      "NKG7",
+      "CST7",
+      "CCL5",
+      "CTSW",
+      "KLRD1",
+      "TYROBP",
+      "CCL4L2",
+      "PRF1",
+      "CMC1",
+      "GNLY",
+      "FCER1G",
+      "KLRF1",
+      "HOPX",
+      "ZFP36L1"
+    ],
+    "celltype_composition": {
+      "CD4 Naive": 1.5,
+      "CD8 Central Memory": 2.5,
+      "CD8 Effector Memory 1": 20.5,
+      "CD8 Effector Memory 2": 16.0,
+      "NK": 44.0,
+      "NK CD56high": 6.5,
+      "T Proliferating": 8.0
+    },
+    "fold_enrichment": 76.31472778320312
+  },
+  "453": {
+    "genes": [
+      "RPS17",
+      "RPL4",
+      "RPS2",
+      "RPL7A",
+      "RPL37A",
+      "RPS23",
+      "MT-CO3",
+      "RPS4Y1",
+      "EEF1B2",
+      "RPS26",
+      "RPLP0",
+      "MT-ND1",
+      "LTB",
+      "NPM1",
+      "LDHB"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 29.5,
+      "CD4 Effector Memory": 14.5,
+      "CD4 Naive": 52.5,
+      "CD8 Naive": 3.0
+    },
+    "fold_enrichment": 9.570197105407715
+  },
+  "400": {
+    "genes": [
+      "RPS17",
+      "RPL4",
+      "RPLP0",
+      "EEF1B2",
+      "RPL37A",
+      "RPL7A",
+      "RPS23",
+      "RPS26",
+      "RPS4Y1",
+      "HNRNPA1",
+      "SSR4",
+      "TRAC",
+      "RPS2",
+      "RPS24",
+      "TMSB4X"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 21.5,
+      "CD4 Effector Memory": 23.5,
+      "CD4 Naive": 23.5,
+      "CD4 Regulatory": 6.5,
+      "CD8 Central Memory": 4.0,
+      "CD8 Effector Memory 1": 2.5,
+      "CD8 Effector Memory 2": 1.0,
+      "CD8 Naive": 11.5,
+      "T Proliferating": 5.0
+    },
+    "fold_enrichment": 10.83777141571045
+  },
+  "1024": {
+    "genes": [
+      "NKG7",
+      "PRF1",
+      "CST7",
+      "FGFBP2",
+      "GNLY",
+      "GZMB",
+      "CTSW",
+      "CCL5",
+      "GZMA",
+      "SPON2",
+      "CALR",
+      "UBB",
+      "TYROBP",
+      "FCGR3A",
+      "KLRD1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 1.0,
+      "CD4 Effector Memory": 1.5,
+      "CD4 Naive": 5.5,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 13.5,
+      "CD8 Naive": 1.0,
+      "NK": 51.5,
+      "NK CD56high": 1.5,
+      "T Proliferating": 22.5
+    },
+    "fold_enrichment": 78.11664581298828
+  },
+  "1193": {
+    "genes": [
+      "NKG7",
+      "GNLY",
+      "TYROBP",
+      "CTSW",
+      "HOPX",
+      "CMC1",
+      "KLRD1",
+      "CST7",
+      "GZMA",
+      "CCL5",
+      "CD63",
+      "TRDC",
+      "KLRF1",
+      "FCER1G",
+      "GZMB"
+    ],
+    "celltype_composition": {
+      "CD4 Effector Memory": 1.5,
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 1": 1.5,
+      "CD8 Effector Memory 2": 36.0,
+      "NK": 19.0,
+      "NK CD56high": 41.0
+    },
+    "fold_enrichment": 71.39896392822266
+  },
+  "3": {
+    "genes": [
+      "NKG7",
+      "CST7",
+      "KLRB1",
+      "GNLY",
+      "PRF1",
+      "FGFBP2",
+      "TYROBP",
+      "UBB",
+      "GZMB",
+      "KLRD1",
+      "GZMA",
+      "CTSW",
+      "FCER1G",
+      "SPON2",
+      "CCL5"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 2.5,
+      "CD4 Effector Memory": 2.5,
+      "CD4 Regulatory": 3.0,
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 19.5,
+      "NK": 61.5,
+      "NK CD56high": 5.5,
+      "T Proliferating": 2.5
+    },
+    "fold_enrichment": 150.7018585205078
+  },
+  "41": {
+    "genes": [
+      "RPS23",
+      "EEF1B2",
+      "RPS26",
+      "RPS17",
+      "HBA2",
+      "HBB",
+      "HBA1",
+      "RPL37A",
+      "PTMA",
+      "NPM1",
+      "RPL7A",
+      "RPL4",
+      "JUN",
+      "RPLP0",
+      "HBD"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 8.0,
+      "CD4 Effector Memory": 7.0,
+      "CD4 Naive": 76.5,
+      "CD8 Naive": 8.5
+    },
+    "fold_enrichment": 7.890666961669922
+  },
+  "1": {
+    "genes": [
+      "RPL4",
+      "RPS23",
+      "RPS24",
+      "EEF1B2",
+      "RPS2",
+      "RPL7A",
+      "RPL37A",
+      "LDHB",
+      "RPLP0",
+      "LTB",
+      "ATP5MF",
+      "TRAC",
+      "LEF1",
+      "CD27",
+      "RPS17"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 8.5,
+      "CD4 Effector Memory": 1.5,
+      "CD4 Naive": 60.5,
+      "CD4 Regulatory": 2.0,
+      "CD8 Central Memory": 3.5,
+      "CD8 Naive": 23.5
+    },
+    "fold_enrichment": 12.305278778076172
+  },
+  "1842": {
+    "genes": [
+      "RPS26",
+      "RPS17",
+      "RPS23",
+      "RPL37A",
+      "RPL7A",
+      "HBA2",
+      "HBB",
+      "RPLP0",
+      "HBA1",
+      "RPL4",
+      "EEF1B2",
+      "RPS2",
+      "HNRNPA1",
+      "HBD",
+      "RPS24"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 27.0,
+      "CD4 Effector Memory": 22.0,
+      "CD4 Naive": 36.5,
+      "CD4 Regulatory": 2.0,
+      "CD8 Central Memory": 1.0,
+      "CD8 Naive": 10.0,
+      "T Proliferating": 1.5
+    },
+    "fold_enrichment": 13.791085243225098
+  },
+  "1525": {
+    "genes": [
+      "RPS2",
+      "RPS17",
+      "RPL7A",
+      "RPL37A",
+      "RPLP0",
+      "RPS23",
+      "RPL4",
+      "EEF1B2",
+      "RPS24",
+      "MT-CO3",
+      "MT-ND1",
+      "HNRNPA1",
+      "MT-CO2",
+      "RPS26",
+      "LDHB"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 18.0,
+      "CD4 Effector Memory": 31.0,
+      "CD4 Naive": 29.5,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 4.0,
+      "CD8 Naive": 14.5,
+      "NK CD56high": 2.0
+    },
+    "fold_enrichment": 12.5711669921875
+  },
+  "832": {
+    "genes": [
+      "FTH1",
+      "RPS2",
+      "PTMA",
+      "RPS4Y1",
+      "DDX21",
+      "RPL4",
+      "YBX1",
+      "RPLP0",
+      "PDCD4",
+      "ODC1",
+      "RPL37A",
+      "HNRNPA1",
+      "RPS17",
+      "SFPQ",
+      "NPM1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 36.5,
+      "CD4 Effector Memory": 7.0,
+      "CD4 Naive": 35.0,
+      "CD4 Regulatory": 1.5,
+      "CD8 Central Memory": 13.0,
+      "CD8 Effector Memory 2": 2.5,
+      "CD8 Naive": 3.0
+    },
+    "fold_enrichment": 18.33114242553711
+  },
+  "2022": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "MT-ND1",
+      "MT-ND5",
+      "NKG7",
+      "GNLY",
+      "CST7",
+      "TYROBP",
+      "DONSON",
+      "CTSW",
+      "HOPX",
+      "AC245014.3",
+      "CMC1",
+      "KLRF1",
+      "H1FX"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 3.0,
+      "CD4 Effector Memory": 5.0,
+      "CD4 Naive": 17.0,
+      "CD4 Regulatory": 1.5,
+      "CD8 Central Memory": 7.0,
+      "CD8 Effector Memory 1": 5.0,
+      "CD8 Effector Memory 2": 18.0,
+      "CD8 Naive": 9.0,
+      "NK": 19.5,
+      "NK CD56high": 12.0,
+      "T Proliferating": 3.0
+    },
+    "fold_enrichment": 60.364112854003906
+  },
+  "1552": {
+    "genes": [
+      "RPS23",
+      "RPL4",
+      "RPS17",
+      "RPL37A",
+      "EEF1B2",
+      "RPL7A",
+      "RPS24",
+      "RPLP0",
+      "RPS2",
+      "RPS4Y1",
+      "LTB",
+      "MT-CO3",
+      "HNRNPA1",
+      "RPS26",
+      "LDHB"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 8.0,
+      "CD4 Effector Memory": 6.0,
+      "CD4 Naive": 54.5,
+      "CD8 Central Memory": 4.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 3.5,
+      "CD8 Naive": 15.0,
+      "NK": 1.0,
+      "T Proliferating": 6.5
+    },
+    "fold_enrichment": 13.2015380859375
+  },
+  "1252": {
+    "genes": [
+      "RPL37A",
+      "RPS17",
+      "HBA2",
+      "HBB",
+      "HBA1",
+      "RPS26",
+      "RPS2",
+      "RPS23",
+      "RPL7A",
+      "RPLP0",
+      "HBD",
+      "RPL4",
+      "AHSP",
+      "S100A4",
+      "PRDX2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 23.5,
+      "CD4 Effector Memory": 42.0,
+      "CD4 Naive": 5.0,
+      "CD4 Regulatory": 12.5,
+      "CD8 Central Memory": 3.0,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Effector Memory 2": 4.5,
+      "CD8 Naive": 4.5,
+      "NK": 1.0,
+      "T Proliferating": 2.0
+    },
+    "fold_enrichment": 14.635382652282715
+  },
+  "1239": {
+    "genes": [
+      "GNLY",
+      "NKG7",
+      "TYROBP",
+      "CTSW",
+      "FCER1G",
+      "KLRF1",
+      "CST7",
+      "HOPX",
+      "GZMB",
+      "PRF1",
+      "KLRD1",
+      "GZMA",
+      "FGFBP2",
+      "TRDC",
+      "CCL5"
+    ],
+    "celltype_composition": {
+      "CD8 Effector Memory 2": 5.0,
+      "NK": 74.0,
+      "NK CD56high": 20.0
+    },
+    "fold_enrichment": 279.5323486328125
+  },
+  "1008": {
+    "genes": [
+      "RPS2",
+      "RPS17",
+      "RPL37A",
+      "RPS23",
+      "RPL7A",
+      "RPL4",
+      "RPLP0",
+      "EEF1B2",
+      "HNRNPA1",
+      "LDHB",
+      "NPM1",
+      "LTB",
+      "HSPA8",
+      "YBX1",
+      "RPS24"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 23.5,
+      "CD4 Effector Memory": 38.0,
+      "CD4 Naive": 30.5,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 1.5,
+      "CD8 Naive": 2.5,
+      "NK CD56high": 1.5,
+      "T Proliferating": 1.0
+    },
+    "fold_enrichment": 11.332070350646973
+  },
+  "249": {
+    "genes": [
+      "TMSB4X",
+      "TRAC",
+      "ACTG1",
+      "NDUFB9",
+      "IL32",
+      "COTL1",
+      "RPS24",
+      "UCP2",
+      "CALM3",
+      "ISG20",
+      "HSPA8",
+      "LDHB",
+      "S100A4",
+      "H3F3A",
+      "SAT1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 9.5,
+      "CD4 Effector Memory": 1.0,
+      "CD4 Regulatory": 62.0,
+      "T Proliferating": 26.5
+    },
+    "fold_enrichment": 17.3743896484375
+  },
+  "1199": {
+    "genes": [
+      "NKG7",
+      "GZMH",
+      "S100A4",
+      "FGFBP2",
+      "CST7",
+      "CCL5",
+      "GNLY",
+      "MT-CO2",
+      "KLRD1",
+      "GZMB",
+      "CTSW",
+      "CD8A",
+      "GZMA",
+      "PRF1",
+      "C12orf75"
+    ],
+    "celltype_composition": {
+      "CD8 Effector Memory 2": 76.0,
+      "NK": 15.0,
+      "T Proliferating": 6.5
+    },
+    "fold_enrichment": 12.559611320495605
+  },
+  "577": {
+    "genes": [
+      "NKG7",
+      "TYROBP",
+      "FCER1G",
+      "PRF1",
+      "GNLY",
+      "GZMA",
+      "KLRD1",
+      "CST7",
+      "GZMB",
+      "KLRF1",
+      "SPON2",
+      "CTSW",
+      "FGFBP2",
+      "FCGR3A",
+      "UBB"
+    ],
+    "celltype_composition": {
+      "CD4 Effector Memory": 1.0,
+      "CD4 Naive": 5.0,
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 2.0,
+      "NK": 82.0,
+      "NK CD56high": 6.0
+    },
+    "fold_enrichment": 129.54190063476562
+  },
+  "1224": {
+    "genes": [
+      "RPS2",
+      "RPS26",
+      "RPS23",
+      "EEF1B2",
+      "MT-ND1",
+      "MT-CO3",
+      "RPS17",
+      "RPL4",
+      "MT-CO2",
+      "HBA2",
+      "HBB",
+      "RPLP0",
+      "HBA1",
+      "RPL7A",
+      "CD8B"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.5,
+      "CD4 Effector Memory": 9.5,
+      "CD4 Naive": 37.0,
+      "CD8 Central Memory": 2.0,
+      "CD8 Naive": 46.5
+    },
+    "fold_enrichment": 13.60879898071289
+  },
+  "725": {
+    "genes": [
+      "RPS23",
+      "RPS26",
+      "RPS2",
+      "EEF1B2",
+      "RPL7A",
+      "NPM1",
+      "RPS17",
+      "RPL37A",
+      "RPL4",
+      "RPS24",
+      "RPLP0",
+      "HNRNPA1",
+      "HBD",
+      "MT-CO2",
+      "IGKC"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.5,
+      "CD4 Effector Memory": 3.5,
+      "CD4 Naive": 64.5,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 1.5,
+      "CD8 Naive": 25.0
+    },
+    "fold_enrichment": 18.991178512573242
+  },
+  "1365": {
+    "genes": [
+      "RPS23",
+      "RPL37A",
+      "RPS17",
+      "EEF1B2",
+      "RPL7A",
+      "MT-ND1",
+      "RPS24",
+      "RPL4",
+      "MT-CO3",
+      "RPLP0",
+      "NPM1",
+      "RPS4Y1",
+      "HBB",
+      "HNRNPA1",
+      "ATP5G3"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.5,
+      "CD4 Effector Memory": 5.0,
+      "CD4 Naive": 50.5,
+      "CD8 Naive": 39.5
+    },
+    "fold_enrichment": 15.446173667907715
+  },
+  "115": {
+    "genes": [
+      "LTB",
+      "S100A4",
+      "RPLP0",
+      "RPL7A",
+      "RPS23",
+      "RPS2",
+      "RPS17",
+      "RPL37A",
+      "RPL4",
+      "S100A6",
+      "IL32",
+      "HNRNPA1",
+      "EEF1B2",
+      "YBX1",
+      "TMSB4X"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 13.5,
+      "CD4 Effector Memory": 74.5,
+      "CD4 Naive": 5.5,
+      "CD4 Regulatory": 3.0,
+      "CD8 Effector Memory 2": 2.0,
+      "T Proliferating": 1.0
+    },
+    "fold_enrichment": 20.605913162231445
+  },
+  "1790": {
+    "genes": [
+      "RPS23",
+      "PTMA",
+      "RPS2",
+      "RPS24",
+      "JUN",
+      "RPL37A",
+      "EEF1B2",
+      "NPM1",
+      "RPL4",
+      "RPL7A",
+      "RPS4Y1",
+      "DONSON",
+      "RPS17",
+      "EGR1",
+      "CD69"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 1.5,
+      "CD4 Effector Memory": 1.0,
+      "CD4 Naive": 50.5,
+      "CD8 Naive": 45.0
+    },
+    "fold_enrichment": 19.781801223754883
+  },
+  "1956": {
+    "genes": [
+      "FTH1",
+      "RPS2",
+      "RPS4Y1",
+      "RPS23",
+      "RPLP0",
+      "RPL37A",
+      "PTMA",
+      "HNRNPA1",
+      "RPL4",
+      "RPS17",
+      "YBX1",
+      "EEF1B2",
+      "NPM1",
+      "PDCD4",
+      "RPL7A"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 26.0,
+      "CD4 Effector Memory": 8.0,
+      "CD4 Naive": 42.0,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 7.5,
+      "CD8 Effector Memory 2": 2.5,
+      "CD8 Naive": 12.5
+    },
+    "fold_enrichment": 20.694658279418945
+  },
+  "1592": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "MT-ND1",
+      "RPS23",
+      "RPS24",
+      "JUN",
+      "MT-ND5",
+      "RPS17",
+      "DONSON",
+      "RPS2",
+      "RPL4",
+      "RPL37A",
+      "EEF1B2",
+      "FTH1",
+      "ZFP36"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 15.5,
+      "CD4 Effector Memory": 17.5,
+      "CD4 Naive": 18.0,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 14.0,
+      "CD8 Effector Memory 1": 5.0,
+      "CD8 Effector Memory 2": 8.0,
+      "CD8 Naive": 15.0,
+      "NK CD56high": 2.0,
+      "T Proliferating": 4.0
+    },
+    "fold_enrichment": 15.466809272766113
+  },
+  "0": {
+    "genes": [
+      "RPS2",
+      "RPS23",
+      "RPL4",
+      "RPL7A",
+      "EEF1B2",
+      "RPL37A",
+      "RPS17",
+      "RPLP0",
+      "RPS24",
+      "NPM1",
+      "HNRNPA1",
+      "LDHB",
+      "PPA1",
+      "AIF1",
+      "RPS26"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.5,
+      "CD4 Effector Memory": 10.5,
+      "CD4 Naive": 57.0,
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Naive": 24.0
+    },
+    "fold_enrichment": 14.573811531066895
+  },
+  "16": {
+    "genes": [
+      "S100A4",
+      "S100A6",
+      "IL32",
+      "LMNA",
+      "RPS26",
+      "LGALS1",
+      "LGALS3",
+      "FTH1",
+      "COTL1",
+      "S100A11",
+      "TRAC",
+      "TAGLN2",
+      "TXN",
+      "LAT",
+      "NDUFB9"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 32.0,
+      "CD4 Effector Memory": 27.5,
+      "CD4 Regulatory": 19.0,
+      "CD8 Effector Memory 2": 2.0,
+      "T Proliferating": 19.0
+    },
+    "fold_enrichment": 18.74512481689453
+  },
+  "1205": {
+    "genes": [
+      "HBB",
+      "HBA2",
+      "RPS26",
+      "HBA1",
+      "RPS23",
+      "RPS24",
+      "MT-CO2",
+      "RPS17",
+      "MT-CO3",
+      "RPL7A",
+      "RPL37A",
+      "EEF1B2",
+      "HBD",
+      "NPM1",
+      "RPL4"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 3.5,
+      "CD4 Effector Memory": 1.5,
+      "CD4 Naive": 39.0,
+      "CD8 Central Memory": 2.0,
+      "CD8 Naive": 53.5
+    },
+    "fold_enrichment": 18.31490135192871
+  },
+  "106": {
+    "genes": [
+      "RPS23",
+      "RPL37A",
+      "RPS24",
+      "RPS17",
+      "RPL7A",
+      "RPL4",
+      "RPS2",
+      "EEF1B2",
+      "RPLP0",
+      "NPM1",
+      "MT-CO3",
+      "DONSON",
+      "MT-CO2",
+      "HNRNPA1",
+      "PTMA"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.5,
+      "CD4 Effector Memory": 8.5,
+      "CD4 Naive": 37.0,
+      "CD8 Central Memory": 1.5,
+      "CD8 Effector Memory 2": 1.5,
+      "CD8 Naive": 44.0,
+      "NK CD56high": 2.5
+    },
+    "fold_enrichment": 12.914756774902344
+  },
+  "1804": {
+    "genes": [
+      "RPS23",
+      "RPS17",
+      "RPS24",
+      "RPS2",
+      "RPL4",
+      "RPL37A",
+      "EEF1B2",
+      "RPL7A",
+      "RPS26",
+      "RPLP0",
+      "NPM1",
+      "HNRNPA1",
+      "MT-CO3",
+      "LDHB",
+      "MT-CO2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 6.5,
+      "CD4 Effector Memory": 1.0,
+      "CD4 Naive": 58.0,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 6.5,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 1.0,
+      "CD8 Naive": 23.5,
+      "NK CD56high": 1.5
+    },
+    "fold_enrichment": 19.90665054321289
+  },
+  "289": {
+    "genes": [
+      "S100A4",
+      "IL32",
+      "S100A6",
+      "RPLP0",
+      "S100A11",
+      "RPS17",
+      "LGALS1",
+      "TRAC",
+      "RPL4",
+      "TAGLN2",
+      "TMSB4X",
+      "SSR4",
+      "RPL37A",
+      "LTB",
+      "RPS2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 15.0,
+      "CD4 Effector Memory": 43.5,
+      "CD4 Regulatory": 25.0,
+      "T Proliferating": 15.0
+    },
+    "fold_enrichment": 13.717366218566895
+  },
+  "53": {
+    "genes": [
+      "RPS2",
+      "FTH1",
+      "PTMA",
+      "RPS4Y1",
+      "RPL4",
+      "NPM1",
+      "SOCS3",
+      "EEF1B2",
+      "RPS23",
+      "RPL7A",
+      "RPLP0",
+      "RPS17",
+      "RPL37A",
+      "DDX21",
+      "HNRNPA1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 26.0,
+      "CD4 Effector Memory": 14.0,
+      "CD4 Naive": 54.5,
+      "CD8 Naive": 4.0
+    },
+    "fold_enrichment": 14.637654304504395
+  },
+  "778": {
+    "genes": [
+      "KLRB1",
+      "IL32",
+      "TMSB4X",
+      "TRAC",
+      "TRBC1",
+      "LTB",
+      "ISG20",
+      "S100A4",
+      "UCP2",
+      "NOP10",
+      "COTL1",
+      "CD27",
+      "CYTOR",
+      "ACTG1",
+      "MIR4435-2HG"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 19.5,
+      "CD4 Effector Memory": 15.5,
+      "CD4 Naive": 2.0,
+      "CD4 Regulatory": 34.5,
+      "CD8 Central Memory": 3.5,
+      "CD8 Effector Memory 1": 4.5,
+      "CD8 Effector Memory 2": 6.5,
+      "NK": 2.5,
+      "NK CD56high": 1.5,
+      "T Proliferating": 10.0
+    },
+    "fold_enrichment": 13.370989799499512
+  },
+  "13": {
+    "genes": [
+      "TMSB4X",
+      "IL32",
+      "HMGN2",
+      "H2AFV",
+      "PTMA",
+      "DEK",
+      "STMN1",
+      "CALM3",
+      "IDH2",
+      "H3F3A",
+      "HNRNPA3",
+      "SNRPB",
+      "UQCRQ",
+      "HMGN1",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 1.0,
+      "CD4 Effector Memory": 1.0,
+      "CD4 Regulatory": 12.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 4.0,
+      "NK": 2.0,
+      "T Proliferating": 78.5
+    },
+    "fold_enrichment": 13.849726676940918
+  },
+  "287": {
+    "genes": [
+      "RPS2",
+      "RPLP0",
+      "RPL4",
+      "HBD",
+      "RPS23",
+      "PRDX2",
+      "HBM",
+      "LTB",
+      "EEF1B2",
+      "IGKC",
+      "AHSP",
+      "TMSB4X",
+      "LDHB",
+      "RPL37A",
+      "IGHA1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 15.5,
+      "CD4 Effector Memory": 23.0,
+      "CD4 Naive": 29.5,
+      "CD4 Regulatory": 10.0,
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Naive": 13.0,
+      "T Proliferating": 5.0
+    },
+    "fold_enrichment": 19.048364639282227
+  },
+  "918": {
+    "genes": [
+      "RPL37A",
+      "RPS23",
+      "FTH1",
+      "RPS2",
+      "PTMA",
+      "RPL7A",
+      "RPLP0",
+      "RPS24",
+      "RPL4",
+      "RPS17",
+      "ZFP36",
+      "NPM1",
+      "JUN",
+      "RPS4Y1",
+      "HNRNPA1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 37.0,
+      "CD4 Effector Memory": 24.5,
+      "CD4 Naive": 20.0,
+      "CD4 Regulatory": 9.0,
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 1.0,
+      "CD8 Naive": 4.5,
+      "T Proliferating": 1.0
+    },
+    "fold_enrichment": 25.36979103088379
+  },
+  "1915": {
+    "genes": [
+      "RPL7A",
+      "RPL4",
+      "RPS2",
+      "RPS24",
+      "MT-CO3",
+      "RPS23",
+      "RPL37A",
+      "MT-ND1",
+      "RPS17",
+      "EEF1B2",
+      "RPS26",
+      "MT-CO2",
+      "DONSON",
+      "NPM1",
+      "HNRNPA1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 11.5,
+      "CD4 Effector Memory": 3.5,
+      "CD4 Naive": 53.5,
+      "CD8 Central Memory": 6.0,
+      "CD8 Effector Memory 2": 6.0,
+      "CD8 Naive": 13.5,
+      "NK": 3.5,
+      "NK CD56high": 1.0
+    },
+    "fold_enrichment": 9.762104034423828
+  },
+  "1693": {
+    "genes": [
+      "KLRB1",
+      "RPS17",
+      "RPLP0",
+      "RPS2",
+      "RPS24",
+      "MT-CO3",
+      "RPS23",
+      "EEF1B2",
+      "RPL4",
+      "RPL7A",
+      "RPL37A",
+      "MT-ND1",
+      "LTB",
+      "HNRNPA1",
+      "MT-CO2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 12.5,
+      "CD4 Effector Memory": 55.0,
+      "CD4 Naive": 6.0,
+      "CD4 Regulatory": 1.5,
+      "CD8 Central Memory": 6.0,
+      "CD8 Effector Memory 1": 1.5,
+      "CD8 Effector Memory 2": 2.0,
+      "NK": 3.0,
+      "NK CD56high": 12.0
+    },
+    "fold_enrichment": 17.025131225585938
+  },
+  "1556": {
+    "genes": [
+      "RPS26",
+      "RPS23",
+      "HBA2",
+      "HBB",
+      "HBA1",
+      "RPL37A",
+      "RPS17",
+      "RPL4",
+      "RPS2",
+      "EEF1B2",
+      "RPL7A",
+      "RPLP0",
+      "RPS24",
+      "HBD",
+      "HNRNPA1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 18.0,
+      "CD4 Effector Memory": 13.0,
+      "CD4 Naive": 41.0,
+      "CD4 Regulatory": 3.0,
+      "CD8 Central Memory": 6.5,
+      "CD8 Effector Memory 2": 2.0,
+      "CD8 Naive": 12.5,
+      "NK": 1.5,
+      "T Proliferating": 1.5
+    },
+    "fold_enrichment": 24.704240798950195
+  },
+  "1290": {
+    "genes": [
+      "GZMK",
+      "JUN",
+      "RGS1",
+      "DUSP2",
+      "HSPA5",
+      "GADD45B",
+      "CCL5",
+      "ZFP36",
+      "DDX3Y",
+      "HIST1H1C",
+      "PMAIP1",
+      "RNU12",
+      "CMC1",
+      "TUBA4A",
+      "DNAJA1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 6.5,
+      "CD4 Effector Memory": 3.0,
+      "CD4 Naive": 23.5,
+      "CD8 Central Memory": 10.5,
+      "CD8 Effector Memory 1": 26.5,
+      "CD8 Effector Memory 2": 10.5,
+      "CD8 Naive": 6.5,
+      "NK": 6.0,
+      "NK CD56high": 6.5
+    },
+    "fold_enrichment": 4.732383728027344
+  },
+  "1194": {
+    "genes": [
+      "MT-CO3",
+      "MT-CO2",
+      "RPS24",
+      "MT-ND1",
+      "RPL37A",
+      "RPL4",
+      "HNRNPA1",
+      "RPLP0",
+      "RPL7A",
+      "H3F3A",
+      "RPS23",
+      "RPS17",
+      "RPS2",
+      "MT-ND5",
+      "NDUFB9"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.5,
+      "CD4 Effector Memory": 3.0,
+      "CD4 Naive": 10.5,
+      "CD4 Regulatory": 13.0,
+      "CD8 Central Memory": 4.5,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 5.0,
+      "CD8 Naive": 5.0,
+      "NK": 4.0,
+      "NK CD56high": 17.5,
+      "T Proliferating": 32.0
+    },
+    "fold_enrichment": 27.543336868286133
+  },
+  "821": {
+    "genes": [
+      "TMSB4X",
+      "NKG7",
+      "IL32",
+      "CST7",
+      "GZMA",
+      "UBB",
+      "ACTG1",
+      "CCL5",
+      "HNRNPA2B1",
+      "PRF1",
+      "S100A4",
+      "PSMA4",
+      "CTSW",
+      "C12orf75",
+      "CALR"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.0,
+      "CD4 Effector Memory": 2.5,
+      "CD4 Naive": 5.5,
+      "CD4 Regulatory": 11.5,
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 1": 3.0,
+      "CD8 Effector Memory 2": 20.0,
+      "CD8 Naive": 1.0,
+      "NK": 22.5,
+      "NK CD56high": 1.5,
+      "T Proliferating": 27.5
+    },
+    "fold_enrichment": 60.461360931396484
+  },
+  "953": {
+    "genes": [
+      "HBA2",
+      "RPS23",
+      "HBB",
+      "RPS26",
+      "HBA1",
+      "RPS17",
+      "RPS2",
+      "RPL37A",
+      "RPL7A",
+      "EEF1B2",
+      "RPLP0",
+      "HBD",
+      "RPL4",
+      "RPS24",
+      "AHSP"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 10.0,
+      "CD4 Effector Memory": 13.0,
+      "CD4 Naive": 52.0,
+      "CD4 Regulatory": 1.0,
+      "CD8 Naive": 22.0,
+      "NK CD56high": 1.0
+    },
+    "fold_enrichment": 20.455810546875
+  },
+  "2000": {
+    "genes": [
+      "MT-CO2",
+      "MT-CO3",
+      "TMSB4X",
+      "MT-ND1",
+      "H3F3A",
+      "NOP10",
+      "RPS24",
+      "IL32",
+      "CALM3",
+      "NDUFB9",
+      "ACTG1",
+      "MT-ND5",
+      "HNRNPA1",
+      "RBX1",
+      "UCP2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 3.5,
+      "CD4 Effector Memory": 3.0,
+      "CD4 Naive": 9.5,
+      "CD4 Regulatory": 27.0,
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 8.0,
+      "CD8 Naive": 3.5,
+      "NK": 4.0,
+      "NK CD56high": 2.0,
+      "T Proliferating": 37.5
+    },
+    "fold_enrichment": 17.02801513671875
+  },
+  "1733": {
+    "genes": [
+      "TMSB4X",
+      "MT-CO2",
+      "HMGN2",
+      "H2AFV",
+      "DEK",
+      "PTMA",
+      "LDHB",
+      "STMN1",
+      "CALM3",
+      "ANP32B",
+      "TRAC",
+      "HMGB2",
+      "UQCRQ",
+      "MRPL51",
+      "H3F3A"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.0,
+      "CD4 Effector Memory": 3.0,
+      "CD4 Naive": 28.5,
+      "CD4 Regulatory": 7.5,
+      "CD8 Effector Memory 2": 1.5,
+      "CD8 Naive": 7.0,
+      "T Proliferating": 46.5
+    },
+    "fold_enrichment": 16.541994094848633
+  },
+  "1940": {
+    "genes": [
+      "HBA2",
+      "HBB",
+      "HBA1",
+      "RPS23",
+      "RPS17",
+      "RPS26",
+      "HBD",
+      "RPL37A",
+      "RPL4",
+      "EEF1B2",
+      "RPS2",
+      "AHSP",
+      "RPL7A",
+      "RPLP0",
+      "HBM"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 11.0,
+      "CD4 Effector Memory": 8.0,
+      "CD4 Naive": 64.0,
+      "CD8 Naive": 16.0
+    },
+    "fold_enrichment": 30.274904251098633
+  },
+  "1391": {
+    "genes": [
+      "IL32",
+      "TMSB4X",
+      "TRAC",
+      "CYTOR",
+      "H3F3A",
+      "SAT1",
+      "ACTG1",
+      "UBB",
+      "CALM3",
+      "CD74",
+      "HLA-DPB1",
+      "GAPDH",
+      "HMGB2",
+      "COTL1",
+      "HMGN2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 9.5,
+      "CD4 Effector Memory": 4.5,
+      "CD4 Naive": 7.0,
+      "CD4 Regulatory": 31.5,
+      "CD8 Central Memory": 3.5,
+      "CD8 Effector Memory 1": 2.5,
+      "CD8 Effector Memory 2": 13.5,
+      "NK": 2.0,
+      "T Proliferating": 26.0
+    },
+    "fold_enrichment": 19.242647171020508
+  },
+  "348": {
+    "genes": [
+      "RPS2",
+      "RPS17",
+      "RPLP0",
+      "RPS23",
+      "RPL7A",
+      "RPL37A",
+      "EEF1B2",
+      "RPL4",
+      "RPS4Y1",
+      "RPS26",
+      "LTB",
+      "NPM1",
+      "HNRNPA1",
+      "FTH1",
+      "YBX1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 12.5,
+      "CD4 Effector Memory": 50.0,
+      "CD4 Naive": 24.0,
+      "CD8 Central Memory": 2.5,
+      "CD8 Naive": 9.5,
+      "NK CD56high": 1.0
+    },
+    "fold_enrichment": 25.25408363342285
+  },
+  "74": {
+    "genes": [
+      "S100A4",
+      "S100A6",
+      "LMNA",
+      "FTH1",
+      "PTMA",
+      "RPS17",
+      "LGALS1",
+      "MT-CO2",
+      "MT-ND5",
+      "MT-ND1",
+      "S100A11",
+      "MT-CO3",
+      "ANXA2",
+      "RPL7A",
+      "RPL37A"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 43.0,
+      "CD4 Effector Memory": 23.5,
+      "CD4 Naive": 11.0,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 1.5,
+      "CD8 Effector Memory 2": 12.5,
+      "NK": 4.5,
+      "T Proliferating": 2.5
+    },
+    "fold_enrichment": 18.973833084106445
+  },
+  "1793": {
+    "genes": [
+      "RPS2",
+      "HBB",
+      "RPS26",
+      "HBA2",
+      "TMSB4X",
+      "HBA1",
+      "HBD",
+      "RPL4",
+      "IGKC",
+      "AHSP",
+      "FTH1",
+      "HNRNPA1",
+      "LDHB",
+      "RPLP0",
+      "HBM"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 33.0,
+      "CD4 Effector Memory": 18.0,
+      "CD4 Naive": 21.0,
+      "CD4 Regulatory": 12.5,
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 1": 1.5,
+      "CD8 Effector Memory 2": 2.5,
+      "CD8 Naive": 5.0,
+      "NK": 2.5,
+      "NK CD56high": 1.5
+    },
+    "fold_enrichment": 20.201946258544922
+  },
+  "1037": {
+    "genes": [
+      "CD8B",
+      "RPS23",
+      "EEF1B2",
+      "RPL4",
+      "LINC02446",
+      "AIF1",
+      "MT-CO2",
+      "CD8A",
+      "RPS24",
+      "RPS2",
+      "GYPC",
+      "NUCB2",
+      "MT-CO3",
+      "RPL7A",
+      "RPL37A"
+    ],
+    "celltype_composition": {
+      "CD4 Naive": 22.0,
+      "CD8 Central Memory": 7.0,
+      "CD8 Effector Memory 2": 4.5,
+      "CD8 Naive": 59.0,
+      "NK CD56high": 3.5,
+      "T Proliferating": 3.5
+    },
+    "fold_enrichment": 16.337474822998047
+  },
+  "1032": {
+    "genes": [
+      "GNLY",
+      "TYROBP",
+      "CTSW",
+      "NKG7",
+      "CMC1",
+      "KLRF1",
+      "KLRD1",
+      "HOPX",
+      "FCER1G",
+      "KLRC1",
+      "CD63",
+      "XCL1",
+      "TRDC",
+      "IL2RB",
+      "XCL2"
+    ],
+    "celltype_composition": {
+      "CD4 Effector Memory": 1.0,
+      "CD4 Naive": 6.0,
+      "CD8 Central Memory": 3.0,
+      "CD8 Effector Memory 1": 2.5,
+      "CD8 Effector Memory 2": 5.5,
+      "NK": 8.0,
+      "NK CD56high": 73.5
+    },
+    "fold_enrichment": 221.3118438720703
+  },
+  "1447": {
+    "genes": [
+      "RPS4Y1",
+      "RPS2",
+      "RPS23",
+      "RPL4",
+      "RPLP0",
+      "EEF1B2",
+      "RPS17",
+      "RPL37A",
+      "CD69",
+      "RPL7A",
+      "RGCC",
+      "GYPC",
+      "MT-CO2",
+      "RPS24",
+      "DDX3Y"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 7.5,
+      "CD4 Effector Memory": 12.5,
+      "CD4 Naive": 36.0,
+      "CD4 Regulatory": 5.0,
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Effector Memory 2": 2.0,
+      "CD8 Naive": 25.0,
+      "T Proliferating": 8.0
+    },
+    "fold_enrichment": 24.069007873535156
+  },
+  "1460": {
+    "genes": [
+      "CCL4",
+      "CCL5",
+      "NKG7",
+      "CST7",
+      "CTSW",
+      "GZMA",
+      "KLRD1",
+      "CCL4L2",
+      "CMC1",
+      "GZMH",
+      "GNLY",
+      "PRF1",
+      "ZFP36L1",
+      "GZMB",
+      "CCL3"
+    ],
+    "celltype_composition": {
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 1": 32.0,
+      "CD8 Effector Memory 2": 19.0,
+      "NK": 39.5,
+      "NK CD56high": 5.5,
+      "T Proliferating": 1.5
+    },
+    "fold_enrichment": 189.01979064941406
+  },
+  "925": {
+    "genes": [
+      "RPL7A",
+      "RPS23",
+      "RPS26",
+      "RPLP0",
+      "RPS17",
+      "EEF1B2",
+      "RPL4",
+      "HBA2",
+      "RPL37A",
+      "HBB",
+      "HBA1",
+      "HNRNPA1",
+      "RPS24",
+      "LDHB",
+      "RPS2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 22.0,
+      "CD4 Effector Memory": 26.0,
+      "CD4 Naive": 33.5,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 3.0,
+      "CD8 Effector Memory 1": 4.0,
+      "CD8 Naive": 6.5,
+      "T Proliferating": 3.5
+    },
+    "fold_enrichment": 42.164756774902344
+  },
+  "1949": {
+    "genes": [
+      "IL32",
+      "TRAC",
+      "TMSB4X",
+      "ACTG1",
+      "ISG20",
+      "S100A4",
+      "UBB",
+      "ECH1",
+      "S100A6",
+      "UCP2",
+      "H3F3A",
+      "CALM3",
+      "H2AFV",
+      "NDUFB9",
+      "LAT"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.5,
+      "CD4 Effector Memory": 14.0,
+      "CD4 Naive": 6.0,
+      "CD4 Regulatory": 12.5,
+      "CD8 Central Memory": 12.0,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Effector Memory 2": 7.0,
+      "CD8 Naive": 13.0,
+      "T Proliferating": 29.0
+    },
+    "fold_enrichment": 39.3461799621582
+  },
+  "1338": {
+    "genes": [
+      "TYROBP",
+      "GNLY",
+      "CTSW",
+      "FCER1G",
+      "CMC1",
+      "KLRB1",
+      "RPS24",
+      "KLRC1",
+      "TRDC",
+      "KLRD1",
+      "HOPX",
+      "KLRF1",
+      "IL2RB",
+      "XCL2",
+      "NKG7"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 5.0,
+      "CD4 Effector Memory": 9.0,
+      "CD4 Naive": 21.0,
+      "CD8 Effector Memory 1": 5.5,
+      "CD8 Effector Memory 2": 1.0,
+      "CD8 Naive": 4.5,
+      "NK": 4.5,
+      "NK CD56high": 49.5
+    },
+    "fold_enrichment": 38.36590576171875
+  },
+  "347": {
+    "genes": [
+      "CCL5",
+      "PTMA",
+      "DUSP2",
+      "CST7",
+      "MAFF",
+      "ZFP36",
+      "MAP3K8",
+      "CMC1",
+      "LYAR",
+      "RGS1",
+      "UBB",
+      "FTH1",
+      "TUBA4A",
+      "GZMK",
+      "CTSW"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 12.0,
+      "CD4 Effector Memory": 2.5,
+      "CD4 Naive": 6.0,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 8.5,
+      "CD8 Effector Memory 1": 27.5,
+      "CD8 Effector Memory 2": 7.5,
+      "CD8 Naive": 4.0,
+      "NK": 14.0,
+      "NK CD56high": 13.0,
+      "T Proliferating": 4.0
+    },
+    "fold_enrichment": 56.27916717529297
+  },
+  "100": {
+    "genes": [
+      "RPS23",
+      "RPS17",
+      "TMSB4X",
+      "RPL37A",
+      "RPS24",
+      "RPL4",
+      "RPL7A",
+      "EEF1B2",
+      "LDHB",
+      "RPLP0",
+      "RPS26",
+      "HNRNPA1",
+      "LTB",
+      "H3F3A",
+      "NPM1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 25.5,
+      "CD4 Effector Memory": 5.5,
+      "CD4 Naive": 53.0,
+      "CD4 Regulatory": 6.5,
+      "CD8 Central Memory": 1.5,
+      "CD8 Naive": 8.0
+    },
+    "fold_enrichment": 42.03647994995117
+  },
+  "1073": {
+    "genes": [
+      "FTH1",
+      "TMSB4X",
+      "RGCC",
+      "CD69",
+      "GPR183",
+      "DDIT4",
+      "LMNA",
+      "SOCS3",
+      "HBA2",
+      "ZFP36",
+      "JUN",
+      "S100A11",
+      "PTMA",
+      "HBB",
+      "LIMS1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 61.0,
+      "CD4 Effector Memory": 12.0,
+      "CD4 Naive": 13.0,
+      "CD4 Regulatory": 7.5,
+      "CD8 Central Memory": 3.0,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Effector Memory 2": 1.0
+    },
+    "fold_enrichment": 40.89383316040039
+  },
+  "590": {
+    "genes": [
+      "CCL5",
+      "NKG7",
+      "CST7",
+      "IL32",
+      "GZMH",
+      "CMC1",
+      "TMSB4X",
+      "GZMA",
+      "CTSW",
+      "KLRG1",
+      "GZMK",
+      "LYAR",
+      "UBB",
+      "CD63",
+      "H3F3A"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 3.0,
+      "CD4 Effector Memory": 1.5,
+      "CD4 Naive": 4.0,
+      "CD4 Regulatory": 1.5,
+      "CD8 Central Memory": 4.0,
+      "CD8 Effector Memory 1": 17.5,
+      "CD8 Effector Memory 2": 30.5,
+      "CD8 Naive": 1.0,
+      "NK": 10.5,
+      "NK CD56high": 2.0,
+      "T Proliferating": 24.5
+    },
+    "fold_enrichment": 17.972997665405273
+  },
+  "111": {
+    "genes": [
+      "RPLP0",
+      "RPL37A",
+      "RPS17",
+      "RPS2",
+      "RPL7A",
+      "RPS23",
+      "RPL4",
+      "EEF1B2",
+      "S100A4",
+      "FTH1",
+      "HNRNPA1",
+      "RPS4Y1",
+      "LTB",
+      "YBX1",
+      "KLRB1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 11.5,
+      "CD4 Effector Memory": 69.0,
+      "CD4 Naive": 9.5,
+      "CD4 Regulatory": 3.5,
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 2.0,
+      "CD8 Naive": 2.0
+    },
+    "fold_enrichment": 41.46561813354492
+  },
+  "297": {
+    "genes": [
+      "TMSB4X",
+      "IL32",
+      "GZMK",
+      "CST7",
+      "CCL5",
+      "UCP2",
+      "TIGIT",
+      "ISG20",
+      "CCL4",
+      "TRAC",
+      "S100A4",
+      "MT-CO2",
+      "SAT1",
+      "ECH1",
+      "CD27"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 3.0,
+      "CD4 Regulatory": 34.0,
+      "CD8 Central Memory": 2.5,
+      "CD8 Effector Memory 1": 21.5,
+      "CD8 Effector Memory 2": 7.0,
+      "NK": 10.5,
+      "NK CD56high": 4.0,
+      "T Proliferating": 16.5
+    },
+    "fold_enrichment": 24.175670623779297
+  },
+  "73": {
+    "genes": [
+      "FTH1",
+      "MT-CO3",
+      "CCL5",
+      "MT-CO2",
+      "DONSON",
+      "LYAR",
+      "PDCD4",
+      "MT-ND1",
+      "SAT1",
+      "RPS24",
+      "RPS2",
+      "CD69",
+      "RPL4",
+      "RPL37A",
+      "PMAIP1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 6.5,
+      "CD4 Effector Memory": 9.0,
+      "CD4 Naive": 11.0,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 23.0,
+      "CD8 Effector Memory 1": 15.0,
+      "CD8 Effector Memory 2": 23.0,
+      "CD8 Naive": 5.5,
+      "NK CD56high": 1.5,
+      "T Proliferating": 4.0
+    },
+    "fold_enrichment": 22.202728271484375
+  },
+  "71": {
+    "genes": [
+      "FTH1",
+      "RPS26",
+      "RGS1",
+      "HMGB2",
+      "DUSP4",
+      "TUBA4A",
+      "TUBB4B",
+      "NAMPT",
+      "GADD45B",
+      "S100A9",
+      "HEXIM1",
+      "HLA-DRB5",
+      "TUBB2A",
+      "EIF3A",
+      "DUSP2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 34.5,
+      "CD4 Effector Memory": 6.5,
+      "CD4 Naive": 24.5,
+      "CD4 Regulatory": 10.0,
+      "CD8 Central Memory": 6.0,
+      "CD8 Effector Memory 1": 10.5,
+      "CD8 Effector Memory 2": 3.0,
+      "CD8 Naive": 2.5,
+      "NK": 2.0
+    },
+    "fold_enrichment": 25.107088088989258
+  },
+  "36": {
+    "genes": [
+      "RPS2",
+      "RPS23",
+      "RPS17",
+      "RPLP0",
+      "RPL37A",
+      "RPL7A",
+      "RPL4",
+      "EEF1B2",
+      "RPS24",
+      "RPS4Y1",
+      "MT-CO3",
+      "HNRNPA1",
+      "PTMA",
+      "NPM1",
+      "YBX1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 5.0,
+      "CD4 Effector Memory": 15.5,
+      "CD4 Naive": 44.5,
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 2": 1.0,
+      "CD8 Naive": 32.5
+    },
+    "fold_enrichment": 46.34384536743164
+  },
+  "37": {
+    "genes": [
+      "TMSB4X",
+      "UBB",
+      "MT-CO2",
+      "IL32",
+      "TRAC",
+      "UCP2",
+      "NOP10",
+      "H3F3A",
+      "ISG20",
+      "LDHB",
+      "MT-CO3",
+      "MRPL51",
+      "DAD1",
+      "ACTG1",
+      "ECH1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 15.5,
+      "CD4 Effector Memory": 3.5,
+      "CD4 Naive": 7.5,
+      "CD4 Regulatory": 14.0,
+      "CD8 Central Memory": 11.5,
+      "CD8 Effector Memory 1": 8.5,
+      "CD8 Effector Memory 2": 16.0,
+      "CD8 Naive": 2.5,
+      "NK": 5.0,
+      "T Proliferating": 15.5
+    },
+    "fold_enrichment": 16.55154800415039
+  },
+  "263": {
+    "genes": [
+      "RPL37A",
+      "MT-ND1",
+      "MT-CO3",
+      "ZFP36",
+      "RPS23",
+      "MT-CO2",
+      "JUN",
+      "RPS17",
+      "MT-ND5",
+      "RPL7A",
+      "RPLP0",
+      "DUSP2",
+      "RPL4",
+      "FOSB",
+      "RPS4Y1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 23.0,
+      "CD4 Effector Memory": 15.0,
+      "CD4 Naive": 20.5,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 14.5,
+      "CD8 Effector Memory 1": 6.0,
+      "CD8 Effector Memory 2": 6.0,
+      "CD8 Naive": 6.5,
+      "NK CD56high": 1.0,
+      "T Proliferating": 6.0
+    },
+    "fold_enrichment": 45.983604431152344
+  },
+  "308": {
+    "genes": [
+      "CCL5",
+      "NKG7",
+      "CST7",
+      "CCL4",
+      "GZMH",
+      "CTSW",
+      "CMC1",
+      "GZMA",
+      "GNLY",
+      "FGFBP2",
+      "KLRD1",
+      "GZMB",
+      "ZFP36L1",
+      "HOPX",
+      "CCL4L2"
+    ],
+    "celltype_composition": {
+      "CD4 Naive": 1.0,
+      "CD8 Central Memory": 1.0,
+      "CD8 Effector Memory 1": 18.5,
+      "CD8 Effector Memory 2": 44.0,
+      "NK": 30.0,
+      "NK CD56high": 3.0,
+      "T Proliferating": 1.5
+    },
+    "fold_enrichment": 135.1126708984375
+  },
+  "1867": {
+    "genes": [
+      "RPS17",
+      "RPS23",
+      "RPL37A",
+      "RPL4",
+      "RPL7A",
+      "EEF1B2",
+      "RPS2",
+      "RPS24",
+      "RPLP0",
+      "RPS26",
+      "HNRNPA1",
+      "MT-ND1",
+      "LDHB",
+      "SSR4",
+      "MT-CO3"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 16.0,
+      "CD4 Effector Memory": 7.0,
+      "CD4 Naive": 42.0,
+      "CD4 Regulatory": 4.0,
+      "CD8 Central Memory": 9.0,
+      "CD8 Effector Memory 2": 3.5,
+      "CD8 Naive": 5.0,
+      "NK": 5.5,
+      "NK CD56high": 4.0,
+      "T Proliferating": 3.5
+    },
+    "fold_enrichment": 19.07628631591797
+  },
+  "408": {
+    "genes": [
+      "RPS26",
+      "HBD",
+      "IGKC",
+      "AHSP",
+      "IGHA1",
+      "RPS23",
+      "RPL37A",
+      "HBM",
+      "TMSB4X",
+      "RPL7A",
+      "S100A9",
+      "RPS17",
+      "IGLC2",
+      "EEF1B2",
+      "S100A8"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 27.5,
+      "CD4 Effector Memory": 22.0,
+      "CD4 Naive": 24.0,
+      "CD4 Regulatory": 4.0,
+      "CD8 Central Memory": 3.5,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Effector Memory 2": 4.0,
+      "CD8 Naive": 3.0,
+      "NK": 5.5,
+      "NK CD56high": 2.5,
+      "T Proliferating": 2.0
+    },
+    "fold_enrichment": 32.28950881958008
+  },
+  "600": {
+    "genes": [
+      "S100A4",
+      "IL32",
+      "TMSB4X",
+      "S100A6",
+      "RPS26",
+      "RPS24",
+      "RPS2",
+      "TRAC",
+      "UBB",
+      "RPLP0",
+      "HSPA8",
+      "HNRNPA1",
+      "SSR4",
+      "RPL37A",
+      "RPL4"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 11.5,
+      "CD4 Effector Memory": 22.0,
+      "CD4 Naive": 4.5,
+      "CD4 Regulatory": 21.0,
+      "CD8 Central Memory": 6.5,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Effector Memory 2": 11.5,
+      "CD8 Naive": 1.5,
+      "T Proliferating": 19.0
+    },
+    "fold_enrichment": 34.60161590576172
+  },
+  "9": {
+    "genes": [
+      "TMSB4X",
+      "HMGN2",
+      "H2AFV",
+      "CALM3",
+      "MT-CO2",
+      "RPS24",
+      "H3F3A",
+      "ACTG1",
+      "MT-CO3",
+      "NDUFB9",
+      "IL32",
+      "HNRNPA1",
+      "GAPDH",
+      "PPIA",
+      "DEK"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 2.0,
+      "CD4 Regulatory": 26.0,
+      "CD8 Effector Memory 2": 1.0,
+      "T Proliferating": 70.5
+    },
+    "fold_enrichment": 39.27146530151367
+  },
+  "223": {
+    "genes": [
+      "CCL4",
+      "CST7",
+      "CCL5",
+      "NKG7",
+      "GZMA",
+      "KLRD1",
+      "CMC1",
+      "CTSW",
+      "CCL4L2",
+      "MAP3K8",
+      "CCL3",
+      "ZFP36L1",
+      "XCL2",
+      "TYROBP",
+      "CD63"
+    ],
+    "celltype_composition": {
+      "CD8 Central Memory": 3.5,
+      "CD8 Effector Memory 1": 41.0,
+      "CD8 Effector Memory 2": 12.0,
+      "NK": 32.0,
+      "NK CD56high": 9.5,
+      "T Proliferating": 1.5
+    },
+    "fold_enrichment": 265.5571594238281
+  },
+  "1652": {
+    "genes": [
+      "RPS2",
+      "RPS4Y1",
+      "RPS17",
+      "RPL4",
+      "RPL7A",
+      "H3F3A",
+      "TMSB4X",
+      "MT-ND1",
+      "EEF1B2",
+      "RPLP0",
+      "RPS23",
+      "RPL37A",
+      "UBB",
+      "DEK",
+      "RPS24"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 12.0,
+      "CD4 Effector Memory": 3.0,
+      "CD4 Naive": 11.0,
+      "CD4 Regulatory": 4.5,
+      "CD8 Central Memory": 7.5,
+      "CD8 Effector Memory 1": 8.0,
+      "CD8 Effector Memory 2": 8.5,
+      "CD8 Naive": 2.5,
+      "NK": 2.5,
+      "NK CD56high": 3.5,
+      "T Proliferating": 37.0
+    },
+    "fold_enrichment": 14.500015258789062
+  },
+  "28": {
+    "genes": [
+      "RPS26",
+      "RPS17",
+      "RPL37A",
+      "RPL7A",
+      "RPS23",
+      "RPS4Y1",
+      "RPLP0",
+      "EEF1B2",
+      "RPL4",
+      "RPS24",
+      "MT-CO3",
+      "RPS2",
+      "PTMA",
+      "FTH1",
+      "HNRNPA1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 15.5,
+      "CD4 Effector Memory": 7.5,
+      "CD4 Naive": 31.5,
+      "CD8 Central Memory": 9.0,
+      "CD8 Effector Memory 2": 3.0,
+      "CD8 Naive": 32.5
+    },
+    "fold_enrichment": 22.964641571044922
+  },
+  "1473": {
+    "genes": [
+      "RPS24",
+      "UBB",
+      "H3F3A",
+      "DONSON",
+      "MT-CO2",
+      "PTMA",
+      "JUN",
+      "NDUFB9",
+      "CCT8",
+      "ATP5MF",
+      "GYPC",
+      "MT-CO3",
+      "RPL37A",
+      "SRSF3",
+      "HNRNPA1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 7.5,
+      "CD4 Effector Memory": 8.5,
+      "CD4 Naive": 18.0,
+      "CD4 Regulatory": 10.5,
+      "CD8 Central Memory": 4.0,
+      "CD8 Effector Memory 2": 1.5,
+      "CD8 Naive": 19.5,
+      "NK": 8.5,
+      "NK CD56high": 15.0,
+      "T Proliferating": 7.0
+    },
+    "fold_enrichment": 19.068532943725586
+  },
+  "631": {
+    "genes": [
+      "CCL4",
+      "CCL5",
+      "CST7",
+      "NKG7",
+      "GZMA",
+      "KLRD1",
+      "CTSW",
+      "GZMH",
+      "CCL4L2",
+      "FGFBP2",
+      "GZMB",
+      "PRF1",
+      "TYROBP",
+      "ZFP36L1",
+      "SPON2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.0,
+      "CD4 Naive": 1.0,
+      "CD4 Regulatory": 1.5,
+      "CD8 Central Memory": 2.5,
+      "CD8 Effector Memory 1": 25.5,
+      "CD8 Effector Memory 2": 19.0,
+      "NK": 41.0,
+      "NK CD56high": 4.0,
+      "T Proliferating": 1.0
+    },
+    "fold_enrichment": 223.1748809814453
+  },
+  "1378": {
+    "genes": [
+      "FTH1",
+      "RPS4Y1",
+      "PTMA",
+      "HSPA9",
+      "ODC1",
+      "DDX21",
+      "RPLP0",
+      "YBX1",
+      "PDCD4",
+      "SOCS3",
+      "EIF3A",
+      "RPS24",
+      "SFPQ",
+      "MT2A",
+      "RPL37A"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 35.5,
+      "CD4 Effector Memory": 9.0,
+      "CD4 Naive": 32.0,
+      "CD4 Regulatory": 3.5,
+      "CD8 Central Memory": 4.5,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Naive": 5.0,
+      "NK CD56high": 1.0,
+      "T Proliferating": 7.0
+    },
+    "fold_enrichment": 65.47277069091797
+  },
+  "163": {
+    "genes": [
+      "RPS4Y1",
+      "PMAIP1",
+      "PTMA",
+      "SAT1",
+      "HSP90AA1",
+      "KLRB1",
+      "FTH1",
+      "BTG3",
+      "ODC1",
+      "OASL",
+      "CD69",
+      "RPS2",
+      "IFIT2",
+      "H1FX",
+      "RGS1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 28.5,
+      "CD4 Effector Memory": 21.5,
+      "CD4 Naive": 6.0,
+      "CD8 Central Memory": 4.5,
+      "CD8 Effector Memory 1": 14.5,
+      "CD8 Effector Memory 2": 21.0,
+      "NK CD56high": 1.5,
+      "T Proliferating": 1.0
+    },
+    "fold_enrichment": 26.40171241760254
+  },
+  "456": {
+    "genes": [
+      "GNLY",
+      "TYROBP",
+      "FCER1G",
+      "NKG7",
+      "CLIC3",
+      "CST7",
+      "GZMB",
+      "SPON2",
+      "KLRB1",
+      "KLRF1",
+      "FGFBP2",
+      "CTSW",
+      "PRF1",
+      "NDUFAF8",
+      "ATP5IF1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 8.5,
+      "CD4 Effector Memory": 8.5,
+      "CD4 Naive": 18.0,
+      "CD4 Regulatory": 2.5,
+      "CD8 Central Memory": 3.0,
+      "CD8 Effector Memory 1": 7.0,
+      "CD8 Effector Memory 2": 3.5,
+      "CD8 Naive": 9.5,
+      "NK": 28.5,
+      "NK CD56high": 11.0
+    },
+    "fold_enrichment": 353.5658874511719
+  },
+  "620": {
+    "genes": [
+      "TMSB4X",
+      "MT-CO2",
+      "HMGN2",
+      "H2AFV",
+      "MT-CO3",
+      "CALM3",
+      "H3F3A",
+      "RPS24",
+      "IL32",
+      "NDUFB9",
+      "ACTG1",
+      "PPIA",
+      "UQCRQ",
+      "HNRNPA1",
+      "GAPDH"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 1.5,
+      "CD4 Regulatory": 23.5,
+      "CD8 Effector Memory 2": 1.0,
+      "T Proliferating": 73.5
+    },
+    "fold_enrichment": 39.47091293334961
+  },
+  "1880": {
+    "genes": [
+      "RPS2",
+      "RPS24",
+      "GNLY",
+      "CTSW",
+      "NKG7",
+      "RPL4",
+      "RPL7A",
+      "EEF1B2",
+      "CCND3",
+      "PLAC8",
+      "CST7",
+      "TYROBP",
+      "UBB",
+      "KLRD1",
+      "PTMA"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 5.0,
+      "CD4 Effector Memory": 4.5,
+      "CD4 Naive": 22.5,
+      "CD8 Central Memory": 3.0,
+      "CD8 Effector Memory 1": 4.0,
+      "CD8 Effector Memory 2": 16.0,
+      "CD8 Naive": 12.0,
+      "NK": 19.5,
+      "NK CD56high": 12.0,
+      "T Proliferating": 1.5
+    },
+    "fold_enrichment": 27.94975471496582
+  },
+  "588": {
+    "genes": [
+      "FTH1",
+      "TMSB4X",
+      "SAT1",
+      "EIF3A",
+      "RPS24",
+      "MT-CO2",
+      "MT-CO3",
+      "HNRNPA1",
+      "NDUFV2",
+      "ISG20",
+      "ACTG1",
+      "GYPC",
+      "NOP10",
+      "UCP2",
+      "H3F3A"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 23.0,
+      "CD4 Effector Memory": 1.5,
+      "CD4 Naive": 12.0,
+      "CD4 Regulatory": 37.0,
+      "CD8 Central Memory": 8.5,
+      "CD8 Effector Memory 1": 1.0,
+      "T Proliferating": 16.0
+    },
+    "fold_enrichment": 45.480045318603516
+  },
+  "1478": {
+    "genes": [
+      "RPS23",
+      "HBB",
+      "RPS26",
+      "HBA2",
+      "RPL37A",
+      "HBA1",
+      "RPL7A",
+      "RPS17",
+      "RPLP0",
+      "EEF1B2",
+      "HBD",
+      "RPS24",
+      "RPL4",
+      "NPM1",
+      "AHSP"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.0,
+      "CD4 Effector Memory": 7.5,
+      "CD4 Naive": 50.5,
+      "CD8 Central Memory": 3.0,
+      "CD8 Effector Memory 1": 2.0,
+      "CD8 Effector Memory 2": 3.5,
+      "CD8 Naive": 27.5,
+      "NK": 1.0,
+      "NK CD56high": 1.0
+    },
+    "fold_enrichment": 45.372859954833984
+  },
+  "303": {
+    "genes": [
+      "RPS24",
+      "RPL37A",
+      "RPS23",
+      "RPL7A",
+      "RPL4",
+      "RPS2",
+      "RPS17",
+      "RPLP0",
+      "FTH1",
+      "HNRNPA1",
+      "MT-CO3",
+      "EEF1B2",
+      "MT-CO2",
+      "H3F3A",
+      "LDHB"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 23.5,
+      "CD4 Effector Memory": 10.0,
+      "CD4 Naive": 22.0,
+      "CD4 Regulatory": 19.5,
+      "CD8 Central Memory": 1.5,
+      "CD8 Effector Memory 2": 4.0,
+      "CD8 Naive": 6.0,
+      "NK": 3.5,
+      "NK CD56high": 5.0,
+      "T Proliferating": 4.5
+    },
+    "fold_enrichment": 15.011101722717285
+  },
+  "272": {
+    "genes": [
+      "MT-CO2",
+      "MT-CO3",
+      "RPS24",
+      "TMSB4X",
+      "H3F3A",
+      "MT-ND1",
+      "ACTG1",
+      "SLC25A3",
+      "IL32",
+      "NDUFB9",
+      "RPLP0",
+      "SLC25A5",
+      "PPIA",
+      "HNRNPA1",
+      "CALM3"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.0,
+      "CD4 Effector Memory": 2.5,
+      "CD4 Naive": 7.5,
+      "CD4 Regulatory": 19.5,
+      "CD8 Central Memory": 1.5,
+      "CD8 Effector Memory 2": 6.0,
+      "CD8 Naive": 1.5,
+      "NK": 8.0,
+      "NK CD56high": 7.5,
+      "T Proliferating": 41.5
+    },
+    "fold_enrichment": 98.47022247314453
+  },
+  "1631": {
+    "genes": [
+      "RPS23",
+      "RPS2",
+      "RPS17",
+      "RPL37A",
+      "RPLP0",
+      "EEF1B2",
+      "RPL7A",
+      "RPS24",
+      "RPL4",
+      "FBL",
+      "HNRNPA1",
+      "RPS26",
+      "MT-CO3",
+      "MT-CO2",
+      "MT-ND1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 6.0,
+      "CD4 Effector Memory": 9.0,
+      "CD4 Naive": 38.5,
+      "CD8 Central Memory": 4.5,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 5.5,
+      "CD8 Naive": 32.5,
+      "NK CD56high": 1.5,
+      "T Proliferating": 1.0
+    },
+    "fold_enrichment": 56.10839080810547
+  },
+  "282": {
+    "genes": [
+      "TAGLN2",
+      "PF4",
+      "GNLY",
+      "GNG11",
+      "TMSB4X",
+      "GPX1",
+      "HIST1H2AC",
+      "NRGN",
+      "MAP3K7CL",
+      "TUBB1",
+      "CD63",
+      "TYROBP",
+      "FCER1G",
+      "KLRD1",
+      "FTH1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 2.5,
+      "CD4 Effector Memory": 1.5,
+      "CD4 Naive": 36.5,
+      "CD8 Central Memory": 3.5,
+      "CD8 Effector Memory 1": 5.0,
+      "CD8 Effector Memory 2": 20.0,
+      "CD8 Naive": 1.5,
+      "NK": 7.5,
+      "NK CD56high": 19.0,
+      "T Proliferating": 2.5
+    },
+    "fold_enrichment": 68.4594497680664
+  },
+  "58": {
+    "genes": [
+      "HBA2",
+      "HBA1",
+      "HBD",
+      "HBM",
+      "HBB",
+      "CA1",
+      "SLC4A1",
+      "IGKC",
+      "SNCA",
+      "IGLC2",
+      "AHSP",
+      "IGHG2",
+      "HNRNPA1L2",
+      "ALAS2",
+      "ATP5A1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 10.5,
+      "CD4 Effector Memory": 4.0,
+      "CD4 Naive": 62.5,
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 1": 2.5,
+      "CD8 Effector Memory 2": 3.5,
+      "CD8 Naive": 14.0
+    },
+    "fold_enrichment": 19.515609741210938
+  },
+  "47": {
+    "genes": [
+      "HBB",
+      "RPS26",
+      "HBA2",
+      "RPS23",
+      "RPS17",
+      "HBA1",
+      "RPS24",
+      "RPL37A",
+      "RPL7A",
+      "EEF1B2",
+      "HBD",
+      "RPL4",
+      "RPLP0",
+      "HNRNPA1",
+      "RP11-291B21.2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.5,
+      "CD4 Effector Memory": 10.5,
+      "CD4 Naive": 27.5,
+      "CD8 Central Memory": 3.0,
+      "CD8 Effector Memory 2": 5.0,
+      "CD8 Naive": 48.0
+    },
+    "fold_enrichment": 12.21484661102295
+  },
+  "1328": {
+    "genes": [
+      "NKG7",
+      "CCL5",
+      "RPL37A",
+      "RPL7A",
+      "CST7",
+      "RPS26",
+      "RPS24",
+      "RPS17",
+      "GNLY",
+      "RPS23",
+      "GZMA",
+      "CMC1",
+      "GZMH",
+      "RPS2",
+      "HNRNPA1"
+    ],
+    "celltype_composition": {
+      "CD4 Naive": 1.5,
+      "CD8 Central Memory": 14.0,
+      "CD8 Effector Memory 1": 8.0,
+      "CD8 Effector Memory 2": 47.5,
+      "NK": 22.0,
+      "NK CD56high": 5.5
+    },
+    "fold_enrichment": 15.985549926757812
+  },
+  "545": {
+    "genes": [
+      "TMSB4X",
+      "H3F3A",
+      "LAT",
+      "NKG7",
+      "ACTG1",
+      "ISG20",
+      "UBB",
+      "UCP2",
+      "CST7",
+      "NOP10",
+      "TRAC",
+      "RPS24",
+      "GYPC",
+      "MT-CO3",
+      "RBX1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 5.5,
+      "CD4 Naive": 6.5,
+      "CD4 Regulatory": 27.5,
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 1": 5.0,
+      "CD8 Effector Memory 2": 25.0,
+      "CD8 Naive": 5.0,
+      "NK": 13.5,
+      "T Proliferating": 10.0
+    },
+    "fold_enrichment": 24.9224910736084
+  },
+  "864": {
+    "genes": [
+      "TMSB4X",
+      "HMGN2",
+      "H2AFV",
+      "CALM3",
+      "ACTG1",
+      "IL32",
+      "H3F3A",
+      "MT-CO2",
+      "RPS24",
+      "NDUFB9",
+      "TRAC",
+      "MT-CO3",
+      "DEK",
+      "COTL1",
+      "HNRNPA1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 1.5,
+      "CD4 Regulatory": 26.0,
+      "CD8 Effector Memory 2": 1.0,
+      "T Proliferating": 70.5
+    },
+    "fold_enrichment": 46.932315826416016
+  },
+  "661": {
+    "genes": [
+      "FTH1",
+      "PTMA",
+      "RPS4Y1",
+      "DDX21",
+      "PDCD4",
+      "YBX1",
+      "RPS2",
+      "HSPA9",
+      "ODC1",
+      "SOCS3",
+      "GPR183",
+      "SFPQ",
+      "HNRNPA1",
+      "ZFP36",
+      "GSPT1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 42.5,
+      "CD4 Effector Memory": 3.5,
+      "CD4 Naive": 32.0,
+      "CD8 Central Memory": 11.5,
+      "CD8 Effector Memory 1": 2.5,
+      "CD8 Effector Memory 2": 1.0,
+      "CD8 Naive": 2.5,
+      "NK": 3.5
+    },
+    "fold_enrichment": 38.879478454589844
+  },
+  "1440": {
+    "genes": [
+      "MT-CO3",
+      "MT-ND1",
+      "MT-CO2",
+      "RPS23",
+      "RPL37A",
+      "MT-ND5",
+      "RPL7A",
+      "AIF1",
+      "NPM1",
+      "RPL4",
+      "RPS17",
+      "EEF1B2",
+      "CD8B",
+      "DONSON",
+      "LINC02446"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 5.0,
+      "CD4 Effector Memory": 4.0,
+      "CD4 Naive": 34.0,
+      "CD8 Central Memory": 3.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 3.5,
+      "CD8 Naive": 45.5,
+      "NK": 1.5,
+      "NK CD56high": 1.0,
+      "T Proliferating": 1.0
+    },
+    "fold_enrichment": 71.17289733886719
+  },
+  "1508": {
+    "genes": [
+      "TMSB4X",
+      "HMGN2",
+      "H2AFV",
+      "H3F3A",
+      "CALM3",
+      "DEK",
+      "PTMA",
+      "PPIA",
+      "STMN1",
+      "NDUFB9",
+      "IL32",
+      "GAPDH",
+      "RPS24",
+      "ACTG1",
+      "UQCRQ"
+    ],
+    "celltype_composition": {
+      "CD4 Regulatory": 13.5,
+      "CD8 Effector Memory 2": 1.0,
+      "T Proliferating": 85.0
+    },
+    "fold_enrichment": 101.64405059814453
+  },
+  "7": {
+    "genes": [
+      "TMSB4X",
+      "FTH1",
+      "ERH",
+      "PTMA",
+      "HMGN2",
+      "H2AFV",
+      "NOP10",
+      "PSMA4",
+      "VPS29",
+      "YBX1",
+      "HMGB1",
+      "CALM3",
+      "STMN1",
+      "HNRNPA3",
+      "IL32"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 31.0,
+      "CD4 Effector Memory": 7.5,
+      "CD4 Naive": 8.5,
+      "CD4 Regulatory": 13.0,
+      "CD8 Central Memory": 5.5,
+      "CD8 Effector Memory 1": 3.5,
+      "CD8 Effector Memory 2": 2.0,
+      "NK": 1.5,
+      "T Proliferating": 27.0
+    },
+    "fold_enrichment": 34.106197357177734
+  },
+  "65": {
+    "genes": [
+      "RPS26",
+      "HBD",
+      "RPS23",
+      "RPL37A",
+      "RPS17",
+      "RPL7A",
+      "AHSP",
+      "RPS2",
+      "HBM",
+      "RPLP0",
+      "EEF1B2",
+      "IGKC",
+      "RPL4",
+      "NPM1",
+      "CA1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 21.5,
+      "CD4 Effector Memory": 21.5,
+      "CD4 Naive": 34.0,
+      "CD4 Regulatory": 2.5,
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 1": 1.5,
+      "CD8 Effector Memory 2": 2.5,
+      "CD8 Naive": 8.0,
+      "NK": 4.0,
+      "NK CD56high": 2.0
+    },
+    "fold_enrichment": 62.590999603271484
+  },
+  "761": {
+    "genes": [
+      "RPS26",
+      "NKG7",
+      "CST7",
+      "CCL5",
+      "GZMH",
+      "GNLY",
+      "MT-ND1",
+      "IL32",
+      "C12orf75",
+      "GZMA",
+      "S100A4",
+      "MT-CO2",
+      "CD8A",
+      "GADD45B",
+      "MT-CO3"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 6.0,
+      "CD4 Effector Memory": 1.0,
+      "CD4 Naive": 2.0,
+      "CD4 Regulatory": 1.5,
+      "CD8 Central Memory": 2.5,
+      "CD8 Effector Memory 1": 16.5,
+      "CD8 Effector Memory 2": 52.0,
+      "NK": 7.0,
+      "NK CD56high": 2.0,
+      "T Proliferating": 9.5
+    },
+    "fold_enrichment": 35.83512496948242
+  },
+  "672": {
+    "genes": [
+      "TMSB4X",
+      "LDHB",
+      "NOP10",
+      "TRAC",
+      "SOD1",
+      "HSPA8",
+      "PTMA",
+      "UCP2",
+      "IL32",
+      "ISG20",
+      "LAT",
+      "ACTG1",
+      "NDUFB9",
+      "YBX1",
+      "COTL1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 25.0,
+      "CD4 Effector Memory": 5.0,
+      "CD4 Naive": 16.5,
+      "CD4 Regulatory": 30.0,
+      "CD8 Effector Memory 2": 1.0,
+      "T Proliferating": 22.0
+    },
+    "fold_enrichment": 20.1810359954834
+  },
+  "1235": {
+    "genes": [
+      "DONSON",
+      "ATP5MC3",
+      "ATP5IF1",
+      "ATP5MC1",
+      "RPS2",
+      "ATP5F1A",
+      "NDUFAF8",
+      "GNLY",
+      "KLRC1",
+      "AC245014.3",
+      "ISG20",
+      "AC007952.4",
+      "ATP5MF",
+      "BEX3",
+      "TNFRSF18"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 17.5,
+      "CD4 Effector Memory": 9.0,
+      "CD4 Naive": 24.5,
+      "CD4 Regulatory": 3.5,
+      "CD8 Central Memory": 3.5,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 4.5,
+      "CD8 Naive": 14.0,
+      "NK": 8.5,
+      "NK CD56high": 14.0
+    },
+    "fold_enrichment": 353.5611572265625
+  },
+  "1280": {
+    "genes": [
+      "RPS2",
+      "DONSON",
+      "RPL7A",
+      "RPLP0",
+      "ATP5IF1",
+      "ATP5MC3",
+      "RPS17",
+      "ATP5F1A",
+      "EEF1B2",
+      "RPL37A",
+      "RPL4",
+      "ATP5MC1",
+      "RPS23",
+      "BEX3",
+      "NDUFAF8"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 20.0,
+      "CD4 Effector Memory": 13.0,
+      "CD4 Naive": 29.0,
+      "CD4 Regulatory": 4.5,
+      "CD8 Central Memory": 4.0,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Effector Memory 2": 1.0,
+      "CD8 Naive": 15.5,
+      "NK": 11.5
+    },
+    "fold_enrichment": 353.5373229980469
+  },
+  "1873": {
+    "genes": [
+      "FTH1",
+      "PTMA",
+      "H3F3A",
+      "HMGN2",
+      "HNRNPA1",
+      "SAT1",
+      "H2AFV",
+      "RPS24",
+      "TMSB4X",
+      "SRSF3",
+      "YBX1",
+      "SNRPB",
+      "HNRNPC",
+      "ODC1",
+      "SRSF2"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 20.0,
+      "CD4 Effector Memory": 1.0,
+      "CD4 Naive": 9.5,
+      "CD4 Regulatory": 9.5,
+      "CD8 Central Memory": 6.5,
+      "CD8 Effector Memory 1": 5.0,
+      "CD8 Effector Memory 2": 1.5,
+      "NK": 2.0,
+      "NK CD56high": 1.0,
+      "T Proliferating": 43.5
+    },
+    "fold_enrichment": 18.969802856445312
+  },
+  "1920": {
+    "genes": [
+      "TYROBP",
+      "JUN",
+      "KLRC1",
+      "CMC1",
+      "IL2RB",
+      "FCER1G",
+      "XCL2",
+      "TRDC",
+      "KLRF1",
+      "KLRB1",
+      "IFIT2",
+      "PMAIP1",
+      "MAP3K8",
+      "XCL1",
+      "AREG"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 4.5,
+      "CD4 Effector Memory": 3.0,
+      "CD4 Naive": 39.5,
+      "CD8 Central Memory": 2.5,
+      "CD8 Effector Memory 1": 7.5,
+      "CD8 Effector Memory 2": 3.5,
+      "CD8 Naive": 11.5,
+      "NK": 14.5,
+      "NK CD56high": 13.0
+    },
+    "fold_enrichment": 223.33200073242188
+  },
+  "109": {
+    "genes": [
+      "TMSB4X",
+      "HMGN2",
+      "IL32",
+      "CALM3",
+      "H2AFV",
+      "H3F3A",
+      "ACTG1",
+      "NDUFB9",
+      "HMGN1",
+      "TRAC",
+      "PPIA",
+      "PTMA",
+      "RPS24",
+      "STMN1",
+      "GAPDH"
+    ],
+    "celltype_composition": {
+      "CD4 Regulatory": 28.0,
+      "CD8 Effector Memory 2": 1.5,
+      "T Proliferating": 70.0
+    },
+    "fold_enrichment": 65.57010650634766
+  },
+  "105": {
+    "genes": [
+      "FTH1",
+      "RPS4Y1",
+      "RPS2",
+      "PTMA",
+      "YBX1",
+      "DDX21",
+      "RPL37A",
+      "RPL4",
+      "HNRNPA1",
+      "GPR183",
+      "SOCS3",
+      "RPS23",
+      "PDCD4",
+      "NPM1",
+      "ODC1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 44.5,
+      "CD4 Effector Memory": 6.0,
+      "CD4 Naive": 41.5,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 5.5,
+      "CD8 Naive": 1.0
+    },
+    "fold_enrichment": 152.9336395263672
+  },
+  "85": {
+    "genes": [
+      "RPS2",
+      "S100A4",
+      "IL32",
+      "RPLP0",
+      "RPL7A",
+      "S100A6",
+      "LTB",
+      "TRAC",
+      "GAPDH",
+      "FTH1",
+      "RPL4",
+      "TIMP1",
+      "RPS26",
+      "RPS17",
+      "S100A11"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 32.0,
+      "CD4 Effector Memory": 42.5,
+      "CD4 Naive": 4.0,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 6.5,
+      "CD8 Effector Memory 1": 1.5,
+      "CD8 Effector Memory 2": 7.0,
+      "CD8 Naive": 1.0,
+      "NK": 3.0,
+      "NK CD56high": 1.5
+    },
+    "fold_enrichment": 18.375932693481445
+  },
+  "135": {
+    "genes": [
+      "TMSB4X",
+      "CCL5",
+      "IL32",
+      "RPS24",
+      "H3F3A",
+      "H2AFV",
+      "HMGN2",
+      "IDH2",
+      "CALM3",
+      "RPLP0",
+      "UBB",
+      "PPIA",
+      "STMN1",
+      "PTMA",
+      "NDUFB9"
+    ],
+    "celltype_composition": {
+      "CD4 Regulatory": 2.0,
+      "CD8 Central Memory": 2.5,
+      "CD8 Effector Memory 1": 1.5,
+      "CD8 Effector Memory 2": 3.0,
+      "T Proliferating": 91.0
+    },
+    "fold_enrichment": 35.97113037109375
+  },
+  "784": {
+    "genes": [
+      "TMSB4X",
+      "H2AFV",
+      "MT-CO3",
+      "HMGN2",
+      "ACTG1",
+      "H3F3A",
+      "CALM3",
+      "MT-CO2",
+      "RPS24",
+      "NDUFB9",
+      "COTL1",
+      "IL32",
+      "HNRNPA1",
+      "GAPDH",
+      "PPIA"
+    ],
+    "celltype_composition": {
+      "CD4 Regulatory": 25.0,
+      "T Proliferating": 74.0
+    },
+    "fold_enrichment": 61.92707443237305
+  },
+  "1788": {
+    "genes": [
+      "JUN",
+      "RPS26",
+      "ZFP36",
+      "CD69",
+      "FOSB",
+      "TMSB4X",
+      "DUSP2",
+      "IL32",
+      "S100A4",
+      "TRAC",
+      "SRSF2",
+      "UBB",
+      "DNAJA1",
+      "RGS1",
+      "TUBA4A"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 32.0,
+      "CD4 Effector Memory": 6.0,
+      "CD4 Naive": 3.5,
+      "CD4 Regulatory": 9.0,
+      "CD8 Central Memory": 6.5,
+      "CD8 Effector Memory 1": 15.5,
+      "CD8 Effector Memory 2": 6.0,
+      "NK": 5.0,
+      "NK CD56high": 1.5,
+      "T Proliferating": 15.0
+    },
+    "fold_enrichment": 22.040620803833008
+  },
+  "457": {
+    "genes": [
+      "FTH1",
+      "PTMA",
+      "RPS4Y1",
+      "DDX21",
+      "ZFP36",
+      "ODC1",
+      "YBX1",
+      "HSPA5",
+      "PDCD4",
+      "HSPA9",
+      "HMGB2",
+      "SAT1",
+      "SOCS3",
+      "SRSF3",
+      "LDHA"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 44.0,
+      "CD4 Effector Memory": 2.5,
+      "CD4 Naive": 22.5,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 15.5,
+      "CD8 Effector Memory 1": 9.0,
+      "CD8 Effector Memory 2": 1.0,
+      "CD8 Naive": 2.0,
+      "NK": 2.0
+    },
+    "fold_enrichment": 116.70335388183594
+  },
+  "404": {
+    "genes": [
+      "NKG7",
+      "GNLY",
+      "CST7",
+      "HSPA5",
+      "FGFBP2",
+      "PTMA",
+      "TYROBP",
+      "UBB",
+      "CTSW",
+      "GADD45B",
+      "GZMB",
+      "ZFP36",
+      "MAP3K8",
+      "SRSF2",
+      "CCL5"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 10.5,
+      "CD4 Effector Memory": 4.0,
+      "CD4 Naive": 13.0,
+      "CD8 Central Memory": 1.5,
+      "CD8 Effector Memory 1": 16.5,
+      "CD8 Effector Memory 2": 15.5,
+      "CD8 Naive": 1.5,
+      "NK": 28.5,
+      "NK CD56high": 6.5,
+      "T Proliferating": 2.0
+    },
+    "fold_enrichment": 353.2582092285156
+  },
+  "1917": {
+    "genes": [
+      "RPS2",
+      "FTH1",
+      "RPL37A",
+      "RPS4Y1",
+      "RPS23",
+      "RPS17",
+      "RPLP0",
+      "RPL4",
+      "PTMA",
+      "RPL7A",
+      "EEF1B2",
+      "RPS24",
+      "NPM1",
+      "SOCS3",
+      "HNRNPA1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 29.0,
+      "CD4 Effector Memory": 16.5,
+      "CD4 Naive": 47.0,
+      "CD4 Regulatory": 1.0,
+      "CD8 Naive": 6.0
+    },
+    "fold_enrichment": 175.3739776611328
+  },
+  "174": {
+    "genes": [
+      "RPS2",
+      "JUN",
+      "PTMA",
+      "FTH1",
+      "ZFP36",
+      "CD69",
+      "ODC1",
+      "DDX21",
+      "HSP90AA1",
+      "SAT1",
+      "DUSP2",
+      "GADD45B",
+      "RPS4Y1",
+      "PDCD4",
+      "SFPQ"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 18.0,
+      "CD4 Effector Memory": 1.5,
+      "CD4 Naive": 34.0,
+      "CD8 Central Memory": 6.5,
+      "CD8 Effector Memory 1": 24.5,
+      "CD8 Effector Memory 2": 3.0,
+      "CD8 Naive": 12.5
+    },
+    "fold_enrichment": 168.8258819580078
+  },
+  "95": {
+    "genes": [
+      "FTH1",
+      "ZFP36",
+      "GADD45B",
+      "HSPA5",
+      "MT-ND1",
+      "DUSP2",
+      "SRSF3",
+      "RGCC",
+      "DDIT4",
+      "SAT1",
+      "RPS4Y1",
+      "SRSF2",
+      "CD69",
+      "MT-CO3",
+      "HSPA9"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 49.0,
+      "CD4 Effector Memory": 10.0,
+      "CD4 Naive": 11.0,
+      "CD8 Central Memory": 14.0,
+      "CD8 Effector Memory 1": 11.0,
+      "CD8 Effector Memory 2": 2.0,
+      "CD8 Naive": 1.0,
+      "T Proliferating": 1.0
+    },
+    "fold_enrichment": 10.463239669799805
+  },
+  "873": {
+    "genes": [
+      "MT-CO2",
+      "MT-CO3",
+      "RPS24",
+      "TMSB4X",
+      "H3F3A",
+      "PTMA",
+      "RPLP0",
+      "RPS2",
+      "HNRNPA1",
+      "MT-ND1",
+      "PPIA",
+      "NDUFB9",
+      "HMGN2",
+      "H2AFV",
+      "UQCRQ"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 5.5,
+      "CD4 Effector Memory": 1.5,
+      "CD4 Naive": 3.0,
+      "CD4 Regulatory": 13.5,
+      "CD8 Central Memory": 5.5,
+      "CD8 Effector Memory 1": 5.0,
+      "CD8 Effector Memory 2": 7.0,
+      "NK": 5.5,
+      "NK CD56high": 1.5,
+      "T Proliferating": 52.0
+    },
+    "fold_enrichment": 37.38723373413086
+  },
+  "1347": {
+    "genes": [
+      "TMSB4X",
+      "ISG20",
+      "ACTG1",
+      "TRAC",
+      "UCP2",
+      "IL32",
+      "MT-CO3",
+      "MT-CO2",
+      "RPS24",
+      "H3F3A",
+      "NDUFB9",
+      "CD27",
+      "S100A6",
+      "NOP10",
+      "HSPA8"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 2.5,
+      "CD4 Effector Memory": 1.0,
+      "CD4 Naive": 3.0,
+      "CD4 Regulatory": 68.5,
+      "CD8 Effector Memory 2": 1.5,
+      "T Proliferating": 23.5
+    },
+    "fold_enrichment": 175.11996459960938
+  },
+  "5": {
+    "genes": [
+      "FTH1",
+      "RPS4Y1",
+      "RGS1",
+      "ZFP36",
+      "RPL37A",
+      "DUSP2",
+      "RPS17",
+      "EIF1AY",
+      "CD69",
+      "RPS23",
+      "SAT1",
+      "AREG",
+      "TMEM156",
+      "HMGB2",
+      "PMAIP1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 28.0,
+      "CD4 Effector Memory": 9.0,
+      "CD4 Naive": 28.5,
+      "CD4 Regulatory": 5.0,
+      "CD8 Central Memory": 2.0,
+      "CD8 Effector Memory 1": 7.0,
+      "CD8 Effector Memory 2": 9.5,
+      "NK": 1.5,
+      "NK CD56high": 8.5,
+      "T Proliferating": 1.0
+    },
+    "fold_enrichment": 9.599836349487305
+  },
+  "678": {
+    "genes": [
+      "RPS26",
+      "HBB",
+      "RPS23",
+      "RPS17",
+      "HBA2",
+      "HBA1",
+      "RPL37A",
+      "RPS24",
+      "RPLP0",
+      "HBD",
+      "EEF1B2",
+      "RPL4",
+      "RPL7A",
+      "S100A9",
+      "HBM"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 18.5,
+      "CD4 Effector Memory": 11.5,
+      "CD4 Naive": 60.5,
+      "CD8 Effector Memory 1": 1.0,
+      "CD8 Naive": 8.0
+    },
+    "fold_enrichment": 196.5489501953125
+  },
+  "1339": {
+    "genes": [
+      "CCL4",
+      "NKG7",
+      "CST7",
+      "GNLY",
+      "CCL5",
+      "GZMA",
+      "PRF1",
+      "CTSW",
+      "TYROBP",
+      "FCER1G",
+      "GZMB",
+      "SPON2",
+      "KLRD1",
+      "CCL4L2",
+      "KLRF1"
+    ],
+    "celltype_composition": {
+      "CD4 Central Memory": 5.5,
+      "CD4 Effector Memory": 4.5,
+      "CD4 Naive": 11.0,
+      "CD4 Regulatory": 1.0,
+      "CD8 Central Memory": 3.5,
+      "CD8 Effector Memory 1": 14.0,
+      "CD8 Effector Memory 2": 9.5,
+      "CD8 Naive": 4.5,
+      "NK": 39.0,
+      "NK CD56high": 6.5,
+      "T Proliferating": 1.0
+    },
+    "fold_enrichment": 353.5695495605469
+  }
+}

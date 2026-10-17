@@ -1,0 +1,31 @@
+cluster_id,layer,n_programmes,n_lineages,dominant_pct,lineage_distribution,sample_programmes
+11,B-cell-lineage,54,1,100.0,B-cell=54,Pro-erythroblast mitochondrial ATP synthesis and heme metabolism | Early erythroid oxidative phosphorylation and heme metabolism | Early erythroid oxidative phosphorylation expansion
+21,B-cell-lineage,44,4,72.7,B-cell=32; Mono=6; T/NK=5; DC=1,Early erythroid proliferation with iron metabolism | Early erythroid iron metabolism and ribosomal biogenesis | Early erythroid ribosome biogenesis and RNA processing
+27,B-cell-lineage,41,1,100.0,B-cell=41,IgKappa light chain ER translocation quality control | IgKappa light chain ER folding quality control | IgA heavy chain ER translocation and chaperone folding
+16,B-cell-lineage,26,1,100.0,B-cell=26,Late erythroid haemoglobin synthesis and membrane maturation | Late-stage erythroid maturation and hemoglobin accumulation | Polychromatic erythroblast hemoglobin synthesis
+23,B-cell-lineage,14,1,100.0,B-cell=14,Mid-stage erythroid heme biosynthesis maturation | Early erythroid heme synthesis and oxidative stress management | Early erythroid iron management and protein synthesis
+20,B-cell-lineage,12,1,100.0,B-cell=12,Megakaryocyte precursor proliferation chromatin remodelling | Megakaryocyte-erythroid progenitor S/G2M proliferation | Ribosomal protein synthesis during megakaryocyte precursor maturation
+28,DC-lineage,33,1,100.0,DC=33,pDC Interferon Response and Plasma Cell Differentiation | pDC cytotoxic and plasma cell differentiation | pDC Plasma Cell Differentiation Program
+25,DC-lineage,18,1,100.0,DC=18,Pre-cDC basal metabolic and transcriptional activity | Pre-cDC Metabolic Activation Programme | Pre-cDC metabolic priming and stress resilience
+6,DC-lineage,7,2,57.1,DC=4; Mono=3,Oxidative phosphorylation and protein synthesis | Monocyte metabolic maturation and antimicrobial priming | Lysosomal proteolysis and oxidative metabolism
+4,Mono-lineage,75,4,72.0,Mono=54; DC=15; B-cell=5; T/NK=1,Translational activity in progenitor cells | Ribosomal protein synthesis and mitochondrial activity | Ribosomal protein synthesis translation
+8,Mono-lineage,65,3,87.7,Mono=57; DC=6; B-cell=2,CD14 Mono Acute Inflammatory Response | Classical monocyte antimicrobial granule signature | Monocyte antimicrobial and innate immunity
+3,Mono-lineage,61,2,98.4,Mono=60; DC=1,Early GMP translational capacity program | Ribosomal protein synthesis bioenergetics GMP | Translational machinery Early GMP program
+7,Mono-lineage,57,2,91.2,Mono=52; DC=5,Monocyte antimicrobial effector and damage control | Lysosomal protease and innate immune signalling | Monocyte Lysosomal Proteolysis Iron Metabolism
+5,Mono-lineage,52,2,98.1,Mono=51; B-cell=1,CD16 Monocyte Iron Metabolism ADCC | CD16 Mono cytoskeletal patrolling and ADCC | CD16 Mono iron metabolism and ADCC
+14,Mono-lineage,32,3,90.6,Mono=29; DC=2; B-cell=1,Early ProMono chromatin remodelling proliferation | Early ProMono chromatin remodeling and antimicrobial preparation | Monocyte Nuclear Organization and Translation
+15,Mono-lineage,32,1,100.0,Mono=32,Early ProMono antimicrobial maturation and proliferation | Early ProMono cytoplasmic maturation and antimicrobial | Monocyte antimicrobial cytoplasmic effector
+2,Mono-lineage,29,1,100.0,Mono=29,Early monocyte translational priming | GMP-Mono commitment with stress response | GMP-Mono translational maturation programme
+10,Mono-lineage,23,1,100.0,Mono=23,CD14 Monocyte Antimicrobial Effector Program | Monocyte antimicrobial effector maturation | CD14 Mono Antimicrobial Effector
+12,Mono-lineage,22,1,100.0,Mono=22,Metabolic priming in proliferating GMP | Ribosomal translation and mitochondrial bioenergetics | Early GMP translational activity signature
+22,Mono-lineage,11,2,72.7,Mono=8; T/NK=3,Hemoglobin-expressing metabolically active memory T cells | Erythroid contamination in myeloid progenitors | Erythroid Contamination Artifact
+9,Mono-lineage,9,3,77.8,Mono=7; B-cell=1; DC=1,Iron metabolism and stress response in myeloid cells | CD14 Mono metabolic stress and iron homeostasis | CD14 Mono oxidative stress and antimicrobial
+24,T/NK-lineage,29,1,100.0,T/NK=29,Regulatory T cell metabolic homeostasis | Regulatory T cell homeostatic maintenance | Homeostatic proliferation and mRNA processing
+19,T/NK-lineage,27,1,100.0,T/NK=27,CD4 naive early proliferation and protein synthesis | CD4 central memory homeostatic protein synthesis | Homeostatic proliferation and protein synthesis
+30,T/NK-lineage,25,1,100.0,T/NK=25,Cytotoxic effector granule exocytosis | Cytotoxic effector granule and protein synthesis | CD56dim cytotoxic granule-mediated killing
+29,T/NK-lineage,23,1,100.0,T/NK=23,CD8 effector memory cytotoxic granule programme | Activated effector memory cytotoxic programme | Cytotoxic effector memory activation
+17,T/NK-lineage,21,1,100.0,T/NK=21,Naive T cell homeostatic proliferation | Naive T cell high protein synthesis | Naive T cell protein synthesis
+18,T/NK-lineage,10,1,100.0,T/NK=10,CD4 effector memory homeostatic proliferation | Activated effector memory with proliferative capacity | Effector memory T cell protein synthesis
+1,Ubiquitous,81,3,51.9,DC=42; Mono=36; B-cell=3,Monocyte Antimicrobial Defense and Antigen Presentation | Antigen presentation and monocyte activation | MHC-II antigen presentation and iron homeostasis
+13,Ubiquitous,63,4,68.3,Mono=43; B-cell=10; T/NK=6; DC=4,Early ProMono metabolic-chromatin maturation | Metabolic priming ProMono maturation | Early ProMono mitochondrial bioenergetics expansion
+26,Ubiquitous,19,3,57.9,DC=11; B-cell=7; Mono=1,Pre-cDC nucleolar ribosome biogenesis | Pre-cDC mitotic cell cycle progression | Pre-cDC proliferation and cytoskeletal remodelling

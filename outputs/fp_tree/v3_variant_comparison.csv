@@ -1,0 +1,5 @@
+variant,threshold (>=N),dominance (<=),Ubiq programmes,Ubiq %,Ubiq clusters,Mono-lineage,B-cell-lineage,T/NK-lineage,DC-lineage
+v2_baseline,3,70%,163,16.1,3,468,191,135,58
+v3a_dom60,3,60%,100,9.9,2,531,191,135,58
+v3b_thresh4,4,70%,63,6.2,1,468,191,135,158
+v3c_strict,4,60%,0,0.0,0,531,191,135,158

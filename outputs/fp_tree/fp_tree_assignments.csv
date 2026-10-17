@@ -1,0 +1,1016 @@
+lineage,feature_id,programme_name,confidence,fp_tree_layer,fp_tree_cluster_id,cluster_k10,cluster_k15,cluster_k20,cluster_k50
+B-cell,15,Early erythroid mitochondrial ATP synthesis and iron homeostasis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,45,Early erythroid oxidative phosphorylation metabolic priming,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,46,Early erythroid mitochondrial bioenergetics and heme synthesis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,55,Early erythroid mitochondrial oxidative metabolism,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,59,Early erythroid ATP synthesis and heme-globin assembly,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,63,Early erythroid mitochondrial bioenergetics and heme synthesis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,84,Pro-erythroblast mitochondrial OXPHOS and iron metabolism,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,86,Early erythroid mitochondrial ATP synthesis activation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,92,Early erythroid mitochondrial oxidative phosphorylation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,94,Early erythroid mitochondrial ATP synthesis and heme bioenergetics,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,99,Early erythroid mitochondrial oxidative phosphorylation activation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,116,Early erythroid mitochondrial ATP synthesis expansion,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,137,Early erythroid mitochondrial ATP synthesis and heme metabolism,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,164,Early erythroid mitochondrial bioenergetic expansion,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,193,Early erythroid oxidative phosphorylation and heme synthesis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,208,Pro-erythroblast mitochondrial oxidative phosphorylation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,209,Early erythroid mitochondrial ATP synthesis activation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,368,Early erythroid mitochondrial OXPHOS assembly,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,378,Early erythroid mitochondrial bioenergetic priming,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,418,Early erythroid oxidative phosphorylation and heme metabolism,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,583,Early erythroid mitochondrial bioenergetic expansion,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,588,Early erythroid mitochondrial oxidative phosphorylation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,664,Early erythroid mitochondrial bioenergetic expansion,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,729,Early erythroblast mitochondrial bioenergetics and proliferation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,757,Early erythroblast mitochondrial bioenergetics and iron metabolism,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,763,Early erythroid mitochondrial ATP synthesis and heme metabolism,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,795,Early erythroid mitochondrial bioenergetics proliferation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,890,Early erythroid mitochondrial ATP synthesis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,902,Early erythroblast mitochondrial oxidative phosphorylation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,913,Early erythroid mitochondrial ATP synthesis and iron homeostasis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,992,Early erythroblast mitochondrial ATP synthesis and iron handling,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,999,Early erythroid mitochondrial ATP synthesis activation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1015,Early erythroid mitochondrial bioenergetic expansion,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1099,Early erythroid mitochondrial ATP synthesis and heme maturation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1159,Early erythroid mitochondrial bioenergetics and haem synthesis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1165,Early erythroid mitochondrial OXPHOS activation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1171,Early erythroid mitochondrial oxidative phosphorylation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1190,Early erythroid mitochondrial OXPHOS and iron metabolism,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1207,Early erythroid mitochondrial oxidative phosphorylation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1286,Early erythroid mitochondrial oxidative phosphorylation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1287,Early erythroid mitochondrial oxidative metabolism,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1353,Early erythroid oxidative phosphorylation activation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1462,Early erythroid mitochondrial oxidative phosphorylation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1508,Early erythroid mitochondrial bioenergetics and heme synthesis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1527,Early erythroid oxidative phosphorylation expansion,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1532,Early erythroid mitochondrial ATP synthesis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1549,Pro-erythroblast mitochondrial ATP synthesis and heme metabolism,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1564,Early erythroid mitochondrial OXPHOS and protein synthesis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1605,Early erythroid mitochondrial biogenesis and heme biosynthesis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1607,Early erythroid mitochondrial oxidative metabolism activation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1659,Early erythroid mitochondrial oxidative metabolism,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1693,Pro-erythroblast mitochondrial oxidative phosphorylation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1777,Early erythroid mitochondrial ATP synthesis oxidative phosphorylation,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,1917,Early erythroid mitochondrial ATP synthesis,HIGH,B-cell-lineage,11,5,6,8,22
+B-cell,37,Polychromatic erythroblast hemoglobin synthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,60,Erythroid maturation heme synthesis and RBC biogenesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,1638,Hemoglobin synthesis and heme biosynthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,1754,Mid-stage erythroid maturation with heme synthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,3,Polychromatic erythroblast hemoglobin synthesis and maturation,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,10,Late-stage erythroid maturation and hemoglobin accumulation,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,18,Polychromatic erythroblast hemoglobin synthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,20,Late-stage hemoglobin synthesis and erythroid maturation,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,23,Polychromatic erythroblast hemoglobin synthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,25,Late-stage hemoglobin synthesis and erythroid maturation,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,33,Polychromatic erythroblast hemoglobin synthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,34,Hemoglobin synthesis and heme biosynthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,35,Polychromatic erythroblast hemoglobin synthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,41,Terminal erythroid hemoglobin synthesis and heme biosynthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,43,Polychromatic erythroblast hemoglobin synthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,50,Late erythroid haemoglobin synthesis and membrane maturation,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,66,Late-stage hemoglobin synthesis and heme biosynthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,69,Late erythroid hemoglobin synthesis and maturation,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,79,Late-stage hemoglobin synthesis and heme biosynthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,80,Late erythroid hemoglobin synthesis and heme biosynthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,82,Late-stage hemoglobin synthesis and erythroid maturation,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,85,Late-stage erythroid haemoglobin synthesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,475,Orthochromatic erythroblast terminal haemoglobinization,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,1236,Hemoglobin synthesis and heme biosynthesis maturation,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,1841,Polychromatic erythroblast hemoglobin synthesis and mitochondrial heme biogenesis,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,1849,Late-stage hemoglobin synthesis and mitochondrial iron metabolism,HIGH,B-cell-lineage,16,7,9,11,29
+B-cell,65,Megakaryocyte-dendritic metabolic priming via oxidative phosphorylation,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,76,Megakaryocyte precursor proliferative metabolic priming,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,221,Megakaryocyte precursor proliferation chromatin remodelling,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,570,Ribosomal protein synthesis during megakaryocyte precursor maturation,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,1079,Mitochondrial oxidative metabolism in megakaryocyte progenitors,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,1150,Megakaryocytic progenitor proliferation with RNA processing,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,1202,Megakaryocyte-erythroid progenitor translational priming,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,1471,Mitochondrial oxidative metabolism in proliferating precursors,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,1742,Early erythroid-megakaryocyte proliferation checkpoint,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,1760,Megakaryocyte precursor proliferation and RNA processing,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,1839,Megakaryocyte-erythroid progenitor S/G2M proliferation,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,1865,Megakaryocyte-erythroid progenitor proliferation and RNA processing,HIGH,B-cell-lineage,20,7,11,13,34
+B-cell,148,Mitochondrial biogenesis in early erythroid differentiation,HIGH,B-cell-lineage,21,7,11,13,36
+B-cell,244,Plasma cell ER secretory and translational capacity,HIGH,B-cell-lineage,21,7,11,13,36
+B-cell,249,Early erythroid ER stress response and oxidative metabolism,HIGH,B-cell-lineage,21,7,11,13,36
+B-cell,332,ER protein synthesis and secretory pathway maturation,HIGH,B-cell-lineage,21,7,11,13,36
+B-cell,621,ER protein quality control in early erythroblasts,HIGH,B-cell-lineage,21,7,11,13,36
+B-cell,708,ER proteostasis in antibody-secreting plasma cells,HIGH,B-cell-lineage,21,7,11,13,36
+B-cell,1284,Plasma cell secretory pathway maturation,HIGH,B-cell-lineage,21,7,11,13,36
+B-cell,1501,ER proteostasis in early erythroid differentiation,HIGH,B-cell-lineage,21,7,11,13,36
+B-cell,1722,Early erythroid OXPHOS and ER protein synthesis,HIGH,B-cell-lineage,21,7,11,13,36
+B-cell,38,Pro-erythroblast ribosomal protein synthesis,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,112,Early erythroid mitochondrial biogenesis and iron metabolism,HIGH,B-cell-lineage,21,7,11,13,36
+B-cell,1417,Early erythroid ribosome biogenesis and proliferation,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,47,Early erythroid proliferation with mitochondrial biogenesis,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,62,Early erythroid translation and iron homeostasis,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,109,Pro-erythroblast ribosomal translation and iron metabolism,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,1921,Early erythroid ribosomal translation and iron metabolism,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,40,Early erythroid proliferation with iron metabolism,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,51,Proliferative erythro-megakaryocytic progenitor metabolism,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,64,Early erythroid ribosome biogenesis and RNA processing,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,88,Proliferation-associated proteasomal catabolism,HIGH,B-cell-lineage,21,7,11,13,37
+B-cell,118,Early erythroid progenitor with B-cell contamination,MEDIUM,B-cell-lineage,21,7,11,13,36
+B-cell,123,Stromal niche cytokine and complement regulation,HIGH,B-cell-lineage,21,7,11,13,37
+B-cell,419,Pro-erythroblast proliferation with ribosomal biogenesis,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,528,Polychromatic erythroblast proliferation with proteostasis,HIGH,B-cell-lineage,21,7,11,13,37
+B-cell,654,Early erythroblast ribosomal biosynthesis and proliferation,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,739,Ribosome biogenesis in proliferating erythro-megakaryocytic progenitors,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,850,Early erythroid iron metabolism and ribosomal biogenesis,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,944,Early erythroid proliferation with ribosome biogenesis,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,1340,Early erythroblast ribosome biosynthesis proliferation,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,1678,Early erythroid iron metabolism and ribosome biogenesis,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,2005,Proliferative erythro-megakaryocyte progenitor ribosogenesis,HIGH,B-cell-lineage,21,7,11,13,35
+B-cell,2012,Early erythroid proliferation stress response,HIGH,B-cell-lineage,21,7,11,13,37
+DC,1980,pDC Plasma Cell-like Secretory Programme,MEDIUM,B-cell-lineage,21,7,11,13,37
+Mono,1113,S-phase and DNA replication,HIGH,B-cell-lineage,21,7,11,13,37
+Mono,362,OXPHOS and proteostasis in monocyte maturation,HIGH,B-cell-lineage,21,7,11,13,37
+Mono,1889,Basal protein synthesis and nucleolar biogenesis,HIGH,B-cell-lineage,21,7,11,13,37
+Mono,1765,Nucleolar protein homeostasis and translational control,MEDIUM,B-cell-lineage,21,7,11,13,37
+Mono,785,Cytoplasmic protein synthesis and stress response,MEDIUM,B-cell-lineage,21,7,11,13,37
+Mono,1897,Oxidative stress and protein homeostasis,MEDIUM,B-cell-lineage,21,7,11,13,37
+T/NK,287,Plasma cell-like antibody-secreting T cells,MEDIUM,B-cell-lineage,21,7,11,13,37
+T/NK,1920,Innate-like γδ T cell activation,HIGH,B-cell-lineage,21,7,11,13,37
+T/NK,1788,Early TCR activation with proliferative signaling,HIGH,B-cell-lineage,21,7,11,13,37
+T/NK,174,Early TCR activation and metabolic engagement,HIGH,B-cell-lineage,21,7,11,13,37
+T/NK,5,Recent activation with iron metabolism engagement,MEDIUM,B-cell-lineage,21,7,11,13,37
+B-cell,57,Early erythroid iron handling and hemoglobin synthesis,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,479,Early erythroid iron management and protein synthesis,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,2,Early erythroid proliferation with hemoglobin assembly,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,17,Hemoglobin synthesis with oxidative stress protection,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,22,Early erythroid heme synthesis and oxidative stress management,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,31,Basophilic erythroblast hemoglobin synthesis oxidative stress,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,39,Early erythroid ribosomal biogenesis and hemoglobin assembly,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,202,Mid-stage erythroid heme biosynthesis maturation,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,552,Mid-stage erythroid haemoglobin synthesis and iron homeostasis,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,611,Early erythroid proliferation with heme biosynthesis,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,612,Early erythroid proliferation with heme biosynthesis,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,721,Early-mid erythroid heme biosynthesis and hemoglobin assembly,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,858,Mid-stage erythroid heme biosynthesis and hemoglobin assembly,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,995,Early-intermediate erythroid heme and globin synthesis,HIGH,B-cell-lineage,23,7,11,14,39
+B-cell,0,IgLambda light chain ER quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,1,IgKappa light chain ER folding quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,5,XBP1-driven ER chaperone and ERAD coordination,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,6,IgKappa light chain ER quality control and ERAD,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,7,ER protein folding and disulfide bond maturation,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,8,IgKappa light chain ER quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,9,IgKappa light chain ER translocation quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,12,IgLambda light chain ER folding quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,13,IgKappa ER quality control and ERAD initiation,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,14,IgLambda light chain ER quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,16,IgLambda light chain ER translocation and disulfide folding,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,19,IgKappa ER translocation and disulfide isomerase folding,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,24,IgKappa light chain ER translocation and disulfide isomerization,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,56,IgKappa ER translocation and peptidyl-prolyl isomerase folding,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,73,IgKappa light chain ER quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,75,IgKappa light chain ER translocation and disulfide maturation,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,90,IgG heavy chain ER translocation and proline isomerization,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,254,IgLambda light chain ER quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,355,IgG2 ER translocation and misfolded protein quality control,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,470,IgA heavy chain ER translocation and disulfide isomerase,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,484,IgLambda light chain ER quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,548,IgG heavy chain ER translocation and UPR,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,574,ER translocon and chaperone-mediated Ig folding,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,575,IgA plasma cell ER translocation and quality control,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,576,IgG ER translocation and ERAD quality control,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,816,IgLambda ER quality control and ERAD surveillance,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,837,ER quality control and immunoglobulin folding,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,979,XBP1-driven ER protein quality control IgKappa,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,987,ER translocon signal peptide processing ER-secretory,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,1149,IgA light chain ER translocation and proline isomerization,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,1269,IgLambda light chain ER translocation and quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,1357,IgG2-kappa ER translocation and prolyl isomerase chaperone,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,1428,IgKappa light chain ER translocation quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,1434,IgKappa ER translocation and prolyl isomerase folding,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,1460,ER translocon-mediated Ig secretory pathway initiation,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,1481,IgA heavy chain ER translocation and chaperone folding,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,1552,ER chaperone-mediated Ig folding and ERAD coordination,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,1581,IgG heavy chain ER translocation and proline isomerization,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,1665,IgLambda light chain ER folding quality control,HIGH,B-cell-lineage,27,8,13,17,44
+B-cell,1825,IgG heavy chain ER translocation and disulfide isomerization,HIGH,B-cell-lineage,27,8,13,17,45
+B-cell,2032,IgA ER translocation and chaperone-mediated folding,HIGH,B-cell-lineage,27,8,13,17,45
+DC,288,Oxidative phosphorylation and protein synthesis,HIGH,DC-lineage,6,4,4,5,12
+DC,1123,Oxidative metabolism and cytoskeletal dynamics,MEDIUM,DC-lineage,6,4,4,5,12
+DC,1818,Oxidative phosphorylation and cytoskeletal dynamics,MEDIUM,DC-lineage,6,4,4,5,12
+DC,119,Metabolic and lysosomal maturation in cDC2,MEDIUM,DC-lineage,6,4,4,5,12
+Mono,1887,Lysosomal proteolysis and oxidative metabolism,MEDIUM,DC-lineage,6,4,4,5,12
+Mono,1620,Monocyte metabolic maturation and antimicrobial priming,MEDIUM,DC-lineage,6,4,4,5,12
+Mono,303,Monocyte lysosomal-mitochondrial metabolic programme,MEDIUM,DC-lineage,6,4,4,5,12
+DC,1523,Pre-cDC protein synthesis and metabolic activity,HIGH,DC-lineage,25,7,12,16,42
+DC,627,Pre-cDC metabolic priming and stress resilience,HIGH,DC-lineage,25,7,12,16,42
+DC,1949,Pre-cDC Basal Translation Protein Synthesis,HIGH,DC-lineage,25,7,12,16,42
+DC,1608,Pre-cDC Metabolic Activation Programme,MEDIUM,DC-lineage,25,7,12,16,42
+DC,1098,Pre-cDC metabolic and antimicrobial priming,HIGH,DC-lineage,25,7,12,16,42
+DC,1703,Pre-cDC basal protein synthesis machinery,MEDIUM,DC-lineage,25,7,12,16,42
+DC,391,Pre-cDC cytoskeletal and metabolic maturation,HIGH,DC-lineage,25,7,12,16,42
+DC,1606,Pre-cDC basal metabolic and transcriptional activity,MEDIUM,DC-lineage,25,7,12,16,42
+DC,1290,Pre-cDC metabolic and translational priming,HIGH,DC-lineage,25,7,12,16,42
+DC,1532,Mitochondrial oxidative metabolism in Pre-cDC,HIGH,DC-lineage,25,7,12,16,42
+DC,168,Metabolic priming in committed cDC progenitors,HIGH,DC-lineage,25,7,12,16,42
+DC,1810,Pre-cDC metabolic and antimicrobial maturation,HIGH,DC-lineage,25,7,12,16,42
+DC,869,Metabolic progenitor identity Pre-cDC,HIGH,DC-lineage,25,7,12,16,42
+DC,2002,Metabolic activation Pre-cDC progenitors,MEDIUM,DC-lineage,25,7,12,16,42
+DC,1411,Pre-cDC metabolic and mitotic activation,HIGH,DC-lineage,25,7,12,16,42
+DC,99,Metabolic priming in committed cDC progenitors,MEDIUM,DC-lineage,25,7,12,16,42
+DC,1164,Pre-cDC metabolic and translational activation,HIGH,DC-lineage,25,7,12,16,42
+DC,1920,Pre-cDC mitochondrial metabolism and translation,HIGH,DC-lineage,25,7,12,16,42
+DC,1654,pDC Maturation and Type I IFN Priming,HIGH,DC-lineage,28,9,14,18,46
+DC,1860,pDC maturation and plasma cell differentiation,HIGH,DC-lineage,28,9,14,18,47
+DC,76,pDC Plasma Cell Differentiation Programme,MEDIUM,DC-lineage,28,9,14,18,47
+DC,98,pDC lineage commitment and cycling,HIGH,DC-lineage,28,9,14,18,46
+DC,284,pDC cytotoxic and plasma cell differentiation,HIGH,DC-lineage,28,9,14,18,47
+DC,824,pDC Master Transcriptional Regulatory Programme,HIGH,DC-lineage,28,9,14,18,46
+DC,320,pDC Type I Interferon Maturation Programme,HIGH,DC-lineage,28,9,14,18,46
+DC,1171,pDC cytotoxic maturation and plasma cell differentiation,HIGH,DC-lineage,28,9,14,18,47
+DC,169,pDC plasma cell differentiation and Type I IFN,HIGH,DC-lineage,28,9,14,18,47
+DC,1919,pDC maturation and antibody response,HIGH,DC-lineage,28,9,14,18,47
+DC,552,pDC Type I IFN and plasma cell differentiation,HIGH,DC-lineage,28,9,14,18,47
+DC,1276,pDC maturation and plasma cell differentiation,MEDIUM,DC-lineage,28,9,14,18,47
+DC,1418,pDC terminal differentiation and maturation,HIGH,DC-lineage,28,9,14,18,46
+DC,1492,pDC Plasma Cell Differentiation,MEDIUM,DC-lineage,28,9,14,18,47
+DC,418,pDC Identity and IFN Regulatory Program,HIGH,DC-lineage,28,9,14,18,46
+DC,1696,pDC cytotoxic effector maturation,HIGH,DC-lineage,28,9,14,18,47
+DC,1731,pDC Interferon Response and Maturation,HIGH,DC-lineage,28,9,14,18,46
+DC,339,pDC Type I IFN Production and Maturation,HIGH,DC-lineage,28,9,14,18,46
+DC,1128,pDC Type I IFN Production and Maturation,HIGH,DC-lineage,28,9,14,18,46
+DC,1748,pDC Identity and Type I IFN Priming,HIGH,DC-lineage,28,9,14,18,46
+DC,194,pDC Plasma Cell Differentiation Program,HIGH,DC-lineage,28,9,14,18,47
+DC,758,pDC identity and IFN response,HIGH,DC-lineage,28,9,14,18,46
+DC,90,pDC Type I Interferon Production,HIGH,DC-lineage,28,9,14,18,46
+DC,1849,pDC Interferon Response and Plasma Cell Differentiation,HIGH,DC-lineage,28,9,14,18,46
+DC,894,pDC Type I IFN maturation and effector,HIGH,DC-lineage,28,9,14,18,46
+DC,1507,pDC maturation with cytotoxic differentiation,HIGH,DC-lineage,28,9,14,18,47
+DC,1136,pDC type I interferon production and maturation,HIGH,DC-lineage,28,9,14,18,46
+DC,1234,pDC-cDC2 shared cytotoxic maturation,MEDIUM,DC-lineage,28,9,14,18,47
+DC,995,pDC identity and type I IFN readiness,HIGH,DC-lineage,28,9,14,18,46
+DC,992,pDC cytotoxic maturation and interferon response,HIGH,DC-lineage,28,9,14,18,47
+DC,1074,pDC maturation and antibody response,HIGH,DC-lineage,28,9,14,18,47
+DC,761,pDC Type I Interferon Production Program,HIGH,DC-lineage,28,9,14,18,46
+DC,893,pDC Plasma Cell Differentiation Programme,HIGH,DC-lineage,28,9,14,18,47
+Mono,873,Monocytic differentiation with myeloid priming,HIGH,Mono-lineage,2,2,2,2,3
+Mono,1750,GMP-Mono translation protein synthesis,HIGH,Mono-lineage,2,2,2,2,4
+Mono,1906,Monocyte-committed progenitor translational machinery,HIGH,Mono-lineage,2,2,2,2,4
+Mono,784,Translational activity early monocytic priming,HIGH,Mono-lineage,2,2,2,2,4
+Mono,1812,GMP-Mono translational maturation programme,HIGH,Mono-lineage,2,2,2,2,4
+Mono,1730,GMP-Mono translational priming programme,HIGH,Mono-lineage,2,2,2,2,4
+Mono,863,GMP-to-ProMono antimicrobial granule biogenesis,HIGH,Mono-lineage,2,2,2,2,3
+Mono,980,Monocytic Translation and Metabolic Priming,HIGH,Mono-lineage,2,2,2,2,4
+Mono,2037,GMP-Mono translational capacity expansion,HIGH,Mono-lineage,2,2,2,2,4
+Mono,622,Early monocyte translational priming,HIGH,Mono-lineage,2,2,2,2,4
+Mono,988,Translational capacity early monocytic priming,HIGH,Mono-lineage,2,2,2,2,4
+Mono,443,GMP-Mono myeloid priming and differentiation,HIGH,Mono-lineage,2,2,2,2,3
+Mono,579,GMP-Mono cytoplasmic translation and energetics,HIGH,Mono-lineage,2,2,2,2,4
+Mono,94,Monocytic differentiation with translational priming,HIGH,Mono-lineage,2,2,2,2,4
+Mono,914,GMP-Mono myeloid differentiation,HIGH,Mono-lineage,2,2,2,2,3
+Mono,1839,Early myeloid progenitor translational machinery,HIGH,Mono-lineage,2,2,2,2,4
+Mono,1991,Monopoietic translational priming GMP-Mono,HIGH,Mono-lineage,2,2,2,2,4
+Mono,161,Monocyte translational activity and myeloid maturation,MEDIUM,Mono-lineage,2,2,2,2,4
+Mono,1960,Myeloid progenitor metabolic maturation,HIGH,Mono-lineage,2,2,2,2,4
+Mono,823,Early Myeloid Progenitor Translational Activity,MEDIUM,Mono-lineage,2,2,2,2,4
+Mono,848,Metabolic priming GMP-to-monocyte transition,HIGH,Mono-lineage,2,2,2,2,4
+Mono,160,GMP-Mono commitment with stress response,HIGH,Mono-lineage,2,2,2,2,3
+Mono,1658,GMP-Mono translational priming,HIGH,Mono-lineage,2,2,2,2,4
+Mono,347,Translational capacity monocytic differentiation,HIGH,Mono-lineage,2,2,2,2,4
+Mono,1790,Translational priming in early monocyte development,MEDIUM,Mono-lineage,2,2,2,2,4
+Mono,1621,Monocytic differentiation with translational priming,HIGH,Mono-lineage,2,2,2,2,4
+Mono,552,Translational capacity early monocytic priming,MEDIUM,Mono-lineage,2,2,2,2,4
+Mono,1195,Monocyte translational activity maturation,MEDIUM,Mono-lineage,2,2,2,2,4
+Mono,1475,Myeloid Progenitor Maturation with ER Stress,MEDIUM,Mono-lineage,2,2,2,2,4
+DC,185,Translational capacity active progenitors,HIGH,Mono-lineage,3,2,2,3,5
+Mono,890,Early GMP translational capacity and biosynthesis,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1301,Early GMP translational capacity program,HIGH,Mono-lineage,3,2,2,3,5
+Mono,9,Early GMP translational capacity priming,HIGH,Mono-lineage,3,2,2,3,5
+Mono,555,Ribosomal protein synthesis Early GMP,HIGH,Mono-lineage,3,2,2,3,5
+Mono,343,Early GMP translational machinery activation,HIGH,Mono-lineage,3,2,2,3,5
+Mono,789,Early GMP ribosomal protein synthesis,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1207,Early GMP translational machinery activation,HIGH,Mono-lineage,3,2,2,3,5
+Mono,97,Ribosomal protein synthesis Early GMP,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1806,Early GMP ribosomal translation capacity,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1327,Translational machinery Early GMP program,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1554,Early GMP translational/metabolic priming,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1098,Translational capacity in GMP-Mono progenitors,HIGH,Mono-lineage,3,2,2,3,5
+Mono,426,Early GMP ribosomal translation priming,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1614,Early GMP translational priming programme,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1882,Ribosomal protein synthesis Early GMP,MEDIUM,Mono-lineage,3,2,2,3,5
+Mono,1146,Ribosomal protein translation Early GMP,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1782,Early GMP ribosomal translation capacity,HIGH,Mono-lineage,3,2,2,3,5
+Mono,920,Early GMP translational capacity priming,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1326,Early GMP translational capacity priming,HIGH,Mono-lineage,3,2,2,3,5
+Mono,517,Ribosomal protein synthesis early GMP,HIGH,Mono-lineage,3,2,2,3,5
+Mono,62,Early GMP ribosomal translation capacity,HIGH,Mono-lineage,3,2,2,3,5
+Mono,888,Early GMP protein synthesis translation machinery,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1457,Early GMP translational machinery upregulation,MEDIUM,Mono-lineage,3,2,2,3,5
+Mono,403,Early GMP translational activity programme,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1185,Early GMP ribosomal and translational capacity,HIGH,Mono-lineage,3,2,2,3,5
+Mono,976,Early GMP Translational Machinery Activity,HIGH,Mono-lineage,3,2,2,3,5
+Mono,121,Early GMP translational machinery activation,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1540,Early GMP translational machinery activation,MEDIUM,Mono-lineage,3,2,2,3,5
+Mono,390,Early GMP translational activation programme,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1770,Early GMP translational capacity programme,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1047,Early GMP ribosomal and translational priming,MEDIUM,Mono-lineage,3,2,2,3,5
+Mono,1260,Early GMP translational capacity and biosynthesis,HIGH,Mono-lineage,3,2,2,3,5
+Mono,508,Translational Capacity Early Myeloid Progenitors,HIGH,Mono-lineage,3,2,2,3,5
+Mono,809,GMP cell cycle translation machinery,HIGH,Mono-lineage,3,2,2,3,5
+Mono,12,Early GMP translational machinery activation,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1372,Ribosomal and translational capacity early GMP,MEDIUM,Mono-lineage,3,2,2,3,5
+Mono,1817,Early GMP protein synthesis machinery,HIGH,Mono-lineage,3,2,2,3,5
+Mono,134,Early GMP translational activity housekeeping,MEDIUM,Mono-lineage,3,2,2,3,5
+Mono,680,Early GMP Translational Capacity,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1319,Early GMP translational machinery activation,HIGH,Mono-lineage,3,2,2,3,5
+Mono,711,GMP ribosomal protein synthesis program,HIGH,Mono-lineage,3,2,2,3,5
+Mono,167,Elevated translational capacity early GMP,HIGH,Mono-lineage,3,2,2,3,5
+Mono,458,Early GMP ribosomal protein synthesis,HIGH,Mono-lineage,3,2,2,3,5
+Mono,255,Early GMP translational capacity and metabolism,HIGH,Mono-lineage,3,2,2,3,5
+Mono,19,Ribosomal biogenesis early GMP priming,HIGH,Mono-lineage,3,2,2,3,5
+Mono,514,Early GMP Translational Capacity Priming,MEDIUM,Mono-lineage,3,2,2,3,5
+Mono,400,Ribosomal protein synthesis Early GMP,HIGH,Mono-lineage,3,2,2,3,5
+Mono,866,Early GMP ribosomal translation machinery,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1622,GMP ribosomal and translational capacity,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1698,Ribosomal Protein Translation Early GMP,MEDIUM,Mono-lineage,3,2,2,3,5
+Mono,1986,Translational machinery Early GMP activity,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1757,Early GMP protein synthesis capacity,HIGH,Mono-lineage,3,2,2,3,5
+Mono,32,Ribosomal protein synthesis Early GMP,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1662,Early GMP ribosomal protein synthesis,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1729,Ribosomal protein synthesis bioenergetics GMP,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1073,Early GMP ribosomal biogenesis and translation,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1139,Translational machinery in Early GMP,MEDIUM,Mono-lineage,3,2,2,3,5
+Mono,223,Early GMP protein synthesis and translation,HIGH,Mono-lineage,3,2,2,3,5
+Mono,1011,Translational machinery in early myeloid progenitors,MEDIUM,Mono-lineage,3,2,2,3,5
+Mono,2029,Early GMP Translational Machinery Activation,HIGH,Mono-lineage,3,2,2,3,5
+B-cell,44,Ribosomal protein synthesis in proliferating erythroid progenitors,HIGH,Mono-lineage,4,2,2,3,7
+B-cell,74,Ribosomal protein synthesis in erythroid-committed progenitors,HIGH,Mono-lineage,4,2,2,3,7
+B-cell,121,CFU-E ribosomal protein synthesis programme,HIGH,Mono-lineage,4,2,2,3,7
+B-cell,640,Early erythroid ribosome biogenesis and translational capacity,HIGH,Mono-lineage,4,2,2,3,8
+B-cell,771,Proliferating erythroid progenitor translational machinery,HIGH,Mono-lineage,4,2,2,3,7
+DC,1073,Progenitor Translation and Protein Synthesis,HIGH,Mono-lineage,4,2,2,3,6
+DC,1811,Translational capacity and myeloid activation,HIGH,Mono-lineage,4,2,2,3,8
+DC,1079,Progenitor Translational Capacity Programme,HIGH,Mono-lineage,4,2,2,3,6
+DC,1674,Progenitor protein synthesis and translation,HIGH,Mono-lineage,4,2,2,3,6
+DC,680,Pre-pDC Translation and IRF8 Priming,HIGH,Mono-lineage,4,2,2,3,6
+DC,2016,Pre-pDC Translational Activity Programme,HIGH,Mono-lineage,4,2,2,3,6
+DC,1202,Ribosomal Translation and Pre-pDC Priming,HIGH,Mono-lineage,4,2,2,3,6
+DC,1510,Housekeeping and translational capacity,MEDIUM,Mono-lineage,4,2,2,3,8
+DC,206,Ribosomal protein synthesis Pre-pDC,MEDIUM,Mono-lineage,4,2,2,3,6
+DC,366,Nuclear-Cytoplasmic Protein Synthesis Progenitor,HIGH,Mono-lineage,4,2,2,3,6
+DC,1019,Translational machinery in Pre-pDC,MEDIUM,Mono-lineage,4,2,2,3,6
+DC,241,Pre-pDC Cycling Cell Proliferation,HIGH,Mono-lineage,4,2,2,3,6
+DC,1751,Translational activity in progenitor cells,HIGH,Mono-lineage,4,2,2,3,6
+DC,665,Progenitor protein synthesis and translation,HIGH,Mono-lineage,4,2,2,3,6
+DC,1436,Ribosomal and mitochondrial metabolic priming,HIGH,Mono-lineage,4,2,2,3,8
+Mono,74,Ribosomal protein synthesis translation machinery,MEDIUM,Mono-lineage,4,2,2,3,7
+Mono,1510,Translational machinery and protein synthesis,HIGH,Mono-lineage,4,2,2,3,7
+Mono,1594,Translational capacity and ribosomal biogenesis,HIGH,Mono-lineage,4,2,2,3,8
+Mono,810,Protein synthesis and ribosomal biogenesis,HIGH,Mono-lineage,4,2,2,3,7
+Mono,1593,Protein synthesis and translation machinery,HIGH,Mono-lineage,4,2,2,3,7
+Mono,774,Ribosomal protein synthesis and translation,HIGH,Mono-lineage,4,2,2,3,7
+Mono,72,Ribosomal protein translation machinery,MEDIUM,Mono-lineage,4,2,2,3,7
+Mono,616,Translational machinery and metabolic priming,HIGH,Mono-lineage,4,2,2,3,8
+Mono,477,Translational machinery ribosomal protein synthesis,HIGH,Mono-lineage,4,2,2,3,7
+Mono,262,Ribosomal protein synthesis and translation,HIGH,Mono-lineage,4,2,2,3,7
+Mono,228,Translational capacity and mitochondrial metabolism,HIGH,Mono-lineage,4,2,2,3,8
+Mono,987,Protein synthesis machinery activation,HIGH,Mono-lineage,4,2,2,3,7
+Mono,1901,Early GMP Translation and Metabolic Priming,HIGH,Mono-lineage,4,2,2,3,8
+Mono,114,Ribosomal protein biosynthesis progenitor activity,HIGH,Mono-lineage,4,2,2,3,7
+Mono,449,GMP-Cycle translational machinery activation,HIGH,Mono-lineage,4,2,2,3,8
+Mono,1733,Ribosomal protein synthesis translation,HIGH,Mono-lineage,4,2,2,3,7
+Mono,82,Ribosomal protein synthesis and translational capacity,HIGH,Mono-lineage,4,2,2,3,8
+Mono,241,Ribosomal protein translation machinery,HIGH,Mono-lineage,4,2,2,3,7
+Mono,949,Ribosomal protein synthesis progenitor priming,HIGH,Mono-lineage,4,2,2,3,7
+Mono,897,Ribosomal protein synthesis and translation machinery,HIGH,Mono-lineage,4,2,2,3,7
+Mono,1606,Early GMP basal translation and protein synthesis,MEDIUM,Mono-lineage,4,2,2,3,7
+Mono,674,Early GMP ribosomal/metabolic priming,MEDIUM,Mono-lineage,4,2,2,3,8
+Mono,442,Ribosomal protein translation and mitochondrial oxidative metabolism,MEDIUM,Mono-lineage,4,2,2,3,7
+Mono,239,Ribosomal protein synthesis translational capacity,HIGH,Mono-lineage,4,2,2,3,8
+Mono,541,Ribosomal Translation and Mitochondrial Activity,HIGH,Mono-lineage,4,2,2,3,7
+Mono,1254,Ribosomal protein synthesis priming,HIGH,Mono-lineage,4,2,2,3,7
+Mono,176,Ribosomal Protein Synthesis Progenitor Activity,HIGH,Mono-lineage,4,2,2,3,7
+Mono,1170,Ribosomal protein synthesis and metabolic priming,HIGH,Mono-lineage,4,2,2,3,8
+Mono,1232,Ribosomal translation and protein synthesis,HIGH,Mono-lineage,4,2,2,3,7
+Mono,429,Ribosomal protein translation machinery,HIGH,Mono-lineage,4,2,2,3,7
+Mono,569,Ribosomal translation and energetic priming,HIGH,Mono-lineage,4,2,2,3,8
+Mono,379,Ribosomal translation and protein synthesis,HIGH,Mono-lineage,4,2,2,3,7
+Mono,623,Protein synthesis translation machinery,MEDIUM,Mono-lineage,4,2,2,3,7
+Mono,383,Early GMP ribosomal translation capacity,MEDIUM,Mono-lineage,4,2,2,3,8
+Mono,499,Early GMP Basal Translation and Chromatin,HIGH,Mono-lineage,4,2,2,3,7
+Mono,1867,Ribosomal and translational biosynthesis,HIGH,Mono-lineage,4,2,2,3,8
+Mono,170,Translational machinery and metabolic priming,MEDIUM,Mono-lineage,4,2,2,3,8
+Mono,1591,Ribosomal biosynthesis and translation elongation,HIGH,Mono-lineage,4,2,2,3,8
+Mono,1860,Ribosomal protein synthesis and translation,MEDIUM,Mono-lineage,4,2,2,3,7
+Mono,515,Ribosomal protein synthesis and mitochondrial activity,HIGH,Mono-lineage,4,2,2,3,7
+Mono,393,Translational capacity and protein synthesis,HIGH,Mono-lineage,4,2,2,3,7
+Mono,138,Ribosomal protein synthesis and translation,MEDIUM,Mono-lineage,4,2,2,3,7
+Mono,635,Ribosomal protein synthesis and translation elongation,MEDIUM,Mono-lineage,4,2,2,3,7
+Mono,1850,Ribosomal protein synthesis and translation,HIGH,Mono-lineage,4,2,2,3,7
+Mono,886,Translational capacity and oxidative stress,MEDIUM,Mono-lineage,4,2,2,3,8
+Mono,401,Housekeeping and translational metabolism,HIGH,Mono-lineage,4,2,2,3,8
+Mono,1386,Translational capacity and metabolic fitness,MEDIUM,Mono-lineage,4,2,2,3,8
+Mono,322,Ribosomal protein synthesis elevated progenitors,HIGH,Mono-lineage,4,2,2,3,7
+Mono,1410,Ribosomal protein translation and cellular metabolism,HIGH,Mono-lineage,4,2,2,3,7
+Mono,2027,Translational capacity and metabolic priming,HIGH,Mono-lineage,4,2,2,3,8
+Mono,1391,Translational machinery and protein synthesis,HIGH,Mono-lineage,4,2,2,3,7
+Mono,1010,Ribosomal protein synthesis elevated progenitors,MEDIUM,Mono-lineage,4,2,2,3,7
+Mono,754,Translational capacity and metabolic priming,MEDIUM,Mono-lineage,4,2,2,3,8
+Mono,1321,Ribosomal protein and translation machinery,HIGH,Mono-lineage,4,2,2,3,7
+T/NK,1652,Proliferating T cell ribosomal biogenesis,HIGH,Mono-lineage,4,2,2,3,8
+B-cell,1811,CD16+ non-classical monocyte iron-lysosomal metabolic state,HIGH,Mono-lineage,5,3,3,4,9
+Mono,341,CD16 Monocyte Iron Metabolism and ADCC,HIGH,Mono-lineage,5,3,3,4,11
+Mono,1323,CD16 Monocyte Iron Metabolism ADCC,HIGH,Mono-lineage,5,3,3,4,11
+Mono,65,CD16 Monocyte Cytoskeletal Actin Remodeling,HIGH,Mono-lineage,5,3,3,4,9
+Mono,1049,CD16 Mono iron metabolism and ADCC,HIGH,Mono-lineage,5,3,3,4,11
+Mono,608,CD16 Mono lysosomal-ITAM signaling activation,HIGH,Mono-lineage,5,3,3,4,9
+Mono,1382,CD16 Monocyte Cytoskeletal-Metabolic Signature,HIGH,Mono-lineage,5,3,3,4,9
+Mono,269,CD16 Monocyte Cytoskeletal and Fc-Receptor Activation,HIGH,Mono-lineage,5,3,3,4,9
+Mono,1439,CD16 Monocyte Antimicrobial Defense Activation,HIGH,Mono-lineage,5,3,3,4,11
+Mono,1736,CD16 Monocyte Cytoskeletal Activation Signature,HIGH,Mono-lineage,5,3,3,4,9
+Mono,842,CD16 Monocyte ADCC and Iron Metabolism,HIGH,Mono-lineage,5,3,3,4,11
+Mono,125,CD16 Monocyte Iron Metabolism and Immune Surveillance,HIGH,Mono-lineage,5,3,3,4,10
+Mono,1819,CD16 Monocyte Cytoskeletal and ADCC Activation,HIGH,Mono-lineage,5,3,3,4,9
+Mono,507,CD16 Monocyte Myeloid Activation Program,HIGH,Mono-lineage,5,3,3,4,9
+Mono,154,CD16 Monocyte Patrolling and Antiviral,HIGH,Mono-lineage,5,3,3,4,11
+Mono,1971,CD16 Mono Lysosomal Activation Program,HIGH,Mono-lineage,5,3,3,4,9
+Mono,1403,CD16 Monocyte Cytoskeletal Remodeling Program,HIGH,Mono-lineage,5,3,3,4,9
+Mono,1953,CD16 Monocyte Lysosomal and Cytoskeletal Activation,HIGH,Mono-lineage,5,3,3,4,9
+Mono,1511,CD16 Monocyte Patrolling and Antiviral Surveillance,HIGH,Mono-lineage,5,3,3,4,11
+Mono,571,CD16 Monocyte Lysosomal Activation,HIGH,Mono-lineage,5,3,3,4,9
+Mono,1259,CD16 Monocyte Cytoskeletal Activation Programme,HIGH,Mono-lineage,5,3,3,4,9
+Mono,1400,CD16 Monocyte Cytoskeletal Crawling,HIGH,Mono-lineage,5,3,3,4,9
+Mono,133,CD16 Monocyte Lysosomal Antimicrobial Program,HIGH,Mono-lineage,5,3,3,4,9
+Mono,1964,CD16 Monocyte Iron Metabolism and Cytoskeletal Dynamics,HIGH,Mono-lineage,5,3,3,4,10
+Mono,1291,CD16 Mono Iron Metabolism Lysosomal Homeostasis,HIGH,Mono-lineage,5,3,3,4,10
+Mono,852,CD16 Monocyte Iron Metabolism and Antiviral Priming,HIGH,Mono-lineage,5,3,3,4,11
+Mono,768,CD16 Monocyte Antimicrobial Defense and Iron Metabolism,HIGH,Mono-lineage,5,3,3,4,11
+Mono,972,CD16 Monocyte Cytoskeletal Activation,HIGH,Mono-lineage,5,3,3,4,9
+Mono,879,CD16 Monocyte Antiviral and Cytoskeletal Activation,HIGH,Mono-lineage,5,3,3,4,9
+Mono,324,CD16 Monocyte Myeloid Activation Signature,HIGH,Mono-lineage,5,3,3,4,9
+Mono,166,CD16 Monocyte Iron Metabolism and Antiviral Surveillance,HIGH,Mono-lineage,5,3,3,4,11
+Mono,553,CD16 Monocyte Cytoskeletal Actin Remodeling,HIGH,Mono-lineage,5,3,3,4,9
+Mono,808,CD16 Monocyte Lysosomal and Innate Activation,HIGH,Mono-lineage,5,3,3,4,9
+Mono,1849,CD16 Monocyte Cytoskeletal and Iron Metabolism,MEDIUM,Mono-lineage,5,3,3,4,9
+Mono,1019,CD16 Monocyte Antimicrobial Defense Program,HIGH,Mono-lineage,5,3,3,4,11
+Mono,1199,CD16 Mono Iron Homeostasis Stress Response,HIGH,Mono-lineage,5,3,3,4,10
+Mono,87,CD16 Mono Iron Homeostasis Stress Response,MEDIUM,Mono-lineage,5,3,3,4,10
+Mono,76,Iron homeostasis and proteolytic remodelling,MEDIUM,Mono-lineage,5,3,3,4,10
+Mono,802,CD16 Mono Iron Metabolism Antiviral,HIGH,Mono-lineage,5,3,3,4,11
+Mono,1293,CD16 Monocyte Cytoskeletal and Immune Activation,HIGH,Mono-lineage,5,3,3,4,9
+Mono,375,CD16 Monocyte Iron Metabolism Antiviral,HIGH,Mono-lineage,5,3,3,4,11
+Mono,291,CD16 Mono cytoskeletal patrolling and ADCC,HIGH,Mono-lineage,5,3,3,4,9
+Mono,1235,CD16 Monocyte Iron Metabolism and Cytoskeletal Remodeling,MEDIUM,Mono-lineage,5,3,3,4,10
+Mono,653,Metabolic-cytoskeletal priming CD16 monocytes,MEDIUM,Mono-lineage,5,3,3,4,9
+Mono,506,CD16 Monocyte Antimicrobial ADCC Program,HIGH,Mono-lineage,5,3,3,4,11
+Mono,825,CD16 Monocyte Fc Receptor Lysosomal Program,HIGH,Mono-lineage,5,3,3,4,9
+Mono,243,CD16 Monocyte ADCC and Iron Metabolism,HIGH,Mono-lineage,5,3,3,4,11
+Mono,207,CD16 Monocyte Antimicrobial Innate Immune,HIGH,Mono-lineage,5,3,3,4,11
+Mono,1379,CD16 Monocyte Cytoskeletal Actin Remodeling,HIGH,Mono-lineage,5,3,3,4,9
+Mono,2047,CD16 Monocyte Iron Homeostasis and Antimicrobial Response,MEDIUM,Mono-lineage,5,3,3,4,10
+Mono,1178,CD16 Monocyte Activation and Innate Response,HIGH,Mono-lineage,5,3,3,4,11
+Mono,713,CD16 Monocyte ADCC and Immune Surveillance,HIGH,Mono-lineage,5,3,3,4,11
+DC,1819,cDC2 Maturation and Antigen Processing,HIGH,Mono-lineage,7,4,4,5,13
+DC,1322,cDC2 protein synthesis and metabolic activity,HIGH,Mono-lineage,7,4,4,5,13
+DC,1769,cDC2 Lysosomal Protease and Antigen Processing,HIGH,Mono-lineage,7,4,4,5,13
+DC,753,Lysosomal proteolysis and antigen processing,MEDIUM,Mono-lineage,7,4,4,5,13
+DC,1743,Myeloid Lysosomal Antimicrobial Maturation,MEDIUM,Mono-lineage,7,4,4,5,13
+Mono,1578,Myeloid lysosomal-ITAM innate sensing,HIGH,Mono-lineage,7,4,4,5,15
+Mono,759,Monocyte lysosomal and innate immune activation,HIGH,Mono-lineage,7,4,4,5,14
+Mono,904,Interferon-responsive antimicrobial monocyte activation,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,597,Monocyte lysosomal and innate immune activation,HIGH,Mono-lineage,7,4,4,5,14
+Mono,1184,Monocyte lysosomal and innate immune activation,HIGH,Mono-lineage,7,4,4,5,14
+Mono,137,Interferon-induced antiviral and lysosomal response,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,1630,Monocyte Cytoskeletal Remodeling and Lysosomal Function,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,1105,CD14 Mono antimicrobial maturation and iron homeostasis,HIGH,Mono-lineage,7,4,4,5,13
+Mono,1218,Lysosomal-mediated antimicrobial response,HIGH,Mono-lineage,7,4,4,5,13
+Mono,1802,CD14 Monocyte Lysosomal-Antimicrobial Effector,HIGH,Mono-lineage,7,4,4,5,13
+Mono,177,Lysosomal and Innate Immune Effector,HIGH,Mono-lineage,7,4,4,5,14
+Mono,1028,Monocyte lysosomal proteolysis and iron metabolism,MEDIUM,Mono-lineage,7,4,4,5,13
+Mono,862,Monocyte lysosomal and antimicrobial effector,MEDIUM,Mono-lineage,7,4,4,5,13
+Mono,1654,Lysosomal protease and innate immune signalling,HIGH,Mono-lineage,7,4,4,5,14
+Mono,1675,CD14 Monocyte Lysosomal-Phagolysosomal Maturation,HIGH,Mono-lineage,7,4,4,5,14
+Mono,381,Monocyte Lysosomal and Innate Immune Activation,HIGH,Mono-lineage,7,4,4,5,14
+Mono,344,Myeloid lysosomal maturation iron homeostasis,HIGH,Mono-lineage,7,4,4,5,13
+Mono,2007,Lysosomal Proteolysis and Iron Homeostasis,HIGH,Mono-lineage,7,4,4,5,13
+Mono,876,Interferon-induced antimicrobial effector response,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,1095,CD14 monocyte lysosomal proteolysis iron metabolism,HIGH,Mono-lineage,7,4,4,5,13
+Mono,1436,Lysosomal proteolysis and oxidative stress response,HIGH,Mono-lineage,7,4,4,5,13
+Mono,2046,Myeloid lysosomal proteolytic and innate immune machinery,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,675,Monocyte cytoplasmic calcium signaling and lysosomal proteolysis,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,1283,Monocyte proteostasis and damage control,MEDIUM,Mono-lineage,7,4,4,5,13
+Mono,1234,Lysosomal proteolysis and antimicrobial effector,HIGH,Mono-lineage,7,4,4,5,13
+Mono,1741,CD14 Monocyte Antimicrobial Defense Proteostasis,HIGH,Mono-lineage,7,4,4,5,13
+Mono,1388,Lysosomal proteolysis and antigen processing,HIGH,Mono-lineage,7,4,4,5,13
+Mono,951,Monocyte Lysosomal Proteolysis Iron Metabolism,MEDIUM,Mono-lineage,7,4,4,5,13
+Mono,592,CD14 Monocyte Lysosomal and Antimicrobial Program,HIGH,Mono-lineage,7,4,4,5,13
+Mono,926,CD14 Monocyte Cytoskeletal Activation Effector,HIGH,Mono-lineage,7,4,4,5,15
+Mono,1748,Lysosomal Proteolysis and Phagocytic Maturation,HIGH,Mono-lineage,7,4,4,5,13
+Mono,1585,Classical monocyte lysosomal antimicrobial programme,HIGH,Mono-lineage,7,4,4,5,13
+Mono,883,Monocyte stress response and iron homeostasis,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,1214,Monocyte antimicrobial effector and damage control,HIGH,Mono-lineage,7,4,4,5,13
+Mono,627,Monocyte cytoskeletal remodeling and stress response,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,1467,CD14 Monocyte Lysosomal and Antigen Processing,HIGH,Mono-lineage,7,4,4,5,13
+Mono,1820,Activated inflammatory monocyte response,HIGH,Mono-lineage,7,4,4,5,13
+Mono,102,Monocyte Cytoplasmic Remodelling and Iron Metabolism,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,1674,Lysosomal and innate immune sensing,HIGH,Mono-lineage,7,4,4,5,14
+Mono,1022,Interferon-primed monocyte activation and effector function,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,265,Myeloid differentiation and innate effector activation,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,1228,Monocyte Antimicrobial Effector Activation,HIGH,Mono-lineage,7,4,4,5,15
+Mono,593,Monocyte Innate Immune Activation,HIGH,Mono-lineage,7,4,4,5,14
+Mono,1236,Monocyte ribosomal and lysosomal homeostasis,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,855,Activated CD14 monocyte iron and proteolysis,HIGH,Mono-lineage,7,4,4,5,15
+Mono,1000,Lysosomal-Phagocytic Maturation & Antigen Processing,HIGH,Mono-lineage,7,4,4,5,13
+Mono,1171,Monocyte innate immune effector activation,HIGH,Mono-lineage,7,4,4,5,15
+Mono,1780,Monocyte granule and lysosomal proteolysis,HIGH,Mono-lineage,7,4,4,5,13
+Mono,1288,Monocyte Activation Lysosomal Proteostasis,MEDIUM,Mono-lineage,7,4,4,5,13
+Mono,528,Monocyte cytoskeletal remodelling and lysosomal proteolysis,MEDIUM,Mono-lineage,7,4,4,5,15
+Mono,1070,Myeloid Cytoskeletal Activation and Innate Sensing,HIGH,Mono-lineage,7,4,4,5,15
+Mono,693,Lysosomal Degradation and Antigen Processing,HIGH,Mono-lineage,7,4,4,5,13
+B-cell,1433,Classical monocyte maturation and antimicrobial activation,HIGH,Mono-lineage,8,4,5,6,19
+B-cell,1959,Classical monocyte myeloid maturation and inflammation,HIGH,Mono-lineage,8,4,5,6,19
+DC,382,Myeloid antimicrobial innate effector,MEDIUM,Mono-lineage,8,4,5,6,17
+DC,402,Myeloid inflammatory innate response,HIGH,Mono-lineage,8,4,5,6,17
+DC,472,Myeloid differentiation and innate immune activation,HIGH,Mono-lineage,8,4,5,6,17
+DC,251,Myeloid innate immune activation program,MEDIUM,Mono-lineage,8,4,5,6,17
+DC,1002,Monocytic-Lineage Innate Immune Activation,MEDIUM,Mono-lineage,8,4,5,6,17
+DC,788,cDC2 inflammatory myeloid differentiation,HIGH,Mono-lineage,8,4,5,6,17
+Mono,230,CD14 Mono Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,17
+Mono,1987,Classical monocyte myeloid differentiation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,1012,CD14 Monocyte Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,832,CD14 Mono Innate Inflammatory Response,HIGH,Mono-lineage,8,4,5,6,17
+Mono,1,Classical Monocyte Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,1425,CD14 Mono acute inflammatory response,HIGH,Mono-lineage,8,4,5,6,18
+Mono,1007,CD14 Mono Acute Inflammatory Response,HIGH,Mono-lineage,8,4,5,6,18
+Mono,1653,Myeloid antimicrobial and calcium signaling,HIGH,Mono-lineage,8,4,5,6,16
+Mono,342,CD14 Monocyte Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,1157,CD14 Monocyte Pro-inflammatory Activation,HIGH,Mono-lineage,8,4,5,6,18
+Mono,705,Myeloid Pattern Recognition and Innate Response,HIGH,Mono-lineage,8,4,5,6,17
+Mono,100,Myeloid antimicrobial response and innate immunity,HIGH,Mono-lineage,8,4,5,6,16
+Mono,1210,Myeloid antimicrobial granule biogenesis,HIGH,Mono-lineage,8,4,5,6,16
+Mono,1432,CD14 Monocyte Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,1324,CD14 Monocyte Metabolic Activation and Innate Response,HIGH,Mono-lineage,8,4,5,6,18
+Mono,278,CD14 Monocyte Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,402,Monocyte Innate Immunity and Antimicrobial Response,HIGH,Mono-lineage,8,4,5,6,17
+Mono,777,Myeloid antimicrobial granule and damage-associated molecular pattern,HIGH,Mono-lineage,8,4,5,6,16
+Mono,1345,Myeloid Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,17
+Mono,1970,Acute Inflammatory Monocyte Activation,HIGH,Mono-lineage,8,4,5,6,18
+Mono,117,Classical monocyte inflammatory activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,780,CD14 Monocyte Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,1256,Inflammatory Myeloid Antimicrobial Effector Programme,HIGH,Mono-lineage,8,4,5,6,16
+Mono,23,Classical monocyte antimicrobial effector program,HIGH,Mono-lineage,8,4,5,6,16
+Mono,1043,Myeloid Innate Immunity Calmodulin Signalling,HIGH,Mono-lineage,8,4,5,6,17
+Mono,455,Classical Monocyte Granule and Antimicrobial Programme,HIGH,Mono-lineage,8,4,5,6,16
+Mono,338,Myeloid differentiation innate immunity,HIGH,Mono-lineage,8,4,5,6,17
+Mono,195,Monocyte antimicrobial and innate immunity,MEDIUM,Mono-lineage,8,4,5,6,17
+Mono,586,Myeloid innate immunity antimicrobial effector,HIGH,Mono-lineage,8,4,5,6,17
+Mono,299,Myeloid Emergency Granulopoiesis and Inflammation,HIGH,Mono-lineage,8,4,5,6,18
+Mono,1308,CD14 Monocyte Myeloid Differentiation and Inflammatory Priming,HIGH,Mono-lineage,8,4,5,6,19
+Mono,1392,CD14 Monocyte Antimicrobial Innate Response,HIGH,Mono-lineage,8,4,5,6,16
+Mono,568,Innate immune myeloid differentiation programme,HIGH,Mono-lineage,8,4,5,6,17
+Mono,1285,CD14 Monocyte Myeloid Differentiation Program,HIGH,Mono-lineage,8,4,5,6,19
+Mono,1739,Classical monocyte antimicrobial and damage response,HIGH,Mono-lineage,8,4,5,6,16
+Mono,2024,Myeloid Innate Immunity Calmodulin Signaling,HIGH,Mono-lineage,8,4,5,6,17
+Mono,152,Classical Monocyte Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,1380,Monocyte antimicrobial and inflammatory response,MEDIUM,Mono-lineage,8,4,5,6,16
+Mono,1871,CD14 Mono Innate Inflammatory Calcium Signaling,HIGH,Mono-lineage,8,4,5,6,17
+Mono,2045,CD14 Monocyte Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,1462,CD14 Monocyte Acute Inflammatory Response,HIGH,Mono-lineage,8,4,5,6,18
+Mono,939,CD14 Monocyte Metabolic Inflammation Activation,HIGH,Mono-lineage,8,4,5,6,18
+Mono,1102,Myeloid antimicrobial effector activation,HIGH,Mono-lineage,8,4,5,6,16
+Mono,772,Classical Monocyte Myeloid Differentiation Signature,HIGH,Mono-lineage,8,4,5,6,19
+Mono,794,Neutrophil-like antimicrobial granule programme,HIGH,Mono-lineage,8,4,5,6,16
+Mono,895,Classical monocyte antimicrobial granule signature,HIGH,Mono-lineage,8,4,5,6,16
+Mono,1563,Acute myeloid antimicrobial response,HIGH,Mono-lineage,8,4,5,6,16
+Mono,366,Classical monocyte myeloid effector activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,2036,Calprotectin innate immune activation programme,HIGH,Mono-lineage,8,4,5,6,17
+Mono,2,Myeloid danger-associated molecular pattern response,HIGH,Mono-lineage,8,4,5,6,16
+Mono,531,Myeloid antimicrobial granule protein program,HIGH,Mono-lineage,8,4,5,6,16
+Mono,376,Classical monocyte damage-associated molecular pattern response,HIGH,Mono-lineage,8,4,5,6,16
+Mono,1136,Activated CD14 Monocyte Inflammatory Effector,HIGH,Mono-lineage,8,4,5,6,18
+Mono,446,Classical monocyte antimicrobial innate response,HIGH,Mono-lineage,8,4,5,6,16
+Mono,1731,Classical Monocyte Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,459,CD14 Monocyte Innate Immune Activation,HIGH,Mono-lineage,8,4,5,6,19
+Mono,641,Classical monocyte innate immune activation,HIGH,Mono-lineage,8,4,5,6,19
+B-cell,1958,Iron metabolism and stress response in myeloid cells,MEDIUM,Mono-lineage,9,4,5,7,20
+DC,1639,Metabolic Stress and Iron Homeostasis,MEDIUM,Mono-lineage,9,4,5,7,20
+Mono,1292,CD14 Mono metabolic stress and iron homeostasis,HIGH,Mono-lineage,9,4,5,7,20
+Mono,516,CD14 Mono Iron Metabolism Stress Response,HIGH,Mono-lineage,9,4,5,7,20
+Mono,1216,CD14 Monocyte Metabolic Stress Response,HIGH,Mono-lineage,9,4,5,7,20
+Mono,382,Oxidative stress and iron homeostasis,HIGH,Mono-lineage,9,4,5,7,20
+Mono,1470,Iron homeostasis and inflammatory priming,MEDIUM,Mono-lineage,9,4,5,7,20
+Mono,1640,CD14 Mono Iron Metabolism Oxidative Stress,HIGH,Mono-lineage,9,4,5,7,20
+Mono,1249,CD14 Mono oxidative stress and antimicrobial,HIGH,Mono-lineage,9,4,5,7,20
+Mono,734,Myeloid antimicrobial effector maturation,HIGH,Mono-lineage,10,4,5,7,21
+Mono,1196,Monocyte antimicrobial effector maturation,HIGH,Mono-lineage,10,4,5,7,21
+Mono,1384,CD14 Mono Antimicrobial Effector,HIGH,Mono-lineage,10,4,5,7,21
+Mono,1973,CD14 Monocyte Antimicrobial Granule Program,HIGH,Mono-lineage,10,4,5,7,21
+Mono,994,Myeloid antimicrobial effector maturation,HIGH,Mono-lineage,10,4,5,7,21
+Mono,636,Monocyte Antimicrobial and Iron Metabolism,HIGH,Mono-lineage,10,4,5,7,21
+Mono,865,CD14 Monocyte Antimicrobial Effector Program,HIGH,Mono-lineage,10,4,5,7,21
+Mono,486,Monocyte Activation Antimicrobial Defense Program,HIGH,Mono-lineage,10,4,5,7,21
+Mono,1423,Myeloid antimicrobial effector maturation,HIGH,Mono-lineage,10,4,5,7,21
+Mono,965,CD14 Monocyte Antimicrobial Effector Program,HIGH,Mono-lineage,10,4,5,7,21
+Mono,1265,Myeloid Inflammation Antimicrobial Effector,HIGH,Mono-lineage,10,4,5,7,21
+Mono,510,Myeloid antimicrobial effector maturation,HIGH,Mono-lineage,10,4,5,7,21
+Mono,909,CD14 Monocyte Antimicrobial & Metabolic Activation,HIGH,Mono-lineage,10,4,5,7,21
+Mono,456,CD14 Mono Antimicrobial Effector Program,HIGH,Mono-lineage,10,4,5,7,21
+Mono,1401,Monocyte Antimicrobial Defense and Oxidative Stress,HIGH,Mono-lineage,10,4,5,7,21
+Mono,1033,Myeloid granule maturation and antibacterial effector,HIGH,Mono-lineage,10,4,5,7,21
+Mono,1958,CD14 monocyte metabolic maturation and antimicrobial effector,HIGH,Mono-lineage,10,4,5,7,21
+Mono,1418,CD14 Monocyte Basal Homeostasis Program,MEDIUM,Mono-lineage,10,4,5,7,21
+Mono,206,CD14 Monocyte Antimicrobial Effector Programme,HIGH,Mono-lineage,10,4,5,7,21
+Mono,1980,Monocyte Maturation and Antimicrobial Effector Functions,HIGH,Mono-lineage,10,4,5,7,21
+Mono,351,Monocyte antimicrobial effector maturation,HIGH,Mono-lineage,10,4,5,7,21
+Mono,224,CD14 Mono Antimicrobial Effector Programme,HIGH,Mono-lineage,10,4,5,7,21
+Mono,191,Myeloid stress response and antimicrobial effector,HIGH,Mono-lineage,10,4,5,7,21
+Mono,51,Translational capacity and mitochondrial metabolism,HIGH,Mono-lineage,12,6,7,9,23
+Mono,98,Ribosomal biogenesis and translational capacity,HIGH,Mono-lineage,12,6,7,9,23
+Mono,92,Ribosomal protein synthesis early GMP,HIGH,Mono-lineage,12,6,7,9,23
+Mono,824,GMP myeloid differentiation protein synthesis,HIGH,Mono-lineage,12,6,7,9,23
+Mono,261,Metabolic priming in proliferating GMP,HIGH,Mono-lineage,12,6,7,9,23
+Mono,533,Ribosomal translation and mitochondrial bioenergetics,HIGH,Mono-lineage,12,6,7,9,23
+Mono,1520,Translational capacity and mitochondrial bioenergetics,HIGH,Mono-lineage,12,6,7,9,23
+Mono,840,GMP proliferation with myeloid priming,HIGH,Mono-lineage,12,6,7,9,23
+Mono,1527,Early GMP translational capacity protein synthesis,MEDIUM,Mono-lineage,12,6,7,9,23
+Mono,2040,Ribosomal and mitochondrial biosynthesis Early GMP,HIGH,Mono-lineage,12,6,7,9,23
+Mono,1034,Early GMP translational machinery activation,HIGH,Mono-lineage,12,6,7,9,23
+Mono,1912,Early myeloid translation and bioenergetics,HIGH,Mono-lineage,12,6,7,9,23
+Mono,803,Early GMP bioenergetic priming,HIGH,Mono-lineage,12,6,7,9,23
+Mono,729,Translational capacity and mitochondrial bioenergetics,HIGH,Mono-lineage,12,6,7,9,23
+Mono,437,Translational & metabolic priming Early GMP,HIGH,Mono-lineage,12,6,7,9,23
+Mono,1417,Early GMP ribosomal protein synthesis,HIGH,Mono-lineage,12,6,7,9,23
+Mono,1341,Early GMP translational activity signature,HIGH,Mono-lineage,12,6,7,9,23
+Mono,957,GMP translational priming with myeloid differentiation,HIGH,Mono-lineage,12,6,7,9,23
+Mono,1489,Early GMP translational priming and myeloid maturation,HIGH,Mono-lineage,12,6,7,9,23
+Mono,919,Early GMP ribosomal protein translation activity,HIGH,Mono-lineage,12,6,7,9,23
+Mono,1558,Ribosomal and mitochondrial bioenergetics,MEDIUM,Mono-lineage,12,6,7,9,23
+Mono,811,Early myeloid translation and mitochondrial priming,HIGH,Mono-lineage,12,6,7,9,23
+B-cell,1579,Pro-B cell proliferation with open chromatin,HIGH,Mono-lineage,14,7,8,10,26
+DC,886,Progenitor chromatin remodelling and RNA processing,MEDIUM,Mono-lineage,14,7,8,10,26
+DC,914,Proliferative metabolic priming in DC progenitors,HIGH,Mono-lineage,14,7,8,10,26
+Mono,1932,Proliferative ProMono maturation with monocytic commitment,HIGH,Mono-lineage,14,7,8,10,26
+Mono,1732,Early ProMono proliferation and cytoplasmic remodelling,HIGH,Mono-lineage,14,7,8,10,26
+Mono,482,Early ProMono proliferation and chromatin remodelling,HIGH,Mono-lineage,14,7,8,10,26
+Mono,1397,Early ProMono metabolic and chromatin remodelling,MEDIUM,Mono-lineage,14,7,8,10,26
+Mono,1419,ProMono metabolic maturation and translation,MEDIUM,Mono-lineage,14,7,8,10,26
+Mono,1181,Early Monocytic Differentiation and Chromatin Priming,HIGH,Mono-lineage,14,7,8,10,26
+Mono,245,Early ProMono metabolic maturation,HIGH,Mono-lineage,14,7,8,10,26
+Mono,642,Monocytic differentiation with antimicrobial priming,HIGH,Mono-lineage,14,7,8,10,26
+Mono,1268,Early ProMono chromatin remodelling and antimicrobial,HIGH,Mono-lineage,14,7,8,10,26
+Mono,520,Early ProMono chromatin remodelling and translation,HIGH,Mono-lineage,14,7,8,10,26
+Mono,180,Early ProMono chromatin remodeling and antimicrobial preparation,HIGH,Mono-lineage,14,7,8,10,26
+Mono,1472,Early ProMono chromatin remodeling and antimicrobial priming,HIGH,Mono-lineage,14,7,8,10,26
+Mono,615,Early ProMono cell cycle and chromatin remodeling,HIGH,Mono-lineage,14,7,8,10,26
+Mono,277,Early ProMono chromatin remodelling and metabolic priming,HIGH,Mono-lineage,14,7,8,10,26
+Mono,66,Early ProMono chromatin remodelling proliferation,HIGH,Mono-lineage,14,7,8,10,26
+Mono,421,Pro-monocyte chromatin remodelling and RNA processing,HIGH,Mono-lineage,14,7,8,10,26
+Mono,1303,Metabolic priming and chromatin accessibility,MEDIUM,Mono-lineage,14,7,8,10,26
+Mono,1990,Early GMP chromatin organization and protein synthesis,MEDIUM,Mono-lineage,14,7,8,10,26
+Mono,288,Monocyte Nuclear Organization and Translation,HIGH,Mono-lineage,14,7,8,10,26
+Mono,33,Early ProMono chromatin remodeling and antimicrobial,HIGH,Mono-lineage,14,7,8,10,26
+Mono,1354,Early ProMono chromatin remodeling and antimicrobial,HIGH,Mono-lineage,14,7,8,10,26
+Mono,219,Proliferative chromatin remodelling Early ProMono,HIGH,Mono-lineage,14,7,8,10,26
+Mono,238,Early ProMono chromatin remodelling proliferation,MEDIUM,Mono-lineage,14,7,8,10,26
+Mono,1395,Chromatin remodeling and protein synthesis,MEDIUM,Mono-lineage,14,7,8,10,26
+Mono,1760,Cell Cycle and Proliferation Checkpoint,MEDIUM,Mono-lineage,14,7,8,10,26
+Mono,1911,GMP Proliferation and Chromatin Remodelling,HIGH,Mono-lineage,14,7,8,10,26
+Mono,463,Metabolic priming and chromatin remodeling,HIGH,Mono-lineage,14,7,8,10,26
+Mono,1443,Early ProMono chromatin remodelling and activation,HIGH,Mono-lineage,14,7,8,10,26
+Mono,1433,Nuclear organisation and OXPHOS in cycling progenitors,HIGH,Mono-lineage,14,7,8,10,26
+Mono,683,Early ProMono antimicrobial maturation programme,HIGH,Mono-lineage,15,7,8,10,28
+Mono,630,Early ProMono antimicrobial & metabolic activation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,712,Early ProMono antimicrobial maturation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1426,Early ProMono Antimicrobial Maturation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1967,Early ProMono cytoplasmic maturation and antimicrobial priming,HIGH,Mono-lineage,15,7,8,10,27
+Mono,1639,ProMono antimicrobial and protein homeostasis,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1951,Early ProMono antimicrobial maturation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,658,Early ProMono cytoplasmic maturation and antimicrobial,HIGH,Mono-lineage,15,7,8,10,27
+Mono,1162,Early ProMono innate antimicrobial maturation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,643,Early ProMono antimicrobial maturation and proliferation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1222,Early ProMono antimicrobial maturation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1942,Monocyte antimicrobial maturation and metabolic readiness,HIGH,Mono-lineage,15,7,8,10,27
+Mono,679,Early ProMono antimicrobial and chromatin remodeling,HIGH,Mono-lineage,15,7,8,10,28
+Mono,998,Early ProMono proliferation and innate activation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1442,Early ProMono proliferation and antimicrobial maturation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,36,Early ProMono cytoplasmic maturation and antimicrobial priming,HIGH,Mono-lineage,15,7,8,10,27
+Mono,682,ProMono antimicrobial granule maturation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1153,Antimicrobial granule maturation Late ProMono,HIGH,Mono-lineage,15,7,8,10,28
+Mono,181,Early ProMono innate immune activation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1699,Early ProMono antimicrobial maturation program,HIGH,Mono-lineage,15,7,8,10,28
+Mono,667,Early ProMono Innate Immunity Priming,HIGH,Mono-lineage,15,7,8,10,28
+Mono,101,Early ProMono antimicrobial maturation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1411,Early ProMono cytoplasmic maturation programme,HIGH,Mono-lineage,15,7,8,10,27
+Mono,1277,Early ProMono innate immune activation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,229,Monocyte differentiation metabolic priming,HIGH,Mono-lineage,15,7,8,10,27
+Mono,1263,Monocytic cytoplasmic maturation and translation,HIGH,Mono-lineage,15,7,8,10,27
+Mono,1206,Early ProMono cytoskeletal and innate activation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,471,Monocytic cytoplasmic maturation and stress response,MEDIUM,Mono-lineage,15,7,8,10,27
+Mono,1212,Early ProMono proliferation and innate immunity,HIGH,Mono-lineage,15,7,8,10,28
+Mono,891,Monocyte antimicrobial cytoplasmic effector,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1244,Early ProMono myeloid differentiation and maturation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1876,Early ProMono Innate Immune Activation,HIGH,Mono-lineage,15,7,8,10,28
+Mono,1595,Myeloid differentiation stress response,MEDIUM,Mono-lineage,22,7,11,14,38
+Mono,1173,Monocyte stress response and cytoskeletal remodeling,MEDIUM,Mono-lineage,22,7,11,14,38
+Mono,1108,Erythroid Contamination Artifact,HIGH,Mono-lineage,22,7,11,14,38
+Mono,875,Hemoglobin synthesis and heme metabolism,MEDIUM,Mono-lineage,22,7,11,14,38
+Mono,1333,Erythroid contamination in myeloid progenitors,HIGH,Mono-lineage,22,7,11,14,38
+Mono,564,Ribosomal protein synthesis and hemoglobin,MEDIUM,Mono-lineage,22,7,11,14,38
+Mono,512,Hemoglobin-laden monocyte maturation,MEDIUM,Mono-lineage,22,7,11,14,38
+Mono,1145,Monocyte antimicrobial and metabolic maturation,MEDIUM,Mono-lineage,22,7,11,14,38
+T/NK,953,Hemoglobin-expressing erythroid-lineage T cells,HIGH,Mono-lineage,22,7,11,14,38
+T/NK,1793,Hemoglobin-expressing metabolically active memory T cells,MEDIUM,Mono-lineage,22,7,11,14,38
+T/NK,58,Erythroid contamination artifact,HIGH,Mono-lineage,22,7,11,14,38
+T/NK,453,Homeostatic proliferation naive CD4 T cells,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1,Naive T cell homeostatic proliferation,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1552,Naive T cell homeostatic protein synthesis,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1224,Naive T cell protein synthesis homeostasis,MEDIUM,T/NK-lineage,17,7,10,12,30
+T/NK,725,Naive T cell protein synthesis,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1365,Naive T cell homeostatic protein synthesis,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1790,Naive T cell homeostatic proliferation,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,0,Naive T cell ribosomal biogenesis,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1205,Naive T cell high protein synthesis,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1804,Naive T cell protein synthesis homeostasis,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1915,Naive T cell homeostatic proliferation,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1556,Erythroid contaminant naive T cells,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1037,CD8 naive T cell with active protein synthesis,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1447,Homeostatic proliferation in naive T cells,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,36,Naive T cell ribosomal protein synthesis,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,28,Naive T cell ribosomal biogenesis,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1473,Naive T cell homeostatic proliferation,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1478,Naive T cell ribosomal protein synthesis,MEDIUM,T/NK-lineage,17,7,10,12,30
+T/NK,1631,Naive T cell homeostatic protein synthesis,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,47,Naive T cell ribosomal protein synthesis,MEDIUM,T/NK-lineage,17,7,10,12,30
+T/NK,1440,Naive T cell oxidative metabolism priming,HIGH,T/NK-lineage,17,7,10,12,30
+T/NK,1525,Protein synthesis and metabolic activation,HIGH,T/NK-lineage,18,7,10,12,31
+T/NK,1252,Effector memory T cell high protein synthesis,MEDIUM,T/NK-lineage,18,7,10,12,31
+T/NK,1008,Effector memory T cell protein synthesis,HIGH,T/NK-lineage,18,7,10,12,31
+T/NK,115,CD4 Effector Memory Cytokine Production,HIGH,T/NK-lineage,18,7,10,12,31
+T/NK,289,CD4 effector memory with regulatory plasticity,HIGH,T/NK-lineage,18,7,10,12,31
+T/NK,1693,CD4 effector memory homeostatic proliferation,HIGH,T/NK-lineage,18,7,10,12,31
+T/NK,348,CD4 effector memory active protein synthesis,HIGH,T/NK-lineage,18,7,10,12,31
+T/NK,111,CD4 effector memory homeostatic protein synthesis,HIGH,T/NK-lineage,18,7,10,12,31
+T/NK,600,Activated effector memory with proliferative capacity,HIGH,T/NK-lineage,18,7,10,12,31
+T/NK,85,CD4 effector memory homeostatic proliferation,HIGH,T/NK-lineage,18,7,10,12,31
+T/NK,360,Homeostatic proliferation and protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,1130,Homeostatic proliferation and protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,400,Homeostatic protein synthesis and ribosomal biogenesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,41,CD4 naive early proliferation and protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,1842,CD4 naive homeostatic protein synthesis,MEDIUM,T/NK-lineage,19,7,10,12,33
+T/NK,832,Homeostatic proliferation and protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,1956,Homeostatic proliferation and protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,106,Homeostatic proliferation and protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,53,Homeostatic proliferation and protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,918,CD4 central memory homeostatic protein synthesis,HIGH,T/NK-lineage,19,7,10,12,32
+T/NK,925,Homeostatic protein synthesis and metabolic activity,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,100,CD4 naive homeostatic proliferation,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,1073,CD4 central memory activation and proliferation,HIGH,T/NK-lineage,19,7,10,12,32
+T/NK,71,CD4 central memory homeostatic proliferation,HIGH,T/NK-lineage,19,7,10,12,32
+T/NK,1867,CD4 naive homeostatic protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,1378,Homeostatic proliferation and protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,163,Activated effector memory T cells with stress response,HIGH,T/NK-lineage,19,7,10,12,32
+T/NK,303,Homeostatic proliferation and protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,661,Homeostatic proliferation and translational stress response,HIGH,T/NK-lineage,19,7,10,12,32
+T/NK,7,Homeostatic proliferation central memory T cells,HIGH,T/NK-lineage,19,7,10,12,32
+T/NK,65,Ribosome biogenesis and protein synthesis,MEDIUM,T/NK-lineage,19,7,10,12,33
+T/NK,1280,Homeostatic proliferation and protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,105,CD4 central memory homeostatic proliferation,MEDIUM,T/NK-lineage,19,7,10,12,32
+T/NK,457,Homeostatic proliferation and memory establishment,MEDIUM,T/NK-lineage,19,7,10,12,32
+T/NK,1917,CD4 naive homeostatic protein synthesis,HIGH,T/NK-lineage,19,7,10,12,33
+T/NK,95,Central memory T cell stress response,HIGH,T/NK-lineage,19,7,10,12,32
+T/NK,678,CD4 naive translational machinery activation,MEDIUM,T/NK-lineage,19,7,10,12,33
+T/NK,1885,Regulatory T cell homeostatic quiescence,HIGH,T/NK-lineage,24,7,12,15,40
+T/NK,1789,Regulatory T cell homeostatic baseline,HIGH,T/NK-lineage,24,7,12,15,40
+T/NK,1470,Proliferating T cells with elevated mitochondrial metabolism,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,23,Regulatory T cell homeostatic proliferation,HIGH,T/NK-lineage,24,7,12,15,40
+T/NK,1914,Proliferating T cell metabolic activation,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,249,Regulatory T cell homeostatic metabolism,HIGH,T/NK-lineage,24,7,12,15,40
+T/NK,16,Memory T cell calcium signaling and survival,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,778,CD4 regulatory T cell homeostatic program,MEDIUM,T/NK-lineage,24,7,12,15,40
+T/NK,13,Proliferating T cells homeostatic cell cycle,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,1194,Proliferating T cells with high metabolic demand,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,2000,Proliferating T cells with elevated oxidative metabolism,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,1733,Proliferating T cells with homeostatic cell cycle,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,1391,IL-32 expressing regulatory T cell activation,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,1949,T cell proliferation and metabolic activation,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,9,Proliferating T cell metabolic activity,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,620,Homeostatic proliferation with metabolic activation,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,588,Regulatory T cell metabolic homeostasis,HIGH,T/NK-lineage,24,7,12,15,40
+T/NK,272,Proliferating T cell metabolic activation,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,545,Regulatory T cell cytotoxic effector state,HIGH,T/NK-lineage,24,7,12,15,40
+T/NK,864,Proliferating T cells with regulatory phenotype,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,1508,Proliferative T cells with active protein synthesis,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,672,Regulatory T cell homeostatic maintenance,MEDIUM,T/NK-lineage,24,7,12,15,40
+T/NK,1235,Homeostatic proliferation with elevated metabolic activity,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,1873,Homeostatic proliferation and mRNA processing,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,109,Homeostatic proliferation and cell cycle activation,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,135,T cell proliferation and activation,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,784,Homeostatic proliferation with actin remodelling,MEDIUM,T/NK-lineage,24,7,12,15,41
+T/NK,873,Proliferating T cells with high metabolic activity,HIGH,T/NK-lineage,24,7,12,15,41
+T/NK,1347,CD4 Regulatory T cell homeostatic maintenance,HIGH,T/NK-lineage,24,7,12,15,40
+T/NK,6,CD8 effector memory cytotoxic granule programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,51,Cytotoxic effector memory activation,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,469,CD8 effector memory cytotoxic granule programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,1763,Activated cytotoxic T cell proliferation,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,49,Cytotoxic effector memory activation programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,32,CD8 effector memory cytotoxic granule programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,1455,Cytotoxic effector memory T cell activation,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,1193,Cytotoxic effector memory CD8 activation,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,2022,Cytotoxic effector memory T cell activation,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,1199,CD8 effector memory cytotoxic granule programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,1290,Activated effector memory cytotoxic programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,821,Cytotoxic effector T cell activation programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,1460,CD8 effector memory cytotoxic granule programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,347,Effector memory cytotoxic activation,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,590,CD8 effector memory cytotoxic granule programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,297,CD4 Treg with cytotoxic effector function,MEDIUM,T/NK-lineage,29,10,15,19,48
+T/NK,308,CD8 effector memory cytotoxic granule programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,223,CD8 effector memory cytotoxic granule programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,631,CD8 effector memory cytotoxic granule programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,1328,CD8 effector memory cytotoxic granule programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,761,CD8 effector memory cytotoxic granule programme,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,404,Cytotoxic effector memory activation,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,1339,Cytotoxic effector memory T cell activation,HIGH,T/NK-lineage,29,10,15,19,48
+T/NK,985,Cytotoxic effector NK cell granule,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,1031,CD56dim cytotoxic granule-mediated killing,HIGH,T/NK-lineage,30,10,15,20,49
+T/NK,96,CD56dim cytotoxic effector NK cells,HIGH,T/NK-lineage,30,10,15,20,49
+T/NK,14,Cytotoxic NK cell granule exocytosis,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,1495,Activated cytotoxic NK cell granule,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,224,Activated cytotoxic NK cell granule,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,1701,Cytotoxic effector NK cell granule machinery,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,411,CD56dim cytotoxic effector NK cells,HIGH,T/NK-lineage,30,10,15,20,49
+T/NK,816,Cytotoxic granule-mediated NK cytotoxicity,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,1227,CD56bright cytotoxic granule maturation,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,1840,Activated cytotoxic NK cell granule program,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,1707,CD56dim cytotoxic effector differentiation,HIGH,T/NK-lineage,30,10,15,20,49
+T/NK,1253,CD56dim cytotoxic effector NK cells,HIGH,T/NK-lineage,30,10,15,20,49
+T/NK,944,Cytotoxic granule-mediated NK cell killing,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,1603,CD56dim cytotoxic effector NK cells,HIGH,T/NK-lineage,30,10,15,20,49
+T/NK,1021,Cytotoxic granule-mediated NK cell killing,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,1024,Cytotoxic effector granule deployment,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,3,CD56dim cytotoxic effector NK cells,HIGH,T/NK-lineage,30,10,15,20,49
+T/NK,1239,CD56dim cytotoxic effector NK cells,HIGH,T/NK-lineage,30,10,15,20,49
+T/NK,577,CD56dim cytotoxic granule-armed NK cells,HIGH,T/NK-lineage,30,10,15,20,49
+T/NK,1032,CD56bright cytotoxic granule maturation,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,1338,Cytotoxic granule-primed NK/γδ T cells,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,456,Cytotoxic effector granule exocytosis,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,1880,Cytotoxic effector granule and protein synthesis,HIGH,T/NK-lineage,30,10,15,20,50
+T/NK,282,Cytotoxic granule-containing effector T cells,MEDIUM,T/NK-lineage,30,10,15,20,50
+B-cell,562,MHC-II antigen presentation in B-cell and pDC,HIGH,Ubiquitous,1,1,1,1,1
+B-cell,1321,MHC-II antigen presentation maturation cDC1,HIGH,Ubiquitous,1,1,1,1,1
+B-cell,1366,HLA class II antigen presentation in dendritic cells,HIGH,Ubiquitous,1,1,1,1,1
+DC,1990,MHC Class II Antigen Presentation,MEDIUM,Ubiquitous,1,1,1,1,1
+DC,1254,MHC-II antigen presentation in cDC1,HIGH,Ubiquitous,1,1,1,1,1
+DC,1971,MHC Class II Antigen Presentation,HIGH,Ubiquitous,1,1,1,1,1
+DC,1901,MHC-II antigen presentation and processing,HIGH,Ubiquitous,1,1,1,1,1
+DC,426,MHC Class II Antigen Presentation Program,HIGH,Ubiquitous,1,1,1,1,1
+DC,1741,MHC Class II Antigen Presentation,MEDIUM,Ubiquitous,1,1,1,1,1
+DC,1080,MHC-II antigen presentation Pre-cDC,HIGH,Ubiquitous,1,1,1,1,1
+DC,2007,MHC class II antigen presentation,HIGH,Ubiquitous,1,1,1,1,1
+DC,381,MHC Class II Antigen Presentation,HIGH,Ubiquitous,1,1,1,1,1
+DC,1953,MHC-II antigen presentation machinery,HIGH,Ubiquitous,1,1,1,1,1
+DC,1067,MHC-II antigen presentation and protein synthesis,MEDIUM,Ubiquitous,1,1,1,1,1
+DC,404,MHC-II Antigen Presentation and cDC2 Maturation,HIGH,Ubiquitous,1,1,1,1,1
+DC,1682,MHC Class II Antigen Presentation,MEDIUM,Ubiquitous,1,1,1,1,1
+DC,1843,MHC-II antigen presentation machinery,HIGH,Ubiquitous,1,1,1,1,1
+DC,314,MHC-II Antigen Presentation and Loading,HIGH,Ubiquitous,1,1,1,1,1
+DC,1790,cDC2 MHC-II Antigen Presentation,HIGH,Ubiquitous,1,1,1,1,1
+DC,1929,MHC-II antigen presentation machinery,HIGH,Ubiquitous,1,1,1,1,1
+DC,140,MHC Class II Antigen Presentation,MEDIUM,Ubiquitous,1,1,1,1,1
+DC,383,MHC Class II Antigen Presentation,HIGH,Ubiquitous,1,1,1,1,1
+DC,260,cDC1-biased MHC-II antigen presentation program,HIGH,Ubiquitous,1,1,1,1,1
+DC,1180,Protein synthesis and MHC-II presentation,HIGH,Ubiquitous,1,1,1,1,1
+DC,1776,MHC-II antigen presentation machinery,HIGH,Ubiquitous,1,1,1,1,1
+DC,842,cDC2 MHC-II antigen presentation and iron homeostasis,HIGH,Ubiquitous,1,1,1,1,1
+DC,2010,MHC-II Antigen Presentation Maturation,HIGH,Ubiquitous,1,1,1,1,1
+DC,710,MHC-II antigen presentation module,HIGH,Ubiquitous,1,1,1,1,1
+DC,65,HLA Class II Antigen Presentation Maturation,HIGH,Ubiquitous,1,1,1,1,1
+DC,1092,MHC-II antigen presentation in cDC progenitors,HIGH,Ubiquitous,1,1,1,1,1
+DC,563,MHC-II antigen presentation machinery,HIGH,Ubiquitous,1,1,1,1,1
+DC,1525,MHC-II antigen presentation machinery,HIGH,Ubiquitous,1,1,1,1,1
+DC,1209,MHC-II antigen presentation maturation,MEDIUM,Ubiquitous,1,1,1,1,1
+DC,315,MHC-II antigen presentation and processing,HIGH,Ubiquitous,1,1,1,1,1
+DC,1349,MHC-II antigen presentation programme,HIGH,Ubiquitous,1,1,1,1,1
+DC,537,MHC-II antigen presentation programme,HIGH,Ubiquitous,1,1,1,1,1
+DC,1246,MHC-II antigen presentation programme,HIGH,Ubiquitous,1,1,1,1,1
+DC,863,MHC-II Antigen Presentation cDC2,HIGH,Ubiquitous,1,1,1,1,1
+DC,1624,MHC-II antigen presentation cDC2,HIGH,Ubiquitous,1,1,1,1,1
+DC,1287,cDC2 MHC-II antigen presentation and lysosomal processing,HIGH,Ubiquitous,1,1,1,1,1
+DC,1167,MHC-II Antigen Presentation Programme,HIGH,Ubiquitous,1,1,1,1,1
+DC,1526,MHC-II Antigen Presentation Pre-cDC,HIGH,Ubiquitous,1,1,1,1,1
+DC,1621,cDC2 MHC-II Antigen Presentation,HIGH,Ubiquitous,1,1,1,1,1
+DC,1793,cDC2 MHC-II antigen presentation,HIGH,Ubiquitous,1,1,1,1,1
+DC,1039,MHC-II antigen presentation Pre-cDC programme,HIGH,Ubiquitous,1,1,1,1,1
+Mono,372,Monocyte maturation and antigen presentation,HIGH,Ubiquitous,1,1,1,1,2
+Mono,1097,Myeloid antigen presentation and ITAM signalling,MEDIUM,Ubiquitous,1,1,1,1,2
+Mono,835,MHC-II Antigen Presentation Machinery,HIGH,Ubiquitous,1,1,1,1,1
+Mono,786,Antigen presentation and lysosomal proteolysis,HIGH,Ubiquitous,1,1,1,1,2
+Mono,1205,Antigen presentation and cellular homeostasis,MEDIUM,Ubiquitous,1,1,1,1,2
+Mono,1795,Antigen presentation and iron homeostasis,HIGH,Ubiquitous,1,1,1,1,2
+Mono,1294,Monocyte antigen presentation and cytoskeletal remodeling,MEDIUM,Ubiquitous,1,1,1,1,2
+Mono,911,Antigen Presentation and Lysosomal Proteolysis,HIGH,Ubiquitous,1,1,1,1,2
+Mono,716,Antigen presentation and iron homeostasis,HIGH,Ubiquitous,1,1,1,1,2
+Mono,404,CD14 Monocyte Iron Metabolism and MHC-II,MEDIUM,Ubiquitous,1,1,1,1,2
+Mono,158,MHC-II antigen presentation and iron homeostasis,HIGH,Ubiquitous,1,1,1,1,1
+Mono,834,Antigen presentation and iron homeostasis,HIGH,Ubiquitous,1,1,1,1,2
+Mono,1132,CD14 Monocyte Iron Metabolism and Antigen Presentation,HIGH,Ubiquitous,1,1,1,1,2
+Mono,1355,Antigen Presentation and Immune Activation,HIGH,Ubiquitous,1,1,1,1,2
+Mono,470,CD14 Monocyte Antigen Presentation Myeloid Program,HIGH,Ubiquitous,1,1,1,1,2
+Mono,545,Antigen presentation and iron homeostasis,HIGH,Ubiquitous,1,1,1,1,2
+Mono,619,Antigen presentation and iron homeostasis,HIGH,Ubiquitous,1,1,1,1,2
+Mono,47,Lysosomal antigen processing and MHC-II,HIGH,Ubiquitous,1,1,1,1,2
+Mono,249,Antigen presentation and lysosomal proteolysis,HIGH,Ubiquitous,1,1,1,1,2
+Mono,954,MHC-II Antigen Presentation CD14 Monocytes,HIGH,Ubiquitous,1,1,1,1,1
+Mono,27,Antigen presentation and lysosomal proteolysis,HIGH,Ubiquitous,1,1,1,1,2
+Mono,1009,MHC-II antigen presentation classical monocytes,HIGH,Ubiquitous,1,1,1,1,1
+Mono,797,CD14 Monocyte Iron Metabolism and Antigen Presentation,HIGH,Ubiquitous,1,1,1,1,2
+Mono,632,MHC Class II Antigen Presentation CD14 Mono,HIGH,Ubiquitous,1,1,1,1,1
+Mono,1725,Antigen presentation and myeloid activation,HIGH,Ubiquitous,1,1,1,1,2
+Mono,1040,MHC-II antigen presentation monocyte programme,HIGH,Ubiquitous,1,1,1,1,1
+Mono,1074,CD14 Monocyte Activation and Maturation,HIGH,Ubiquitous,1,1,1,1,2
+Mono,198,Antigen presentation and lysosomal homeostasis,HIGH,Ubiquitous,1,1,1,1,2
+Mono,755,Antigen presentation and lysosomal maturation,HIGH,Ubiquitous,1,1,1,1,2
+Mono,928,Monocyte Antimicrobial Defense and Antigen Presentation,HIGH,Ubiquitous,1,1,1,1,2
+Mono,652,CD14 Monocyte Iron Homeostasis and MHC-II,HIGH,Ubiquitous,1,1,1,1,2
+Mono,413,MHC-II Antigen Presentation and Oxidative Defense,HIGH,Ubiquitous,1,1,1,1,1
+Mono,733,Antigen presentation and monocyte activation,HIGH,Ubiquitous,1,1,1,1,2
+Mono,467,Antigen presentation and lysosomal proteolysis,HIGH,Ubiquitous,1,1,1,1,2
+Mono,2010,CD14 Monocyte Iron Homeostasis and Antigen Processing,MEDIUM,Ubiquitous,1,1,1,1,2
+Mono,590,Antigen presentation and iron homeostasis,HIGH,Ubiquitous,1,1,1,1,2
+B-cell,93,Early erythroid oxidative phosphorylation and translation,HIGH,Ubiquitous,13,6,7,9,25
+B-cell,11,Early erythroblast mitochondrial oxidative metabolism,HIGH,Ubiquitous,13,6,7,9,25
+B-cell,26,Erythroblast ribosomal biogenesis and mitochondrial oxidative capacity,HIGH,Ubiquitous,13,6,7,9,25
+B-cell,32,Early erythroid mitochondrial oxidative metabolism,HIGH,Ubiquitous,13,6,7,9,25
+B-cell,42,Pro-erythroblast oxidative phosphorylation and proliferation,HIGH,Ubiquitous,13,6,7,9,25
+B-cell,68,Pro-erythroblast ribosomal synthesis and mitochondrial bioenergetics,HIGH,Ubiquitous,13,6,7,9,25
+B-cell,298,Early erythroid mitochondrial oxidative phosphorylation,HIGH,Ubiquitous,13,6,7,9,25
+B-cell,453,Mitochondrial OXPHOS in early erythroid progenitors,HIGH,Ubiquitous,13,6,7,9,25
+B-cell,488,Early erythroid translational capacity expansion,HIGH,Ubiquitous,13,6,7,9,25
+B-cell,1963,Early erythroid mitochondrial oxidative phosphorylation,HIGH,Ubiquitous,13,6,7,9,25
+DC,1214,Metabolic-translational progenitor activity,MEDIUM,Ubiquitous,13,6,7,9,25
+DC,1594,Oxidative Metabolism and Protein Synthesis,MEDIUM,Ubiquitous,13,6,7,9,25
+DC,1285,Pre-cDC Mitochondrial Bioenergetics and Cell Cycle,HIGH,Ubiquitous,13,6,7,9,25
+DC,679,Metabolic and translational progenitor programme,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,1666,Early ProMono metabolic-chromatin maturation,HIGH,Ubiquitous,13,6,7,9,24
+Mono,843,Mitochondrial bioenergetics early monocytic priming,HIGH,Ubiquitous,13,6,7,9,25
+Mono,905,Early GMP Mitochondrial Priming,HIGH,Ubiquitous,13,6,7,9,25
+Mono,2042,Mitochondrial bioenergetics in monocytic differentiation,HIGH,Ubiquitous,13,6,7,9,25
+Mono,69,Early GMP metabolic priming and translation,HIGH,Ubiquitous,13,6,7,9,25
+Mono,1284,Early ProMono proliferation and biosynthetic activity,HIGH,Ubiquitous,13,6,7,9,24
+Mono,196,Early ProMono metabolic and antimicrobial activation,HIGH,Ubiquitous,13,6,7,9,24
+Mono,405,Mitochondrial bioenergetics in GMP-to-monocyte transition,HIGH,Ubiquitous,13,6,7,9,25
+Mono,25,Early ProMono metabolic and antimicrobial priming,HIGH,Ubiquitous,13,6,7,9,24
+Mono,2016,Early ProMono metabolic maturation,HIGH,Ubiquitous,13,6,7,9,24
+Mono,461,Early myeloid progenitor metabolic priming,HIGH,Ubiquitous,13,6,7,9,25
+Mono,1978,Mitochondrial oxidative metabolism ProMono,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,237,Early ProMono metabolic maturation,HIGH,Ubiquitous,13,6,7,9,24
+Mono,706,Metabolic priming ProMono maturation,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,1995,Myeloid progenitor oxidative metabolism priming,HIGH,Ubiquitous,13,6,7,9,25
+Mono,1226,Mitochondrial bioenergetics and proliferation,HIGH,Ubiquitous,13,6,7,9,25
+Mono,1670,GMP myeloid priming with oxidative metabolism,HIGH,Ubiquitous,13,6,7,9,25
+Mono,478,Metabolic housekeeping in Early ProMono,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,1879,Early ProMono metabolic maturation and antimicrobial,HIGH,Ubiquitous,13,6,7,9,24
+Mono,1523,Early ProMono metabolic and antimicrobial priming,HIGH,Ubiquitous,13,6,7,9,24
+Mono,1302,OXPHOS and metabolic priming in monopoiesis,HIGH,Ubiquitous,13,6,7,9,25
+Mono,298,Monocyte Metabolic Priming and Antimicrobial Effector,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,289,Metabolically Active CD14 Monocyte Bioenergetics,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,1486,Translational capacity and mitochondrial bioenergetics,HIGH,Ubiquitous,13,6,7,9,25
+Mono,83,Mitochondrial Oxidative Metabolism and Protein Synthesis,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,1058,Early ProMono mitochondrial bioenergetics expansion,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,1247,Early GMP mitochondrial bioenergetics and translation,HIGH,Ubiquitous,13,6,7,9,25
+Mono,46,Early ProMono proliferation and mitochondrial biogenesis,HIGH,Ubiquitous,13,6,7,9,24
+Mono,353,Metabolic and translational activation monocyte priming,HIGH,Ubiquitous,13,6,7,9,25
+Mono,1322,Oxidative phosphorylation and protein synthesis,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,1664,Early ProMono proliferation and metabolic activation,MEDIUM,Ubiquitous,13,6,7,9,24
+Mono,2002,Mitochondrial OXPHOS and metabolic priming CD14,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,575,Protein synthesis and metabolic housekeeping,HIGH,Ubiquitous,13,6,7,9,25
+Mono,118,Mitochondrial bioenergetics in monocytic differentiation,HIGH,Ubiquitous,13,6,7,9,25
+Mono,1824,OXPHOS and metabolic homeostasis,HIGH,Ubiquitous,13,6,7,9,25
+Mono,1264,Mitochondrial metabolism and RNA processing,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,1361,Mitochondrial metabolism activation early monopoiesis,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,63,Mitochondrial oxidative metabolism GMP-ProMono,HIGH,Ubiquitous,13,6,7,9,25
+Mono,1551,Monocyte metabolic and oxidative stress resilience,HIGH,Ubiquitous,13,6,7,9,25
+Mono,1810,Housekeeping and metabolic maturation,MEDIUM,Ubiquitous,13,6,7,9,25
+Mono,1349,Early ProMono metabolic maturation,MEDIUM,Ubiquitous,13,6,7,9,24
+Mono,1088,Mitochondrial Oxidative Phosphorylation and Translation,HIGH,Ubiquitous,13,6,7,9,25
+Mono,889,Oxidative metabolism and protein synthesis,MEDIUM,Ubiquitous,13,6,7,9,25
+T/NK,711,Cytotoxic lymphocyte metabolic activation,HIGH,Ubiquitous,13,6,7,9,25
+T/NK,1592,Metabolically active T cell proliferation,HIGH,Ubiquitous,13,6,7,9,25
+T/NK,74,CD4 central memory metabolic homeostasis,HIGH,Ubiquitous,13,6,7,9,25
+T/NK,73,CD8 effector memory metabolic activation,HIGH,Ubiquitous,13,6,7,9,25
+T/NK,37,Activated memory T cells with metabolic stress,HIGH,Ubiquitous,13,6,7,9,25
+T/NK,263,Activated memory T cells with enhanced protein synthesis,HIGH,Ubiquitous,13,6,7,9,25
+B-cell,58,B-cell cycling with nucleosomal dynamics,HIGH,Ubiquitous,26,7,12,16,43
+B-cell,81,Small Pre-B cell development with metabolic priming,HIGH,Ubiquitous,26,7,12,16,43
+B-cell,89,G2/M mitotic checkpoint and spindle assembly,HIGH,Ubiquitous,26,7,12,16,43
+B-cell,108,Erythroid S-phase chromatin remodeling and ribosome biogenesis,HIGH,Ubiquitous,26,7,12,16,43
+B-cell,179,Large Pre-B cell translational capacity burst,HIGH,Ubiquitous,26,7,12,16,43
+B-cell,296,Proliferating progenitor nucleocytoplasmic transport programme,HIGH,Ubiquitous,26,7,12,16,43
+B-cell,799,Large Pre-B cell cycle S/G2 phase progression,HIGH,Ubiquitous,26,7,12,16,43
+DC,508,Cell cycle and mitotic progression,HIGH,Ubiquitous,26,7,12,16,43
+DC,953,S/G2-M Cell Cycle Progression,HIGH,Ubiquitous,26,7,12,16,43
+DC,941,Pre-cDC housekeeping and cytoskeletal programme,MEDIUM,Ubiquitous,26,7,12,16,43
+DC,1388,Pre-cDC metabolic and nucleoprotein homeostasis,HIGH,Ubiquitous,26,7,12,16,43
+DC,1153,Pre-cDC nuclear/chromatin remodeling,HIGH,Ubiquitous,26,7,12,16,43
+DC,66,Nuclear protein synthesis Pre-cDC,HIGH,Ubiquitous,26,7,12,16,43
+DC,1903,Pre-cDC nucleolar ribosome biogenesis,HIGH,Ubiquitous,26,7,12,16,43
+DC,520,Pre-cDC mitotic cell cycle progression,HIGH,Ubiquitous,26,7,12,16,43
+DC,1729,Nuclear protein synthesis and RNA processing,MEDIUM,Ubiquitous,26,7,12,16,43
+DC,1415,Pre-cDC proliferation and cytoskeletal remodelling,HIGH,Ubiquitous,26,7,12,16,43
+DC,1013,Pre-cDC housekeeping and chromatin organization,HIGH,Ubiquitous,26,7,12,16,43
+Mono,538,Ribosome biogenesis and proteostasis stress,MEDIUM,Ubiquitous,26,7,12,16,43
